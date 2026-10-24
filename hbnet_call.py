@@ -2,7 +2,7 @@
 Holt Daten eines Handball-Teams direkt von der Schnittstelle, die handball.net selbst benutzt,
 und schreibt sie als kompakte Textdatei, die man einem LLM geben kann.
 
-Nutzt Playwright und startet dafür kurz
+Nutzt Playwright (ist schon installiert, falls scrape_handball.py lief) und startet dafür kurz
 einen unsichtbaren Browser, weil die Schnittstelle Abrufe ohne Browser mit "403 Forbidden" ablehnt.
 
 Ausgabe im Ordner "ausgabe":
@@ -14,6 +14,7 @@ Aufruf:  python handball_abruf.py
 """
 import json
 import re
+import shutil
 import time
 import urllib.error
 import urllib.parse
@@ -373,6 +374,8 @@ def vereinsspiele():
 HTML_VORLAGE = r"""<!doctype html>
 <html lang="de"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="favicon.png">
 <title>__TITEL__</title>
 <style>
 :root{--bg:#f2f4f8;--card:#fff;--text:#14181f;--muted:#6b7280;--line:#e8ebf0;--accent:#1d4ed8;--accent2:#0ea5e9;--win:#16a34a;--draw:#d99a06;--loss:#dc2626;--hi:#eaf1ff;--shadow:0 1px 2px rgba(16,24,40,.05),0 4px 14px rgba(16,24,40,.06)}
@@ -542,6 +545,8 @@ def seite_html(info):
 INDEX_VORLAGE = r"""<!doctype html>
 <html lang="de"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="favicon.png">
 <title>SG Bünde-Dünne</title>
 <style>
 :root{--bg:#f2f4f8;--card:#fff;--text:#14181f;--muted:#6b7280;--line:#e8ebf0;--accent:#1d4ed8;--accent2:#0ea5e9;--hi:#eaf1ff;--shadow:0 1px 2px rgba(16,24,40,.05),0 4px 14px rgba(16,24,40,.06)}
@@ -644,6 +649,11 @@ def index_html(verein):
 
 def main():
     AUSGABE.mkdir(exist_ok=True)
+    icon = Path(__file__).resolve().parent / "favicon.png"
+    if icon.exists():
+        shutil.copyfile(icon, AUSGABE / "favicon.png")
+    else:
+        print("  Hinweis: favicon.png nicht neben dem Skript gefunden - kein Favicon.")
     alle = []
     for tid, name in TEAMS.items():
         try:
