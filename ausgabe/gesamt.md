@@ -1,5 +1,5 @@
 # Erste (Team-ID 86611)
-Quelle: handball.net, abgerufen am 24.10.2026 18:32
+Quelle: handball.net, abgerufen am 24.10.2026 22:40
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
@@ -293,7 +293,7 @@ Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Zweite (Team-ID 83554)
-Quelle: handball.net, abgerufen am 24.10.2026 18:32
+Quelle: handball.net, abgerufen am 24.10.2026 22:41
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga Männer (Phase 12671)
@@ -598,7 +598,7 @@ Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Dritte (Team-ID 85947)
-Quelle: handball.net, abgerufen am 24.10.2026 18:32
+Quelle: handball.net, abgerufen am 24.10.2026 22:41
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
@@ -607,12 +607,12 @@ Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
 
 | Platz | Mannschaft | Spiele | S | U | N | Tore | Diff | Punkte | Form |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | VFL HERFORD II | 3 | 3 | 0 | 0 | 98:78 | 20 | 6 | WWW |
-| 2 | TUS SPENGE IV | 3 | 3 | 0 | 0 | 89:70 | 19 | 6 | WWW |
+| 1 | TUS SPENGE IV | 4 | 4 | 0 | 0 | 111:87 | 24 | 8 | WWWW |
+| 2 | VFL HERFORD II | 3 | 3 | 0 | 0 | 98:78 | 20 | 6 | WWW |
 | 3 | SG BÜNDE-DÜNNE III | 2 | 2 | 0 | 0 | 65:47 | 18 | 4 | WW |
-| 4 | HSG LÖHNE-OBERNBECK | 3 | 2 | 0 | 1 | 74:73 | 1 | 4 | WLW |
-| 5 | TG HERFORD II | 3 | 2 | 0 | 1 | 86:90 | -4 | 4 | WWL |
-| 6 | TG SCHILDESCHE | 4 | 2 | 0 | 2 | 115:115 | 0 | 4 | WLWL |
+| 4 | TG HERFORD II | 3 | 2 | 0 | 1 | 86:90 | -4 | 4 | WWL |
+| 5 | TG SCHILDESCHE | 4 | 2 | 0 | 2 | 115:115 | 0 | 4 | WLWL |
+| 6 | HSG LÖHNE-OBERNBECK | 4 | 2 | 0 | 2 | 91:95 | -4 | 4 | LWLW |
 | 7 | TSV OERLINGHAUSEN II | 3 | 1 | 0 | 2 | 78:79 | -1 | 2 | LLW |
 | 8 | HSG Spradow 3 | 2 | 0 | 0 | 2 | 42:59 | -17 | 0 | LL |
 | 9 | VFL HANDBALL MENNIGHÜFFEN III | 3 | 0 | 0 | 3 | 82:100 | -18 | 0 | LLL |
@@ -664,7 +664,7 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 | 5 | Sa 10.10.2026 18:30 | HSG LÖHNE-OBERNBECK - VFL HANDBALL MENNIGHÜFFEN III | 28:26 | beendet | GYMNASIUM LöHNE |
 | 5 | So 11.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck IV - SG BÜNDE-DÜNNE III | 26:33 | beendet | REALSCHULE JöLLENBECK |
 | 5 | Mi 14.10.2026 20:30 | TUS SPENGE IV - TG HERFORD II | 32:21 | beendet | REALSCHULE SPENGE |
-| 1 | Sa 24.10.2026 18:00 | TUS SPENGE IV - HSG LÖHNE-OBERNBECK | 9:7 | LIVE | REALSCHULE SPENGE |
+| 1 | Sa 24.10.2026 18:00 | TUS SPENGE IV - HSG LÖHNE-OBERNBECK | 22:17 | beendet | REALSCHULE SPENGE |
 | 6 | Sa 07.11.2026 14:45 | VFL HANDBALL MENNIGHÜFFEN III - TSV OERLINGHAUSEN II | - | ausstehend | N.H.MENNIGHüFFEN |
 | 6 | Sa 07.11.2026 18:00 | TG HERFORD II - HSG LÖHNE-OBERNBECK | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 6 | So 08.11.2026 10:30 | TG SCHILDESCHE - TUS SPENGE IV | - | ausstehend | GESAMTSCHULE SCHILDESCHE |
@@ -778,14 +778,14 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 - HSG Spradow 3: #11 Lars Langer (12 Tore in 2 Spielen), #13 Daniel Overlack (8 Tore in 2 Spielen), #55 Malte Mischok (6 Tore in 2 Spielen), #25 Gunnar Heise (5 Tore in 2 Spielen), #23 Tim Dubiel (4 Tore in 2 Spielen)
 - VFL HERFORD II: #10 Maurice Lepa (15 Tore in 3 Spielen), #16 Yannick Ehlebracht (15 Tore in 2 Spielen), #2 Björn Schröder (12 Tore in 3 Spielen), #6 Leon Lepa (8 Tore in 3 Spielen), #15 Tim Luca Meier (7 Tore in 2 Spielen)
 - TSV OERLINGHAUSEN II: #7 Lucas Frost (19 Tore in 2 Spielen), #2 Mirko Hase (11 Tore in 3 Spielen), #24 Joscha Rolfes (9 Tore in 3 Spielen), #41 Raffael Champion (6 Tore in 3 Spielen), #28 Malte Mester (6 Tore in 3 Spielen)
-- TUS SPENGE IV: #15 Holger Becker (14 Tore in 4 Spielen), #3 Daniel Rolletschke (11 Tore in 3 Spielen), #76 Maximilian Schuettemeyer (10 Tore in 2 Spielen), #24 Marc Weszpatat (10 Tore in 4 Spielen), #95 Florian Maronn (9 Tore in 3 Spielen)
-- HSG LÖHNE-OBERNBECK: #5 Paul Simon Blankenstein (12 Tore in 3 Spielen), #2 Lino Ritter (11 Tore in 3 Spielen), #4 Lukas Stuke (11 Tore in 3 Spielen), #14 Dominik Möller (10 Tore in 4 Spielen), #18 Fynn-Jonas Janke (10 Tore in 3 Spielen)
+- TUS SPENGE IV: #15 Holger Becker (18 Tore in 4 Spielen), #3 Daniel Rolletschke (15 Tore in 3 Spielen), #24 Marc Weszpatat (11 Tore in 4 Spielen), #95 Florian Maronn (10 Tore in 3 Spielen), #5 Jan Sahrhage (10 Tore in 4 Spielen)
+- HSG LÖHNE-OBERNBECK: #18 Fynn-Jonas Janke (14 Tore in 3 Spielen), #5 Paul Simon Blankenstein (12 Tore in 3 Spielen), #2 Lino Ritter (12 Tore in 3 Spielen), #8 Lukas Lebeau (12 Tore in 4 Spielen), #4 Lukas Stuke (12 Tore in 3 Spielen)
 
 
 ---
 
 # Vierte (Team-ID 85963)
-Quelle: handball.net, abgerufen am 24.10.2026 18:32
+Quelle: handball.net, abgerufen am 24.10.2026 22:41
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
@@ -962,7 +962,7 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # A (Team-ID 88735)
-Quelle: handball.net, abgerufen am 24.10.2026 18:33
+Quelle: handball.net, abgerufen am 24.10.2026 22:41
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga MÄNNLICH A-Jugend (Phase 13393)
@@ -1109,7 +1109,7 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # B (Team-ID 88756)
-Quelle: handball.net, abgerufen am 24.10.2026 18:33
+Quelle: handball.net, abgerufen am 24.10.2026 22:41
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga MÄNNLICH  B-Jugend (Phase 13913)
@@ -1355,7 +1355,7 @@ Alle 132 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # C (Team-ID 88826)
-Quelle: handball.net, abgerufen am 24.10.2026 18:33
+Quelle: handball.net, abgerufen am 24.10.2026 22:42
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Kreisliga MÄNNLICH  C-Jugend (Phase 13926)
@@ -1551,7 +1551,7 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # D1 (Team-ID 87727)
-Quelle: handball.net, abgerufen am 24.10.2026 18:33
+Quelle: handball.net, abgerufen am 24.10.2026 22:42
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF männliche D-Jugend Kreisliga (Phase 13744)
@@ -1739,7 +1739,7 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # D2 (Team-ID 87743)
-Quelle: handball.net, abgerufen am 24.10.2026 18:33
+Quelle: handball.net, abgerufen am 24.10.2026 22:42
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF männliche D-Jugend Kreisklasse (Phase 13746)
@@ -1891,19 +1891,6 @@ Alle 91 Spiele aller Mannschaften, nach Termin sortiert.
 | 8 | Henry Oleff | 2 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 8 | Lisa Wolz | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 95 | Jona Michalik | 2 | 1 | 0 | 0 | 0 | 0 | 0 |
-| - | Tino Meyer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Hannes Moellering | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Klaas Joris Hofemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Linus Phileas Boesch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Maxim Neufeld | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Leland Heer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Marco Rossol | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Fabian Meyer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Emma Wiegand | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Lewin Goddard | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 17 | Aaron Möller | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Aleksej Bekemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Mayla Döring | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Julius Wille | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Tim Bunte | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Friedrich Lückemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -1918,6 +1905,19 @@ Alle 91 Spiele aller Mannschaften, nach Termin sortiert.
 | 2 | Anastasia Knaus | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Pascal Heibrock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 9 | Dorde Mikac | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Tino Meyer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Hannes Moellering | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Klaas Joris Hofemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Linus Phileas Boesch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Maxim Neufeld | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Leland Heer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Marco Rossol | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Fabian Meyer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 | Emma Wiegand | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Lewin Goddard | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 17 | Aaron Möller | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Aleksej Bekemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Mayla Döring | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -1931,7 +1931,7 @@ Alle 91 Spiele aller Mannschaften, nach Termin sortiert.
 - TSVE 1890 BIELEFELD: #14 Lian Henry Boly (25 Tore in 4 Spielen), #18 Gero Menges (19 Tore in 4 Spielen), #7 Julius Friedrichs (17 Tore in 4 Spielen), #15 Oskar Tiago Grutzpalk (15 Tore in 4 Spielen), #3 Lucas Timmermann (7 Tore in 3 Spielen)
 - TSV OERLINGHAUSEN II: #4 Adrian Evgenij Schmunk (20 Tore in 13 Spielen), #16 Noah Scott Bollmann (11 Tore in 13 Spielen), #14 Louis Sudmann (8 Tore in 13 Spielen), #5 Tjark Kenai Müller (7 Tore in 13 Spielen), #11 Henri Boer (5 Tore in 13 Spielen)
 - JSG HANDBALL LÖMO II: #20 Paul Polster (36 Tore in 6 Spielen), #9 Bjarne Georg Sketsch (33 Tore in 6 Spielen), #10 Emil Fiebig (21 Tore in 3 Spielen), #14 Henry Kuhlmann (10 Tore in 6 Spielen), #4 Leno Maxim Skiba (3 Tore in 4 Spielen)
-- TVC ENGER II: #15 Marten Burmann (11 Tore in 2 Spielen), #14 Rasmus Büscher (9 Tore in 4 Spielen), #5 Noah Schäfer (6 Tore in 1 Spielen), #11 Fiete Leimbrock (5 Tore in 1 Spielen), #2 Jakob Lückingsmeier (5 Tore in 1 Spielen)
+- TVC ENGER II: #15 Marten Burmann (11 Tore in 2 Spielen), #14 Rasmus Büscher (9 Tore in 4 Spielen), #5 Noah Schäfer (6 Tore in 1 Spielen), #2 Jakob Lückingsmeier (5 Tore in 1 Spielen), #11 Fiete Leimbrock (5 Tore in 1 Spielen)
 - HSG QUELLE/UMMELN: #4 Paul Becker (26 Tore in 6 Spielen), #11 Sönke Pagenberg (18 Tore in 6 Spielen), #8 Benjamin Wilhelm Kornblum (15 Tore in 6 Spielen), #14 Emil Rathmann (13 Tore in 6 Spielen), #7 Mats Krause (11 Tore in 5 Spielen)
 - TG HERFORD: #10 Simeon Grün (11 Tore in 3 Spielen), #15 Lennart Nelson Flagmeier (11 Tore in 4 Spielen), #14 Julian Cors (7 Tore in 4 Spielen), #9 Mia Joline Huwendieck (4 Tore in 3 Spielen), #16 Laura Pracht (2 Tore in 2 Spielen)
 
@@ -1939,7 +1939,7 @@ Alle 91 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # E1 (Team-ID 87763)
-Quelle: handball.net, abgerufen am 24.10.2026 18:33
+Quelle: handball.net, abgerufen am 24.10.2026 22:42
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF gemischte E-Jugend Kreisliga (Phase 13747)
@@ -2104,7 +2104,7 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
-- HSG QUELLE/UMMELN: #9 Jasper Rohde (22 Tore in 4 Spielen), #16 Lian Mursajew (20 Tore in 4 Spielen), #7 Joscha Dick (8 Tore in 4 Spielen), #10 Lasse Urbat (5 Tore in 4 Spielen), #18 Anton Vogel (3 Tore in 4 Spielen)
+- HSG QUELLE/UMMELN: #9 Jasper Rohde (22 Tore in 4 Spielen), #16 Lian Mursajew (20 Tore in 4 Spielen), #7 Joscha Dick (8 Tore in 4 Spielen), #10 Lasse Urbat (5 Tore in 4 Spielen), #19 Sam Völcker (3 Tore in 3 Spielen)
 - TVC ENGER: #3 Marten Burmann (27 Tore in 4 Spielen), #7 Fiete Leimbrock (24 Tore in 4 Spielen), #29 Lutz Willi Kollmeier (13 Tore in 4 Spielen), #15 Hannes Gehler (11 Tore in 3 Spielen), #9 Bente Wellmann (9 Tore in 3 Spielen)
 - JSG LENZINGHAUSEN-SPENGE: #7 Hinnerk Nils Grothaus (38 Tore in 6 Spielen), #14 Jarno Thies Hamann (27 Tore in 6 Spielen), #13 Joshua Leano Krain (15 Tore in 5 Spielen), #5 Leonard Alexander Pieper (10 Tore in 6 Spielen), #4 Noah Schmidt (7 Tore in 6 Spielen)
 - TSG ALTENHAGEN-HEEPEN: #8 Phil Dethart (24 Tore in 5 Spielen), #6 Ilias Freis (19 Tore in 5 Spielen), #12 Eric Jonathan Ratcliffe (12 Tore in 5 Spielen), #9 Paul Hugo Finster (12 Tore in 5 Spielen), #4 Mika Diekmann (11 Tore in 5 Spielen)
@@ -2117,7 +2117,7 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # E2 (Team-ID 87781)
-Quelle: handball.net, abgerufen am 24.10.2026 18:34
+Quelle: handball.net, abgerufen am 24.10.2026 22:43
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF gem. E-Jugend Kreisklasse (Phase 13750)
@@ -2176,25 +2176,12 @@ Alle 15 Spiele aller Mannschaften, nach Termin sortiert.
 | 9 | Noah Meise-Reckefuß | 5 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 5 | Halil Cünenoglu | 2 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 29 | Theo Oleff | 4 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 24 | Jhashvin Thillainathan | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 8 | Jonas Tinz | 4 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 14 | Finn Eimertenbrink | 3 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 24 | Jhashvin Thillainathan | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 27 | Moritz Ebert | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Hanna Mina Marie Behrensmeier | 4 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 31 | Linus Löscher | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 27 | Moritz Ebert | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
-| - | Milan-Illirian Becker | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Niko Bekemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Dennis Ladaje | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Piet Lukas Letsch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Noah vom Bruch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Luca Joel Röper | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Felix Frerich Wolz | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Hermann Larionov | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Nico Rossol | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Yannis Rouven Ladaje | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Malia Bergner | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Pascal Heibrock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Vera Rjachowskich | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Tom Schuster | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Paul Alexander Behrensmeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Tristan Martens | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -2208,6 +2195,19 @@ Alle 15 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Oskar Schröder | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 26 | Luan Fuhr | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 3 | Sofia Eppli | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Milan-Illirian Becker | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Niko Bekemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Dennis Ladaje | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Piet Lukas Letsch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Noah vom Bruch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Luca Joel Röper | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Felix Frerich Wolz | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Hermann Larionov | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Nico Rossol | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Yannis Rouven Ladaje | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Malia Bergner | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Pascal Heibrock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Vera Rjachowskich | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -2221,7 +2221,7 @@ Alle 15 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # EQ (Team-ID 87805)
-Quelle: handball.net, abgerufen am 24.10.2026 18:34
+Quelle: handball.net, abgerufen am 24.10.2026 22:43
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF E-Querfeld (Phase 13753)
@@ -2452,7 +2452,7 @@ Alle 150 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Minis 1 (Team-ID 87821)
-Quelle: handball.net, abgerufen am 24.10.2026 18:34
+Quelle: handball.net, abgerufen am 24.10.2026 22:43
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -2618,7 +2618,7 @@ Alle 96 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Minis 2 (Team-ID 87822)
-Quelle: handball.net, abgerufen am 24.10.2026 18:34
+Quelle: handball.net, abgerufen am 24.10.2026 22:43
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -2783,7 +2783,7 @@ Alle 96 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # JSGEWWD1 (Team-ID 88860)
-Quelle: handball.net, abgerufen am 24.10.2026 18:34
+Quelle: handball.net, abgerufen am 24.10.2026 22:44
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
@@ -2899,9 +2899,6 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 | 15 | Lukas Ueckermann | 6 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Finn Obermeier | 6 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Melina Schömer | 5 | 0 | 0 | 0 | 0 | 2 | 0 |
-| - | Felix Kock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Jonathan Priem | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Felix Helten | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Klaus Fröhlich | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Finn-Elias Block | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Leonard Reh | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -2931,8 +2928,9 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Tilda Langer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Alex Gheorghe Tobies | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1 | Moritz Learner | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Hanno Przyrembel | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Bennet Fabert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Felix Kock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Jonathan Priem | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Felix Helten | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Aaron Andreas Born | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Darvin Luca Klußmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Ben Eric Moor | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -2963,6 +2961,8 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 | 0 | Lars Langer | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Ole Glüer-Beinke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Milo Johannes Tapp | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Hanno Przyrembel | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Bennet Fabert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 

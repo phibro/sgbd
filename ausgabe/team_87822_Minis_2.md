@@ -1,5 +1,5 @@
 # Minis 2 (Team-ID 87822)
-Quelle: handball.net, abgerufen am 24.10.2026 18:34
+Quelle: handball.net, abgerufen am 24.10.2026 22:43
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
