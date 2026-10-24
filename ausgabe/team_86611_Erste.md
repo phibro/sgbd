@@ -1,5 +1,5 @@
 # Erste (Team-ID 86611)
-Quelle: handball.net, abgerufen am 24.10.2026 14:59
+Quelle: handball.net, abgerufen am 24.10.2026 18:32
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
@@ -112,10 +112,10 @@ Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 | 8 | So 08.11.2026 17:00 | ASV SENDEN E.V. - TUS BROCKHAGEN | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
 | 8 | So 08.11.2026 17:00 | TUS SPENGE E.V. II - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | REALSCHULE SPENGE |
 | 3 | Di 10.11.2026 20:00 | TUS BROCKHAGEN - TG HÖRSTE | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 9 | Fr 13.11.2026 20:00 | TSV Hahlen 1945 e.V. - TUS SPENGE E.V. II | - | ausstehend | SPORTHALLE HAHLER FELD |
 | 9 | Fr 13.11.2026 20:00 | TV ISSELHORST 1 - TG HÖRSTE | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
 | 9 | Sa 14.11.2026 18:00 | HSG Petershagen/Lahde - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | WESER-HALLE LAHDE |
 | 9 | Sa 14.11.2026 19:15 | TUS BROCKHAGEN - HANDBALL BAD SALZUFLEN | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
-| 9 | Sa 14.11.2026 19:30 | TSV Hahlen 1945 e.V. - TUS SPENGE E.V. II | - | ausstehend | SPORTHALLE HAHLER FELD |
 | 9 | So 15.11.2026 17:00 | HSG Werther/Borgholzhausen - TuS 09 Möllbergen e.V. | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
 | 9 | So 15.11.2026 17:00 | ASV SENDEN E.V. - SG BÜNDE-DÜNNE | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
 | 9 | So 15.11.2026 17:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |

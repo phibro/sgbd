@@ -1,5 +1,5 @@
 # Dritte (Team-ID 85947)
-Quelle: handball.net, abgerufen am 24.10.2026 14:59
+Quelle: handball.net, abgerufen am 24.10.2026 18:32
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
@@ -65,7 +65,7 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 | 5 | Sa 10.10.2026 18:30 | HSG LÖHNE-OBERNBECK - VFL HANDBALL MENNIGHÜFFEN III | 28:26 | beendet | GYMNASIUM LöHNE |
 | 5 | So 11.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck IV - SG BÜNDE-DÜNNE III | 26:33 | beendet | REALSCHULE JöLLENBECK |
 | 5 | Mi 14.10.2026 20:30 | TUS SPENGE IV - TG HERFORD II | 32:21 | beendet | REALSCHULE SPENGE |
-| 1 | Sa 24.10.2026 18:00 | TUS SPENGE IV - HSG LÖHNE-OBERNBECK | - | ausstehend | REALSCHULE SPENGE |
+| 1 | Sa 24.10.2026 18:00 | TUS SPENGE IV - HSG LÖHNE-OBERNBECK | 9:7 | LIVE | REALSCHULE SPENGE |
 | 6 | Sa 07.11.2026 14:45 | VFL HANDBALL MENNIGHÜFFEN III - TSV OERLINGHAUSEN II | - | ausstehend | N.H.MENNIGHüFFEN |
 | 6 | Sa 07.11.2026 18:00 | TG HERFORD II - HSG LÖHNE-OBERNBECK | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 6 | So 08.11.2026 10:30 | TG SCHILDESCHE - TUS SPENGE IV | - | ausstehend | GESAMTSCHULE SCHILDESCHE |
@@ -179,5 +179,5 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 - HSG Spradow 3: #11 Lars Langer (12 Tore in 2 Spielen), #13 Daniel Overlack (8 Tore in 2 Spielen), #55 Malte Mischok (6 Tore in 2 Spielen), #25 Gunnar Heise (5 Tore in 2 Spielen), #23 Tim Dubiel (4 Tore in 2 Spielen)
 - VFL HERFORD II: #10 Maurice Lepa (15 Tore in 3 Spielen), #16 Yannick Ehlebracht (15 Tore in 2 Spielen), #2 Björn Schröder (12 Tore in 3 Spielen), #6 Leon Lepa (8 Tore in 3 Spielen), #15 Tim Luca Meier (7 Tore in 2 Spielen)
 - TSV OERLINGHAUSEN II: #7 Lucas Frost (19 Tore in 2 Spielen), #2 Mirko Hase (11 Tore in 3 Spielen), #24 Joscha Rolfes (9 Tore in 3 Spielen), #41 Raffael Champion (6 Tore in 3 Spielen), #28 Malte Mester (6 Tore in 3 Spielen)
-- TUS SPENGE IV: #15 Holger Becker (12 Tore in 4 Spielen), #3 Daniel Rolletschke (10 Tore in 3 Spielen), #76 Maximilian Schuettemeyer (10 Tore in 2 Spielen), #24 Marc Weszpatat (10 Tore in 4 Spielen), #5 Jan Sahrhage (8 Tore in 4 Spielen)
-- HSG LÖHNE-OBERNBECK: #5 Paul Simon Blankenstein (12 Tore in 3 Spielen), #14 Dominik Möller (10 Tore in 3 Spielen), #2 Lino Ritter (10 Tore in 2 Spielen), #8 Lukas Lebeau (10 Tore in 3 Spielen), #39 Daniel Müller (9 Tore in 3 Spielen)
+- TUS SPENGE IV: #15 Holger Becker (14 Tore in 4 Spielen), #3 Daniel Rolletschke (11 Tore in 3 Spielen), #76 Maximilian Schuettemeyer (10 Tore in 2 Spielen), #24 Marc Weszpatat (10 Tore in 4 Spielen), #95 Florian Maronn (9 Tore in 3 Spielen)
+- HSG LÖHNE-OBERNBECK: #5 Paul Simon Blankenstein (12 Tore in 3 Spielen), #2 Lino Ritter (11 Tore in 3 Spielen), #4 Lukas Stuke (11 Tore in 3 Spielen), #14 Dominik Möller (10 Tore in 4 Spielen), #18 Fynn-Jonas Janke (10 Tore in 3 Spielen)

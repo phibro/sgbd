@@ -1,5 +1,5 @@
 # JSGEWWD1 (Team-ID 88860)
-Quelle: handball.net, abgerufen am 24.10.2026 15:01
+Quelle: handball.net, abgerufen am 24.10.2026 18:34
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
@@ -115,7 +115,6 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 | 15 | Lukas Ueckermann | 6 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Finn Obermeier | 6 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Melina Schömer | 5 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 1 | Moritz Learner | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Felix Kock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Jonathan Priem | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Felix Helten | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -147,6 +146,7 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Tjorben Brand | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Tilda Langer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Alex Gheorghe Tobies | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Moritz Learner | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Hanno Przyrembel | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Bennet Fabert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Aaron Andreas Born | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
