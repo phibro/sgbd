@@ -1,5 +1,5 @@
 # Erste (Team-ID 86611)
-Quelle: handball.net, abgerufen am 24.10.2026 14:31
+Quelle: handball.net, abgerufen am 24.10.2026 14:40
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
@@ -293,7 +293,7 @@ Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Zweite (Team-ID 83554)
-Quelle: handball.net, abgerufen am 24.10.2026 14:32
+Quelle: handball.net, abgerufen am 24.10.2026 14:41
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga Männer (Phase 12671)
@@ -598,7 +598,7 @@ Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Dritte (Team-ID 85947)
-Quelle: handball.net, abgerufen am 24.10.2026 14:32
+Quelle: handball.net, abgerufen am 24.10.2026 14:41
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
@@ -785,7 +785,7 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Vierte (Team-ID 85963)
-Quelle: handball.net, abgerufen am 24.10.2026 14:32
+Quelle: handball.net, abgerufen am 24.10.2026 14:41
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
@@ -962,7 +962,7 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # A (Team-ID 88735)
-Quelle: handball.net, abgerufen am 24.10.2026 14:32
+Quelle: handball.net, abgerufen am 24.10.2026 14:41
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga MÄNNLICH A-Jugend (Phase 13393)
@@ -1109,7 +1109,7 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # B (Team-ID 88756)
-Quelle: handball.net, abgerufen am 24.10.2026 14:32
+Quelle: handball.net, abgerufen am 24.10.2026 14:41
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga MÄNNLICH  B-Jugend (Phase 13913)
@@ -1355,7 +1355,7 @@ Alle 132 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # C (Team-ID 88826)
-Quelle: handball.net, abgerufen am 24.10.2026 14:33
+Quelle: handball.net, abgerufen am 24.10.2026 14:42
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Kreisliga MÄNNLICH  C-Jugend (Phase 13926)
@@ -1551,7 +1551,7 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # D1 (Team-ID 87727)
-Quelle: handball.net, abgerufen am 24.10.2026 14:33
+Quelle: handball.net, abgerufen am 24.10.2026 14:42
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF männliche D-Jugend Kreisliga (Phase 13744)
@@ -1739,7 +1739,7 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # D2 (Team-ID 87743)
-Quelle: handball.net, abgerufen am 24.10.2026 14:33
+Quelle: handball.net, abgerufen am 24.10.2026 14:42
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF männliche D-Jugend Kreisklasse (Phase 13746)
@@ -1939,7 +1939,7 @@ Alle 91 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # E1 (Team-ID 87763)
-Quelle: handball.net, abgerufen am 24.10.2026 14:33
+Quelle: handball.net, abgerufen am 24.10.2026 14:42
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF gemischte E-Jugend Kreisliga (Phase 13747)
@@ -2117,7 +2117,7 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # E2 (Team-ID 87781)
-Quelle: handball.net, abgerufen am 24.10.2026 14:33
+Quelle: handball.net, abgerufen am 24.10.2026 14:42
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF gem. E-Jugend Kreisklasse (Phase 13750)
@@ -2221,7 +2221,7 @@ Alle 15 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # EQ (Team-ID 87805)
-Quelle: handball.net, abgerufen am 24.10.2026 14:34
+Quelle: handball.net, abgerufen am 24.10.2026 14:42
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF E-Querfeld (Phase 13753)
@@ -2452,7 +2452,7 @@ Alle 150 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Minis 1 (Team-ID 87821)
-Quelle: handball.net, abgerufen am 24.10.2026 14:34
+Quelle: handball.net, abgerufen am 24.10.2026 14:43
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -2618,7 +2618,7 @@ Alle 96 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Minis 2 (Team-ID 87822)
-Quelle: handball.net, abgerufen am 24.10.2026 14:34
+Quelle: handball.net, abgerufen am 24.10.2026 14:43
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -2783,7 +2783,7 @@ Alle 96 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # JSGEWWD1 (Team-ID 88860)
-Quelle: handball.net, abgerufen am 24.10.2026 14:34
+Quelle: handball.net, abgerufen am 24.10.2026 14:43
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
