@@ -2,7 +2,7 @@
 Holt Daten eines Handball-Teams direkt von der Schnittstelle, die handball.net selbst benutzt,
 und schreibt sie als kompakte Textdatei, die man einem LLM geben kann.
 
-Nutzt Playwright (ist schon installiert, falls scrape_handball.py lief) und startet dafür kurz
+Nutzt Playwright und startet dafür kurz
 einen unsichtbaren Browser, weil die Schnittstelle Abrufe ohne Browser mit "403 Forbidden" ablehnt.
 
 Ausgabe im Ordner "ausgabe":
@@ -67,19 +67,19 @@ VEREIN_TEAMS = {
 # Links der Startseite (index.html): (Gruppe, [(Name, Adresse), ...])
 STARTSEITE_LINKS = [
     ("Herren", [
-        ("Erste - Oberliga", "https://sgbderste.netlify.app/"),
-        ("Zwote - OWL Bezirksliga", "https://sgbdzweite.netlify.app/"),
-        ("Dritte - 1. Kreisklasse", "https://sgbddritte.netlify.app/"),
-        ("Vierte - 3. Kreisklasse", "https://sgbdvierte.netlify.app/"),
+        ("Erste - Oberliga", "https://sgbdall.pages.dev/seite_86611_Erste.html"),
+        ("Zwote - OWL Bezirksliga", "https://sgbdall.pages.dev/seite_83554_Zweite.html"),
+        ("Dritte - 1. Kreisklasse", "https://sgbdall.pages.dev/seite_85947_Dritte.html"),
+        ("Vierte - 3. Kreisklasse", "https://sgbdall.pages.dev/seite_85963_Vierte.html"),
     ]),
     ("Jugend", [
-        ("A - OWL Bezirksliga", "https://sgbda.netlify.app/"),
-        ("B - OWL Bezirksliga", "https://sgbdb.netlify.app/"),
-        ("C - OWL Kreisliga", "https://sgbdc.netlify.app/"),
-        ("D1 - Kreisliga", "https://sgbdd1.netlify.app/"),
-        ("D2 - Kreisklasse", "https://sgbdd2.netlify.app/"),
-        ("E1 - Kreisliga", "https://sgbde1.netlify.app/"),
-        ("E2 - Kreisklasse", "https://sgbde2.netlify.app/"),
+        ("A - OWL Bezirksliga", "https://sgbdall.pages.dev/seite_88735_A.html"),
+        ("B - OWL Bezirksliga", "https://sgbdall.pages.dev/seite_88756_B.html"),
+        ("C - OWL Kreisliga", "https://sgbdall.pages.dev/seite_88826_C.html"),
+        ("D1 - Kreisliga", "https://sgbdall.pages.dev/seite_87727_D1.html"),
+        ("D2 - Kreisklasse", "https://sgbdall.pages.dev/seite_87743_D2.html"),
+        ("E1 - Kreisliga", "https://sgbdall.pages.dev/seite_87763_E1.html"),
+        ("E2 - Kreisklasse", "https://sgbdall.pages.dev/seite_87781_E2.html"),
     ]),
 ]
 # ----------------------------------------------------------------------------
