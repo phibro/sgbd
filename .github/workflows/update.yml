@@ -2,7 +2,8 @@ name: Update pages
 
 on:
   schedule:
-    - cron: "15 5,9,13,17,20 * * *"   # times are UTC (= 7, 11, 15, 19, 22 Uhr in summer)
+    - cron: "5 6,16,19 * * 1-5"          # Mo-Fr: 7, 17, 20 Uhr
+    - cron: "5 9,11,13,15,17,19,21 * * 0,6"  # Sa+So: 10, 12, 14, 16, 18, 20, 22 Uhr
   workflow_dispatch:                    # adds a "Run workflow" button for manual runs
 
 permissions:
