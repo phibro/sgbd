@@ -1,5 +1,5 @@
 # JSGEWWD1 (Team-ID 88860)
-Quelle: handball.net, abgerufen am 24.10.2026 22:44
+Quelle: handball.net, abgerufen am 25.10.2026 01:09
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
@@ -115,6 +115,10 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 | 15 | Lukas Ueckermann | 6 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Finn Obermeier | 6 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Melina Schömer | 5 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 1 | Moritz Learner | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Felix Kock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Jonathan Priem | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Felix Helten | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Klaus Fröhlich | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Finn-Elias Block | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Leonard Reh | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -143,10 +147,9 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Tjorben Brand | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Tilda Langer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Alex Gheorghe Tobies | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1 | Moritz Learner | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Felix Kock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Jonathan Priem | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Felix Helten | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Milo Johannes Tapp | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Hanno Przyrembel | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Bennet Fabert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Aaron Andreas Born | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Darvin Luca Klußmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Ben Eric Moor | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -176,9 +179,6 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Thilo Sprinke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Lars Langer | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Ole Glüer-Beinke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Milo Johannes Tapp | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Hanno Przyrembel | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Bennet Fabert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 

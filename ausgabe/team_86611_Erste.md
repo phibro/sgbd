@@ -1,5 +1,5 @@
 # Erste (Team-ID 86611)
-Quelle: handball.net, abgerufen am 24.10.2026 22:40
+Quelle: handball.net, abgerufen am 25.10.2026 01:06
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
