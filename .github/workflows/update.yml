@@ -1,0 +1,45 @@
+name: Update pages
+
+on:
+  schedule:
+    - cron: "15 5,9,13,17,20 * * *"   # times are UTC (= 7, 11, 15, 19, 22 Uhr in summer)
+  workflow_dispatch:                    # adds a "Run workflow" button for manual runs
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TZ: Europe/Berlin                 # so "Stand" shows German local time
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Playwright
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Fetch data and build pages
+        run: python hbnet_call.py
+
+      - name: Commit result
+        run: |
+          rm -rf ausgabe/roh
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A ausgabe
+          if ! git diff --staged --quiet; then
+            git commit -m "Update $(date '+%d.%m.%Y %H:%M')"
+            git push
+          fi
