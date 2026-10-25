@@ -1,5 +1,5 @@
 # EQ (Team-ID 87805)
-Quelle: handball.net, abgerufen am 25.10.2026 01:08
+Quelle: handball.net, abgerufen am 25.10.2026 14:11
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF E-Querfeld (Phase 13753)
