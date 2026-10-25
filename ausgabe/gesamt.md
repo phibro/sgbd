@@ -1,5 +1,5 @@
 # Erste (Team-ID 86611)
-Quelle: handball.net, abgerufen am 25.10.2026 21:44
+Quelle: handball.net, abgerufen am 26.10.2026 00:10
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
@@ -293,7 +293,7 @@ Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Zweite (Team-ID 83554)
-Quelle: handball.net, abgerufen am 25.10.2026 21:45
+Quelle: handball.net, abgerufen am 26.10.2026 00:10
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga Männer (Phase 12671)
@@ -598,7 +598,7 @@ Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Dritte (Team-ID 85947)
-Quelle: handball.net, abgerufen am 25.10.2026 21:45
+Quelle: handball.net, abgerufen am 26.10.2026 00:11
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
@@ -755,19 +755,19 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 | 14 | Tino Heemeier | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 18 | Marc-Fabian Oberpenning | 2 | 1 | 0 | 0 | 1 | 1 | 0 |
 | 54 | Benedikt Redeker | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Philipp Niemann | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 23 | Tobias Rasenack | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Lukas Klebe | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 22 | Oliver Rolf | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Hans-Peter Erdbrügger | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 6 | Nils Wilmsmann | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Marios Nikolaou | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 3 | Marcel Grotheer | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 19 | Tim Klocke | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Philipp Niemann | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 23 | Tobias Rasenack | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Karl Moritz Westphal | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 9 | Dario Hoeck | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Alkesandre Dekanoidze | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Luis Dümpelmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 19 | Tim Klocke | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -785,7 +785,7 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Vierte (Team-ID 85963)
-Quelle: handball.net, abgerufen am 25.10.2026 21:45
+Quelle: handball.net, abgerufen am 26.10.2026 00:11
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
@@ -962,7 +962,7 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # A (Team-ID 88735)
-Quelle: handball.net, abgerufen am 25.10.2026 21:45
+Quelle: handball.net, abgerufen am 26.10.2026 00:11
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga MÄNNLICH A-Jugend (Phase 13393)
@@ -1077,8 +1077,6 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 | 8 | Erik Ferdinand Meier | 3 | 4 | 0 | 0 | 0 | 1 | 0 |
 | 16 | Tom Gieselmann | 3 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 6 | Mats Ludewig | 4 | 2 | 0 | 0 | 0 | 0 | 0 |
-| - | Samuel Wöhlecke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1 | Lasse-Jona Letsch | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Mika Fredrik Dankert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Carsten Brinkmeyer | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Guido Mailänder | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -1086,7 +1084,8 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Nathan Lange | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 12 | Alkesandre Dekanoidze | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Joost Titus Wisskamp | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 17 | Silas Peitzmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Samuel Wöhlecke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Lasse-Jona Letsch | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 15 | Finn David Heinze | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Henrik Link | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 4 | Mika Christian Fleischer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -1094,6 +1093,7 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Simon Unzicker | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Jayden Christopher Wendt | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 20 | Mathis Bruning | 4 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 17 | Silas Peitzmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -1109,7 +1109,7 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # B (Team-ID 88756)
-Quelle: handball.net, abgerufen am 25.10.2026 21:45
+Quelle: handball.net, abgerufen am 26.10.2026 00:11
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga MÄNNLICH  B-Jugend (Phase 13913)
@@ -1316,7 +1316,6 @@ Alle 132 Spiele aller Mannschaften, nach Termin sortiert.
 | 15 | Jason Oberhacke | 1 | 3 | 0 | 0 | 0 | 1 | 0 |
 | 3 | Phil Kostross | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 17 | Paul Sjoerds | 4 | 1 | 0 | 0 | 0 | 0 | 0 |
-| - | Anthony Joel Pouwels | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Linus Buddenberg | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 16 | Arne Lamkemeier | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Joris Raulwing | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -1328,7 +1327,7 @@ Alle 132 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Paul-Janosch Heikel | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Levi Elia Wippermann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Meo Schmitz | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Marek Erdbrügger | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Anthony Joel Pouwels | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Sebastian Heisig | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Moritz Förster | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Patrick Hansch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -1336,6 +1335,7 @@ Alle 132 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Finn Budde | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Dominic Kostross | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Ferdinand Münch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Marek Erdbrügger | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -1355,7 +1355,7 @@ Alle 132 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # C (Team-ID 88826)
-Quelle: handball.net, abgerufen am 25.10.2026 21:46
+Quelle: handball.net, abgerufen am 26.10.2026 00:11
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Kreisliga MÄNNLICH  C-Jugend (Phase 13926)
@@ -1551,7 +1551,7 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # D1 (Team-ID 87727)
-Quelle: handball.net, abgerufen am 25.10.2026 21:46
+Quelle: handball.net, abgerufen am 26.10.2026 00:12
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF männliche D-Jugend Kreisliga (Phase 13744)
@@ -1739,7 +1739,7 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # D2 (Team-ID 87743)
-Quelle: handball.net, abgerufen am 25.10.2026 21:46
+Quelle: handball.net, abgerufen am 26.10.2026 00:12
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF männliche D-Jugend Kreisklasse (Phase 13746)
@@ -1891,6 +1891,19 @@ Alle 91 Spiele aller Mannschaften, nach Termin sortiert.
 | 8 | Henry Oleff | 2 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 8 | Lisa Wolz | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 95 | Jona Michalik | 2 | 1 | 0 | 0 | 0 | 0 | 0 |
+| - | Tino Meyer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Hannes Moellering | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Klaas Joris Hofemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Linus Phileas Boesch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Maxim Neufeld | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Leland Heer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Marco Rossol | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Fabian Meyer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 | Emma Wiegand | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Lewin Goddard | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 17 | Aaron Möller | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Aleksej Bekemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Mayla Döring | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Julius Wille | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Tim Bunte | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Friedrich Lückemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -1905,19 +1918,6 @@ Alle 91 Spiele aller Mannschaften, nach Termin sortiert.
 | 2 | Anastasia Knaus | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Pascal Heibrock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 9 | Dorde Mikac | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Tino Meyer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Hannes Moellering | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Klaas Joris Hofemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Linus Phileas Boesch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Maxim Neufeld | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Leland Heer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Marco Rossol | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Fabian Meyer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Emma Wiegand | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Lewin Goddard | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 17 | Aaron Möller | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Aleksej Bekemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Mayla Döring | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -1939,7 +1939,7 @@ Alle 91 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # E1 (Team-ID 87763)
-Quelle: handball.net, abgerufen am 25.10.2026 21:46
+Quelle: handball.net, abgerufen am 26.10.2026 00:12
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF gemischte E-Jugend Kreisliga (Phase 13747)
@@ -2117,7 +2117,7 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # E2 (Team-ID 87781)
-Quelle: handball.net, abgerufen am 25.10.2026 21:46
+Quelle: handball.net, abgerufen am 26.10.2026 00:12
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF gem. E-Jugend Kreisklasse (Phase 13750)
@@ -2221,7 +2221,7 @@ Alle 15 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # EQ (Team-ID 87805)
-Quelle: handball.net, abgerufen am 25.10.2026 21:46
+Quelle: handball.net, abgerufen am 26.10.2026 00:12
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF E-Querfeld (Phase 13753)
@@ -2452,7 +2452,7 @@ Alle 150 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Minis 1 (Team-ID 87821)
-Quelle: handball.net, abgerufen am 25.10.2026 21:47
+Quelle: handball.net, abgerufen am 26.10.2026 00:13
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -2618,7 +2618,7 @@ Alle 96 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Minis 2 (Team-ID 87822)
-Quelle: handball.net, abgerufen am 25.10.2026 21:47
+Quelle: handball.net, abgerufen am 26.10.2026 00:13
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -2783,7 +2783,7 @@ Alle 96 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # JSGEWWD1 (Team-ID 88860)
-Quelle: handball.net, abgerufen am 25.10.2026 21:47
+Quelle: handball.net, abgerufen am 26.10.2026 00:13
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
@@ -2931,7 +2931,6 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Tjorben Brand | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Tilda Langer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Alex Gheorghe Tobies | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Milo Johannes Tapp | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Hanno Przyrembel | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Bennet Fabert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Aaron Andreas Born | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -2963,6 +2962,7 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Thilo Sprinke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Lars Langer | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Ole Glüer-Beinke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Milo Johannes Tapp | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 

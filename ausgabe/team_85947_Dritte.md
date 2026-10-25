@@ -1,5 +1,5 @@
 # Dritte (Team-ID 85947)
-Quelle: handball.net, abgerufen am 25.10.2026 21:45
+Quelle: handball.net, abgerufen am 26.10.2026 00:11
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
@@ -156,19 +156,19 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 | 14 | Tino Heemeier | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 18 | Marc-Fabian Oberpenning | 2 | 1 | 0 | 0 | 1 | 1 | 0 |
 | 54 | Benedikt Redeker | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Philipp Niemann | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 23 | Tobias Rasenack | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Lukas Klebe | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 22 | Oliver Rolf | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Hans-Peter Erdbrügger | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 6 | Nils Wilmsmann | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Marios Nikolaou | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 3 | Marcel Grotheer | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 19 | Tim Klocke | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Philipp Niemann | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 23 | Tobias Rasenack | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Karl Moritz Westphal | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 9 | Dario Hoeck | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Alkesandre Dekanoidze | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Luis Dümpelmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 19 | Tim Klocke | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
