@@ -2,8 +2,12 @@
 Holt Daten eines Handball-Teams direkt von der Schnittstelle, die handball.net selbst benutzt,
 und schreibt sie als kompakte Textdatei, die man einem LLM geben kann.
 
-Nutzt Playwright (ist schon installiert, falls scrape_handball.py lief) und startet dafür kurz
-einen unsichtbaren Browser, weil die Schnittstelle Abrufe ohne Browser mit "403 Forbidden" ablehnt.
+Die Schnittstelle lehnt eigene Abrufe mit "403 Forbidden" ab (sie verlangt ein x-client-token, das nur die
+Webseite selbst erzeugt). Deshalb werden die normalen Teamseiten wie von einem Besucher geöffnet und
+gelesen (siehe seiten_leser.py und seiten_daten.py, beide müssen im selben Ordner liegen):
+Spiele aus dem HTML der Seite, Tabelle und Kader durch Anklicken der Reiter.
+Lokal öffnet sich ein Browserfenster (Cookie-Banner selbst schließen, dann im Terminal Enter).
+In GitHub Actions (Umgebungsvariable CI) läuft der Browser ohne Fenster.
 
 Ausgabe im Ordner "ausgabe":
   team_<ID>_<Name>.md   -> Tabelle, kompletter Spielplan, Kader mit Statistiken
@@ -13,6 +17,7 @@ Ausgabe im Ordner "ausgabe":
 Aufruf:  python handball_abruf.py
 """
 import json
+import os
 import re
 import shutil
 import time
@@ -22,6 +27,8 @@ import urllib.request
 from collections import Counter
 from datetime import datetime
 from pathlib import Path
+
+from seiten_leser import SeitenLeser
 
 # ---------------------------------------------------------------- Einstellungen
 SEASON_ID = 2627                       # Saison 2026/2027
@@ -85,62 +92,31 @@ STARTSEITE_LINKS = [
 ]
 # ----------------------------------------------------------------------------
 
-BASE = "https://www.handball.net/api/new"
 AUSGABE = Path("ausgabe")
-PAUSE = 0.5   # Sekunden zwischen Abfragen - bitte nicht verkleinern
+PAUSE_SEITE = 1.5   # Sekunden zwischen zwei Seitenaufrufen - bitte nicht verkleinern
+# Lokal: False (sichtbares Fenster, Cookie-Banner kannst du selbst schließen; die Auswahl landet in "browser_profil").
+# In GitHub Actions ist die Umgebungsvariable CI gesetzt, dann läuft der Browser automatisch ohne Fenster.
+HEADLESS = bool(os.environ.get("CI"))
 
 
 def dateiname(text):
     return re.sub(r"[^A-Za-z0-9_-]+", "_", text).strip("_")[:60]
 
 
-_browser = {"pw": None, "browser": None, "page": None}
-
-JS_ABRUF = """async (url) => {
-    const r = await fetch(url, {headers: {'Accept': 'application/json'}});
-    if (!r.ok) throw new Error('HTTP ' + r.status);
-    return await r.json();
-}"""
+_leser_obj = None
 
 
-def browser_starten():
-    """Startet einen echten Browser und öffnet handball.net einmal, wie ein normaler Besucher."""
-    from playwright.sync_api import sync_playwright
-    pw = sync_playwright().start()
-    browser = pw.chromium.launch(headless=True)
-    page = browser.new_context(locale="de-DE").new_page()
-    page.goto("https://www.handball.net/", wait_until="networkidle")
-    time.sleep(1)
-    _browser.update(pw=pw, browser=browser, page=page)
+def leser():
+    """Liest die Teamseiten von handball.net wie ein Besucher (siehe seiten_leser.py)."""
+    global _leser_obj
+    if _leser_obj is None:
+        _leser_obj = SeitenLeser(SEASON_ID, headless=HEADLESS, pause=PAUSE_SEITE)
+    return _leser_obj
 
 
 def browser_beenden():
-    if _browser["browser"]:
-        _browser["browser"].close()
-        _browser["pw"].stop()
-
-
-def abrufen(pfad, **params):
-    """Ruft die Schnittstelle aus der geöffneten handball.net-Seite heraus ab."""
-    url = f"{BASE}{pfad}?{urllib.parse.urlencode(params)}"
-    if _browser["page"] is None:
-        browser_starten()
-    time.sleep(PAUSE)
-    return _browser["page"].evaluate(JS_ABRUF, url)
-
-
-def alle_seiten(pfad, max_seiten=None, **params):
-    """Ruft alle Seiten einer paginierten Liste ab."""
-    items, seite = [], 1
-    while True:
-        d = abrufen(pfad, page=seite, per_page=100, **params)
-        items += d.get("data", [])
-        pag = d.get("pagination") or {}
-        if seite >= pag.get("last_page", 1):
-            return items
-        if max_seiten and seite >= max_seiten:
-            raise ValueError("zu viele Seiten - Filter wirkt vermutlich nicht")
-        seite += 1
+    if _leser_obj is not None:
+        _leser_obj.close()
 
 
 def speichern_roh(name, daten):
@@ -190,8 +166,8 @@ def team_holen(team_id, name):
 
     # 1) Spielplan der ganzen Saison
     print("  Spielplan ...")
-    spiele = alle_seiten("/matches", team_id=team_id, date_from=SAISON_VON, date_to=SAISON_BIS)
-    speichern_roh(f"team_{team_id}_spiele.json", spiele)
+    td = leser().team(team_id)   # Teamseite öffnen: Spiele, Tabelle und Kader auf einmal
+    spiele = [m for m in td["spiele"] if SAISON_VON <= (m.get("date") or "")[:10] <= SAISON_BIS]
     if not spiele:
         zeilen.append("Keine Spiele gefunden.")
         return "\n".join(zeilen), info
@@ -206,10 +182,9 @@ def team_holen(team_id, name):
     # 2) Tabelle
     print("  Tabelle ...")
     try:
-        runden = abrufen(f"/phases/{phase_id}/rounds")["data"]
-        letzte = max(r["round"] for r in runden)
-        tab = abrufen("/standings", phase_id=phase_id, round=letzte)
-        speichern_roh(f"team_{team_id}_tabelle.json", tab)
+        if not td["tabelle"]:
+            raise ValueError("die Seite hat keine Tabelle geliefert")
+        tab = {"data": td["tabelle"]}
         zeilen += ["## Tabelle", "",
                    "| Platz | Mannschaft | Spiele | S | U | N | Tore | Diff | Punkte | Form |",
                    "|---|---|---|---|---|---|---|---|---|---|"]
@@ -247,8 +222,8 @@ def team_holen(team_id, name):
     print("  Liga-Spielplan ...")
     try:
         if phase_id not in _liga_cache:
-            _liga_cache[phase_id] = alle_seiten("/matches", phase_id=phase_id,
-                                                date_from=SAISON_VON, date_to=SAISON_BIS)
+            # eigene Spiele plus die Spiele aller Gegner aus deren Teamseiten
+            _liga_cache[phase_id] = leser().liga_spiele(team_id, phase_id)
             speichern_roh(f"liga_{phase_id}_spiele.json", _liga_cache[phase_id])
         liga_spiele = _liga_cache[phase_id]
         zeilen += [f"## Spielplan der gesamten Liga ({liga})", "",
@@ -273,8 +248,9 @@ def team_holen(team_id, name):
     # 4) Kader mit Statistiken
     print("  Kader ...")
     try:
-        spieler = alle_seiten("/stats/player-stats", team_id=team_id, season_id=SEASON_ID, phase_id=phase_id)
-        speichern_roh(f"team_{team_id}_kader.json", spieler)
+        spieler = list(td["kader"])
+        if not spieler:
+            raise ValueError("die Seite hat keinen Kader geliefert")
         spieler.sort(key=lambda s: -(s["stats"].get("goals") or 0))
         zeilen += ["## Kader und Spielerstatistik (Saison)", "",
                    "| Nr | Name | Spiele | Tore | davon 7m | 7m-Versuche | Verwarnungen | 2-Min | Disqualifikationen |",
@@ -305,8 +281,7 @@ def team_holen(team_id, name):
         zeilen += ["## Beste Torschützen der anderen Mannschaften der Liga", ""]
         for gid, gname in gegner_ids.items():
             try:
-                sp = alle_seiten("/stats/player-stats", team_id=gid, season_id=SEASON_ID, phase_id=phase_id)
-                speichern_roh(f"team_{gid}_kader.json", sp)
+                sp = list(leser().team(gid, tabelle=False)["kader"])
                 sp.sort(key=lambda s: -(s["stats"].get("goals") or 0))
                 top = [{"n": s.get("dorsal") or "", "name": f"{s['player']['first_name']} {s['player']['last_name']}",
                         "sp": s["stats"].get("matches_played", 0), "t": s["stats"].get("goals", 0),
@@ -331,8 +306,8 @@ def _verein_eintrag(m):
     status = (m.get("status") or {})
     comp = ((m.get("phase") or {}).get("competition") or {}).get("name") or (m.get("phase") or {}).get("name", "")
     return {"id": m.get("id"), "d": (m.get("date") or "")[:16], "l": loc["name"], "v": vis["name"],
-            "hl": (loc.get("club") or {}).get("id") == VEREIN_ID,
-            "hv": (vis.get("club") or {}).get("id") == VEREIN_ID,
+            "hl": (loc.get("club") or {}).get("id") == VEREIN_ID or loc.get("id") in VEREIN_TEAMS,
+            "hv": (vis.get("club") or {}).get("id") == VEREIN_ID or vis.get("id") in VEREIN_TEAMS,
             "e": ergebnis(m), "f": bool(status.get("is_finished")),
             "o": (m.get("field") or {}).get("name", ""), "c": comp.replace("BIHF ", "")}
 
@@ -342,26 +317,16 @@ def vereinsspiele():
     if _verein_cache:
         return _verein_cache
     print("\n== Spiele des Vereins ==")
-    roh = []
-    try:   # 1. Versuch: direkt über die Vereins-ID
-        print("  Abfrage über Vereins-ID ...")
-        roh = alle_seiten("/matches", club_id=VEREIN_ID, date_from=SAISON_VON, date_to=SAISON_BIS, max_seiten=8)
-        eigene = [m for m in roh if (m["local"].get("club") or {}).get("id") == VEREIN_ID
-                  or (m["visitor"].get("club") or {}).get("id") == VEREIN_ID]
-        if not roh or len(eigene) < 0.9 * len(roh):
-            raise ValueError("Antwort enthält nicht nur Spiele des Vereins")
-        roh = eigene
-    except Exception as e:
-        print(f"  Vereins-ID-Abfrage nicht brauchbar ({e}); frage die Mannschaften einzeln ab ...")
-        roh, gesehen = [], set()
-        for tid, tname in VEREIN_TEAMS.items():
-            try:
-                for m in alle_seiten("/matches", team_id=tid, date_from=SAISON_VON, date_to=SAISON_BIS):
-                    if m["id"] not in gesehen:
-                        gesehen.add(m["id"])
-                        roh.append(m)
-            except Exception as e2:
-                print(f"    {tname}: {e2}")
+    # Die Teamseiten der Mannschaften sind meist schon geladen (Zwischenspeicher), sonst werden sie jetzt geöffnet.
+    roh, gesehen = [], set()
+    for tid, tname in VEREIN_TEAMS.items():
+        try:
+            for m in leser().team(tid, tabelle=False)["spiele"]:
+                if m["id"] not in gesehen and SAISON_VON <= (m.get("date") or "")[:10] <= SAISON_BIS:
+                    gesehen.add(m["id"])
+                    roh.append(m)
+        except Exception as e:
+            print(f"    {tname}: {e}")
     speichern_roh("verein_spiele.json", roh)
     eintraege = {}
     for m in roh:
