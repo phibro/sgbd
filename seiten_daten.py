@@ -97,7 +97,8 @@ def vereinsspiele_aus_seiten(verein_teams, verein_id, season_id):
             url = f"https://www.handball.net/team/{tid}?season_id={season_id}"
             try:
                 time.sleep(PAUSE)
-                page.goto(url, wait_until="networkidle")
+                page.goto(url, wait_until="domcontentloaded", timeout=60000)
+                time.sleep(3)
                 spiele = spiele_aus_html(page.content())
                 print(f"  {name}: {len(spiele)} Spiele")
                 for m in spiele:
