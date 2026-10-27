@@ -1,5 +1,5 @@
 # Dritte (Team-ID 85947)
-Quelle: handball.net, abgerufen am 27.10.2026 11:21
+Quelle: handball.net, abgerufen am 27.10.2026 21:04
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
@@ -155,7 +155,7 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 - TUS SPENGE IV: #15 Holger Becker (18 Tore in 4 Spielen), #3 Daniel Rolletschke (15 Tore in 3 Spielen), #24 Marc Weszpatat (11 Tore in 4 Spielen), #95 Florian Maronn (10 Tore in 3 Spielen), #5 Jan Sahrhage (10 Tore in 4 Spielen)
 - TG SCHILDESCHE: #79 Björn Spittau (25 Tore in 4 Spielen), #31 Patrick Welge (13 Tore in 3 Spielen), #73 Andreas Finke (12 Tore in 4 Spielen), #19 Kai Fabian Venkord (11 Tore in 2 Spielen), #5 Moritz Christian Schneider (9 Tore in 1 Spielen)
 - TG HERFORD II: #14 Lukas Steffen (22 Tore in 2 Spielen), #9 Julian Forca (19 Tore in 3 Spielen), #33 Sebastian Ueberschär (15 Tore in 3 Spielen), #5 Marco Sauermann (9 Tore in 2 Spielen), #23 Dennis Bresser (8 Tore in 3 Spielen)
-- HSG LÖHNE-OBERNBECK: #18 Fynn-Jonas Janke (14 Tore in 3 Spielen), #5 Paul Simon Blankenstein (12 Tore in 3 Spielen), #2 Lino Ritter (12 Tore in 3 Spielen), #8 Lukas Lebeau (12 Tore in 4 Spielen), #4 Lukas Stuke (12 Tore in 3 Spielen)
+- HSG LÖHNE-OBERNBECK: #18 Fynn-Jonas Janke (14 Tore in 3 Spielen), #5 Paul Simon Blankenstein (12 Tore in 3 Spielen), #4 Lukas Stuke (12 Tore in 3 Spielen), #2 Lino Ritter (12 Tore in 3 Spielen), #8 Lukas Lebeau (12 Tore in 4 Spielen)
 - TSV OERLINGHAUSEN II: #7 Lucas Frost (19 Tore in 2 Spielen), #2 Mirko Hase (11 Tore in 3 Spielen), #24 Joscha Rolfes (9 Tore in 3 Spielen), #41 Raffael Champion (6 Tore in 3 Spielen), #28 Malte Mester (6 Tore in 3 Spielen)
 - VFL HANDBALL MENNIGHÜFFEN III: #9 Marius Hepermann (19 Tore in 5 Spielen), #10 Eric Riekewald (16 Tore in 5 Spielen), #13 Tarek Meiners (14 Tore in 5 Spielen), #21 Tim Wienkemeier (7 Tore in 4 Spielen), #80 Fabian Kassebaum (6 Tore in 5 Spielen)
 - HSG Spradow 3: #11 Lars Langer (12 Tore in 2 Spielen), #13 Daniel Overlack (8 Tore in 2 Spielen), #55 Malte Mischok (6 Tore in 2 Spielen), #25 Gunnar Heise (5 Tore in 2 Spielen), #23 Tim Dubiel (4 Tore in 2 Spielen)

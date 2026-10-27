@@ -1,5 +1,5 @@
 # Vierte (Team-ID 85963)
-Quelle: handball.net, abgerufen am 27.10.2026 11:22
+Quelle: handball.net, abgerufen am 27.10.2026 21:05
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
@@ -106,22 +106,22 @@ Alle 52 Spiele aller Mannschaften, nach Termin sortiert.
 | 19 | Christoph Glomb | 3 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 13 | Jannick Stäbe | 3 | 5 | 0 | 0 | 1 | 0 | 0 |
 | 56 | Nils ole Bonus | 1 | 4 | 0 | 0 | 0 | 1 | 0 |
+| 24 | Nils Wilmsmann | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 10 | Linus Peitzmann | 4 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 3 | Jannik Herrchen | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 24 | Nils Wilmsmann | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 8 | Tom Gieselmann | 2 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 51 | Jens Hildebrand | 3 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 18 | Lennox Marquardt | 2 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2 | Dirk Meise-Reckefuss | 2 | 2 | 0 | 0 | 0 | 2 | 0 |
+| 2 | Marvin Orbke | 2 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 77 | Karsten Dogar | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 77 | Marco Rottmann | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Marvin Orbke | 2 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 23 | Fabian Wehling | 1 | 0 | 0 | 0 | 0 | 2 | 0 |
-| - | Philipp Niemann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Tim Klocke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Michael Dieckmann | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1 | Thorsten Ledebrink | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 73 | Carsten Brinkmeyer | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Ulf Reinhardt | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 | Jan Burdich | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Hannes Moellering | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 64 | Guido Mailänder | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Oliver Rolf | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
