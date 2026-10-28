@@ -26,6 +26,7 @@ class SeitenLeser:
         self.season_id, self.headless, self.profil, self.pause = season_id, headless, profil, pause
         self.pw = self.ctx = self.page = None
         self.cache = {}
+        self.hist_tab = None   # Reiter, der die Spiele nachlädt (wird beim ersten Team ermittelt)
 
     # ------------------------------------------------------------ Browser
     def _start(self):
@@ -91,18 +92,68 @@ class SeitenLeser:
             print(f"    Reiter {name}: keine Antwort ({str(e).splitlines()[0]})")
             return None
 
+    def _matches_aus_antworten(self, gesammelt):
+        res = {}
+        for url, body in gesammelt:
+            for m in (body.get("data") if isinstance(body, dict) else None) or []:
+                if isinstance(m, dict) and m.get("id") and m.get("local") and m.get("visitor"):
+                    res[m["id"]] = m
+        return res
+
+    def _weitere_reiter(self):
+        """Klickt alle Reiter außer TABELLE/KADER an, damit nachgeladene Spiele (Historie) mitgelesen werden."""
+        namen = [n.strip() for n in self.page.get_by_role("tab").all_text_contents()]
+        print(f"    Reiter: {namen}")
+        if self.hist_tab in namen:
+            kandidaten = [self.hist_tab]          # Reiter ist schon bekannt: nur diesen einen klicken
+        else:
+            kandidaten = [n for n in namen if n and n.upper() not in ("TABELLE", "KADER")]
+        for n in kandidaten:
+            tab = self.page.get_by_role("tab", name=re.compile(rf"^{re.escape(n)}$", re.I))
+            try:
+                with self.page.expect_response(
+                        lambda r: r.status == 200 and r.url.split("?")[0].endswith("/matches"), timeout=4000):
+                    try:
+                        tab.first.click(timeout=3000)
+                    except Exception:
+                        tab.first.dispatch_event("click")
+                if self.hist_tab != n:
+                    print(f"    Reiter mit Spielen gefunden: {n} (wird ab jetzt direkt geklickt)")
+                self.hist_tab = n
+                break
+            except Exception:
+                continue
+
     # ------------------------------------------------------------ Daten
-    def team(self, tid, tabelle=True):
-        """Gibt {'spiele': [...], 'tabelle': [...] oder None, 'kader': [...]} zurück (mit Zwischenspeicher)."""
+    def team(self, tid, tabelle=True, historie=True):
+        """Gibt {'spiele': [...], 'tabelle': [...] oder None, 'kader': [...]} zurück (mit Zwischenspeicher).
+        historie=False: keine Reiter zum Nachladen vergangener Spiele klicken (für Gegner, deren Spiele
+        kommen von der Liga-Seite)."""
         c = self.cache.get(tid)
-        if c and (c["tabelle"] is not None or not tabelle):
+        if c and (c["tabelle"] is not None or not tabelle) and (c.get("hist") or not historie):
             return c
         if self.page is None:
             self._start()
         time.sleep(self.pause)
+        gesammelt = []
+
+        def _h(r):
+            try:
+                if r.status == 200 and r.url.split("?")[0].endswith("/matches"):
+                    gesammelt.append((r.url, r.json()))
+            except Exception:
+                pass
+
+        self.page.on("response", _h)
         self._seite_laden(f"https://www.handball.net/team/{tid}?season_id={self.season_id}")
         self._banner()
-        spiele = spiele_aus_html(self.page.content())
+        html_spiele = {m["id"]: m for m in spiele_aus_html(self.page.content())}
+        if historie:
+            self._weitere_reiter()
+        self.page.remove_listener("response", _h)
+        html_spiele.update(self._matches_aus_antworten(gesammelt))
+        spiele = list(html_spiele.values())
+        print(f"    /matches-Abfragen: {[u for u, _ in gesammelt]}")
 
         tab_roh = self._tab("TABELLE", "/standings") if tabelle else None
         kader_roh = self._tab("KADER", "/stats/player-stats")
@@ -120,13 +171,65 @@ class SeitenLeser:
         (ROH / f"team_{tid}_spiele.json").write_text(json.dumps(spiele, ensure_ascii=False, indent=1), encoding="utf-8")
 
         self.cache[tid] = {"spiele": spiele, "tabelle": tab_liste if tabelle else (c or {}).get("tabelle"),
-                           "kader": kader}
+                           "kader": kader, "hist": bool(historie or (c or {}).get("hist"))}
         print(f"    Team {tid}: {len(spiele)} Spiele, Tabelle: {len(tab_liste) if tab_liste else '-'}, Kader: {len(kader)}")
         return self.cache[tid]
 
+    def liga_seite(self, comp_id, phase_id):
+        """Alle Spiele einer Liga von der Liga-Seite: eine Seite, dann die Spieltage durchklicken."""
+        if self.page is None:
+            self._start()
+        gesammelt = []
+
+        def _h(r):
+            try:
+                if r.status == 200 and r.url.split("?")[0].endswith("/matches"):
+                    gesammelt.append((r.url, r.json()))
+            except Exception:
+                pass
+
+        self.page.on("response", _h)
+        try:
+            time.sleep(self.pause)
+            self._seite_laden(f"https://www.handball.net/ligen/{comp_id}?phaseId={phase_id}&season_id={self.season_id}")
+            self._banner()
+            res = {m["id"]: m for m in spiele_aus_html(self.page.content())}
+            chips = self.page.get_by_text(re.compile(r"^\s*\d+\.\s*Spieltag\s*$"))
+            n = chips.count()
+            print(f"    Liga {comp_id}: {n} Spieltag-Schaltflächen, {len(res)} Spiele im HTML")
+            for i in range(n):
+                el = chips.nth(i)
+                try:
+                    with self.page.expect_response(
+                            lambda r: r.status == 200 and r.url.split("?")[0].endswith("/matches"), timeout=4000):
+                        try:
+                            el.click(timeout=3000)
+                        except Exception:
+                            el.dispatch_event("click")
+                except Exception:
+                    pass   # kam keine neue Antwort (z. B. der Spieltag war schon geladen)
+        finally:
+            self.page.remove_listener("response", _h)
+        res.update(self._matches_aus_antworten(gesammelt))
+        passend = [m for m in res.values() if (m.get("phase") or {}).get("id") == phase_id]
+        fertig = sum(1 for m in passend if (m.get("status") or {}).get("is_finished"))
+        print(f"    Liga {comp_id}: {len(res)} Spiele gelesen, {len(passend)} in Phase {phase_id}, davon beendet: {fertig}")
+        print(f"    Liga {comp_id}: {len(gesammelt)} /matches-Antworten, Adressen (Auszug): {sorted({u for u, _ in gesammelt})[:4]}")
+        return passend
+
     def liga_spiele(self, tid, phase_id):
-        """Alle Spiele der Liga: eigene Spiele plus die Spiele aller Gegner (aus deren Teamseiten)."""
+        """Alle Spiele der Liga, von der Liga-Seite. Nur wenn das nicht klappt: Teamseiten der Gegner."""
         eigene = self.team(tid, tabelle=False)["spiele"]
+        comp_id = next(((m["phase"].get("competition") or {}).get("id") for m in eigene
+                        if (m.get("phase") or {}).get("id") == phase_id
+                        and (m["phase"].get("competition") or {}).get("id")), None)
+        if comp_id:
+            spiele = self.liga_seite(comp_id, phase_id)
+            if spiele:
+                return spiele
+            print("    Liga-Seite lieferte keine Spiele, weiche auf die Teamseiten der Gegner aus.")
+        else:
+            print("    Keine Liga-ID in den Spieldaten gefunden, nutze die Teamseiten der Gegner.")
         gegner = {m[s]["id"] for m in eigene for s in ("local", "visitor")} - {tid}
         alle = {m["id"]: m for m in eigene}
         for g in sorted(gegner):

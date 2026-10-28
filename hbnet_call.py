@@ -37,7 +37,8 @@ SAISON_BIS = "2027-07-31"
 
 # Teams (ID: Name). Die ID steht in der handball.net-URL: .../team/87727
 TEAMS = {
-    86611: "Erste",
+    86611: "Erste"
+    """,
     83554: "Zweite",
     85947: "Dritte",
     85963: "Vierte",
@@ -52,13 +53,15 @@ TEAMS = {
     87821: "Minis 1",
     87822: "Minis 2",
 	88860: "JSGEWWD1"
+    """
 }
 
 # Verein (für "Spiele des Vereins am Spieltag"): ID steht in der URL .../club/1fwspnh
 VEREIN_ID = "1fwspnh"
 # Falls die Vereinsabfrage nicht klappt, werden stattdessen diese Mannschaften einzeln abgefragt:
 VEREIN_TEAMS = {    
-    86611: "Erste",
+    86611: "Erste"
+    """,
     83554: "Zweite",
     85947: "Dritte",
     85963: "Vierte",
@@ -71,7 +74,8 @@ VEREIN_TEAMS = {
     87781: "E2",
     87805: "EQ",
     87821: "Minis 1",
-    87822: "Minis 2"}
+    87822: "Minis 2"
+    """}
 # Links der Startseite (index.html): (Gruppe, [(Name, Adresse), ...])
 STARTSEITE_LINKS = [
     ("Herren", [
@@ -97,6 +101,13 @@ PAUSE_SEITE = 1.5   # Sekunden zwischen zwei Seitenaufrufen - bitte nicht verkle
 # Lokal: False (sichtbares Fenster, Cookie-Banner kannst du selbst schließen; die Auswahl landet in "browser_profil").
 # In GitHub Actions ist die Umgebungsvariable CI gesetzt, dann läuft der Browser automatisch ohne Fenster.
 HEADLESS = bool(os.environ.get("CI"))
+
+
+def kurzname(name, tid):
+    """Nur der Name der Mannschaft: alles ab der nächsten Team-ID (5 Ziffern) wird abgeschnitten,
+    falls der Name versehentlich die ganze Mannschaftsliste enthält. Ergebnis z. B. 'Erste', 'Minis 1'."""
+    kurz = re.split(r"\d{5}", str(name))[0].strip(" \t\r\n\"',:;_-")
+    return kurz or str(tid)
 
 
 def dateiname(text):
@@ -178,6 +189,23 @@ def team_holen(team_id, name):
     liga = (phase.get("competition") or {}).get("name") or phase.get("name", "")
     info["liga_name"] = liga
     zeilen += [f"Liga/Runde: {liga} (Phase {phase_id})", ""]
+
+    # Die Teamseite liefert oft nur kommende Spiele. Die Liga-Seite enthält alle Spieltage:
+    # eigene Spiele, die auf der Teamseite fehlen (vor allem bereits gespielte), werden von dort ergänzt.
+    try:
+        if phase_id not in _liga_cache:
+            _liga_cache[phase_id] = leser().liga_spiele(team_id, phase_id)
+            speichern_roh(f"liga_{phase_id}_spiele.json", _liga_cache[phase_id])
+        bekannt = {m["id"] for m in spiele}
+        neu = [m for m in _liga_cache[phase_id]
+               if team_id in (m["local"]["id"], m["visitor"]["id"]) and m["id"] not in bekannt
+               and SAISON_VON <= (m.get("date") or "")[:10] <= SAISON_BIS]
+        if neu:
+            print(f"  {len(neu)} eigene Spiele von der Liga-Seite ergänzt "
+                  f"({sum(1 for m in neu if (m.get('status') or {}).get('is_finished'))} davon beendet)")
+            spiele = spiele + neu
+    except Exception as e:
+        print(f"  Liga-Seite für eigene Spiele nicht nutzbar: {e}")
 
     # 2) Tabelle
     print("  Tabelle ...")
@@ -281,7 +309,7 @@ def team_holen(team_id, name):
         zeilen += ["## Beste Torschützen der anderen Mannschaften der Liga", ""]
         for gid, gname in gegner_ids.items():
             try:
-                sp = list(leser().team(gid, tabelle=False)["kader"])
+                sp = list(leser().team(gid, tabelle=False, historie=False)["kader"])
                 sp.sort(key=lambda s: -(s["stats"].get("goals") or 0))
                 top = [{"n": s.get("dorsal") or "", "name": f"{s['player']['first_name']} {s['player']['last_name']}",
                         "sp": s["stats"].get("matches_played", 0), "t": s["stats"].get("goals", 0),
@@ -432,8 +460,8 @@ function viewUebersicht(){
       +'<div style="margin:6px 0"><span class="tag">'+esc(next.h)+'</span> Runde '+esc(next.r)+'</div>'
       +'<div style="margin:6px 0"><a href="#" id="zumGegner">Bisherige Ergebnisse &amp; Top-5-Torschützen von '+esc(next.g)+' →</a></div>'+(next.o?'<div class="muted">📍 <a href="'+mapLink(next.o)+'" target="_blank" rel="noopener">'+esc(next.o)+'</a></div>':'')+'</div>';
   } else h+='<div class="card"><h2>Nächstes Spiel</h2>Kein anstehendes Spiel mit Termin gefunden.</div>';
-  const last=D.spiele.filter(g=>g.f).sort(byDate).slice(-3).reverse();
-  if(last.length)h+='<div class="card"><h2>Letzte Ergebnisse</h2>'+last.map(g=>'<div class="row"><div><b>'+esc(g.g)+'</b> <span class="tag">'+esc(g.h)+'</span><div class="muted">'+fd(g.d)+'</div></div><div>'+badge(g)+'</div></div>').join('')+'</div>';
+  const last=D.spiele.filter(g=>g.f).sort(byDate).slice(-5).reverse();
+  if(last.length)h+='<div class="card"><h2>Letzte 5 Spiele</h2>'+last.map(g=>'<div class="row"><div><b>'+esc(g.g)+'</b> <span class="tag">'+esc(g.h)+'</span><div class="muted">'+fd(g.d)+'</div></div><div>'+badge(g)+'</div></div>').join('')+'</div>';
   const me=D.tabelle.find(r=>r[1]===D.eigen);
   if(me)h+='<div class="card"><h2>Tabelle</h2><div class="big">Platz '+me[0]+' · '+me[8]+' Punkte</div><div class="muted">'+me[2]+' Spiele · '+me[3]+' S / '+me[4]+' U / '+me[5]+' N · Tore '+esc(me[6])+'</div></div>';
   if(offen.length)h+='<div class="card"><h2 class="warn">Ohne Ergebnis oder ohne Uhrzeit</h2>'+offen.map(g=>'<div class="row"><div><b>'+esc(g.g)+'</b> <span class="tag">'+esc(g.h)+'</span><div class="muted">'+fd(g.d)+' · Runde '+esc(g.r)+'</div></div></div>').join('')+'</div>';
@@ -621,6 +649,7 @@ def main():
         print("  Hinweis: favicon.png nicht neben dem Skript gefunden - kein Favicon.")
     alle = []
     for tid, name in TEAMS.items():
+        name = kurzname(name, tid)
         try:
             text, info = team_holen(tid, name)
             seite = AUSGABE / f"seite_{tid}_{dateiname(name)}.html"
