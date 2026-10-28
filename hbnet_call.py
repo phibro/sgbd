@@ -37,8 +37,7 @@ SAISON_BIS = "2027-07-31"
 
 # Teams (ID: Name). Die ID steht in der handball.net-URL: .../team/87727
 TEAMS = {
-    86611: "Erste"
-    """,
+    86611: "Erste",
     83554: "Zweite",
     85947: "Dritte",
     85963: "Vierte",
@@ -53,15 +52,13 @@ TEAMS = {
     87821: "Minis 1",
     87822: "Minis 2",
 	88860: "JSGEWWD1"
-    """
 }
 
 # Verein (für "Spiele des Vereins am Spieltag"): ID steht in der URL .../club/1fwspnh
 VEREIN_ID = "1fwspnh"
 # Falls die Vereinsabfrage nicht klappt, werden stattdessen diese Mannschaften einzeln abgefragt:
 VEREIN_TEAMS = {    
-    86611: "Erste"
-    """,
+    86611: "Erste",
     83554: "Zweite",
     85947: "Dritte",
     85963: "Vierte",
@@ -75,7 +72,7 @@ VEREIN_TEAMS = {
     87805: "EQ",
     87821: "Minis 1",
     87822: "Minis 2"
-    """}
+    }
 # Links der Startseite (index.html): (Gruppe, [(Name, Adresse), ...])
 STARTSEITE_LINKS = [
     ("Herren", [
