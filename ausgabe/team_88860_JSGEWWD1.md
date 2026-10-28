@@ -1,5 +1,5 @@
 # JSGEWWD1 (Team-ID 88860)
-Quelle: handball.net, abgerufen am 27.10.2026 21:13
+Quelle: handball.net, abgerufen am 28.10.2026 12:26
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
@@ -92,24 +92,24 @@ Alle 38 Spiele aller Mannschaften, nach Termin sortiert.
 | 15 | Lukas Ueckermann | 6 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Finn Obermeier | 6 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Melina Schömer | 5 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 1 | Moritz Learner | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Felix Kock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Jonathan Priem | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Felix Helten | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Klaus Fröhlich | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Finn-Elias Block | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Leonard Reh | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Tiago Hafner | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Hagen Illies | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Bruno Stock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Ireoluwa Grace Akiode | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Conrad Theiling | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Carlo Theiling | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Hanno Przyrembel | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Bennet Fabert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Aaron Andreas Born | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Darvin Luca Klußmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Ben Eric Moor | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Max Rogosch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Lilly Leimbrock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Sinan Benjamin Bilgic | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Til Rosenkötter | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Paul Marlon Vahsen | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Thore Nykamp | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Bjarne Mylius | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Romy Rendler | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
 - JSG LIT 1912: #92 Janne Finke (16 Tore in 4 Spielen), #4 Jesper Tom Borcherding (15 Tore in 4 Spielen), #44 Julian Sassenberg (13 Tore in 4 Spielen), #17 Lennart Steffen (10 Tore in 4 Spielen), #22 Carl Eric Obermeier (10 Tore in 3 Spielen)
-- TSV GWD MINDEN: #18 Bennet Petereit (46 Tore in 4 Spielen), #25 Levin Krömer (28 Tore in 4 Spielen), #9 Flinn Papstein (18 Tore in 4 Spielen), #10 Finn Moritz Mik (14 Tore in 4 Spielen), #27 Theo Siekmann (14 Tore in 4 Spielen)
+- TSV GWD MINDEN: #18 Bennet Petereit (46 Tore in 4 Spielen), #25 Levin Krömer (28 Tore in 4 Spielen), #9 Flinn Papstein (18 Tore in 4 Spielen), #27 Theo Siekmann (14 Tore in 4 Spielen), #10 Finn Moritz Mik (14 Tore in 4 Spielen)
 - HANDBALL BAD SALZUFLEN: #2 Jos Meyer (23 Tore in 4 Spielen), #4 Paul Alexander Lienard (18 Tore in 3 Spielen), #8 Hannes Höckendorf (13 Tore in 5 Spielen), #15 Linus Partosch (10 Tore in 5 Spielen), #9 Mattis Partosch (7 Tore in 5 Spielen)
 - HSG HANDBALL LEMGO: #3 Maximilian Block (46 Tore in 7 Spielen), #1 Carl Philipp Fröhlich (30 Tore in 5 Spielen), #15 Erik Wolf (16 Tore in 7 Spielen), #12 Moritz Meier (14 Tore in 7 Spielen), #5 Richard Nier (10 Tore in 7 Spielen)
 - JSG Steinhagen-Brockhagen: #5 Carl-Anton Friedrich Ferdinand Ehle (32 Tore in 5 Spielen), #4 Henry Brüggemann (20 Tore in 5 Spielen), #2 Richard von Plato (14 Tore in 4 Spielen), #11 Robin Strauß (11 Tore in 5 Spielen), #10 Jonte Louis Hansen (11 Tore in 5 Spielen)
