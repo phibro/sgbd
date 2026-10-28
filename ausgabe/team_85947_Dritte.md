@@ -1,5 +1,5 @@
 # Dritte (Team-ID 85947)
-Quelle: handball.net, abgerufen am 28.10.2026 12:51
+Quelle: handball.net, abgerufen am 28.10.2026 21:14
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
@@ -23,8 +23,6 @@ Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
-| 1 | So 13.09.2026 11:00 | SG BÜNDE-DÜNNE III - HSG Spradow 3 | Heim | 32:21 | beendet | GYMNASIUM AM MARKT |
-| 5 | So 11.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck IV - SG BÜNDE-DÜNNE III | Auswärts | 26:33 | beendet | REALSCHULE JöLLENBECK |
 | 6 | So 08.11.2026 11:00 | SG BÜNDE-DÜNNE III - VFL HERFORD II | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 7 | Sa 14.11.2026 16:15 | TUS SPENGE IV - SG BÜNDE-DÜNNE III | Auswärts | - | ausstehend | REALSCHULE SPENGE |
 | 4 | Di 17.11.2026 20:15 | TG SCHILDESCHE - SG BÜNDE-DÜNNE III | Auswärts | - | ausstehend | GESAMTSCHULE SCHILDESCHE |
@@ -44,33 +42,15 @@ Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
 
 ## Spielplan der gesamten Liga (BIHF Männer 1. Kreisklasse)
 
-Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
-| 1 | Sa 12.09.2026 20:00 | TuS 97 Bielefeld/Jöllenbeck IV - TG HERFORD II | 29:31 | beendet | REALSCHULE JöLLENBECK |
-| 1 | So 13.09.2026 10:30 | TG SCHILDESCHE - VFL HANDBALL MENNIGHÜFFEN III | 37:29 | beendet | GESAMTSCHULE SCHILDESCHE |
-| 1 | So 13.09.2026 11:00 | SG BÜNDE-DÜNNE III - HSG Spradow 3 | 32:21 | beendet | GYMNASIUM AM MARKT |
-| 5 | Mo 14.09.2026 20:30 | VFL HERFORD II - TG SCHILDESCHE | 34:28 | beendet | FRIEDRICHS-GYMNASIUM |
-| 1 | Mi 16.09.2026 20:30 | VFL HERFORD II - TSV OERLINGHAUSEN II | 29:23 | beendet | FRIEDRICHS-GYMNASIUM |
-| 2 | Sa 19.09.2026 14:00 | TG HERFORD II - TG SCHILDESCHE | 34:29 | beendet | ERNST-BARLACH-REALSCHULE |
-| 2 | Sa 19.09.2026 16:00 | TSV OERLINGHAUSEN II - TUS SPENGE IV | 28:30 | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
-| 2 | Sa 19.09.2026 18:00 | HSG LÖHNE-OBERNBECK - TuS 97 Bielefeld/Jöllenbeck IV | 26:20 | beendet | GYMNASIUM LöHNE |
-| 2 | So 20.09.2026 00:00 | HSG Spradow 3 - VFL HERFORD II | - | ausstehend | SPORTHALLE SPRADOW |
-| 3 | Sa 26.09.2026 12:30 | TuS 97 Bielefeld/Jöllenbeck IV - TG SCHILDESCHE | 18:21 | beendet | REALSCHULE JöLLENBECK |
-| 3 | Sa 26.09.2026 16:15 | TUS SPENGE IV - HSG Spradow 3 | 27:21 | beendet | REALSCHULE SPENGE |
-| 3 | Sa 26.09.2026 16:30 | VFL HERFORD II - VFL HANDBALL MENNIGHÜFFEN III | 35:27 | beendet | KREISSPORTHALLE HERMANNSTRAßE |
-| 3 | So 27.09.2026 18:00 | HSG LÖHNE-OBERNBECK - TSV OERLINGHAUSEN II | 20:27 | beendet | GYMNASIUM LöHNE |
-| 4 | So 04.10.2026 00:00 | VFL HANDBALL MENNIGHÜFFEN III - TUS SPENGE IV | - | ausstehend | N.H.MENNIGHüFFEN |
-| 5 | Sa 10.10.2026 18:30 | HSG LÖHNE-OBERNBECK - VFL HANDBALL MENNIGHÜFFEN III | 28:26 | beendet | GYMNASIUM LöHNE |
-| 5 | So 11.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck IV - SG BÜNDE-DÜNNE III | 26:33 | beendet | REALSCHULE JöLLENBECK |
-| 5 | Mi 14.10.2026 20:30 | TUS SPENGE IV - TG HERFORD II | 32:21 | beendet | REALSCHULE SPENGE |
-| 1 | Sa 24.10.2026 18:00 | TUS SPENGE IV - HSG LÖHNE-OBERNBECK | 22:17 | beendet | REALSCHULE SPENGE |
 | 6 | Sa 07.11.2026 14:45 | VFL HANDBALL MENNIGHÜFFEN III - TSV OERLINGHAUSEN II | - | ausstehend | N.H.MENNIGHüFFEN |
 | 6 | Sa 07.11.2026 18:00 | TG HERFORD II - HSG LÖHNE-OBERNBECK | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 6 | So 08.11.2026 10:30 | TG SCHILDESCHE - TUS SPENGE IV | - | ausstehend | GESAMTSCHULE SCHILDESCHE |
-| 6 | So 08.11.2026 11:00 | HSG Spradow 3 - TuS 97 Bielefeld/Jöllenbeck IV | - | ausstehend | SPORTHALLE SPRADOW |
 | 6 | So 08.11.2026 11:00 | SG BÜNDE-DÜNNE III - VFL HERFORD II | - | ausstehend | GYMNASIUM AM MARKT |
+| 6 | So 08.11.2026 11:00 | HSG Spradow 3 - TuS 97 Bielefeld/Jöllenbeck IV | - | ausstehend | SPORTHALLE SPRADOW |
 | 7 | Sa 14.11.2026 16:00 | HSG Spradow 3 - VFL HANDBALL MENNIGHÜFFEN III | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
 | 7 | Sa 14.11.2026 16:15 | TUS SPENGE IV - SG BÜNDE-DÜNNE III | - | ausstehend | REALSCHULE SPENGE |
 | 7 | Sa 14.11.2026 17:00 | TSV OERLINGHAUSEN II - TG HERFORD II | - | ausstehend | GRUNDSCHULE OERLINGHAUSEN SüD |
@@ -171,12 +151,12 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
-- VFL HANDBALL MENNIGHÜFFEN III: #9 Marius Hepermann (19 Tore in 5 Spielen), #10 Eric Riekewald (16 Tore in 5 Spielen), #13 Tarek Meiners (14 Tore in 5 Spielen), #21 Tim Wienkemeier (7 Tore in 4 Spielen), #80 Fabian Kassebaum (6 Tore in 5 Spielen)
-- TSV OERLINGHAUSEN II: #7 Lucas Frost (19 Tore in 2 Spielen), #2 Mirko Hase (11 Tore in 3 Spielen), #24 Joscha Rolfes (9 Tore in 3 Spielen), #41 Raffael Champion (6 Tore in 3 Spielen), #28 Malte Mester (6 Tore in 3 Spielen)
-- TG HERFORD II: #14 Lukas Steffen (22 Tore in 2 Spielen), #9 Julian Forca (19 Tore in 3 Spielen), #33 Sebastian Ueberschär (15 Tore in 3 Spielen), #5 Marco Sauermann (9 Tore in 2 Spielen), #23 Dennis Bresser (8 Tore in 3 Spielen)
-- HSG LÖHNE-OBERNBECK: #18 Fynn-Jonas Janke (14 Tore in 3 Spielen), #5 Paul Simon Blankenstein (12 Tore in 3 Spielen), #4 Lukas Stuke (12 Tore in 3 Spielen), #2 Lino Ritter (12 Tore in 3 Spielen), #8 Lukas Lebeau (12 Tore in 4 Spielen)
-- TG SCHILDESCHE: #79 Björn Spittau (25 Tore in 4 Spielen), #31 Patrick Welge (13 Tore in 3 Spielen), #73 Andreas Finke (12 Tore in 4 Spielen), #19 Kai Fabian Venkord (11 Tore in 2 Spielen), #5 Moritz Christian Schneider (9 Tore in 1 Spielen)
+- VFL HERFORD II: #10 Maurice Lepa (15 Tore in 3 Spielen), #16 Yannick Ehlebracht (15 Tore in 2 Spielen), #2 Björn Schröder (12 Tore in 3 Spielen), #6 Leon Lepa (8 Tore in 3 Spielen), #15 Tim Luca Meier (7 Tore in 2 Spielen)
 - TUS SPENGE IV: #15 Holger Becker (18 Tore in 4 Spielen), #3 Daniel Rolletschke (15 Tore in 3 Spielen), #24 Marc Weszpatat (11 Tore in 4 Spielen), #95 Florian Maronn (10 Tore in 3 Spielen), #5 Jan Sahrhage (10 Tore in 4 Spielen)
+- TG SCHILDESCHE: #79 Björn Spittau (25 Tore in 4 Spielen), #31 Patrick Welge (13 Tore in 3 Spielen), #73 Andreas Finke (12 Tore in 4 Spielen), #19 Kai Fabian Venkord (11 Tore in 2 Spielen), #5 Moritz Christian Schneider (9 Tore in 1 Spielen)
+- TG HERFORD II: #14 Lukas Steffen (22 Tore in 2 Spielen), #9 Julian Forca (19 Tore in 3 Spielen), #33 Sebastian Ueberschär (15 Tore in 3 Spielen), #5 Marco Sauermann (9 Tore in 2 Spielen), #23 Dennis Bresser (8 Tore in 3 Spielen)
+- HSG LÖHNE-OBERNBECK: #18 Fynn-Jonas Janke (14 Tore in 3 Spielen), #5 Paul Simon Blankenstein (12 Tore in 3 Spielen), #2 Lino Ritter (12 Tore in 3 Spielen), #8 Lukas Lebeau (12 Tore in 4 Spielen), #4 Lukas Stuke (12 Tore in 3 Spielen)
+- TSV OERLINGHAUSEN II: #7 Lucas Frost (19 Tore in 2 Spielen), #2 Mirko Hase (11 Tore in 3 Spielen), #24 Joscha Rolfes (9 Tore in 3 Spielen), #41 Raffael Champion (6 Tore in 3 Spielen), #28 Malte Mester (6 Tore in 3 Spielen)
+- VFL HANDBALL MENNIGHÜFFEN III: #9 Marius Hepermann (19 Tore in 5 Spielen), #10 Eric Riekewald (16 Tore in 5 Spielen), #13 Tarek Meiners (14 Tore in 5 Spielen), #21 Tim Wienkemeier (7 Tore in 4 Spielen), #80 Fabian Kassebaum (6 Tore in 5 Spielen)
 - HSG Spradow 3: #11 Lars Langer (12 Tore in 2 Spielen), #13 Daniel Overlack (8 Tore in 2 Spielen), #55 Malte Mischok (6 Tore in 2 Spielen), #25 Gunnar Heise (5 Tore in 2 Spielen), #23 Tim Dubiel (4 Tore in 2 Spielen)
 - TuS 97 Bielefeld/Jöllenbeck IV: #8 Sebastian Cordes (28 Tore in 4 Spielen), #11 Leif Gerner (13 Tore in 3 Spielen), #80 Sebastian Amlong (8 Tore in 2 Spielen), #9 Joern Litzki (8 Tore in 3 Spielen), #93 Ron Elbracht (6 Tore in 1 Spielen)
-- VFL HERFORD II: #10 Maurice Lepa (15 Tore in 3 Spielen), #16 Yannick Ehlebracht (15 Tore in 2 Spielen), #2 Björn Schröder (12 Tore in 3 Spielen), #6 Leon Lepa (8 Tore in 3 Spielen), #15 Tim Luca Meier (7 Tore in 2 Spielen)
