@@ -67,7 +67,7 @@ select{width:100%;font:inherit;font-weight:600;padding:11px 12px;border-radius:1
 </div>
 <nav class="tabs"><div class="tabs-in" id="tabs"></div></nav>
 <script>
-const D = {"team_name": "E2", "team_id": 87781, "eigen": "E2", "liga_name": "", "stand": "28.10.2026 12:23", "tabelle": [], "spiele": [], "liga": [], "kader": [], "gegner": {}};
+const D = {"team_name": "E2", "team_id": 87781, "eigen": "E2", "liga_name": "", "stand": "28.10.2026 12:58", "tabelle": [], "spiele": [], "liga": [], "kader": [], "gegner": {}};
 const $ = s => document.querySelector(s);
 const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const WT = ['So','Mo','Di','Mi','Do','Fr','Sa'];
@@ -94,8 +94,8 @@ function viewUebersicht(){
       +'<div style="margin:6px 0"><span class="tag">'+esc(next.h)+'</span> Runde '+esc(next.r)+'</div>'
       +'<div style="margin:6px 0"><a href="#" id="zumGegner">Bisherige Ergebnisse &amp; Top-5-Torschützen von '+esc(next.g)+' →</a></div>'+(next.o?'<div class="muted">📍 <a href="'+mapLink(next.o)+'" target="_blank" rel="noopener">'+esc(next.o)+'</a></div>':'')+'</div>';
   } else h+='<div class="card"><h2>Nächstes Spiel</h2>Kein anstehendes Spiel mit Termin gefunden.</div>';
-  const last=D.spiele.filter(g=>g.f).sort(byDate).slice(-3).reverse();
-  if(last.length)h+='<div class="card"><h2>Letzte Ergebnisse</h2>'+last.map(g=>'<div class="row"><div><b>'+esc(g.g)+'</b> <span class="tag">'+esc(g.h)+'</span><div class="muted">'+fd(g.d)+'</div></div><div>'+badge(g)+'</div></div>').join('')+'</div>';
+  const last=D.spiele.filter(g=>g.f).sort(byDate).slice(-5).reverse();
+  if(last.length)h+='<div class="card"><h2>Letzte 5 Spiele</h2>'+last.map(g=>'<div class="row"><div><b>'+esc(g.g)+'</b> <span class="tag">'+esc(g.h)+'</span><div class="muted">'+fd(g.d)+'</div></div><div>'+badge(g)+'</div></div>').join('')+'</div>';
   const me=D.tabelle.find(r=>r[1]===D.eigen);
   if(me)h+='<div class="card"><h2>Tabelle</h2><div class="big">Platz '+me[0]+' · '+me[8]+' Punkte</div><div class="muted">'+me[2]+' Spiele · '+me[3]+' S / '+me[4]+' U / '+me[5]+' N · Tore '+esc(me[6])+'</div></div>';
   if(offen.length)h+='<div class="card"><h2 class="warn">Ohne Ergebnis oder ohne Uhrzeit</h2>'+offen.map(g=>'<div class="row"><div><b>'+esc(g.g)+'</b> <span class="tag">'+esc(g.h)+'</span><div class="muted">'+fd(g.d)+' · Runde '+esc(g.r)+'</div></div></div>').join('')+'</div>';
