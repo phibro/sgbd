@@ -1,5 +1,5 @@
 # Vierte (Team-ID 85963)
-Quelle: handball.net, abgerufen am 28.10.2026 21:15
+Quelle: handball.net, abgerufen am 29.10.2026 12:29
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
@@ -75,4 +75,4 @@ Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
 ## Beste Torschützen der anderen Mannschaften der Liga
 
 - TSVE 1890 BIELEFELD II: #55 Noah Beck (21 Tore in 4 Spielen), #19 Benedikt Hettlage (13 Tore in 4 Spielen), #27 Marcel Wolf (13 Tore in 4 Spielen), #11 Daniel Reiche (11 Tore in 4 Spielen), #90 Jonas Schröder (11 Tore in 4 Spielen)
-- TSV OERLINGHAUSEN III: #11 Marius Kempeni (16 Tore in 2 Spielen), #43 Daniel Schroeder (11 Tore in 2 Spielen), #19 Philipp Kroll (10 Tore in 2 Spielen), #3 Jannik Czychun (8 Tore in 2 Spielen), #9 Andreas Koester (5 Tore in 2 Spielen)
+- TSV OERLINGHAUSEN III: #11 Marius Kempeni (16 Tore in 2 Spielen), #43 Daniel Schroeder (11 Tore in 3 Spielen), #19 Philipp Kroll (10 Tore in 2 Spielen), #3 Jannik Czychun (8 Tore in 3 Spielen), #9 Andreas Koester (5 Tore in 3 Spielen)

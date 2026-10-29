@@ -1,5 +1,5 @@
 # EQ (Team-ID 87805)
-Quelle: handball.net, abgerufen am 28.10.2026 21:19
+Quelle: handball.net, abgerufen am 29.10.2026 12:33
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF E-Querfeld (Phase 13753)
@@ -128,19 +128,19 @@ Alle 92 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Nr | Name | Spiele | Tore | davon 7m | 7m-Versuche | Verwarnungen | 2-Min | Disqualifikationen |
 |---|---|---|---|---|---|---|---|---|
+| 0 | Katja Schweitzer | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Finn Eimertenbrink | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Anton Diekmann | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 8 | Enno Kurzbach | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 3 | Justus Friedrich Borgstädt | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 12 | Theo Schleper | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Pauline Menke | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Katja Schweitzer | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Finn Eimertenbrink | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Anton Diekmann | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Bennet Grundorf | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Milla Bartz | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 10 | Henn Jarle Langer | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Kenoah Siekmann | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 6 | Theo Heibrock | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 9 | Finn Heidenreich | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 | Bennet Grundorf | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Milla Bartz | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
