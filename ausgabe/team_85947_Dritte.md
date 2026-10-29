@@ -1,5 +1,5 @@
 # Dritte (Team-ID 85947)
-Quelle: handball.net, abgerufen am 29.10.2026 12:28
+Quelle: handball.net, abgerufen am 29.10.2026 21:14
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
