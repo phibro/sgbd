@@ -1,5 +1,5 @@
 # JSGEWWD1 (Team-ID 88860)
-Quelle: handball.net, abgerufen am 30.10.2026 12:29
+Quelle: handball.net, abgerufen am 30.10.2026 21:04
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
@@ -103,8 +103,8 @@ Alle 38 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Hagen Illies | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Bruno Stock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Ireoluwa Grace Akiode | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Conrad Theiling | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Carlo Theiling | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Til Rosenkötter | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Paul Marlon Vahsen | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 

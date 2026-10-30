@@ -1,5 +1,5 @@
 # Erste (Team-ID 86611)
-Quelle: handball.net, abgerufen am 30.10.2026 12:19
+Quelle: handball.net, abgerufen am 30.10.2026 20:54
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
@@ -79,13 +79,13 @@ Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Fabian Schaaf | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Daniel Habbe | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Jury Lütgen | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 23 | Dennis Moellering | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Jonas Koester | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 32 | Sören Halstenberg | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Dennis Specht | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Josephine Mailaender | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 23 | Dennis Moellering | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Jonas Koester | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
 - HSG Werther/Borgholzhausen: #24 Fynn Huxohl (29 Tore in 5 Spielen), #11 Jonas Leon Jürgensen (21 Tore in 5 Spielen), #4 Louis Hartmann (18 Tore in 5 Spielen), #33 Jendrik Lakebrink (12 Tore in 5 Spielen), #77 Max Kleinepaehler (11 Tore in 5 Spielen)
-- HSG Petershagen/Lahde: #4 Joel Damian Lange (30 Tore in 6 Spielen), #20 Niels Adriaan Fuchs (30 Tore in 6 Spielen), #55 Marten Franke (27 Tore in 6 Spielen), #3 Jonas Schaekel (24 Tore in 6 Spielen), #37 Jannik Ames (17 Tore in 6 Spielen)
+- HSG Petershagen/Lahde: #4 Joel Damian Lange (30 Tore in 7 Spielen), #20 Niels Adriaan Fuchs (30 Tore in 7 Spielen), #55 Marten Franke (27 Tore in 7 Spielen), #3 Jonas Schaekel (24 Tore in 7 Spielen), #37 Jannik Ames (17 Tore in 7 Spielen)
