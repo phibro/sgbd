@@ -1,5 +1,5 @@
 # Erste (Team-ID 86611)
-Quelle: handball.net, abgerufen am 29.10.2026 21:13
+Quelle: handball.net, abgerufen am 30.10.2026 12:19
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
@@ -75,15 +75,15 @@ Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
 | 13 | Christopher Fischer | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 12 | Joern Schlottmann | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 18 | Arne Halstenberg | 6 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 0 | Daniel Habbe | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Jury Lütgen | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 6 | Tom Luca Hellwig | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Fabian Schaaf | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Daniel Habbe | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Jury Lütgen | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 32 | Sören Halstenberg | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Dennis Specht | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Josephine Mailaender | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 23 | Dennis Moellering | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Jonas Koester | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 32 | Sören Halstenberg | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Dennis Specht | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 

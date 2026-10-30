@@ -1,5 +1,5 @@
 # Vierte (Team-ID 85963)
-Quelle: handball.net, abgerufen am 29.10.2026 21:15
+Quelle: handball.net, abgerufen am 30.10.2026 12:21
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
@@ -8,9 +8,9 @@ Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
 
 | Platz | Mannschaft | Spiele | S | U | N | Tore | Diff | Punkte | Form |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | TSVE 1890 BIELEFELD II | 3 | 3 | 0 | 0 | 103:69 | 34 | 6 | WWW |
+| 1 | TSVE 1890 BIELEFELD II | 4 | 4 | 0 | 0 | 147:100 | 47 | 8 | WWWW |
 | 2 | VFL HERFORD III | 3 | 3 | 0 | 0 | 75:56 | 19 | 6 | WWW |
-| 3 | TSV OERLINGHAUSEN III | 2 | 2 | 0 | 0 | 64:50 | 14 | 4 | WW |
+| 3 | TSV OERLINGHAUSEN III | 3 | 2 | 0 | 1 | 95:94 | 1 | 4 | WLW |
 | 4 | HSG LÖHNE-OBERNBECK II | 4 | 2 | 0 | 2 | 107:102 | 5 | 4 | WLWL |
 | 5 | SG BÜNDE-DÜNNE IV | 4 | 2 | 0 | 2 | 100:109 | -9 | 4 | LWLW |
 | 6 | DJK BLAU-WEISS BIELEFELD | 4 | 1 | 0 | 3 | 80:116 | -36 | 2 | LLWL |
@@ -40,7 +40,7 @@ Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
-| 2 | Do 29.10.2026 20:00 | TSVE 1890 BIELEFELD II - TSV OERLINGHAUSEN III | 39:29 | LIVE | TSVE-SPORTHALLE |
+| 2 | Do 29.10.2026 20:00 | TSVE 1890 BIELEFELD II - TSV OERLINGHAUSEN III | 44:31 | beendet | TSVE-SPORTHALLE |
 
 ## Kader und Spielerstatistik (Saison)
 
@@ -75,4 +75,4 @@ Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
 ## Beste Torschützen der anderen Mannschaften der Liga
 
 - TSVE 1890 BIELEFELD II: #55 Noah Beck (28 Tore in 4 Spielen), #19 Benedikt Hettlage (17 Tore in 4 Spielen), #27 Marcel Wolf (17 Tore in 4 Spielen), #90 Jonas Schröder (14 Tore in 4 Spielen), #11 Daniel Reiche (13 Tore in 4 Spielen)
-- TSV OERLINGHAUSEN III: #3 Jannik Czychun (17 Tore in 3 Spielen), #11 Marius Kempeni (16 Tore in 2 Spielen), #43 Daniel Schroeder (11 Tore in 2 Spielen), #41 Philipp Tschöke (10 Tore in 3 Spielen), #19 Philipp Kroll (10 Tore in 2 Spielen)
+- TSV OERLINGHAUSEN III: #3 Jannik Czychun (17 Tore in 3 Spielen), #11 Marius Kempeni (16 Tore in 2 Spielen), #43 Daniel Schroeder (11 Tore in 2 Spielen), #9 Andreas Koester (10 Tore in 3 Spielen), #41 Philipp Tschöke (10 Tore in 3 Spielen)

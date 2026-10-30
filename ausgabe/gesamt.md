@@ -1,5 +1,5 @@
 # Erste (Team-ID 86611)
-Quelle: handball.net, abgerufen am 29.10.2026 21:13
+Quelle: handball.net, abgerufen am 30.10.2026 12:19
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
@@ -75,15 +75,15 @@ Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
 | 13 | Christopher Fischer | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 12 | Joern Schlottmann | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 18 | Arne Halstenberg | 6 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 0 | Daniel Habbe | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Jury Lütgen | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 6 | Tom Luca Hellwig | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Fabian Schaaf | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Daniel Habbe | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Jury Lütgen | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 32 | Sören Halstenberg | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Dennis Specht | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Josephine Mailaender | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 23 | Dennis Moellering | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Jonas Koester | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 32 | Sören Halstenberg | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Dennis Specht | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -94,7 +94,7 @@ Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Zweite (Team-ID 83554)
-Quelle: handball.net, abgerufen am 29.10.2026 21:13
+Quelle: handball.net, abgerufen am 30.10.2026 12:20
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga Männer (Phase 12671)
@@ -168,20 +168,20 @@ Alle 2 Spiele aller Mannschaften, nach Termin sortiert.
 | 3 | Tim Ahrend | 5 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 8 | Marlo Erdbruegger | 4 | 3 | 0 | 0 | 1 | 2 | 0 |
 | 10 | Nico Mailänder | 1 | 3 | 0 | 0 | 1 | 0 | 0 |
-| 7 | Tom Schuster | 5 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 4 | Jonah Holverscheid | 3 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Tom Schuster | 5 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 9 | Arne Halstenberg | 1 | 2 | 0 | 0 | 0 | 1 | 0 |
 | 34 | Fabian Schaaf | 2 | 2 | 0 | 0 | 0 | 1 | 0 |
 | 3 | Nico Schneidmiller | 1 | 2 | 0 | 2 | 0 | 0 | 0 |
 | 6 | Dennis Peter | 1 | 1 | 0 | 0 | 0 | 1 | 1 |
 | 9 | Janis Leon Holdmann | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
-| 0 | Michael Schaaf | 4 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 0 | Raoul Wittemeier | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 1 | Sebastian Heisig | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 27 | Nils ole Bonus | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Malte Nehl | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 22 | Christoph Erdbruegger | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 19 | Erik Ferdinand Meier | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Michael Schaaf | 4 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 5 | Jannes Westerheide | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Dennis Moellering | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Max Kuehn | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Bjoern Ebert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | Dennis Specht | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -194,7 +194,7 @@ Alle 2 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Dritte (Team-ID 85947)
-Quelle: handball.net, abgerufen am 29.10.2026 21:14
+Quelle: handball.net, abgerufen am 30.10.2026 12:20
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
@@ -205,14 +205,14 @@ Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | TUS SPENGE IV | 4 | 4 | 0 | 0 | 111:87 | 24 | 8 | WWWW |
 | 2 | VFL HERFORD II | 3 | 3 | 0 | 0 | 98:78 | 20 | 6 | WWW |
-| 3 | SG BÜNDE-DÜNNE III | 2 | 2 | 0 | 0 | 65:47 | 18 | 4 | WW |
-| 4 | TG HERFORD II | 3 | 2 | 0 | 1 | 86:90 | -4 | 4 | WWL |
-| 5 | TG SCHILDESCHE | 4 | 2 | 0 | 2 | 115:115 | 0 | 4 | WLWL |
-| 6 | HSG LÖHNE-OBERNBECK | 4 | 2 | 0 | 2 | 91:95 | -4 | 4 | LWLW |
-| 7 | TSV OERLINGHAUSEN II | 3 | 1 | 0 | 2 | 78:79 | -1 | 2 | LLW |
+| 3 | SG BÜNDE-DÜNNE III | 1 | 1 | 0 | 0 | 32:21 | 11 | 2 | WW |
+| 4 | TG HERFORD II | 2 | 1 | 0 | 1 | 55:61 | -6 | 2 | WWL |
+| 5 | TSV OERLINGHAUSEN II | 3 | 1 | 0 | 2 | 78:79 | -1 | 2 | LLW |
+| 6 | TG SCHILDESCHE | 3 | 1 | 0 | 2 | 94:97 | -3 | 2 | WLWL |
+| 7 | HSG LÖHNE-OBERNBECK | 3 | 1 | 0 | 2 | 65:75 | -10 | 2 | LWLW |
 | 8 | HSG Spradow 3 | 2 | 0 | 0 | 2 | 42:59 | -17 | 0 | LL |
 | 9 | VFL HANDBALL MENNIGHÜFFEN III | 3 | 0 | 0 | 3 | 82:100 | -18 | 0 | LLL |
-| 10 | TuS 97 Bielefeld/Jöllenbeck IV | 4 | 0 | 0 | 4 | 93:111 | -18 | 0 | LLLL |
+| 10 | TuS 97 Bielefeld/Jöllenbeck IV | 0 | 0 | 0 | 0 | 0:0 | 0 | 0 | LLLL |
 
 ## Spielplan (alle Spiele der Saison)
 
@@ -229,7 +229,7 @@ Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
 | 11 | So 31.01.2027 10:30 | SG BÜNDE-DÜNNE III - VFL HANDBALL MENNIGHÜFFEN III | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 12 | Sa 13.02.2027 15:30 | TG HERFORD II - SG BÜNDE-DÜNNE III | Auswärts | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 13 | So 21.02.2027 12:30 | SG BÜNDE-DÜNNE III - TG SCHILDESCHE | Heim | - | ausstehend | GYMNASIUM AM MARKT |
-| 14 | So 28.02.2027 11:00 | SG BÜNDE-DÜNNE III - TuS 97 Bielefeld/Jöllenbeck IV | Heim | - | ausstehend | GYMNASIUM AM MARKT |
+| 14 | So 28.02.2027 00:00 | SG BÜNDE-DÜNNE III - TuS 97 Bielefeld/Jöllenbeck IV | Heim | - | beendet | GYMNASIUM AM MARKT |
 | 15 | So 07.03.2027 15:15 | VFL HERFORD II - SG BÜNDE-DÜNNE III | Auswärts | - | ausstehend | KREISSPORTHALLE HERMANNSTRAßE |
 | 16 | So 14.03.2027 11:00 | SG BÜNDE-DÜNNE III - TUS SPENGE IV | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 17 | Sa 17.04.2027 18:00 | HSG LÖHNE-OBERNBECK - SG BÜNDE-DÜNNE III | Auswärts | - | ausstehend | GYMNASIUM LöHNE |
@@ -243,25 +243,25 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 |---|---|---|---|---|---|
 | 6 | Sa 07.11.2026 14:45 | VFL HANDBALL MENNIGHÜFFEN III - TSV OERLINGHAUSEN II | - | ausstehend | N.H.MENNIGHüFFEN |
 | 6 | Sa 07.11.2026 18:00 | TG HERFORD II - HSG LÖHNE-OBERNBECK | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 6 | So 08.11.2026 00:00 | HSG Spradow 3 - TuS 97 Bielefeld/Jöllenbeck IV | - | beendet | SPORTHALLE SPRADOW |
 | 6 | So 08.11.2026 10:30 | TG SCHILDESCHE - TUS SPENGE IV | - | ausstehend | GESAMTSCHULE SCHILDESCHE |
 | 6 | So 08.11.2026 11:00 | SG BÜNDE-DÜNNE III - VFL HERFORD II | - | ausstehend | GYMNASIUM AM MARKT |
-| 6 | So 08.11.2026 11:00 | HSG Spradow 3 - TuS 97 Bielefeld/Jöllenbeck IV | - | ausstehend | SPORTHALLE SPRADOW |
 | 7 | Sa 14.11.2026 16:00 | HSG Spradow 3 - VFL HANDBALL MENNIGHÜFFEN III | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
 | 7 | Sa 14.11.2026 16:15 | TUS SPENGE IV - SG BÜNDE-DÜNNE III | - | ausstehend | REALSCHULE SPENGE |
 | 7 | Sa 14.11.2026 17:00 | TSV OERLINGHAUSEN II - TG HERFORD II | - | ausstehend | GRUNDSCHULE OERLINGHAUSEN SüD |
-| 7 | So 15.11.2026 17:45 | TuS 97 Bielefeld/Jöllenbeck IV - VFL HERFORD II | - | ausstehend | REALSCHULE JöLLENBECK |
+| 7 | So 15.11.2026 00:00 | TuS 97 Bielefeld/Jöllenbeck IV - VFL HERFORD II | - | beendet | REALSCHULE JöLLENBECK |
 | 7 | So 15.11.2026 18:15 | HSG LÖHNE-OBERNBECK - TG SCHILDESCHE | - | ausstehend | GYMNASIUM LöHNE |
 | 4 | Di 17.11.2026 20:15 | TG SCHILDESCHE - SG BÜNDE-DÜNNE III | - | ausstehend | GESAMTSCHULE SCHILDESCHE |
+| 4 | Sa 21.11.2026 00:00 | TSV OERLINGHAUSEN II - TuS 97 Bielefeld/Jöllenbeck IV | - | beendet | GRUNDSCHULE OERLINGHAUSEN SüD |
 | 3 | Sa 21.11.2026 14:00 | SG BÜNDE-DÜNNE III - TG HERFORD II | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
-| 4 | Sa 21.11.2026 17:00 | TSV OERLINGHAUSEN II - TuS 97 Bielefeld/Jöllenbeck IV | - | ausstehend | GRUNDSCHULE OERLINGHAUSEN SüD |
+| 8 | Sa 28.11.2026 00:00 | VFL HANDBALL MENNIGHÜFFEN III - TuS 97 Bielefeld/Jöllenbeck IV | - | beendet | N.H.MENNIGHüFFEN |
 | 8 | Sa 28.11.2026 15:00 | VFL HERFORD II - TUS SPENGE IV | - | ausstehend | FRIEDRICHS-GYMNASIUM |
-| 8 | Sa 28.11.2026 15:00 | VFL HANDBALL MENNIGHÜFFEN III - TuS 97 Bielefeld/Jöllenbeck IV | - | ausstehend | N.H.MENNIGHüFFEN |
 | 8 | Sa 28.11.2026 17:30 | TG HERFORD II - HSG Spradow 3 | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 8 | So 29.11.2026 10:30 | TG SCHILDESCHE - TSV OERLINGHAUSEN II | - | ausstehend | GESAMTSCHULE SCHILDESCHE |
 | 8 | So 29.11.2026 12:30 | SG BÜNDE-DÜNNE III - HSG LÖHNE-OBERNBECK | - | ausstehend | GYMNASIUM AM MARKT |
+| 9 | Sa 05.12.2026 00:00 | TUS SPENGE IV - TuS 97 Bielefeld/Jöllenbeck IV | - | beendet | REALSCHULE SPENGE |
 | 9 | Sa 05.12.2026 16:00 | HSG Spradow 3 - TG SCHILDESCHE | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
 | 9 | Sa 05.12.2026 17:00 | VFL HANDBALL MENNIGHÜFFEN III - TG HERFORD II | - | ausstehend | N.H.MENNIGHüFFEN |
-| 9 | Sa 05.12.2026 18:00 | TUS SPENGE IV - TuS 97 Bielefeld/Jöllenbeck IV | - | ausstehend | REALSCHULE SPENGE |
 | 9 | Sa 05.12.2026 18:00 | HSG LÖHNE-OBERNBECK - VFL HERFORD II | - | ausstehend | GYMNASIUM LöHNE |
 | 9 | So 06.12.2026 18:00 | TSV OERLINGHAUSEN II - SG BÜNDE-DÜNNE III | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
 | 4 | Sa 12.12.2026 16:00 | HSG Spradow 3 - HSG LÖHNE-OBERNBECK | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
@@ -272,33 +272,33 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 | 10 | Sa 23.01.2027 17:00 | VFL HANDBALL MENNIGHÜFFEN III - TG SCHILDESCHE | - | ausstehend | N.H.MENNIGHüFFEN |
 | 10 | Sa 23.01.2027 18:00 | HSG LÖHNE-OBERNBECK - TUS SPENGE IV | - | ausstehend | GYMNASIUM LöHNE |
 | 10 | Sa 23.01.2027 18:00 | TSV OERLINGHAUSEN II - VFL HERFORD II | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
-| 10 | So 24.01.2027 16:00 | TG HERFORD II - TuS 97 Bielefeld/Jöllenbeck IV | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 10 | So 24.01.2027 00:00 | TG HERFORD II - TuS 97 Bielefeld/Jöllenbeck IV | - | beendet | ERNST-BARLACH-REALSCHULE |
 | 11 | Sa 30.01.2027 13:00 | VFL HERFORD II - HSG Spradow 3 | - | ausstehend | FRIEDRICHS-GYMNASIUM |
 | 11 | Sa 30.01.2027 16:45 | TUS SPENGE IV - TSV OERLINGHAUSEN II | - | ausstehend | REALSCHULE SPENGE |
+| 11 | So 31.01.2027 00:00 | TuS 97 Bielefeld/Jöllenbeck IV - HSG LÖHNE-OBERNBECK | - | beendet | REALSCHULE JöLLENBECK |
 | 11 | So 31.01.2027 10:30 | SG BÜNDE-DÜNNE III - VFL HANDBALL MENNIGHÜFFEN III | - | ausstehend | GYMNASIUM AM MARKT |
 | 11 | So 31.01.2027 10:30 | TG SCHILDESCHE - TG HERFORD II | - | ausstehend | GESAMTSCHULE SCHILDESCHE |
-| 11 | So 31.01.2027 12:00 | TuS 97 Bielefeld/Jöllenbeck IV - HSG LÖHNE-OBERNBECK | - | ausstehend | REALSCHULE JöLLENBECK |
 | 12 | Sa 13.02.2027 14:00 | HSG Spradow 3 - TUS SPENGE IV | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
 | 12 | Sa 13.02.2027 15:30 | TG HERFORD II - SG BÜNDE-DÜNNE III | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 12 | Sa 13.02.2027 17:00 | VFL HANDBALL MENNIGHÜFFEN III - VFL HERFORD II | - | ausstehend | N.H.MENNIGHüFFEN |
-| 12 | So 14.02.2027 10:30 | TG SCHILDESCHE - TuS 97 Bielefeld/Jöllenbeck IV | - | ausstehend | GESAMTSCHULE SCHILDESCHE |
+| 12 | So 14.02.2027 00:00 | TG SCHILDESCHE - TuS 97 Bielefeld/Jöllenbeck IV | - | beendet | GESAMTSCHULE SCHILDESCHE |
 | 12 | So 14.02.2027 18:00 | TSV OERLINGHAUSEN II - HSG LÖHNE-OBERNBECK | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
 | 13 | Sa 20.02.2027 13:00 | VFL HERFORD II - TG HERFORD II | - | ausstehend | FRIEDRICHS-GYMNASIUM |
 | 13 | Sa 20.02.2027 16:15 | TUS SPENGE IV - VFL HANDBALL MENNIGHÜFFEN III | - | ausstehend | REALSCHULE SPENGE |
-| 13 | So 21.02.2027 12:00 | TuS 97 Bielefeld/Jöllenbeck IV - TSV OERLINGHAUSEN II | - | ausstehend | REALSCHULE JöLLENBECK |
+| 13 | So 21.02.2027 00:00 | TuS 97 Bielefeld/Jöllenbeck IV - TSV OERLINGHAUSEN II | - | beendet | REALSCHULE JöLLENBECK |
 | 13 | So 21.02.2027 12:30 | SG BÜNDE-DÜNNE III - TG SCHILDESCHE | - | ausstehend | GYMNASIUM AM MARKT |
 | 13 | So 21.02.2027 18:15 | HSG LÖHNE-OBERNBECK - HSG Spradow 3 | - | ausstehend | GYMNASIUM LöHNE |
 | 14 | Sa 27.02.2027 14:00 | HSG Spradow 3 - TSV OERLINGHAUSEN II | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
 | 14 | Sa 27.02.2027 15:00 | VFL HANDBALL MENNIGHÜFFEN III - HSG LÖHNE-OBERNBECK | - | ausstehend | N.H.MENNIGHüFFEN |
+| 14 | So 28.02.2027 00:00 | SG BÜNDE-DÜNNE III - TuS 97 Bielefeld/Jöllenbeck IV | - | beendet | GYMNASIUM AM MARKT |
 | 14 | So 28.02.2027 10:30 | TG SCHILDESCHE - VFL HERFORD II | - | ausstehend | GESAMTSCHULE SCHILDESCHE |
-| 14 | So 28.02.2027 11:00 | SG BÜNDE-DÜNNE III - TuS 97 Bielefeld/Jöllenbeck IV | - | ausstehend | GYMNASIUM AM MARKT |
 | 14 | So 28.02.2027 14:00 | TG HERFORD II - TUS SPENGE IV | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 15 | Sa 06.03.2027 16:15 | TUS SPENGE IV - TG SCHILDESCHE | - | ausstehend | REALSCHULE SPENGE |
 | 15 | Sa 06.03.2027 18:00 | TSV OERLINGHAUSEN II - VFL HANDBALL MENNIGHÜFFEN III | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
 | 15 | Sa 06.03.2027 18:15 | HSG LÖHNE-OBERNBECK - TG HERFORD II | - | ausstehend | GYMNASIUM LöHNE |
-| 15 | So 07.03.2027 12:00 | TuS 97 Bielefeld/Jöllenbeck IV - HSG Spradow 3 | - | ausstehend | REALSCHULE JöLLENBECK |
+| 15 | So 07.03.2027 00:00 | TuS 97 Bielefeld/Jöllenbeck IV - HSG Spradow 3 | - | beendet | REALSCHULE JöLLENBECK |
 | 15 | So 07.03.2027 15:15 | VFL HERFORD II - SG BÜNDE-DÜNNE III | - | ausstehend | KREISSPORTHALLE HERMANNSTRAßE |
-| 16 | Sa 13.03.2027 15:30 | VFL HERFORD II - TuS 97 Bielefeld/Jöllenbeck IV | - | ausstehend | FRIEDRICHS-GYMNASIUM |
+| 16 | Sa 13.03.2027 00:00 | VFL HERFORD II - TuS 97 Bielefeld/Jöllenbeck IV | - | beendet | FRIEDRICHS-GYMNASIUM |
 | 16 | Sa 13.03.2027 16:00 | TG HERFORD II - TSV OERLINGHAUSEN II | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 16 | So 14.03.2027 10:30 | TG SCHILDESCHE - HSG LÖHNE-OBERNBECK | - | ausstehend | GESAMTSCHULE SCHILDESCHE |
 | 16 | So 14.03.2027 11:00 | SG BÜNDE-DÜNNE III - TUS SPENGE IV | - | ausstehend | GYMNASIUM AM MARKT |
@@ -306,9 +306,9 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 | 17 | Sa 17.04.2027 14:00 | TSV OERLINGHAUSEN II - TG SCHILDESCHE | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
 | 17 | Sa 17.04.2027 16:15 | TUS SPENGE IV - VFL HERFORD II | - | ausstehend | REALSCHULE SPENGE |
 | 17 | Sa 17.04.2027 18:00 | HSG LÖHNE-OBERNBECK - SG BÜNDE-DÜNNE III | - | ausstehend | GYMNASIUM LöHNE |
+| 17 | So 18.04.2027 00:00 | TuS 97 Bielefeld/Jöllenbeck IV - VFL HANDBALL MENNIGHÜFFEN III | - | beendet | REALSCHULE JöLLENBECK |
 | 17 | So 18.04.2027 11:00 | HSG Spradow 3 - TG HERFORD II | - | ausstehend | SPORTHALLE SPRADOW |
-| 17 | So 18.04.2027 12:00 | TuS 97 Bielefeld/Jöllenbeck IV - VFL HANDBALL MENNIGHÜFFEN III | - | ausstehend | REALSCHULE JöLLENBECK |
-| 18 | Sa 24.04.2027 14:00 | TuS 97 Bielefeld/Jöllenbeck IV - TUS SPENGE IV | - | ausstehend | REALSCHULE JöLLENBECK |
+| 18 | Sa 24.04.2027 00:00 | TuS 97 Bielefeld/Jöllenbeck IV - TUS SPENGE IV | - | beendet | REALSCHULE JöLLENBECK |
 | 18 | Sa 24.04.2027 15:00 | TG HERFORD II - VFL HANDBALL MENNIGHÜFFEN III | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 18 | Sa 24.04.2027 15:15 | VFL HERFORD II - HSG LÖHNE-OBERNBECK | - | ausstehend | FRIEDRICHS-GYMNASIUM |
 | 18 | So 25.04.2027 10:30 | TG SCHILDESCHE - HSG Spradow 3 | - | ausstehend | GESAMTSCHULE SCHILDESCHE |
@@ -360,7 +360,7 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Vierte (Team-ID 85963)
-Quelle: handball.net, abgerufen am 29.10.2026 21:15
+Quelle: handball.net, abgerufen am 30.10.2026 12:21
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
@@ -369,9 +369,9 @@ Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
 
 | Platz | Mannschaft | Spiele | S | U | N | Tore | Diff | Punkte | Form |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | TSVE 1890 BIELEFELD II | 3 | 3 | 0 | 0 | 103:69 | 34 | 6 | WWW |
+| 1 | TSVE 1890 BIELEFELD II | 4 | 4 | 0 | 0 | 147:100 | 47 | 8 | WWWW |
 | 2 | VFL HERFORD III | 3 | 3 | 0 | 0 | 75:56 | 19 | 6 | WWW |
-| 3 | TSV OERLINGHAUSEN III | 2 | 2 | 0 | 0 | 64:50 | 14 | 4 | WW |
+| 3 | TSV OERLINGHAUSEN III | 3 | 2 | 0 | 1 | 95:94 | 1 | 4 | WLW |
 | 4 | HSG LÖHNE-OBERNBECK II | 4 | 2 | 0 | 2 | 107:102 | 5 | 4 | WLWL |
 | 5 | SG BÜNDE-DÜNNE IV | 4 | 2 | 0 | 2 | 100:109 | -9 | 4 | LWLW |
 | 6 | DJK BLAU-WEISS BIELEFELD | 4 | 1 | 0 | 3 | 80:116 | -36 | 2 | LLWL |
@@ -401,7 +401,7 @@ Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
-| 2 | Do 29.10.2026 20:00 | TSVE 1890 BIELEFELD II - TSV OERLINGHAUSEN III | 39:29 | LIVE | TSVE-SPORTHALLE |
+| 2 | Do 29.10.2026 20:00 | TSVE 1890 BIELEFELD II - TSV OERLINGHAUSEN III | 44:31 | beendet | TSVE-SPORTHALLE |
 
 ## Kader und Spielerstatistik (Saison)
 
@@ -436,13 +436,13 @@ Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
 ## Beste Torschützen der anderen Mannschaften der Liga
 
 - TSVE 1890 BIELEFELD II: #55 Noah Beck (28 Tore in 4 Spielen), #19 Benedikt Hettlage (17 Tore in 4 Spielen), #27 Marcel Wolf (17 Tore in 4 Spielen), #90 Jonas Schröder (14 Tore in 4 Spielen), #11 Daniel Reiche (13 Tore in 4 Spielen)
-- TSV OERLINGHAUSEN III: #3 Jannik Czychun (17 Tore in 3 Spielen), #11 Marius Kempeni (16 Tore in 2 Spielen), #43 Daniel Schroeder (11 Tore in 2 Spielen), #41 Philipp Tschöke (10 Tore in 3 Spielen), #19 Philipp Kroll (10 Tore in 2 Spielen)
+- TSV OERLINGHAUSEN III: #3 Jannik Czychun (17 Tore in 3 Spielen), #11 Marius Kempeni (16 Tore in 2 Spielen), #43 Daniel Schroeder (11 Tore in 2 Spielen), #9 Andreas Koester (10 Tore in 3 Spielen), #41 Philipp Tschöke (10 Tore in 3 Spielen)
 
 
 ---
 
 # A (Team-ID 88735)
-Quelle: handball.net, abgerufen am 29.10.2026 21:15
+Quelle: handball.net, abgerufen am 30.10.2026 12:22
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga MÄNNLICH A-Jugend (Phase 13393)
@@ -566,7 +566,7 @@ Alle 40 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # B (Team-ID 88756)
-Quelle: handball.net, abgerufen am 29.10.2026 21:15
+Quelle: handball.net, abgerufen am 30.10.2026 12:22
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga MÄNNLICH  B-Jugend (Phase 13913)
@@ -629,23 +629,23 @@ Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
 | 11 | Bent ole Harm | 3 | 12 | 0 | 0 | 3 | 3 | 0 |
 | 10 | Lennart Mueller | 4 | 9 | 2 | 3 | 0 | 1 | 0 |
 | 5 | Jonas Ebert | 4 | 8 | 0 | 0 | 0 | 2 | 0 |
-| 17 | Jannis Letsch | 5 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 7 | Mats Jonas Horstmeier | 5 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 17 | Jannis Letsch | 5 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 13 | Ben Jorin Bunte | 1 | 5 | 1 | 1 | 0 | 0 | 0 |
 | 8 | Mattis Riecke | 4 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 15 | Jason Oberhacke | 1 | 3 | 0 | 0 | 0 | 1 | 0 |
-| 3 | Phil Kostross | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 17 | Paul Sjoerds | 4 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Phil Kostross | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
+| - | Marek Erdbrügger | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Sebastian Heisig | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Moritz Förster | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Patrick Hansch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Andre Heemeier | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Finn Budde | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Dominic Kostross | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Ferdinand Münch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Anthony Joel Pouwels | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Linus Buddenberg | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Arne Lamkemeier | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Joris Raulwing | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Guido Mailänder | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Demian Erik Ewert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Tamino Cardillo | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Jasper Riecke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Thomas Heterle | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Paul-Janosch Heikel | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -656,7 +656,7 @@ Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # C (Team-ID 88826)
-Quelle: handball.net, abgerufen am 29.10.2026 21:16
+Quelle: handball.net, abgerufen am 30.10.2026 12:22
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Kreisliga MÄNNLICH  C-Jugend (Phase 13926)
@@ -780,24 +780,24 @@ Alle 67 Spiele aller Mannschaften, nach Termin sortiert.
 | 3 | Hugo Schmidt | 4 | 21 | 0 | 1 | 0 | 0 | 0 |
 | 5 | Mats Jonas Horstmeier | 2 | 15 | 1 | 2 | 0 | 0 | 0 |
 | 9 | Erik Hildebrand | 3 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Nela Philippa Grundorf | 3 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 6 | Mattes Auer | 2 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 10 | Jannes Hannig | 3 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Nela Philippa Grundorf | 3 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 13 | Julius Arik Weber | 4 | 3 | 0 | 0 | 1 | 1 | 0 |
 | 2 | Tom Fey | 4 | 3 | 0 | 0 | 1 | 0 | 0 |
 | 14 | Jerik Wittemeier | 4 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 17 | Justus Brölhorst | 2 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Stephan Hannig | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Christian Schnabel | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Muhamed Komic | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | Jonah Hannig | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Ilja Wasilijew | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 22 | Mats Lias Völler | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Maximilian Adrian Sundermeier | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 5 | Lukas Wöhlecke | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Henning Tiemann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 7 | Finn Luca Pieper | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Arne Lamkemeier | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Joris Raulwing | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Friedrich Lückemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Daniel Kuckuck | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Jafarian Radmehr | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Alessandro Grabert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Robin Kristahn | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | David Suckau | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Lenni Jonathan Lanfermann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Felix Hackmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -815,7 +815,7 @@ Alle 67 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # D1 (Team-ID 87727)
-Quelle: handball.net, abgerufen am 29.10.2026 21:16
+Quelle: handball.net, abgerufen am 30.10.2026 12:23
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF männliche D-Jugend Kreisliga (Phase 13744)
@@ -937,6 +937,14 @@ Alle 63 Spiele aller Mannschaften, nach Termin sortiert.
 | 7 | Linus Phileas Boesch | 8 | 9 | 0 | 0 | 1 | 0 | 0 |
 | 4 | Tim Hartmann | 8 | 6 | 0 | 0 | 1 | 0 | 0 |
 | 15 | Jonah Hannig | 6 | 4 | 0 | 0 | 0 | 1 | 0 |
+| 0 | Tino Meyer | 9 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Hannes Moellering | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Maxim Neufeld | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Leland Heer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Fabian Eppli | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Aaron Möller | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Jona Michalik | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Dorde Mikac | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Tim Bunte | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 12 | Simon Daniel Sprenger | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Henry Oleff | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -944,14 +952,6 @@ Alle 63 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Marco Rossol | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Lewin Goddard | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Pepe Altemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Aleksej Bekemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Pascal Heibrock | 9 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Tino Meyer | 9 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Hannes Moellering | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Maxim Neufeld | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Leland Heer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Fabian Eppli | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Aaron Möller | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -969,7 +969,7 @@ Alle 63 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # D2 (Team-ID 87743)
-Quelle: handball.net, abgerufen am 29.10.2026 21:18
+Quelle: handball.net, abgerufen am 30.10.2026 12:24
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF männliche D-Jugend Kreisklasse (Phase 13746)
@@ -999,9 +999,9 @@ Liga/Runde: BIHF männliche D-Jugend Kreisklasse (Phase 13746)
 |---|---|---|---|---|---|---|
 | 8 | So 08.11.2026 15:30 | HTSF SENNE - SG BÜNDE-DÜNNE II | Auswärts | - | ausstehend | SPORTHALLE SENNESTADT-NORD |
 | 9 | Sa 14.11.2026 13:00 | SG BÜNDE-DÜNNE II - JSG BIELEFELD 07 | Heim | - | ausstehend | GYMNASIUM AM MARKT |
+| 7 | Fr 20.11.2026 18:30 | SG BÜNDE-DÜNNE II - TSVE 1890 BIELEFELD | Heim | - | ausstehend | ERICH-GUTENBERG-BERUFSKOLLEG |
 | 10 | Sa 21.11.2026 15:00 | HSG EGB BIELEFELD - SG BÜNDE-DÜNNE II | Auswärts | - | ausstehend | KUHLO-REALSCHULE |
 | 11 | Sa 28.11.2026 14:30 | SG BÜNDE-DÜNNE II - HSG QUELLE/UMMELN | Heim | - | ausstehend | GYMNASIUM AM MARKT |
-| 7 | Fr 04.12.2026 18:30 | SG BÜNDE-DÜNNE II - TSVE 1890 BIELEFELD | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 12 | So 06.12.2026 14:00 | JSG HANDBALL LÖMO II - SG BÜNDE-DÜNNE II | Auswärts | - | ausstehend | GYMNASIUM LöHNE |
 | 13 | Sa 12.12.2026 14:45 | SG BÜNDE-DÜNNE II - JSG ELSE-WIEHEN WÖLFE III | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 
@@ -1030,35 +1030,35 @@ Alle 6 Spiele aller Mannschaften, nach Termin sortiert.
 | 8 | Henry Oleff | 2 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 8 | Lisa Wolz | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 95 | Jona Michalik | 2 | 1 | 0 | 0 | 0 | 0 | 0 |
+| - | Tino Meyer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Hannes Moellering | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Klaas Joris Hofemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Linus Phileas Boesch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Maxim Neufeld | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Leland Heer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Marco Rossol | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Fabian Meyer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 | Emma Wiegand | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Lewin Goddard | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 17 | Aaron Möller | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Aleksej Bekemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Mayla Döring | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Julius Wille | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Tim Bunte | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Friedrich Lückemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 12 | Simon Daniel Sprenger | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Felix Hansch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Tim Hartmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Zoey Kiara Kretschmer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1 | Fabian Eppli | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | Phoebe Bergner | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Mats Kemner | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Lena Herdt | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Anastasia Knaus | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Pascal Heibrock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Dorde Mikac | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Tino Meyer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Hannes Moellering | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Klaas Joris Hofemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
 - DJK BLAU-WEISS BIELEFELD: keine Daten
 - HSG EGB BIELEFELD II: #11 Linus Recker (17 Tore in 4 Spielen), #15 Mats Steinke (12 Tore in 4 Spielen), #5 Jakob Gaus (10 Tore in 3 Spielen), #15 Phil Radzyminski (6 Tore in 1 Spielen), #7 Noah Daube (4 Tore in 1 Spielen)
 - TVC ENGER II: #15 Marten Burmann (11 Tore in 2 Spielen), #14 Rasmus Büscher (9 Tore in 4 Spielen), #5 Noah Schäfer (6 Tore in 1 Spielen), #11 Fiete Leimbrock (5 Tore in 1 Spielen), #2 Jakob Lückingsmeier (5 Tore in 1 Spielen)
-- TG HERFORD: #15 Lennart Nelson Flagmeier (11 Tore in 4 Spielen), #10 Simeon Grün (11 Tore in 3 Spielen), #14 Julian Cors (7 Tore in 4 Spielen), #9 Mia Joline Huwendieck (4 Tore in 3 Spielen), #16 Laura Pracht (2 Tore in 2 Spielen)
+- TG HERFORD: #10 Simeon Grün (11 Tore in 3 Spielen), #15 Lennart Nelson Flagmeier (11 Tore in 4 Spielen), #14 Julian Cors (7 Tore in 4 Spielen), #9 Mia Joline Huwendieck (4 Tore in 3 Spielen), #16 Laura Pracht (2 Tore in 2 Spielen)
 - TUS LEOPOLDSHÖHE: #2 Carl Rasmus Schlepper (16 Tore in 6 Spielen), #11 Louis Rose (14 Tore in 6 Spielen), #16 Marc Kassner (14 Tore in 5 Spielen), #6 Finn Kauther (10 Tore in 5 Spielen), #17 Ben Haakon Babuder (9 Tore in 3 Spielen)
 - HSG QUELLE/UMMELN: #4 Paul Becker (26 Tore in 6 Spielen), #11 Sönke Pagenberg (18 Tore in 6 Spielen), #8 Benjamin Wilhelm Kornblum (15 Tore in 6 Spielen), #14 Emil Rathmann (13 Tore in 6 Spielen), #7 Mats Krause (11 Tore in 5 Spielen)
 - TSV OERLINGHAUSEN II: #4 Adrian Evgenij Schmunk (20 Tore in 13 Spielen), #16 Noah Scott Bollmann (11 Tore in 13 Spielen), #14 Louis Sudmann (8 Tore in 13 Spielen), #5 Tjark Kenai Müller (7 Tore in 13 Spielen), #11 Henri Boer (5 Tore in 13 Spielen)
 - HTSF SENNE: #8 Bent Pachnicke (38 Tore in 7 Spielen), #5 Jannik Beyermann (16 Tore in 7 Spielen), #16 Fiete Witthuhn (10 Tore in 5 Spielen), #11 Matz Sperling (7 Tore in 6 Spielen), #14 Jon Dreves (6 Tore in 6 Spielen)
-- JSG HANDBALL LÖMO II: #20 Paul Polster (36 Tore in 7 Spielen), #9 Bjarne Georg Sketsch (33 Tore in 7 Spielen), #10 Emil Fiebig (21 Tore in 4 Spielen), #14 Henry Kuhlmann (10 Tore in 7 Spielen), #8 Tom Mattis Stelljes (3 Tore in 6 Spielen)
+- JSG HANDBALL LÖMO II: #20 Paul Polster (36 Tore in 7 Spielen), #9 Bjarne Georg Sketsch (33 Tore in 7 Spielen), #10 Emil Fiebig (21 Tore in 4 Spielen), #14 Henry Kuhlmann (10 Tore in 7 Spielen), #4 Leno Maxim Skiba (3 Tore in 5 Spielen)
 - HSG EGB BIELEFELD: #16 Milo Stallmann (59 Tore in 5 Spielen), #9 Matti Schulz (32 Tore in 5 Spielen), #7 Karlson Klaas Ludvig Bent (23 Tore in 5 Spielen), #15 Phil Radzyminski (20 Tore in 5 Spielen), #24 Romeo Böning (17 Tore in 4 Spielen)
 - JSG ELSE-WIEHEN WÖLFE III: #14 Milo Johannes Tapp (25 Tore in 4 Spielen), #4 Charlie-Joel Böhm (12 Tore in 5 Spielen), #16 Bennet Fabert (7 Tore in 1 Spielen), #9 Finn-Elias Block (7 Tore in 4 Spielen), #22 Bjarne Mylius (7 Tore in 1 Spielen)
 - JSG BIELEFELD 07: #14 Noyan Levin Ömür (32 Tore in 5 Spielen), #18 Theo Brockmann (26 Tore in 5 Spielen), #13 Lennart Köper (24 Tore in 5 Spielen), #7 Michael Dick (14 Tore in 4 Spielen), #9 Julian Hartmann (10 Tore in 4 Spielen)
@@ -1067,7 +1067,7 @@ Alle 6 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # E1 (Team-ID 87763)
-Quelle: handball.net, abgerufen am 29.10.2026 21:19
+Quelle: handball.net, abgerufen am 30.10.2026 12:25
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF gemischte E-Jugend Kreisliga (Phase 13747)
@@ -1173,6 +1173,13 @@ Alle 50 Spiele aller Mannschaften, nach Termin sortiert.
 | 10 | Lasse Pieper | 4 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 30 | Lotte Lübbe | 3 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 23 | Paul Alexander Behrensmeier | 3 | 1 | 1 | 1 | 0 | 0 | 0 |
+| - | Hanna Mina Marie Behrensmeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 22 | Milan-Illirian Becker | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Dennis Ladaje | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Noah vom Bruch | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Luca Joel Röper | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Felix Frerich Wolz | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Hermann Larionov | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Jhashvin Thillainathan | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Nico Rossol | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Noah Meise-Reckefuß | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -1181,19 +1188,12 @@ Alle 50 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Pascal Heibrock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 5 | Halil Cünenoglu | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Vera Rjachowskich | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Hanna Mina Marie Behrensmeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 22 | Milan-Illirian Becker | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Dennis Ladaje | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1 | Noah vom Bruch | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Luca Joel Röper | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Felix Frerich Wolz | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Hermann Larionov | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
-- JSG Else-Wiehen Wölfe: #22 Bjarne Mylius (34 Tore in 5 Spielen), #38 Thore Mylius (32 Tore in 4 Spielen), #23 Moritz Leimbrock (23 Tore in 5 Spielen), #29 Johan Matheo Siebers (19 Tore in 5 Spielen), #26 Thilo Sprinke (17 Tore in 5 Spielen)
+- JSG Else-Wiehen Wölfe: #22 Bjarne Mylius (34 Tore in 6 Spielen), #38 Thore Mylius (32 Tore in 5 Spielen), #23 Moritz Leimbrock (23 Tore in 6 Spielen), #29 Johan Matheo Siebers (19 Tore in 6 Spielen), #26 Thilo Sprinke (17 Tore in 6 Spielen)
 - TuS 97 Bielefeld/Jöllenbeck: #8 Benedikt Raddatz (30 Tore in 4 Spielen), #5 Tammo Schnee (26 Tore in 4 Spielen), #17 Jona Duderstadt (24 Tore in 4 Spielen), #14 Ben Sieweke (16 Tore in 3 Spielen), #7 Leonard Haag (12 Tore in 4 Spielen)
-- JSG HANDBALL LÖMO: #29 Konstantin Leonard Henke (33 Tore in 4 Spielen), #24 Bjarne Viering (26 Tore in 5 Spielen), #19 Milo Büttner (20 Tore in 5 Spielen), #30 Ben Depping (20 Tore in 4 Spielen), #26 Lasse Elias (11 Tore in 4 Spielen)
+- JSG HANDBALL LÖMO: #29 Konstantin Leonard Henke (33 Tore in 4 Spielen), #24 Bjarne Viering (26 Tore in 5 Spielen), #30 Ben Depping (20 Tore in 4 Spielen), #19 Milo Büttner (20 Tore in 5 Spielen), #26 Lasse Elias (11 Tore in 4 Spielen)
 - HSG QUELLE/UMMELN: #9 Jasper Rohde (22 Tore in 4 Spielen), #16 Lian Mursajew (20 Tore in 4 Spielen), #7 Joscha Dick (8 Tore in 4 Spielen), #10 Lasse Urbat (5 Tore in 4 Spielen), #18 Anton Vogel (3 Tore in 4 Spielen)
 - JSG LENZINGHAUSEN-SPENGE: #7 Hinnerk Nils Grothaus (38 Tore in 6 Spielen), #14 Jarno Thies Hamann (27 Tore in 6 Spielen), #13 Joshua Leano Krain (15 Tore in 5 Spielen), #5 Leonard Alexander Pieper (10 Tore in 6 Spielen), #4 Noah Schmidt (7 Tore in 6 Spielen)
 - VFL HERFORD: #4 Anton Mathias Hallau (36 Tore in 4 Spielen), #6 Jakob Theodor Gröger (33 Tore in 4 Spielen), #3 Ilay Kaan Ünal (17 Tore in 5 Spielen), #20 Luca Hergert (11 Tore in 5 Spielen), #8 Florian Fortmann (10 Tore in 4 Spielen)
@@ -1204,7 +1204,7 @@ Alle 50 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # E2 (Team-ID 87781)
-Quelle: handball.net, abgerufen am 29.10.2026 21:19
+Quelle: handball.net, abgerufen am 30.10.2026 12:26
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Keine Spiele gefunden.
@@ -1212,7 +1212,7 @@ Keine Spiele gefunden.
 ---
 
 # EQ (Team-ID 87805)
-Quelle: handball.net, abgerufen am 29.10.2026 21:20
+Quelle: handball.net, abgerufen am 30.10.2026 12:26
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF E-Querfeld (Phase 13753)
@@ -1376,7 +1376,7 @@ Alle 92 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Minis 1 (Team-ID 87821)
-Quelle: handball.net, abgerufen am 29.10.2026 21:21
+Quelle: handball.net, abgerufen am 30.10.2026 12:27
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -1457,10 +1457,10 @@ Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Nr | Name | Spiele | Tore | davon 7m | 7m-Versuche | Verwarnungen | 2-Min | Disqualifikationen |
 |---|---|---|---|---|---|---|---|---|
-| - | Jonah Holverscheid | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Alexander Salle | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Simon Beckmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Bjoern Ebert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Jonah Holverscheid | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Alexander Salle | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -1490,7 +1490,7 @@ Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Minis 2 (Team-ID 87822)
-Quelle: handball.net, abgerufen am 29.10.2026 21:23
+Quelle: handball.net, abgerufen am 30.10.2026 12:29
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -1603,7 +1603,7 @@ Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # JSGEWWD1 (Team-ID 88860)
-Quelle: handball.net, abgerufen am 29.10.2026 21:23
+Quelle: handball.net, abgerufen am 30.10.2026 12:29
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
