@@ -1,5 +1,5 @@
 # Zweite (Team-ID 83554)
-Quelle: handball.net, abgerufen am 31.10.2026 15:30
+Quelle: handball.net, abgerufen am 31.10.2026 20:15
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga Männer (Phase 12671)
@@ -8,19 +8,19 @@ Liga/Runde: OWL Bezirksliga Männer (Phase 12671)
 
 | Platz | Mannschaft | Spiele | S | U | N | Tore | Diff | Punkte | Form |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | HANDBALL BAD SALZUFLEN 2 | 6 | 5 | 1 | 0 | 169:147 | 22 | 11 | WWWDW |
-| 2 | HSG PORTA WESTFALICA | 5 | 5 | 0 | 0 | 193:135 | 58 | 10 | WWWWW |
+| 1 | HSG PORTA WESTFALICA | 5 | 5 | 0 | 0 | 193:135 | 58 | 10 | WWWWW |
+| 2 | HANDBALL BAD SALZUFLEN 2 | 6 | 5 | 1 | 0 | 169:147 | 22 | 11 | WWWDW |
 | 3 | TUS MÖLLBERGEN 2 | 4 | 3 | 0 | 1 | 121:98 | 23 | 6 | LWWW |
-| 4 | HCE BAD OEYNHAUSEN | 5 | 3 | 0 | 2 | 143:146 | -3 | 6 | WWWLL |
-| 5 | TUS WESTFALIA VLOTHO-UFFELN | 6 | 3 | 0 | 3 | 169:166 | 3 | 6 | LLWWW |
-| 6 | VFL HANDBALL MENNIGHÜFFEN II | 6 | 3 | 0 | 3 | 162:167 | -5 | 6 | WWLLL |
-| 7 | HSG HÜLLHORST | 6 | 3 | 0 | 3 | 148:162 | -14 | 6 | WLLWL |
-| 8 | LIT 1912 IV | 6 | 3 | 0 | 3 | 155:177 | -22 | 6 | LWWWL |
-| 9 | TSV BÖSINGFELD | 4 | 2 | 1 | 1 | 124:112 | 12 | 5 | LWDW |
+| 4 | TSV BÖSINGFELD | 5 | 3 | 1 | 1 | 157:136 | 21 | 7 | LWDWW |
+| 5 | HCE BAD OEYNHAUSEN | 5 | 3 | 0 | 2 | 143:146 | -3 | 6 | WWWLL |
+| 6 | TUS WESTFALIA VLOTHO-UFFELN | 6 | 3 | 0 | 3 | 169:166 | 3 | 6 | LLWWW |
+| 7 | VFL HANDBALL MENNIGHÜFFEN II | 6 | 3 | 0 | 3 | 162:167 | -5 | 6 | WWLLL |
+| 8 | HSG HÜLLHORST | 6 | 3 | 0 | 3 | 148:162 | -14 | 6 | WLLWL |
+| 9 | LIT 1912 IV | 6 | 3 | 0 | 3 | 155:177 | -22 | 6 | LWWWL |
 | 10 | TUSPO Meißen | 5 | 2 | 0 | 3 | 137:139 | -2 | 4 | WLWLL |
 | 11 | SG BÜNDE-DÜNNE II | 5 | 2 | 0 | 3 | 139:145 | -6 | 4 | LLLWW |
 | 12 | HSG HANDBALL LEMGO 3 | 6 | 2 | 0 | 4 | 156:141 | 15 | 4 | WLLWL |
-| 13 | TG HERFORD 1 | 6 | 1 | 0 | 5 | 163:184 | -21 | 2 | LLWLL |
+| 13 | TG HERFORD 1 | 7 | 1 | 0 | 6 | 187:217 | -30 | 2 | LWLLL |
 | 14 | TUS HARTUM | 6 | 0 | 0 | 6 | 157:217 | -60 | 0 | LLLLL |
 
 ## Spielplan (alle Spiele der Saison)
@@ -98,8 +98,8 @@ Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 | 6 | Sa 17.10.2026 19:15 | HSG HANDBALL LEMGO 3 - HANDBALL BAD SALZUFLEN 2 | 22:23 | beendet | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
 | 6 | So 18.10.2026 15:00 | TUS HARTUM - HSG PORTA WESTFALICA | 29:50 | beendet | VERBUNDSCHULE HILLE |
 | 6 | So 18.10.2026 17:00 | TUS MÖLLBERGEN 2 - LIT 1912 IV | 29:23 | beendet | SPARKASSEN-ARENA |
-| 10 | Sa 31.10.2026 17:30 | TSV BÖSINGFELD - TG HERFORD 1 | - | ausstehend | SCHULZENTRUM HACKEMACK |
-| 5 | Sa 31.10.2026 18:30 | HSG PORTA WESTFALICA - TUS MÖLLBERGEN 2 | - | ausstehend | KARL-KRüGER-HALLE |
+| 10 | Sa 31.10.2026 17:30 | TSV BÖSINGFELD - TG HERFORD 1 | 33:24 | beendet | SCHULZENTRUM HACKEMACK |
+| 5 | Sa 31.10.2026 18:30 | HSG PORTA WESTFALICA - TUS MÖLLBERGEN 2 | 34:26 | beendet | KARL-KRüGER-HALLE |
 | 3 | Fr 06.11.2026 20:00 | TSV BÖSINGFELD - TUS MÖLLBERGEN 2 | - | ausstehend | SCHULZENTRUM HACKEMACK |
 | 7 | Sa 07.11.2026 16:45 | VFL HANDBALL MENNIGHÜFFEN II - SG BÜNDE-DÜNNE II | - | ausstehend | N.H.MENNIGHüFFEN |
 | 7 | Sa 07.11.2026 18:30 | HANDBALL BAD SALZUFLEN 2 - HSG HÜLLHORST | - | ausstehend | NEUES SCHULZENTRUM ASPE |
@@ -258,33 +258,33 @@ Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 | 3 | Tim Ahrend | 5 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 8 | Marlo Erdbruegger | 4 | 3 | 0 | 0 | 1 | 2 | 0 |
 | 10 | Nico Mailänder | 1 | 3 | 0 | 0 | 1 | 0 | 0 |
-| 4 | Jonah Holverscheid | 3 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 7 | Tom Schuster | 5 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 34 | Fabian Schaaf | 2 | 2 | 0 | 0 | 0 | 1 | 0 |
+| 4 | Jonah Holverscheid | 3 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 9 | Arne Halstenberg | 1 | 2 | 0 | 0 | 0 | 1 | 0 |
+| 34 | Fabian Schaaf | 2 | 2 | 0 | 0 | 0 | 1 | 0 |
 | 3 | Nico Schneidmiller | 1 | 2 | 0 | 2 | 0 | 0 | 0 |
 | 6 | Dennis Peter | 1 | 1 | 0 | 0 | 0 | 1 | 1 |
 | 9 | Janis Leon Holdmann | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
-| 0 | Raoul Wittemeier | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 0 | Michael Schaaf | 4 | 0 | 0 | 0 | 1 | 0 | 0 |
-| - | Torben Stallmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 21 | Christian Beining | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 5 | Jannes Westerheide | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Dennis Moellering | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Max Kuehn | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Raoul Wittemeier | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 1 | Sebastian Heisig | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 27 | Nils ole Bonus | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 | Malte Nehl | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 22 | Christoph Erdbruegger | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 19 | Erik Ferdinand Meier | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
 - VFL HANDBALL MENNIGHÜFFEN II: #35 Kevin Eickmeier (34 Tore in 5 Spielen), #24 Lennard Fransmeier (34 Tore in 6 Spielen), #4 Tim Oliver Strauch (17 Tore in 5 Spielen), #14 Jannik Brune (16 Tore in 6 Spielen), #44 Andreas Kreft (15 Tore in 6 Spielen)
-- TSV BÖSINGFELD: #3 Hannes Heitkamp (38 Tore in 5 Spielen), #6 Nico Korbach (20 Tore in 4 Spielen), #4 Jakob Meier (12 Tore in 5 Spielen), #44 Timo Schnare (11 Tore in 5 Spielen), #19 Lukas Hoppenberg (9 Tore in 5 Spielen)
+- TSV BÖSINGFELD: #3 Hannes Heitkamp (45 Tore in 6 Spielen), #6 Nico Korbach (23 Tore in 5 Spielen), #44 Timo Schnare (18 Tore in 6 Spielen), #4 Jakob Meier (14 Tore in 6 Spielen), #19 Lukas Hoppenberg (12 Tore in 6 Spielen)
 - HSG HANDBALL LEMGO 3: #11 Anton Schirneker-Reineke (35 Tore in 5 Spielen), #9 Gleb Wiebe (26 Tore in 6 Spielen), #14 Leon Nolte (14 Tore in 6 Spielen), #99 Kornelijus Kausys (12 Tore in 6 Spielen), #22 Lennon Bollmeier (12 Tore in 6 Spielen)
 - TUS WESTFALIA VLOTHO-UFFELN: #17 Liam Heinemann (35 Tore in 5 Spielen), #7 Bastian Endler (31 Tore in 6 Spielen), #10 Louis Huxoll (19 Tore in 3 Spielen), #68 Nicklas Ruhnau (18 Tore in 6 Spielen), #23 Michael Ziemann (12 Tore in 4 Spielen)
 - HANDBALL BAD SALZUFLEN 2: #24 Moritz Sibma (36 Tore in 6 Spielen), #13 Jannik Mader (33 Tore in 6 Spielen), #63 Marcel Heumann (31 Tore in 6 Spielen), #3 Amir Sukurica (17 Tore in 6 Spielen), #22 Phil Ellerbrok (11 Tore in 6 Spielen)
 - HCE BAD OEYNHAUSEN: #14 Tobias Nick (42 Tore in 5 Spielen), #21 Calvin Krone (28 Tore in 4 Spielen), #13 Jannis Josef Han-Voth (15 Tore in 5 Spielen), #11 Lukas Schomburg (14 Tore in 5 Spielen), #31 Armel Rapic (12 Tore in 4 Spielen)
-- TUS MÖLLBERGEN 2: #34 Dustin Streitberger (27 Tore in 4 Spielen), #22 Tim Lennart Kohlmeier (24 Tore in 4 Spielen), #13 Leon Richter (15 Tore in 4 Spielen), #15 Leopold Bantelmann (9 Tore in 4 Spielen), #33 Marten Kollmeier (6 Tore in 4 Spielen)
+- TUS MÖLLBERGEN 2: #34 Dustin Streitberger (27 Tore in 5 Spielen), #22 Tim Lennart Kohlmeier (25 Tore in 5 Spielen), #13 Leon Richter (15 Tore in 5 Spielen), #15 Leopold Bantelmann (9 Tore in 4 Spielen), #33 Marten Kollmeier (6 Tore in 5 Spielen)
 - TUS HARTUM: #5 Till Riechmann (47 Tore in 6 Spielen), #14 Tom-Bennet Lichtenberg (24 Tore in 6 Spielen), #29 Jannis Obst (17 Tore in 6 Spielen), #9 Lucas Wiese (16 Tore in 6 Spielen), #16 Maik Rubin (15 Tore in 6 Spielen)
 - HSG HÜLLHORST: #2 Niklas Depping (32 Tore in 6 Spielen), #24 Jonas Balke (28 Tore in 6 Spielen), #33 Timo Wittkoetter (27 Tore in 5 Spielen), #10 Benedict Els (19 Tore in 6 Spielen), #6 Lenard Tiemann (10 Tore in 5 Spielen)
-- HSG PORTA WESTFALICA: #3 Lukas Jurys (30 Tore in 6 Spielen), #11 Justin Pauser (28 Tore in 6 Spielen), #13 Joost Nottmeier (24 Tore in 6 Spielen), #8 Julian Ekkert (22 Tore in 6 Spielen), #4 Niklas Delius (20 Tore in 5 Spielen)
+- HSG PORTA WESTFALICA: #3 Lukas Jurys (32 Tore in 6 Spielen), #11 Justin Pauser (28 Tore in 6 Spielen), #13 Joost Nottmeier (27 Tore in 6 Spielen), #8 Julian Ekkert (25 Tore in 6 Spielen), #4 Niklas Delius (23 Tore in 5 Spielen)
 - LIT 1912 IV: #23 Dennis Borcherding (45 Tore in 6 Spielen), #17 Tim Westerhoff (33 Tore in 6 Spielen), #2 Kaylen Ralf Kaiser (16 Tore in 5 Spielen), #47 Noah Drees (11 Tore in 5 Spielen), #24 Jonas Hohorst (10 Tore in 4 Spielen)
 - TUSPO Meißen: #6 Liam Nofz (34 Tore in 5 Spielen), #11 Nicolai Burzlaff (17 Tore in 4 Spielen), #8 Jannik Backhaus (15 Tore in 5 Spielen), #96 Marius Ibe (15 Tore in 4 Spielen), #3 John Edwin Braun (12 Tore in 5 Spielen)
-- TG HERFORD 1: #11 Fabian Wittenborn (37 Tore in 6 Spielen), #27 Christian Skusa (31 Tore in 6 Spielen), #8 Levin Hertel (18 Tore in 7 Spielen), #2 Tim Rusnak (14 Tore in 5 Spielen), #3 Nils Keller (13 Tore in 5 Spielen)
+- TG HERFORD 1: #11 Fabian Wittenborn (43 Tore in 6 Spielen), #27 Christian Skusa (31 Tore in 6 Spielen), #2 Tim Rusnak (23 Tore in 5 Spielen), #8 Levin Hertel (22 Tore in 7 Spielen), #4 Pascal Sturhahn (13 Tore in 6 Spielen)

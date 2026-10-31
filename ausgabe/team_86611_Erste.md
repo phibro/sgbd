@@ -1,5 +1,5 @@
 # Erste (Team-ID 86611)
-Quelle: handball.net, abgerufen am 31.10.2026 15:29
+Quelle: handball.net, abgerufen am 31.10.2026 20:14
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
@@ -103,7 +103,7 @@ Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 | 7 | Sa 17.10.2026 18:30 | HANDBALL BAD SALZUFLEN - TUS SPENGE E.V. II | 26:29 | beendet | NEUES SCHULZENTRUM ASPE |
 | 7 | Sa 17.10.2026 19:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - TG HÖRSTE | 33:33 | beendet | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
 | 7 | Sa 17.10.2026 19:30 | TSV Hahlen 1945 e.V. - TuS 09 Möllbergen e.V. | 29:25 | beendet | SPORTHALLE HAHLER FELD |
-| 5 | Sa 31.10.2026 19:00 | HSG Werther/Borgholzhausen - HSG Petershagen/Lahde | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 5 | Sa 31.10.2026 19:00 | HSG Werther/Borgholzhausen - HSG Petershagen/Lahde | 24:17 | LIVE | 429 SPORTHALLE GESAMTSCHULE WERTHER |
 | 8 | Fr 06.11.2026 19:30 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - HSG Werther/Borgholzhausen | - | ausstehend | REALSCHULE JöLLENBECK |
 | 8 | Sa 07.11.2026 17:45 | SG BÜNDE-DÜNNE - HSG Petershagen/Lahde | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | Sa 07.11.2026 18:30 | TV ISSELHORST 1 - TuS 09 Möllbergen e.V. | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
@@ -275,7 +275,7 @@ Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
-- HSG Petershagen/Lahde: #4 Joel Damian Lange (30 Tore in 7 Spielen), #20 Niels Adriaan Fuchs (30 Tore in 7 Spielen), #55 Marten Franke (27 Tore in 7 Spielen), #3 Jonas Schaekel (24 Tore in 7 Spielen), #37 Jannik Ames (17 Tore in 7 Spielen)
+- HSG Petershagen/Lahde: #4 Joel Damian Lange (32 Tore in 7 Spielen), #20 Niels Adriaan Fuchs (30 Tore in 7 Spielen), #55 Marten Franke (27 Tore in 7 Spielen), #3 Jonas Schaekel (24 Tore in 7 Spielen), #2 Fin Lasse Röbke (19 Tore in 5 Spielen)
 - ASV SENDEN E.V.: #7 Luca Kuckhermann (34 Tore in 6 Spielen), #18 Jakob Janssen (31 Tore in 5 Spielen), #21 Matthias Hernzel (25 Tore in 6 Spielen), #77 Erik Meyering (20 Tore in 6 Spielen), #30 Nick Rueddenklau (20 Tore in 6 Spielen)
 - VFL HANDBALL MENNIGHÜFFEN E.V.: #6 Marvin Vieregge (43 Tore in 7 Spielen), #2 Daniel Danowsky (35 Tore in 7 Spielen), #11 Fynn Walter (32 Tore in 7 Spielen), #25 Mats Lennart Rinne (29 Tore in 7 Spielen), #43 Simon Harre (17 Tore in 7 Spielen)
 - TUS BROCKHAGEN: #24 Jan Mescher (22 Tore in 5 Spielen), #4 Till Bzdega (14 Tore in 5 Spielen), #7 Yannick Sonntag (14 Tore in 5 Spielen), #9 Yannec Ergun (12 Tore in 4 Spielen), #21 Jarne Max Mews (10 Tore in 5 Spielen)
@@ -287,4 +287,4 @@ Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III: #6 Aaron Schuette (31 Tore in 5 Spielen), #20 Hagen Viering (23 Tore in 4 Spielen), #71 Michel Anton Schwarz (22 Tore in 7 Spielen), #31 Torben Meinking (16 Tore in 7 Spielen), #19 Paul Scheibe (16 Tore in 3 Spielen)
 - TSV Hahlen 1945 e.V.: #8 Keanu Reimler (47 Tore in 6 Spielen), #7 Marten Kirchhoff (34 Tore in 7 Spielen), #16 Ruven Riechmann (33 Tore in 7 Spielen), #10 Heinrich Maximilian Bredemeier (28 Tore in 6 Spielen), #2 Tjorven Wiese (22 Tore in 6 Spielen)
 - TV ISSELHORST 1: #25 Alexander Wiese (44 Tore in 7 Spielen), #8 Moritz Lünstroth (42 Tore in 7 Spielen), #5 * * (28 Tore in 6 Spielen), #31 Laurin Borren (16 Tore in 7 Spielen), #22 Marlon Walhorn (15 Tore in 7 Spielen)
-- HSG Werther/Borgholzhausen: #24 Fynn Huxohl (29 Tore in 5 Spielen), #11 Jonas Leon Jürgensen (21 Tore in 5 Spielen), #4 Louis Hartmann (18 Tore in 5 Spielen), #33 Jendrik Lakebrink (12 Tore in 5 Spielen), #77 Max Kleinepaehler (11 Tore in 5 Spielen)
+- HSG Werther/Borgholzhausen: #24 Fynn Huxohl (30 Tore in 6 Spielen), #11 Jonas Leon Jürgensen (22 Tore in 6 Spielen), #4 Louis Hartmann (22 Tore in 6 Spielen), #77 Max Kleinepaehler (14 Tore in 6 Spielen), #33 Jendrik Lakebrink (12 Tore in 6 Spielen)

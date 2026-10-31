@@ -1,5 +1,5 @@
 # JSGEWWD1 (Team-ID 88860)
-Quelle: handball.net, abgerufen am 31.10.2026 15:42
+Quelle: handball.net, abgerufen am 31.10.2026 20:27
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
@@ -137,4 +137,4 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 - HSG HANDBALL LEMGO: #3 Maximilian Block (46 Tore in 7 Spielen), #1 Carl Philipp Fröhlich (30 Tore in 5 Spielen), #15 Erik Wolf (16 Tore in 7 Spielen), #12 Moritz Meier (14 Tore in 7 Spielen), #5 Richard Nier (10 Tore in 7 Spielen)
 - JSG Steinhagen-Brockhagen: #5 Carl-Anton Friedrich Ferdinand Ehle (32 Tore in 5 Spielen), #4 Henry Brüggemann (20 Tore in 5 Spielen), #2 Richard von Plato (14 Tore in 4 Spielen), #11 Robin Strauß (11 Tore in 5 Spielen), #10 Jonte Louis Hansen (11 Tore in 5 Spielen)
 - UNION 92 HALLE: #17 Gregor Schlote (25 Tore in 5 Spielen), #3 Denny Menzefricke (22 Tore in 4 Spielen), #11 Jonas Tippe (19 Tore in 5 Spielen), #15 Jakob Tobias Herbke (18 Tore in 5 Spielen), #7 Lukas HInghaus (16 Tore in 5 Spielen)
-- TuS 97 Bielefeld/Jöllenbeck: #60 Frederik Peperkorn (27 Tore in 4 Spielen), #66 Constantin Ziesche (23 Tore in 4 Spielen), #63 Jonte Jarn Fiedler (23 Tore in 4 Spielen), #59 Lennart Sommer (20 Tore in 4 Spielen), #65 Liam Ortmann (16 Tore in 4 Spielen)
+- TuS 97 Bielefeld/Jöllenbeck: #60 Frederik Peperkorn (27 Tore in 4 Spielen), #63 Jonte Jarn Fiedler (23 Tore in 4 Spielen), #66 Constantin Ziesche (23 Tore in 4 Spielen), #59 Lennart Sommer (20 Tore in 4 Spielen), #65 Liam Ortmann (16 Tore in 4 Spielen)
