@@ -118,7 +118,8 @@ def leser():
     """Liest die Teamseiten von handball.net wie ein Besucher (siehe seiten_leser.py)."""
     global _leser_obj
     if _leser_obj is None:
-        _leser_obj = SeitenLeser(SEASON_ID, headless=HEADLESS, pause=PAUSE_SEITE)
+        _leser_obj = SeitenLeser(SEASON_ID, headless=HEADLESS, pause=PAUSE_SEITE,
+                                 datum_von=SAISON_VON, datum_bis=SAISON_BIS)
     return _leser_obj
 
 
@@ -202,7 +203,8 @@ def team_holen(team_id, name):
                   f"({sum(1 for m in neu if (m.get('status') or {}).get('is_finished'))} davon beendet)")
             spiele = spiele + neu
     except Exception as e:
-        print(f"  Liga-Seite für eigene Spiele nicht nutzbar: {e}")
+        leser().log(f"  Liga-Seite für eigene Spiele nicht nutzbar: {e}")
+    leser().log(f"  {name}: Spielplan gesamt: {leser()._zeitraum(spiele)}")
 
     # 2) Tabelle
     print("  Tabelle ...")
