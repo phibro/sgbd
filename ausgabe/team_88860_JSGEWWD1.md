@@ -1,5 +1,5 @@
 # JSGEWWD1 (Team-ID 88860)
-Quelle: handball.net, abgerufen am 31.10.2026 20:27
+Quelle: handball.net, abgerufen am 01.11.2026 00:32
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
@@ -115,7 +115,6 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 | 15 | Lukas Ueckermann | 7 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Finn Obermeier | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Melina Schömer | 5 | 0 | 0 | 0 | 0 | 2 | 0 |
-| - | Thilo Sprinke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1 | Moritz Learner | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Felix Kock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Jonathan Priem | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -128,6 +127,7 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Bruno Stock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Ireoluwa Grace Akiode | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Til Rosenkötter | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Paul Marlon Vahsen | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
