@@ -1,5 +1,5 @@
 # Zweite (Team-ID 83554)
-Quelle: handball.net, abgerufen am 31.10.2026 12:24
+Quelle: handball.net, abgerufen am 31.10.2026 15:30
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga Männer (Phase 12671)
@@ -258,20 +258,20 @@ Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 | 3 | Tim Ahrend | 5 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 8 | Marlo Erdbruegger | 4 | 3 | 0 | 0 | 1 | 2 | 0 |
 | 10 | Nico Mailänder | 1 | 3 | 0 | 0 | 1 | 0 | 0 |
-| 7 | Tom Schuster | 5 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 4 | Jonah Holverscheid | 3 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Arne Halstenberg | 1 | 2 | 0 | 0 | 0 | 1 | 0 |
+| 7 | Tom Schuster | 5 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 34 | Fabian Schaaf | 2 | 2 | 0 | 0 | 0 | 1 | 0 |
+| 9 | Arne Halstenberg | 1 | 2 | 0 | 0 | 0 | 1 | 0 |
 | 3 | Nico Schneidmiller | 1 | 2 | 0 | 2 | 0 | 0 | 0 |
 | 6 | Dennis Peter | 1 | 1 | 0 | 0 | 0 | 1 | 1 |
 | 9 | Janis Leon Holdmann | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
-| 0 | Michael Schaaf | 4 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 0 | Raoul Wittemeier | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 1 | Sebastian Heisig | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 27 | Nils ole Bonus | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Malte Nehl | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 22 | Christoph Erdbruegger | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 19 | Erik Ferdinand Meier | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Michael Schaaf | 4 | 0 | 0 | 0 | 1 | 0 | 0 |
+| - | Torben Stallmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 21 | Christian Beining | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | Jannes Westerheide | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Dennis Moellering | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Max Kuehn | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -287,4 +287,4 @@ Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 - HSG PORTA WESTFALICA: #3 Lukas Jurys (30 Tore in 6 Spielen), #11 Justin Pauser (28 Tore in 6 Spielen), #13 Joost Nottmeier (24 Tore in 6 Spielen), #8 Julian Ekkert (22 Tore in 6 Spielen), #4 Niklas Delius (20 Tore in 5 Spielen)
 - LIT 1912 IV: #23 Dennis Borcherding (45 Tore in 6 Spielen), #17 Tim Westerhoff (33 Tore in 6 Spielen), #2 Kaylen Ralf Kaiser (16 Tore in 5 Spielen), #47 Noah Drees (11 Tore in 5 Spielen), #24 Jonas Hohorst (10 Tore in 4 Spielen)
 - TUSPO Meißen: #6 Liam Nofz (34 Tore in 5 Spielen), #11 Nicolai Burzlaff (17 Tore in 4 Spielen), #8 Jannik Backhaus (15 Tore in 5 Spielen), #96 Marius Ibe (15 Tore in 4 Spielen), #3 John Edwin Braun (12 Tore in 5 Spielen)
-- TG HERFORD 1: #11 Fabian Wittenborn (37 Tore in 6 Spielen), #27 Christian Skusa (31 Tore in 6 Spielen), #8 Levin Hertel (18 Tore in 7 Spielen), #2 Tim Rusnak (14 Tore in 5 Spielen), #3 Nils Keller (13 Tore in 6 Spielen)
+- TG HERFORD 1: #11 Fabian Wittenborn (37 Tore in 6 Spielen), #27 Christian Skusa (31 Tore in 6 Spielen), #8 Levin Hertel (18 Tore in 7 Spielen), #2 Tim Rusnak (14 Tore in 5 Spielen), #3 Nils Keller (13 Tore in 5 Spielen)
