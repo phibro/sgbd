@@ -1,5 +1,5 @@
 # JSGEWWD1 (Team-ID 88860)
-Quelle: handball.net, abgerufen am 30.10.2026 21:04
+Quelle: handball.net, abgerufen am 31.10.2026 12:35
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
@@ -21,6 +21,11 @@ Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 1 | Sa 12.09.2026 14:00 | JSG Else-Wiehen Wölfe - HANDBALL BAD SALZUFLEN | Heim | 28:20 | beendet | SIEGFRIED-MONING-SPORTHALLE |
+| 3 | So 27.09.2026 11:45 | JSG Else-Wiehen Wölfe - JSG Steinhagen-Brockhagen | Heim | 29:33 | beendet | SIEGFRIED-MONING-SPORTHALLE |
+| 4 | So 04.10.2026 14:00 | UNION 92 HALLE - JSG Else-Wiehen Wölfe | Auswärts | 37:25 | beendet | 437 KREISBERUFSSCHULE HALLE |
+| 5 | So 11.10.2026 13:45 | TuS 97 Bielefeld/Jöllenbeck - JSG Else-Wiehen Wölfe | Auswärts | 40:12 | beendet | REALSCHULE JöLLENBECK |
+| 2 | Mo 12.10.2026 17:30 | HSG HANDBALL LEMGO - JSG Else-Wiehen Wölfe | Auswärts | 37:25 | beendet | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
 | 6 | Sa 07.11.2026 14:45 | JSG Else-Wiehen Wölfe - JSG LIT 1912 | Heim | - | ausstehend | SPH GRUNDSCHULE QUERNHEIM |
 | 7 | Sa 14.11.2026 13:00 | TSV GWD MINDEN - JSG Else-Wiehen Wölfe | Auswärts | - | ausstehend | SPORTHALLE MINDEN SüD |
 | 8 | So 29.11.2026 15:45 | HANDBALL BAD SALZUFLEN - JSG Else-Wiehen Wölfe | Auswärts | - | ausstehend | LOHFELD I MIT TRIBüNE |
@@ -33,10 +38,28 @@ Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
 
 ## Spielplan der gesamten Liga (OWL Bezirksliga GEMISCHT  D-Jugend)
 
-Alle 38 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 1 | Sa 12.09.2026 14:00 | JSG Else-Wiehen Wölfe - HANDBALL BAD SALZUFLEN | 28:20 | beendet | SIEGFRIED-MONING-SPORTHALLE |
+| 1 | So 13.09.2026 12:00 | TuS 97 Bielefeld/Jöllenbeck - JSG Steinhagen-Brockhagen | 25:25 | beendet | REALSCHULE JöLLENBECK |
+| 1 | So 13.09.2026 17:00 | JSG LIT 1912 - TSV GWD MINDEN | 23:32 | beendet | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 2 | Sa 19.09.2026 15:00 | JSG Steinhagen-Brockhagen - UNION 92 HALLE | 20:24 | beendet | 453 SPORTHALLE GRUNDSCHULE |
+| 2 | So 20.09.2026 14:15 | HANDBALL BAD SALZUFLEN - JSG LIT 1912 | 21:39 | beendet | LOHFELD I MIT TRIBüNE |
+| 3 | Sa 26.09.2026 13:00 | JSG LIT 1912 - HSG HANDBALL LEMGO | 22:35 | beendet | SPORTHALLE NETTELSTEDT |
+| 3 | Sa 26.09.2026 15:30 | TSV GWD MINDEN - HANDBALL BAD SALZUFLEN | 46:22 | beendet | SPORTHALLE MINDEN SüD |
+| 3 | So 27.09.2026 11:45 | JSG Else-Wiehen Wölfe - JSG Steinhagen-Brockhagen | 29:33 | beendet | SIEGFRIED-MONING-SPORTHALLE |
+| 3 | So 27.09.2026 12:00 | TuS 97 Bielefeld/Jöllenbeck - UNION 92 HALLE | 46:27 | beendet | REALSCHULE JöLLENBECK |
+| 4 | Sa 03.10.2026 13:00 | HSG HANDBALL LEMGO - TSV GWD MINDEN | 37:31 | beendet | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 4 | So 04.10.2026 14:00 | UNION 92 HALLE - JSG Else-Wiehen Wölfe | 37:25 | beendet | 437 KREISBERUFSSCHULE HALLE |
+| 4 | So 04.10.2026 14:00 | HANDBALL BAD SALZUFLEN - TuS 97 Bielefeld/Jöllenbeck | 11:40 | beendet | LOHFELD II OHNE TRIBüNE |
+| 1 | Mi 07.10.2026 18:30 | UNION 92 HALLE - HSG HANDBALL LEMGO | 20:23 | beendet | 436 SPORTHALLE MASCH HALLE II |
+| 5 | Sa 10.10.2026 11:15 | TSV GWD MINDEN - JSG Steinhagen-Brockhagen | 31:30 | beendet | SPORTHALLE MINDEN SüD |
+| 5 | So 11.10.2026 13:45 | TuS 97 Bielefeld/Jöllenbeck - JSG Else-Wiehen Wölfe | 40:12 | beendet | REALSCHULE JöLLENBECK |
+| 5 | So 11.10.2026 15:15 | HANDBALL BAD SALZUFLEN - HSG HANDBALL LEMGO | 18:32 | beendet | LOHFELD I MIT TRIBüNE |
+| 5 | So 11.10.2026 17:00 | JSG LIT 1912 - UNION 92 HALLE | 23:38 | beendet | SPORTHALLE NETTELSTEDT |
+| 2 | Mo 12.10.2026 17:30 | HSG HANDBALL LEMGO - JSG Else-Wiehen Wölfe | 37:25 | beendet | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
 | 6 | Sa 07.11.2026 13:00 | JSG Steinhagen-Brockhagen - HANDBALL BAD SALZUFLEN | - | ausstehend | 420 SCHULZENTRUM STEINHAGEN |
 | 6 | Sa 07.11.2026 14:45 | JSG Else-Wiehen Wölfe - JSG LIT 1912 | - | ausstehend | SPH GRUNDSCHULE QUERNHEIM |
 | 6 | Sa 07.11.2026 16:15 | UNION 92 HALLE - TSV GWD MINDEN | - | ausstehend | 436 SPORTHALLE MASCH HALLE II |
@@ -92,6 +115,7 @@ Alle 38 Spiele aller Mannschaften, nach Termin sortiert.
 | 15 | Lukas Ueckermann | 7 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Finn Obermeier | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Melina Schömer | 5 | 0 | 0 | 0 | 0 | 2 | 0 |
+| - | Thilo Sprinke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1 | Moritz Learner | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Felix Kock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Jonathan Priem | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -104,7 +128,6 @@ Alle 38 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Bruno Stock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Ireoluwa Grace Akiode | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Til Rosenkötter | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Paul Marlon Vahsen | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 

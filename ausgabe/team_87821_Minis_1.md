@@ -1,5 +1,5 @@
 # Minis 1 (Team-ID 87821)
-Quelle: handball.net, abgerufen am 30.10.2026 21:02
+Quelle: handball.net, abgerufen am 31.10.2026 12:33
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -10,6 +10,7 @@ Liga/Runde: BIHF Minis (Phase 13754)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - SG Bünde-Dünne | Auswärts | - | ausstehend | REALSCHULE JöLLENBECK |
 | 6 | So 08.11.2026 13:00 | JSG LENZINGHAUSEN-SPENGE - SG Bünde-Dünne | Auswärts | - | ausstehend | SPORTHALLE LENZINGHAUSEN |
 | 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - SG Bünde-Dünne II | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - JSG Else-Wiehen Wölfe II | Heim | - | ausstehend | GYMNASIUM AM MARKT |
@@ -23,10 +24,23 @@ Liga/Runde: BIHF Minis (Phase 13754)
 
 ## Spielplan der gesamten Liga (BIHF Minis)
 
-Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 62 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 2 | So 13.09.2026 13:00 | JSG Bielefeld 07 - JSG LENZINGHAUSEN-SPENGE | - | ausstehend | SPORTHALLE BRAKE |
+| 3 | Sa 03.10.2026 12:00 | TuS Leopoldhöhe Minis - JSG HANDBALL LÖMO | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
+| 3 | Sa 03.10.2026 12:00 | TuS Leopoldhöhe Minis - JSG HANDBALL LÖMO II | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - SG Bünde-Dünne | - | ausstehend | REALSCHULE JöLLENBECK |
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - TuS 97 Bielefeld/Jöllenbeck II | - | ausstehend | REALSCHULE JöLLENBECK |
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - TSG ALTENHAGEN-HEEPEN | - | ausstehend | REALSCHULE JöLLENBECK |
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - SG Bünde-Dünne II | - | ausstehend | REALSCHULE JöLLENBECK |
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - JSG LENZINGHAUSEN-SPENGE | - | ausstehend | REALSCHULE JöLLENBECK |
+| 4 | So 11.10.2026 11:00 | JSG Else-Wiehen Wölfe - TVC ENGER | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
+| 4 | So 11.10.2026 11:00 | JSG Else-Wiehen Wölfe - VFL HERFORD | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
+| 4 | So 11.10.2026 11:00 | JSG Else-Wiehen Wölfe - JSG Else-Wiehen Wölfe II | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
+| 4 | So 11.10.2026 11:00 | JSG Else-Wiehen Wölfe - JSG Bielefeld 07 II | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
+| 4 | So 11.10.2026 11:00 | JSG Else-Wiehen Wölfe - JSG Bielefeld 07 | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
 | 5 | Sa 07.11.2026 12:00 | TG HERFORD - JSG HANDBALL LÖMO | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 5 | Sa 07.11.2026 12:00 | TG HERFORD - JSG HANDBALL LÖMO II | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 5 | Sa 07.11.2026 12:00 | TG HERFORD - JSG HANDBALL LÖMO III | - | ausstehend | ERNST-BARLACH-REALSCHULE |
@@ -51,9 +65,9 @@ Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
 | 8 | So 06.12.2026 12:00 | VFL HERFORD - TVC ENGER | - | ausstehend | FRIEDRICHS-GYMNASIUM |
 | 8 | So 06.12.2026 12:00 | VFL HERFORD - JSG LENZINGHAUSEN-SPENGE | - | ausstehend | FRIEDRICHS-GYMNASIUM |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - SG Bünde-Dünne | - | ausstehend | GYMNASIUM AM MARKT |
+| 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - TuS 97 Bielefeld/Jöllenbeck | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - HTSF SENNE | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - TuS 97 Bielefeld/Jöllenbeck II | - | ausstehend | GYMNASIUM AM MARKT |
-| 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - TuS 97 Bielefeld/Jöllenbeck | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - TSV Oerlinghausen v. 1863 e.V. | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - JSG HANDBALL LÖMO III | - | ausstehend | GYMNASIUM AM MARKT |
 | 9 | So 14.02.2027 10:30 | TSV Oerlinghausen v. 1863 e.V. - JSG Else-Wiehen Wölfe | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
@@ -63,6 +77,7 @@ Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
 | 10 | So 21.02.2027 10:00 | TVC ENGER - JSG HANDBALL LÖMO II | - | ausstehend | GYMNASIUM ENGER |
 | 10 | So 21.02.2027 10:00 | TVC ENGER - JSG HANDBALL LÖMO III | - | ausstehend | GYMNASIUM ENGER |
 | 10 | So 21.02.2027 10:00 | TVC ENGER - VFL HERFORD | - | ausstehend | GYMNASIUM ENGER |
+| 11 | So 07.03.2027 00:00 | TuS 97 Bielefeld/Jöllenbeck II - TuS 97 Bielefeld/Jöllenbeck | - | ausstehend |  |
 | 11 | So 07.03.2027 00:00 | JSG Else-Wiehen Wölfe II - TVC ENGER | - | ausstehend |  |
 | 11 | So 07.03.2027 00:00 | JSG Else-Wiehen Wölfe II - JSG LENZINGHAUSEN-SPENGE | - | ausstehend |  |
 | 11 | So 07.03.2027 00:00 | JSG Else-Wiehen Wölfe II - JSG Else-Wiehen Wölfe | - | ausstehend |  |
@@ -80,10 +95,10 @@ Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Nr | Name | Spiele | Tore | davon 7m | 7m-Versuche | Verwarnungen | 2-Min | Disqualifikationen |
 |---|---|---|---|---|---|---|---|---|
-| - | Jonah Holverscheid | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Alexander Salle | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Simon Beckmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Bjoern Ebert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Jonah Holverscheid | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Alexander Salle | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -95,16 +110,16 @@ Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
 - JSG HANDBALL LÖMO III: keine Daten
 - JSG Else-Wiehen Wölfe: keine Daten
 - JSG HANDBALL LÖMO II: keine Daten
-- HTSF SENNE: keine Daten
-- TuS 97 Bielefeld/Jöllenbeck II: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck: keine Daten
+- TuS 97 Bielefeld/Jöllenbeck II: keine Daten
+- TSG ALTENHAGEN-HEEPEN: keine Daten
+- HTSF SENNE: keine Daten
 - TSV Oerlinghausen v. 1863 e.V.: keine Daten
 - VFL HERFORD: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck IV: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck III: keine Daten
 - HSG EGB BIELEFELD: keine Daten
+- JSG Bielefeld 07: keine Daten
 - TG HERFORD: keine Daten
 - TuS Leopoldhöhe Minis: keine Daten
 - JSG Bielefeld 07 II: keine Daten
-- JSG Bielefeld 07: keine Daten
-- TSG ALTENHAGEN-HEEPEN: keine Daten

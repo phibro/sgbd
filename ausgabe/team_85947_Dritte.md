@@ -1,5 +1,5 @@
 # Dritte (Team-ID 85947)
-Quelle: handball.net, abgerufen am 30.10.2026 20:55
+Quelle: handball.net, abgerufen am 31.10.2026 12:25
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
@@ -23,6 +23,8 @@ Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 1 | So 13.09.2026 11:00 | SG BÜNDE-DÜNNE III - HSG Spradow 3 | Heim | 32:21 | beendet | GYMNASIUM AM MARKT |
+| 5 | So 11.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck IV - SG BÜNDE-DÜNNE III | Auswärts | 26:33 | beendet | REALSCHULE JöLLENBECK |
 | 6 | So 08.11.2026 11:00 | SG BÜNDE-DÜNNE III - VFL HERFORD II | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 7 | Sa 14.11.2026 16:15 | TUS SPENGE IV - SG BÜNDE-DÜNNE III | Auswärts | - | ausstehend | REALSCHULE SPENGE |
 | 4 | Di 17.11.2026 20:15 | TG SCHILDESCHE - SG BÜNDE-DÜNNE III | Auswärts | - | ausstehend | GESAMTSCHULE SCHILDESCHE |
@@ -42,10 +44,28 @@ Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
 
 ## Spielplan der gesamten Liga (BIHF Männer 1. Kreisklasse)
 
-Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 1 | Sa 12.09.2026 20:00 | TuS 97 Bielefeld/Jöllenbeck IV - TG HERFORD II | 29:31 | beendet | REALSCHULE JöLLENBECK |
+| 1 | So 13.09.2026 10:30 | TG SCHILDESCHE - VFL HANDBALL MENNIGHÜFFEN III | 37:29 | beendet | GESAMTSCHULE SCHILDESCHE |
+| 1 | So 13.09.2026 11:00 | SG BÜNDE-DÜNNE III - HSG Spradow 3 | 32:21 | beendet | GYMNASIUM AM MARKT |
+| 5 | Mo 14.09.2026 20:30 | VFL HERFORD II - TG SCHILDESCHE | 34:28 | beendet | FRIEDRICHS-GYMNASIUM |
+| 1 | Mi 16.09.2026 20:30 | VFL HERFORD II - TSV OERLINGHAUSEN II | 29:23 | beendet | FRIEDRICHS-GYMNASIUM |
+| 2 | Sa 19.09.2026 14:00 | TG HERFORD II - TG SCHILDESCHE | 34:29 | beendet | ERNST-BARLACH-REALSCHULE |
+| 2 | Sa 19.09.2026 16:00 | TSV OERLINGHAUSEN II - TUS SPENGE IV | 28:30 | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 2 | Sa 19.09.2026 18:00 | HSG LÖHNE-OBERNBECK - TuS 97 Bielefeld/Jöllenbeck IV | 26:20 | beendet | GYMNASIUM LöHNE |
+| 2 | So 20.09.2026 00:00 | HSG Spradow 3 - VFL HERFORD II | - | ausstehend | SPORTHALLE SPRADOW |
+| 3 | Sa 26.09.2026 12:30 | TuS 97 Bielefeld/Jöllenbeck IV - TG SCHILDESCHE | 18:21 | beendet | REALSCHULE JöLLENBECK |
+| 3 | Sa 26.09.2026 16:15 | TUS SPENGE IV - HSG Spradow 3 | 27:21 | beendet | REALSCHULE SPENGE |
+| 3 | Sa 26.09.2026 16:30 | VFL HERFORD II - VFL HANDBALL MENNIGHÜFFEN III | 35:27 | beendet | KREISSPORTHALLE HERMANNSTRAßE |
+| 3 | So 27.09.2026 18:00 | HSG LÖHNE-OBERNBECK - TSV OERLINGHAUSEN II | 20:27 | beendet | GYMNASIUM LöHNE |
+| 4 | So 04.10.2026 00:00 | VFL HANDBALL MENNIGHÜFFEN III - TUS SPENGE IV | - | ausstehend | N.H.MENNIGHüFFEN |
+| 5 | Sa 10.10.2026 18:30 | HSG LÖHNE-OBERNBECK - VFL HANDBALL MENNIGHÜFFEN III | 28:26 | beendet | GYMNASIUM LöHNE |
+| 5 | So 11.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck IV - SG BÜNDE-DÜNNE III | 26:33 | beendet | REALSCHULE JöLLENBECK |
+| 5 | Mi 14.10.2026 20:30 | TUS SPENGE IV - TG HERFORD II | 32:21 | beendet | REALSCHULE SPENGE |
+| 1 | Sa 24.10.2026 18:00 | TUS SPENGE IV - HSG LÖHNE-OBERNBECK | 22:17 | beendet | REALSCHULE SPENGE |
 | 6 | Sa 07.11.2026 14:45 | VFL HANDBALL MENNIGHÜFFEN III - TSV OERLINGHAUSEN II | - | ausstehend | N.H.MENNIGHüFFEN |
 | 6 | Sa 07.11.2026 18:00 | TG HERFORD II - HSG LÖHNE-OBERNBECK | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 6 | So 08.11.2026 00:00 | HSG Spradow 3 - TuS 97 Bielefeld/Jöllenbeck IV | - | beendet | SPORTHALLE SPRADOW |

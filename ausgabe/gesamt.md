@@ -1,5 +1,5 @@
 # Erste (Team-ID 86611)
-Quelle: handball.net, abgerufen am 30.10.2026 20:54
+Quelle: handball.net, abgerufen am 31.10.2026 12:22
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
@@ -27,6 +27,13 @@ Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 1 | So 06.09.2026 16:00 | TUS SPENGE E.V. II - SG BÜNDE-DÜNNE | Auswärts | 39:32 | beendet | REALSCHULE SPENGE |
+| 2 | So 13.09.2026 17:00 | SG BÜNDE-DÜNNE - VFL HANDBALL MENNIGHÜFFEN E.V. | Heim | 28:33 | beendet | GYMNASIUM AM MARKT |
+| 3 | Sa 19.09.2026 18:30 | HANDBALL BAD SALZUFLEN - SG BÜNDE-DÜNNE | Auswärts | 37:31 | beendet | NEUES SCHULZENTRUM ASPE |
+| 4 | Sa 26.09.2026 17:45 | SG BÜNDE-DÜNNE - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | Heim | 36:30 | beendet | GYMNASIUM AM MARKT |
+| 5 | Fr 02.10.2026 20:00 | TSV Hahlen 1945 e.V. - SG BÜNDE-DÜNNE | Auswärts | 43:28 | beendet | SPORTHALLE HAHLER FELD |
+| 6 | So 11.10.2026 17:00 | SG BÜNDE-DÜNNE - TV ISSELHORST 1 | Heim | 29:29 | beendet | GYMNASIUM AM MARKT |
+| 7 | Fr 16.10.2026 20:00 | HSG Werther/Borgholzhausen - SG BÜNDE-DÜNNE | Auswärts | 24:31 | beendet | 429 SPORTHALLE GESAMTSCHULE WERTHER |
 | 8 | Sa 07.11.2026 17:45 | SG BÜNDE-DÜNNE - HSG Petershagen/Lahde | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 9 | So 15.11.2026 17:00 | ASV SENDEN E.V. - SG BÜNDE-DÜNNE | Auswärts | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
 | 15 | So 22.11.2026 18:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - SG BÜNDE-DÜNNE | Auswärts | - | ausstehend | N.H.MENNIGHüFFEN |
@@ -49,11 +56,192 @@ Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
 
 ## Spielplan der gesamten Liga (Oberliga MÄNNLICH)
 
-Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 1 | Sa 05.09.2026 15:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - ASV SENDEN E.V. | 28:25 | beendet | N.H.MENNIGHüFFEN |
+| 1 | Sa 05.09.2026 16:30 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - HSG Werther/Borgholzhausen | 32:31 | beendet | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 1 | Sa 05.09.2026 17:00 | TUS BROCKHAGEN - TuS 09 Möllbergen e.V. | 30:26 | beendet | 453 SPORTHALLE GRUNDSCHULE |
+| 1 | Sa 05.09.2026 18:30 | HANDBALL BAD SALZUFLEN - HSG Petershagen/Lahde | 38:28 | beendet | NEUES SCHULZENTRUM ASPE |
+| 1 | Sa 05.09.2026 19:30 | TSV Hahlen 1945 e.V. - TV ISSELHORST 1 | 27:22 | beendet | SPORTHALLE HAHLER FELD |
+| 1 | So 06.09.2026 16:00 | TUS SPENGE E.V. II - SG BÜNDE-DÜNNE | 39:32 | beendet | REALSCHULE SPENGE |
+| 2 | Fr 11.09.2026 19:30 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - TUS SPENGE E.V. II | 23:23 | beendet | REALSCHULE JöLLENBECK |
+| 2 | Sa 12.09.2026 18:30 | TV ISSELHORST 1 - TUS BROCKHAGEN | 32:26 | beendet | 421 NEUE SPORTHALLE ISSELHORST |
+| 2 | Sa 12.09.2026 19:15 | HSG Werther/Borgholzhausen - TSV Hahlen 1945 e.V. | 19:34 | beendet | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 2 | So 13.09.2026 17:00 | SG BÜNDE-DÜNNE - VFL HANDBALL MENNIGHÜFFEN E.V. | 28:33 | beendet | GYMNASIUM AM MARKT |
+| 2 | So 13.09.2026 17:00 | HSG Petershagen/Lahde - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | 45:30 | beendet | WESER-HALLE LAHDE |
+| 3 | Fr 18.09.2026 20:00 | TSV Hahlen 1945 e.V. - HSG Petershagen/Lahde | 42:25 | beendet | SPORTHALLE HAHLER FELD |
+| 3 | Sa 19.09.2026 18:30 | HANDBALL BAD SALZUFLEN - SG BÜNDE-DÜNNE | 37:31 | beendet | NEUES SCHULZENTRUM ASPE |
+| 3 | Sa 19.09.2026 18:30 | TV ISSELHORST 1 - HSG Werther/Borgholzhausen | 37:24 | beendet | 421 NEUE SPORTHALLE ISSELHORST |
+| 3 | Sa 19.09.2026 19:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - TuS 97 Bielefeld/Jöllenbeck Herren 1 | 23:29 | beendet | N.H.MENNIGHüFFEN |
+| 3 | So 20.09.2026 17:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - ASV SENDEN E.V. | 24:37 | beendet | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 3 | So 20.09.2026 17:00 | TUS SPENGE E.V. II - TuS 09 Möllbergen e.V. | 33:23 | beendet | REALSCHULE SPENGE |
+| 4 | Fr 25.09.2026 20:00 | TG HÖRSTE - TUS SPENGE E.V. II | 34:38 | beendet | 434 SPORTHALLE MASCH HALLE I |
+| 4 | Sa 26.09.2026 17:45 | SG BÜNDE-DÜNNE - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | 36:30 | beendet | GYMNASIUM AM MARKT |
+| 4 | Sa 26.09.2026 18:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - HANDBALL BAD SALZUFLEN | 26:25 | beendet | REALSCHULE JöLLENBECK |
+| 4 | Sa 26.09.2026 19:00 | HSG Petershagen/Lahde - TV ISSELHORST 1 | 32:36 | beendet | WESER-HALLE LAHDE |
+| 4 | So 27.09.2026 17:00 | ASV SENDEN E.V. - TSV Hahlen 1945 e.V. | 29:37 | beendet | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 4 | So 27.09.2026 17:00 | TuS 09 Möllbergen e.V. - VFL HANDBALL MENNIGHÜFFEN E.V. | 28:25 | beendet | SPARKASSEN-ARENA |
+| 5 | Fr 02.10.2026 20:00 | TSV Hahlen 1945 e.V. - SG BÜNDE-DÜNNE | 43:28 | beendet | SPORTHALLE HAHLER FELD |
+| 5 | Sa 03.10.2026 15:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - TuS 97 Bielefeld/Jöllenbeck Herren 1 | 31:28 | beendet | SPORTHALLE NETTELSTEDT |
+| 5 | Sa 03.10.2026 16:15 | HANDBALL BAD SALZUFLEN - TuS 09 Möllbergen e.V. | 45:29 | beendet | NEUES SCHULZENTRUM ASPE |
+| 5 | Sa 03.10.2026 18:30 | TV ISSELHORST 1 - ASV SENDEN E.V. | 33:28 | beendet | 421 NEUE SPORTHALLE ISSELHORST |
+| 5 | Sa 03.10.2026 19:15 | TUS BROCKHAGEN - TUS SPENGE E.V. II | 27:28 | beendet | 453 SPORTHALLE GRUNDSCHULE |
+| 5 | So 04.10.2026 17:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - TG HÖRSTE | 25:28 | beendet | N.H.MENNIGHüFFEN |
+| 6 | Sa 10.10.2026 17:45 | TG HÖRSTE - HANDBALL BAD SALZUFLEN | 27:33 | beendet | 434 SPORTHALLE MASCH HALLE I |
+| 6 | Sa 10.10.2026 18:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - TSV Hahlen 1945 e.V. | 25:28 | beendet | REALSCHULE JöLLENBECK |
+| 6 | Sa 10.10.2026 18:00 | HSG Petershagen/Lahde - TUS BROCKHAGEN | 32:30 | beendet | WESER-HALLE LAHDE |
+| 6 | So 11.10.2026 17:00 | SG BÜNDE-DÜNNE - TV ISSELHORST 1 | 29:29 | beendet | GYMNASIUM AM MARKT |
+| 6 | So 11.10.2026 17:00 | ASV SENDEN E.V. - HSG Werther/Borgholzhausen | 42:24 | beendet | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 6 | So 11.10.2026 17:00 | TuS 09 Möllbergen e.V. - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | 30:25 | beendet | SPARKASSEN-ARENA |
+| 6 | So 11.10.2026 17:00 | TUS SPENGE E.V. II - VFL HANDBALL MENNIGHÜFFEN E.V. | 40:39 | beendet | REALSCHULE SPENGE |
+| 7 | Fr 16.10.2026 19:15 | TUS BROCKHAGEN - VFL HANDBALL MENNIGHÜFFEN E.V. | 25:25 | beendet | 453 SPORTHALLE GRUNDSCHULE |
+| 7 | Fr 16.10.2026 20:00 | HSG Werther/Borgholzhausen - SG BÜNDE-DÜNNE | 24:31 | beendet | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 7 | Sa 17.10.2026 18:00 | HSG Petershagen/Lahde - ASV SENDEN E.V. | 28:35 | beendet | WESER-HALLE LAHDE |
+| 7 | Sa 17.10.2026 18:30 | TV ISSELHORST 1 - TuS 97 Bielefeld/Jöllenbeck Herren 1 | 24:22 | beendet | 421 NEUE SPORTHALLE ISSELHORST |
+| 7 | Sa 17.10.2026 18:30 | HANDBALL BAD SALZUFLEN - TUS SPENGE E.V. II | 26:29 | beendet | NEUES SCHULZENTRUM ASPE |
+| 7 | Sa 17.10.2026 19:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - TG HÖRSTE | 33:33 | beendet | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 7 | Sa 17.10.2026 19:30 | TSV Hahlen 1945 e.V. - TuS 09 Möllbergen e.V. | 29:25 | beendet | SPORTHALLE HAHLER FELD |
 | 5 | Sa 31.10.2026 19:00 | HSG Werther/Borgholzhausen - HSG Petershagen/Lahde | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 8 | Fr 06.11.2026 19:30 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - HSG Werther/Borgholzhausen | - | ausstehend | REALSCHULE JöLLENBECK |
+| 8 | Sa 07.11.2026 17:45 | SG BÜNDE-DÜNNE - HSG Petershagen/Lahde | - | ausstehend | GYMNASIUM AM MARKT |
+| 8 | Sa 07.11.2026 18:30 | TV ISSELHORST 1 - TuS 09 Möllbergen e.V. | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 8 | Sa 07.11.2026 19:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - HANDBALL BAD SALZUFLEN | - | ausstehend | N.H.MENNIGHüFFEN |
+| 8 | Sa 07.11.2026 20:00 | TG HÖRSTE - TSV Hahlen 1945 e.V. | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 8 | So 08.11.2026 17:00 | ASV SENDEN E.V. - TUS BROCKHAGEN | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 8 | So 08.11.2026 17:00 | TUS SPENGE E.V. II - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | REALSCHULE SPENGE |
+| 3 | Di 10.11.2026 20:00 | TUS BROCKHAGEN - TG HÖRSTE | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 9 | Fr 13.11.2026 20:00 | TSV Hahlen 1945 e.V. - TUS SPENGE E.V. II | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 9 | Fr 13.11.2026 20:00 | TV ISSELHORST 1 - TG HÖRSTE | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 9 | Sa 14.11.2026 18:00 | HSG Petershagen/Lahde - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | WESER-HALLE LAHDE |
+| 9 | Sa 14.11.2026 19:15 | TUS BROCKHAGEN - HANDBALL BAD SALZUFLEN | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 9 | So 15.11.2026 17:00 | ASV SENDEN E.V. - SG BÜNDE-DÜNNE | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 9 | So 15.11.2026 17:00 | HSG Werther/Borgholzhausen - TuS 09 Möllbergen e.V. | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 9 | So 15.11.2026 17:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 1 | Fr 20.11.2026 20:00 | TG HÖRSTE - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 15 | So 22.11.2026 18:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - SG BÜNDE-DÜNNE | - | ausstehend | N.H.MENNIGHüFFEN |
+| 2 | So 22.11.2026 18:00 | ASV SENDEN E.V. - HANDBALL BAD SALZUFLEN | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 10 | Fr 27.11.2026 20:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - TSV Hahlen 1945 e.V. | - | ausstehend | N.H.MENNIGHüFFEN |
+| 10 | Fr 27.11.2026 20:00 | TG HÖRSTE - HSG Werther/Borgholzhausen | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 10 | Fr 27.11.2026 20:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - HANDBALL BAD SALZUFLEN | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 10 | Sa 28.11.2026 18:00 | TUS SPENGE E.V. II - TV ISSELHORST 1 | - | ausstehend | REALSCHULE SPENGE |
+| 10 | Sa 28.11.2026 18:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - ASV SENDEN E.V. | - | ausstehend | REALSCHULE JöLLENBECK |
+| 10 | Sa 28.11.2026 18:45 | SG BÜNDE-DÜNNE - TUS BROCKHAGEN | - | ausstehend | GYMNASIUM AM MARKT |
+| 10 | Sa 28.11.2026 19:00 | TuS 09 Möllbergen e.V. - HSG Petershagen/Lahde | - | ausstehend | SPARKASSEN-ARENA |
+| 11 | Sa 05.12.2026 17:00 | TSV Hahlen 1945 e.V. - HANDBALL BAD SALZUFLEN | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 11 | Sa 05.12.2026 17:00 | HSG Werther/Borgholzhausen - TUS SPENGE E.V. II | - | ausstehend | 425 SPORTHALLE GESAMTSCHULE BORGHOLZH. |
+| 11 | Sa 05.12.2026 18:00 | HSG Petershagen/Lahde - TG HÖRSTE | - | ausstehend | WESER-HALLE LAHDE |
+| 11 | Sa 05.12.2026 18:30 | TV ISSELHORST 1 - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 11 | Sa 05.12.2026 18:45 | SG BÜNDE-DÜNNE - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | GYMNASIUM AM MARKT |
+| 11 | Sa 05.12.2026 19:15 | TUS BROCKHAGEN - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 11 | So 06.12.2026 17:00 | ASV SENDEN E.V. - TuS 09 Möllbergen e.V. | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 12 | Fr 11.12.2026 20:30 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - TSV Hahlen 1945 e.V. | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 12 | Sa 12.12.2026 18:00 | TUS SPENGE E.V. II - HSG Petershagen/Lahde | - | ausstehend | REALSCHULE SPENGE |
+| 12 | Sa 12.12.2026 19:00 | TuS 09 Möllbergen e.V. - SG BÜNDE-DÜNNE | - | ausstehend | SPARKASSEN-ARENA |
+| 12 | Sa 12.12.2026 19:15 | TUS BROCKHAGEN - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 12 | Sa 12.12.2026 20:00 | TG HÖRSTE - ASV SENDEN E.V. | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 12 | So 13.12.2026 16:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - HSG Werther/Borgholzhausen | - | ausstehend | N.H.MENNIGHüFFEN |
+| 13 | Fr 18.12.2026 19:00 | HSG Petershagen/Lahde - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | WESER-HALLE LAHDE |
+| 13 | Fr 18.12.2026 20:00 | SG BÜNDE-DÜNNE - TG HÖRSTE | - | ausstehend | GYMNASIUM AM MARKT |
+| 13 | Fr 18.12.2026 20:00 | TSV Hahlen 1945 e.V. - TUS BROCKHAGEN | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 13 | Fr 18.12.2026 20:00 | HSG Werther/Borgholzhausen - HANDBALL BAD SALZUFLEN | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 13 | Sa 19.12.2026 18:30 | TV ISSELHORST 1 - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 13 | So 20.12.2026 17:00 | ASV SENDEN E.V. - TUS SPENGE E.V. II | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 13 | So 20.12.2026 17:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - TuS 09 Möllbergen e.V. | - | ausstehend | REALSCHULE JöLLENBECK |
+| 12 | Fr 15.01.2027 20:00 | HANDBALL BAD SALZUFLEN - TV ISSELHORST 1 | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 4 | Fr 15.01.2027 20:00 | HSG Werther/Borgholzhausen - TUS BROCKHAGEN | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 2 | Fr 15.01.2027 20:00 | TuS 09 Möllbergen e.V. - TG HÖRSTE | - | ausstehend | SPARKASSEN-ARENA |
+| 14 | Fr 22.01.2027 19:30 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - TG HÖRSTE | - | ausstehend | REALSCHULE JöLLENBECK |
+| 14 | Sa 23.01.2027 18:00 | HSG Petershagen/Lahde - HANDBALL BAD SALZUFLEN | - | ausstehend | WESER-HALLE LAHDE |
+| 14 | Sa 23.01.2027 18:30 | TV ISSELHORST 1 - TSV Hahlen 1945 e.V. | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 14 | Sa 23.01.2027 18:45 | SG BÜNDE-DÜNNE - TUS SPENGE E.V. II | - | ausstehend | GYMNASIUM AM MARKT |
+| 14 | Sa 23.01.2027 19:15 | HSG Werther/Borgholzhausen - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | 425 SPORTHALLE GESAMTSCHULE BORGHOLZH. |
+| 14 | So 24.01.2027 17:00 | ASV SENDEN E.V. - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 14 | So 24.01.2027 17:00 | TuS 09 Möllbergen e.V. - TUS BROCKHAGEN | - | ausstehend | SPARKASSEN-ARENA |
+| 15 | Sa 30.01.2027 17:30 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - HSG Petershagen/Lahde | - | ausstehend | SPORTHALLE NETTELSTEDT |
+| 15 | Sa 30.01.2027 18:00 | TG HÖRSTE - TuS 09 Möllbergen e.V. | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 15 | Sa 30.01.2027 18:30 | HANDBALL BAD SALZUFLEN - ASV SENDEN E.V. | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 15 | Sa 30.01.2027 19:15 | TUS BROCKHAGEN - TV ISSELHORST 1 | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 15 | Sa 30.01.2027 19:15 | TUS SPENGE E.V. II - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | REALSCHULE SPENGE |
+| 15 | Sa 30.01.2027 19:30 | TSV Hahlen 1945 e.V. - HSG Werther/Borgholzhausen | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 16 | Fr 05.02.2027 20:00 | TG HÖRSTE - TUS BROCKHAGEN | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 16 | Sa 06.02.2027 17:45 | SG BÜNDE-DÜNNE - HANDBALL BAD SALZUFLEN | - | ausstehend | GYMNASIUM AM MARKT |
+| 16 | Sa 06.02.2027 18:00 | HSG Petershagen/Lahde - TSV Hahlen 1945 e.V. | - | ausstehend | WESER-HALLE LAHDE |
+| 16 | Sa 06.02.2027 18:00 | ASV SENDEN E.V. - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 16 | Sa 06.02.2027 18:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | REALSCHULE JöLLENBECK |
+| 16 | Sa 06.02.2027 19:00 | TuS 09 Möllbergen e.V. - TUS SPENGE E.V. II | - | ausstehend | SPARKASSEN-ARENA |
+| 16 | Sa 06.02.2027 19:30 | HSG Werther/Borgholzhausen - TV ISSELHORST 1 | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 17 | Fr 19.02.2027 20:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - TuS 09 Möllbergen e.V. | - | ausstehend | N.H.MENNIGHüFFEN |
+| 17 | Fr 19.02.2027 20:30 | TUS BROCKHAGEN - HSG Werther/Borgholzhausen | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 17 | Sa 20.02.2027 18:30 | TV ISSELHORST 1 - HSG Petershagen/Lahde | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 17 | Sa 20.02.2027 18:30 | HANDBALL BAD SALZUFLEN - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 17 | Sa 20.02.2027 19:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - SG BÜNDE-DÜNNE | - | ausstehend | SPORTHALLE NETTELSTEDT |
+| 17 | Sa 20.02.2027 19:30 | TSV Hahlen 1945 e.V. - ASV SENDEN E.V. | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 17 | So 21.02.2027 17:00 | TUS SPENGE E.V. II - TG HÖRSTE | - | ausstehend | REALSCHULE SPENGE |
+| 18 | Fr 26.02.2027 20:00 | TG HÖRSTE - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 18 | Sa 27.02.2027 18:00 | HSG Petershagen/Lahde - HSG Werther/Borgholzhausen | - | ausstehend | WESER-HALLE LAHDE |
+| 18 | Sa 27.02.2027 18:00 | TUS SPENGE E.V. II - TUS BROCKHAGEN | - | ausstehend | REALSCHULE SPENGE |
+| 18 | Sa 27.02.2027 18:45 | SG BÜNDE-DÜNNE - TSV Hahlen 1945 e.V. | - | ausstehend | GYMNASIUM AM MARKT |
+| 18 | Sa 27.02.2027 19:00 | TuS 09 Möllbergen e.V. - HANDBALL BAD SALZUFLEN | - | ausstehend | SPARKASSEN-ARENA |
+| 18 | So 28.02.2027 17:00 | ASV SENDEN E.V. - TV ISSELHORST 1 | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 18 | So 28.02.2027 17:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | REALSCHULE JöLLENBECK |
+| 19 | Sa 06.03.2027 18:30 | TV ISSELHORST 1 - SG BÜNDE-DÜNNE | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 19 | Sa 06.03.2027 18:30 | HANDBALL BAD SALZUFLEN - TG HÖRSTE | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 19 | Sa 06.03.2027 19:15 | HSG Werther/Borgholzhausen - ASV SENDEN E.V. | - | ausstehend | 425 SPORTHALLE GESAMTSCHULE BORGHOLZH. |
+| 19 | Sa 06.03.2027 19:15 | TUS BROCKHAGEN - HSG Petershagen/Lahde | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 19 | Sa 06.03.2027 19:30 | TSV Hahlen 1945 e.V. - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 19 | So 07.03.2027 15:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - TuS 09 Möllbergen e.V. | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 19 | So 07.03.2027 16:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - TUS SPENGE E.V. II | - | ausstehend | N.H.MENNIGHüFFEN |
+| 20 | Sa 13.03.2027 18:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - TV ISSELHORST 1 | - | ausstehend | REALSCHULE JöLLENBECK |
+| 20 | Sa 13.03.2027 18:45 | SG BÜNDE-DÜNNE - HSG Werther/Borgholzhausen | - | ausstehend | GYMNASIUM AM MARKT |
+| 20 | Sa 13.03.2027 19:00 | TuS 09 Möllbergen e.V. - TSV Hahlen 1945 e.V. | - | ausstehend | SPARKASSEN-ARENA |
+| 20 | Sa 13.03.2027 20:00 | TG HÖRSTE - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 20 | So 14.03.2027 17:00 | ASV SENDEN E.V. - HSG Petershagen/Lahde | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 20 | So 14.03.2027 17:00 | TUS SPENGE E.V. II - HANDBALL BAD SALZUFLEN | - | ausstehend | REALSCHULE SPENGE |
+| 20 | So 14.03.2027 17:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - TUS BROCKHAGEN | - | ausstehend | N.H.MENNIGHüFFEN |
+| 21 | Sa 20.03.2027 18:00 | HSG Petershagen/Lahde - SG BÜNDE-DÜNNE | - | ausstehend | WESER-HALLE LAHDE |
+| 21 | Sa 20.03.2027 18:30 | HANDBALL BAD SALZUFLEN - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 21 | Sa 20.03.2027 19:00 | TuS 09 Möllbergen e.V. - TV ISSELHORST 1 | - | ausstehend | SPARKASSEN-ARENA |
+| 21 | Sa 20.03.2027 19:15 | HSG Werther/Borgholzhausen - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 21 | Sa 20.03.2027 19:15 | TUS BROCKHAGEN - ASV SENDEN E.V. | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 21 | Sa 20.03.2027 19:30 | TSV Hahlen 1945 e.V. - TG HÖRSTE | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 21 | So 21.03.2027 15:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - TUS SPENGE E.V. II | - | ausstehend | SPORTHALLE NETTELSTEDT |
+| 22 | Fr 09.04.2027 19:30 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - HSG Petershagen/Lahde | - | ausstehend | REALSCHULE JöLLENBECK |
+| 22 | Fr 09.04.2027 20:00 | TG HÖRSTE - TV ISSELHORST 1 | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 22 | Sa 10.04.2027 18:00 | TUS SPENGE E.V. II - TSV Hahlen 1945 e.V. | - | ausstehend | REALSCHULE SPENGE |
+| 22 | Sa 10.04.2027 18:30 | HANDBALL BAD SALZUFLEN - TUS BROCKHAGEN | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 22 | Sa 10.04.2027 18:45 | SG BÜNDE-DÜNNE - ASV SENDEN E.V. | - | ausstehend | GYMNASIUM AM MARKT |
+| 22 | Sa 10.04.2027 19:00 | TuS 09 Möllbergen e.V. - HSG Werther/Borgholzhausen | - | ausstehend | SPARKASSEN-ARENA |
+| 22 | So 11.04.2027 16:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | N.H.MENNIGHüFFEN |
+| 23 | Sa 17.04.2027 18:00 | HSG Petershagen/Lahde - TuS 09 Möllbergen e.V. | - | ausstehend | WESER-HALLE LAHDE |
+| 23 | Sa 17.04.2027 18:30 | TV ISSELHORST 1 - TUS SPENGE E.V. II | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 23 | Sa 17.04.2027 18:30 | HANDBALL BAD SALZUFLEN - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 23 | Sa 17.04.2027 19:15 | TUS BROCKHAGEN - SG BÜNDE-DÜNNE | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 23 | Sa 17.04.2027 19:15 | HSG Werther/Borgholzhausen - TG HÖRSTE | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 23 | Sa 17.04.2027 19:30 | TSV Hahlen 1945 e.V. - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 23 | So 18.04.2027 17:00 | ASV SENDEN E.V. - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 24 | Sa 24.04.2027 17:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - TUS BROCKHAGEN | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 24 | Sa 24.04.2027 18:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - SG BÜNDE-DÜNNE | - | ausstehend | REALSCHULE JöLLENBECK |
+| 24 | Sa 24.04.2027 18:30 | HANDBALL BAD SALZUFLEN - TSV Hahlen 1945 e.V. | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 24 | Sa 24.04.2027 19:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - TV ISSELHORST 1 | - | ausstehend | N.H.MENNIGHüFFEN |
+| 24 | Sa 24.04.2027 19:00 | TuS 09 Möllbergen e.V. - ASV SENDEN E.V. | - | ausstehend | SPARKASSEN-ARENA |
+| 24 | Sa 24.04.2027 19:30 | TG HÖRSTE - HSG Petershagen/Lahde | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 24 | So 25.04.2027 17:00 | TUS SPENGE E.V. II - HSG Werther/Borgholzhausen | - | ausstehend | REALSCHULE SPENGE |
+| 25 | Fr 30.04.2027 19:30 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - TUS BROCKHAGEN | - | ausstehend | REALSCHULE JöLLENBECK |
+| 25 | Sa 01.05.2027 18:00 | HSG Petershagen/Lahde - TUS SPENGE E.V. II | - | ausstehend | WESER-HALLE LAHDE |
+| 25 | Sa 01.05.2027 18:30 | TV ISSELHORST 1 - HANDBALL BAD SALZUFLEN | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 25 | Sa 01.05.2027 19:15 | HSG Werther/Borgholzhausen - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 25 | Sa 01.05.2027 19:30 | TSV Hahlen 1945 e.V. - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 25 | So 02.05.2027 17:00 | SG BÜNDE-DÜNNE - TuS 09 Möllbergen e.V. | - | ausstehend | GYMNASIUM AM MARKT |
+| 25 | So 02.05.2027 17:00 | ASV SENDEN E.V. - TG HÖRSTE | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 26 | Sa 08.05.2027 16:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - TV ISSELHORST 1 | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 26 | Sa 08.05.2027 17:45 | TG HÖRSTE - SG BÜNDE-DÜNNE | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 26 | Sa 08.05.2027 18:00 | TUS SPENGE E.V. II - ASV SENDEN E.V. | - | ausstehend | REALSCHULE SPENGE |
+| 26 | Sa 08.05.2027 18:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - HSG Petershagen/Lahde | - | ausstehend | N.H.MENNIGHüFFEN |
+| 26 | Sa 08.05.2027 18:30 | HANDBALL BAD SALZUFLEN - HSG Werther/Borgholzhausen | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 26 | Sa 08.05.2027 19:00 | TuS 09 Möllbergen e.V. - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | SPARKASSEN-ARENA |
+| 26 | Sa 08.05.2027 19:15 | TUS BROCKHAGEN - TSV Hahlen 1945 e.V. | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
 
 ## Kader und Spielerstatistik (Saison)
 
@@ -87,14 +275,25 @@ Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
-- HSG Werther/Borgholzhausen: #24 Fynn Huxohl (29 Tore in 5 Spielen), #11 Jonas Leon Jürgensen (21 Tore in 5 Spielen), #4 Louis Hartmann (18 Tore in 5 Spielen), #33 Jendrik Lakebrink (12 Tore in 5 Spielen), #77 Max Kleinepaehler (11 Tore in 5 Spielen)
 - HSG Petershagen/Lahde: #4 Joel Damian Lange (30 Tore in 7 Spielen), #20 Niels Adriaan Fuchs (30 Tore in 7 Spielen), #55 Marten Franke (27 Tore in 7 Spielen), #3 Jonas Schaekel (24 Tore in 7 Spielen), #37 Jannik Ames (17 Tore in 7 Spielen)
+- ASV SENDEN E.V.: #7 Luca Kuckhermann (34 Tore in 6 Spielen), #18 Jakob Janssen (31 Tore in 5 Spielen), #21 Matthias Hernzel (25 Tore in 6 Spielen), #77 Erik Meyering (20 Tore in 6 Spielen), #30 Nick Rueddenklau (20 Tore in 6 Spielen)
+- VFL HANDBALL MENNIGHÜFFEN E.V.: #6 Marvin Vieregge (43 Tore in 7 Spielen), #2 Daniel Danowsky (35 Tore in 7 Spielen), #11 Fynn Walter (32 Tore in 7 Spielen), #25 Mats Lennart Rinne (29 Tore in 7 Spielen), #43 Simon Harre (17 Tore in 7 Spielen)
+- TUS BROCKHAGEN: #24 Jan Mescher (22 Tore in 5 Spielen), #4 Till Bzdega (14 Tore in 5 Spielen), #7 Yannick Sonntag (14 Tore in 5 Spielen), #9 Yannec Ergun (12 Tore in 4 Spielen), #21 Jarne Max Mews (10 Tore in 5 Spielen)
+- TuS 97 Bielefeld/Jöllenbeck Herren 1: #13 Dominic Wehmeyer (27 Tore in 5 Spielen), #10 Adrian Boehnke (21 Tore in 5 Spielen), #21 Henning Fynn Koch (19 Tore in 5 Spielen), #24 Tim Lukas Ackermann (16 Tore in 6 Spielen), #34 Jane Tilu Heidemann (10 Tore in 4 Spielen)
+- TuS 09 Möllbergen e.V.: #13 Nils Van Zuetphen (41 Tore in 5 Spielen), #2 William Schlaeger (36 Tore in 6 Spielen), #20 Edwin Lause (16 Tore in 5 Spielen), #34 Dustin Streitberger (13 Tore in 2 Spielen), #19 Lennard Bischoff (11 Tore in 5 Spielen)
+- TG HÖRSTE: #21 Julius Hagemann (39 Tore in 4 Spielen), #30 Silas Burstaedt (19 Tore in 4 Spielen), #71 Silvan Tarner (13 Tore in 3 Spielen), #34 Finn Moritz Niemann (12 Tore in 4 Spielen), #4 Maximilian Schwenker (9 Tore in 4 Spielen)
+- TUS SPENGE E.V. II: #8 Philipp Holtmann (46 Tore in 7 Spielen), #27 Jannick Osha (41 Tore in 7 Spielen), #77 Andrei Astefanii (30 Tore in 7 Spielen), #25 Goswin Poerschke (25 Tore in 7 Spielen), #95 Marc Schindler (19 Tore in 7 Spielen)
+- HANDBALL BAD SALZUFLEN: #10 Nick ter Duis (29 Tore in 5 Spielen), #44 Fynn Sträter (28 Tore in 6 Spielen), #2 Marvin Anzer (22 Tore in 6 Spielen), #21 Marc-Ole Pöppelmeier (21 Tore in 6 Spielen), #5 Tom Ostrop (20 Tore in 6 Spielen)
+- LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III: #6 Aaron Schuette (31 Tore in 5 Spielen), #20 Hagen Viering (23 Tore in 4 Spielen), #71 Michel Anton Schwarz (22 Tore in 7 Spielen), #31 Torben Meinking (16 Tore in 7 Spielen), #19 Paul Scheibe (16 Tore in 3 Spielen)
+- TSV Hahlen 1945 e.V.: #8 Keanu Reimler (47 Tore in 6 Spielen), #7 Marten Kirchhoff (34 Tore in 7 Spielen), #16 Ruven Riechmann (33 Tore in 7 Spielen), #10 Heinrich Maximilian Bredemeier (28 Tore in 6 Spielen), #2 Tjorven Wiese (22 Tore in 6 Spielen)
+- TV ISSELHORST 1: #25 Alexander Wiese (44 Tore in 7 Spielen), #8 Moritz Lünstroth (42 Tore in 7 Spielen), #5 * * (28 Tore in 6 Spielen), #31 Laurin Borren (16 Tore in 7 Spielen), #22 Marlon Walhorn (15 Tore in 7 Spielen)
+- HSG Werther/Borgholzhausen: #24 Fynn Huxohl (29 Tore in 5 Spielen), #11 Jonas Leon Jürgensen (21 Tore in 5 Spielen), #4 Louis Hartmann (18 Tore in 5 Spielen), #33 Jendrik Lakebrink (12 Tore in 5 Spielen), #77 Max Kleinepaehler (11 Tore in 5 Spielen)
 
 
 ---
 
 # Zweite (Team-ID 83554)
-Quelle: handball.net, abgerufen am 30.10.2026 20:55
+Quelle: handball.net, abgerufen am 31.10.2026 12:24
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga Männer (Phase 12671)
@@ -122,6 +321,11 @@ Liga/Runde: OWL Bezirksliga Männer (Phase 12671)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 2 | So 13.09.2026 14:45 | SG BÜNDE-DÜNNE II - HSG HÜLLHORST | Heim | 20:23 | beendet | GYMNASIUM AM MARKT |
+| 3 | So 20.09.2026 17:30 | HSG PORTA WESTFALICA - SG BÜNDE-DÜNNE II | Auswärts | 43:29 | beendet | KARL-KRüGER-HALLE |
+| 4 | So 04.10.2026 17:00 | SG BÜNDE-DÜNNE II - LIT 1912 IV | Heim | 32:34 | beendet | GYMNASIUM AM MARKT |
+| 5 | So 11.10.2026 15:00 | TUSPO Meißen - SG BÜNDE-DÜNNE II | Auswärts | 25:29 | beendet | SPORTHALLE MINDEN SüD |
+| 6 | Sa 17.10.2026 16:30 | SG BÜNDE-DÜNNE II - TG HERFORD 1 | Heim | 29:20 | beendet | GYMNASIUM AM MARKT |
 | 7 | Sa 07.11.2026 16:45 | VFL HANDBALL MENNIGHÜFFEN II - SG BÜNDE-DÜNNE II | Auswärts | - | ausstehend | N.H.MENNIGHüFFEN |
 | 1 | Do 12.11.2026 20:15 | TSV BÖSINGFELD - SG BÜNDE-DÜNNE II | Auswärts | - | ausstehend | SCHULZENTRUM HACKEMACK |
 | 8 | Mo 16.11.2026 20:15 | SG BÜNDE-DÜNNE II - HSG HANDBALL LEMGO 3 | Heim | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
@@ -146,12 +350,192 @@ Liga/Runde: OWL Bezirksliga Männer (Phase 12671)
 
 ## Spielplan der gesamten Liga (OWL Bezirksliga Männer)
 
-Alle 2 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 1 | Fr 04.09.2026 18:30 | HANDBALL BAD SALZUFLEN 2 - TUS MÖLLBERGEN 2 | 31:28 | beendet | NEUES SCHULZENTRUM ASPE |
+| 1 | Sa 05.09.2026 14:30 | LIT 1912 IV - VFL HANDBALL MENNIGHÜFFEN II | 22:31 | beendet | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 1 | So 06.09.2026 12:00 | HSG HÜLLHORST - TUS WESTFALIA VLOTHO-UFFELN | 30:29 | beendet | GESAMTSCHULE HüLLHORST |
+| 1 | So 06.09.2026 15:00 | TUS HARTUM - HCE BAD OEYNHAUSEN | 28:34 | beendet | VERBUNDSCHULE HILLE |
+| 1 | So 06.09.2026 15:00 | TUSPO Meißen - TG HERFORD 1 | 32:30 | beendet | SPORTHALLE MINDEN SüD |
+| 1 | So 06.09.2026 17:30 | HSG PORTA WESTFALICA - HSG HANDBALL LEMGO 3 | 29:22 | beendet | KARL-KRüGER-HALLE |
+| 2 | Fr 11.09.2026 20:30 | TUS MÖLLBERGEN 2 - TUS HARTUM | 37:23 | beendet | SPARKASSEN-ARENA |
+| 2 | Sa 12.09.2026 16:00 | TG HERFORD 1 - HANDBALL BAD SALZUFLEN 2 | 28:31 | beendet | ERNST-BARLACH-REALSCHULE |
+| 2 | Sa 12.09.2026 17:00 | VFL HANDBALL MENNIGHÜFFEN II - TUSPO Meißen | 33:32 | beendet | N.H.MENNIGHüFFEN |
+| 2 | Sa 12.09.2026 18:00 | HSG HANDBALL LEMGO 3 - LIT 1912 IV | 33:14 | beendet | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 2 | Sa 12.09.2026 19:00 | HCE BAD OEYNHAUSEN - TSV BÖSINGFELD | 27:26 | beendet | SCHULZENTRUM NORD EIDINGHAUSEN |
+| 2 | So 13.09.2026 14:45 | SG BÜNDE-DÜNNE II - HSG HÜLLHORST | 20:23 | beendet | GYMNASIUM AM MARKT |
+| 2 | So 13.09.2026 17:30 | HSG PORTA WESTFALICA - TUS WESTFALIA VLOTHO-UFFELN | 35:30 | beendet | KARL-KRüGER-HALLE |
+| 3 | Sa 19.09.2026 16:15 | HANDBALL BAD SALZUFLEN 2 - TUS HARTUM | 31:18 | beendet | NEUES SCHULZENTRUM ASPE |
+| 3 | Sa 19.09.2026 18:00 | TG HERFORD 1 - VFL HANDBALL MENNIGHÜFFEN II | 28:31 | beendet | ERNST-BARLACH-REALSCHULE |
+| 3 | Sa 19.09.2026 19:15 | HSG HÜLLHORST - HCE BAD OEYNHAUSEN | 22:27 | beendet | GESAMTSCHULE HüLLHORST |
+| 3 | So 20.09.2026 15:00 | LIT 1912 IV - TUS WESTFALIA VLOTHO-UFFELN | 28:22 | beendet | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 3 | So 20.09.2026 15:00 | TUSPO Meißen - HSG HANDBALL LEMGO 3 | 25:23 | beendet | SPORTHALLE MINDEN SüD |
+| 3 | So 20.09.2026 17:30 | HSG PORTA WESTFALICA - SG BÜNDE-DÜNNE II | 43:29 | beendet | KARL-KRüGER-HALLE |
+| 4 | Sa 03.10.2026 17:00 | HCE BAD OEYNHAUSEN - HSG PORTA WESTFALICA | 25:36 | beendet | SCHULZENTRUM NORD EIDINGHAUSEN |
+| 4 | Sa 03.10.2026 17:00 | HSG HANDBALL LEMGO 3 - TG HERFORD 1 | 29:30 | beendet | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 4 | Sa 03.10.2026 18:30 | VFL HANDBALL MENNIGHÜFFEN II - HANDBALL BAD SALZUFLEN 2 | 24:26 | beendet | N.H.MENNIGHüFFEN |
+| 4 | Sa 03.10.2026 19:00 | TUS WESTFALIA VLOTHO-UFFELN - TUSPO Meißen | 24:23 | beendet | SCHULZENTRUM VLOTHO 1 |
+| 4 | So 04.10.2026 15:00 | TUS HARTUM - TSV BÖSINGFELD | 35:36 | beendet | VERBUNDSCHULE HILLE |
+| 4 | So 04.10.2026 17:00 | SG BÜNDE-DÜNNE II - LIT 1912 IV | 32:34 | beendet | GYMNASIUM AM MARKT |
+| 4 | So 04.10.2026 17:00 | TUS MÖLLBERGEN 2 - HSG HÜLLHORST | 27:21 | beendet | SPARKASSEN-ARENA |
+| 5 | Sa 10.10.2026 18:30 | HANDBALL BAD SALZUFLEN 2 - TSV BÖSINGFELD | 27:27 | beendet | NEUES SCHULZENTRUM ASPE |
+| 5 | Sa 10.10.2026 19:00 | LIT 1912 IV - HCE BAD OEYNHAUSEN | 34:30 | beendet | SPORTHALLE NETTELSTEDT |
+| 5 | Sa 10.10.2026 19:00 | VFL HANDBALL MENNIGHÜFFEN II - HSG HANDBALL LEMGO 3 | 20:27 | beendet | N.H.MENNIGHüFFEN |
+| 5 | Sa 10.10.2026 19:15 | HSG HÜLLHORST - TUS HARTUM | 29:24 | beendet | GESAMTSCHULE HüLLHORST |
+| 5 | So 11.10.2026 14:00 | TG HERFORD 1 - TUS WESTFALIA VLOTHO-UFFELN | 27:32 | beendet | ERNST-BARLACH-REALSCHULE |
+| 5 | So 11.10.2026 15:00 | TUSPO Meißen - SG BÜNDE-DÜNNE II | 25:29 | beendet | SPORTHALLE MINDEN SüD |
+| 6 | Sa 17.10.2026 16:30 | SG BÜNDE-DÜNNE II - TG HERFORD 1 | 29:20 | beendet | GYMNASIUM AM MARKT |
+| 6 | Sa 17.10.2026 17:30 | TSV BÖSINGFELD - HSG HÜLLHORST | 35:23 | beendet | SCHULZENTRUM HACKEMACK |
+| 6 | Sa 17.10.2026 18:00 | TUS WESTFALIA VLOTHO-UFFELN - VFL HANDBALL MENNIGHÜFFEN II | 32:23 | beendet | SCHULZENTRUM VLOTHO 1 |
+| 6 | Sa 17.10.2026 19:15 | HSG HANDBALL LEMGO 3 - HANDBALL BAD SALZUFLEN 2 | 22:23 | beendet | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 6 | So 18.10.2026 15:00 | TUS HARTUM - HSG PORTA WESTFALICA | 29:50 | beendet | VERBUNDSCHULE HILLE |
+| 6 | So 18.10.2026 17:00 | TUS MÖLLBERGEN 2 - LIT 1912 IV | 29:23 | beendet | SPARKASSEN-ARENA |
 | 10 | Sa 31.10.2026 17:30 | TSV BÖSINGFELD - TG HERFORD 1 | - | ausstehend | SCHULZENTRUM HACKEMACK |
 | 5 | Sa 31.10.2026 18:30 | HSG PORTA WESTFALICA - TUS MÖLLBERGEN 2 | - | ausstehend | KARL-KRüGER-HALLE |
+| 3 | Fr 06.11.2026 20:00 | TSV BÖSINGFELD - TUS MÖLLBERGEN 2 | - | ausstehend | SCHULZENTRUM HACKEMACK |
+| 7 | Sa 07.11.2026 16:45 | VFL HANDBALL MENNIGHÜFFEN II - SG BÜNDE-DÜNNE II | - | ausstehend | N.H.MENNIGHüFFEN |
+| 7 | Sa 07.11.2026 18:30 | HANDBALL BAD SALZUFLEN 2 - HSG HÜLLHORST | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 7 | Sa 07.11.2026 19:00 | HSG HANDBALL LEMGO 3 - TUS WESTFALIA VLOTHO-UFFELN | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 7 | Sa 07.11.2026 20:00 | TG HERFORD 1 - HCE BAD OEYNHAUSEN | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 7 | So 08.11.2026 15:00 | TUSPO Meißen - TUS MÖLLBERGEN 2 | - | ausstehend | HAUPTSCHULE DANKERSEN |
+| 7 | So 08.11.2026 16:00 | LIT 1912 IV - TUS HARTUM | - | ausstehend | SPORTHALLE HOLZHAUSEN |
+| 7 | So 08.11.2026 17:30 | HSG PORTA WESTFALICA - TSV BÖSINGFELD | - | ausstehend | KARL-KRüGER-HALLE |
+| 1 | Do 12.11.2026 20:15 | TSV BÖSINGFELD - SG BÜNDE-DÜNNE II | - | ausstehend | SCHULZENTRUM HACKEMACK |
+| 8 | Sa 14.11.2026 17:00 | HCE BAD OEYNHAUSEN - VFL HANDBALL MENNIGHÜFFEN II | - | ausstehend | SCHULZENTRUM NORD EIDINGHAUSEN |
+| 8 | Sa 14.11.2026 17:30 | TSV BÖSINGFELD - LIT 1912 IV | - | ausstehend | SCHULZENTRUM HACKEMACK |
+| 8 | Sa 14.11.2026 18:00 | TUS WESTFALIA VLOTHO-UFFELN - HANDBALL BAD SALZUFLEN 2 | - | ausstehend | SCHULZENTRUM VLOTHO 1 |
+| 8 | Sa 14.11.2026 19:00 | TUS MÖLLBERGEN 2 - TG HERFORD 1 | - | ausstehend | SPARKASSEN-ARENA |
+| 8 | Sa 14.11.2026 19:15 | HSG HÜLLHORST - HSG PORTA WESTFALICA | - | ausstehend | GESAMTSCHULE HüLLHORST |
+| 8 | So 15.11.2026 16:15 | TUS HARTUM - TUSPO Meißen | - | ausstehend | VERBUNDSCHULE HILLE |
+| 8 | Mo 16.11.2026 20:15 | SG BÜNDE-DÜNNE II - HSG HANDBALL LEMGO 3 | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
+| 9 | Sa 21.11.2026 17:00 | LIT 1912 IV - HSG HÜLLHORST | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 9 | Sa 21.11.2026 17:15 | HSG HANDBALL LEMGO 3 - HCE BAD OEYNHAUSEN | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 9 | Sa 21.11.2026 18:00 | TG HERFORD 1 - TUS HARTUM | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 9 | Sa 21.11.2026 18:00 | VFL HANDBALL MENNIGHÜFFEN II - TUS MÖLLBERGEN 2 | - | ausstehend | N.H.MENNIGHüFFEN |
+| 9 | Sa 21.11.2026 18:15 | TUS WESTFALIA VLOTHO-UFFELN - SG BÜNDE-DÜNNE II | - | ausstehend | SCHULZENTRUM VLOTHO 1 |
+| 9 | Sa 21.11.2026 18:30 | HANDBALL BAD SALZUFLEN 2 - HSG PORTA WESTFALICA | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 9 | Sa 21.11.2026 19:30 | TUSPO Meißen - TSV BÖSINGFELD | - | ausstehend | HAUPTSCHULE DANKERSEN |
+| 10 | Sa 28.11.2026 16:30 | SG BÜNDE-DÜNNE II - HANDBALL BAD SALZUFLEN 2 | - | ausstehend | GYMNASIUM AM MARKT |
+| 10 | Sa 28.11.2026 17:00 | HCE BAD OEYNHAUSEN - TUS WESTFALIA VLOTHO-UFFELN | - | ausstehend | SCHULZENTRUM NORD EIDINGHAUSEN |
+| 10 | Sa 28.11.2026 19:15 | HSG HÜLLHORST - TUSPO Meißen | - | ausstehend | GESAMTSCHULE HüLLHORST |
+| 10 | So 29.11.2026 15:00 | TUS HARTUM - VFL HANDBALL MENNIGHÜFFEN II | - | ausstehend | VERBUNDSCHULE HILLE |
+| 10 | So 29.11.2026 15:00 | TUS MÖLLBERGEN 2 - HSG HANDBALL LEMGO 3 | - | ausstehend | SPARKASSEN-ARENA |
+| 10 | So 29.11.2026 17:30 | HSG PORTA WESTFALICA - LIT 1912 IV | - | ausstehend | KARL-KRüGER-HALLE |
+| 11 | Sa 05.12.2026 16:30 | SG BÜNDE-DÜNNE II - HCE BAD OEYNHAUSEN | - | ausstehend | GYMNASIUM AM MARKT |
+| 11 | Sa 05.12.2026 18:00 | TG HERFORD 1 - HSG HÜLLHORST | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 11 | Sa 05.12.2026 18:15 | TUS WESTFALIA VLOTHO-UFFELN - TUS MÖLLBERGEN 2 | - | ausstehend | SCHULZENTRUM VLOTHO 1 |
+| 11 | Sa 05.12.2026 19:00 | HSG HANDBALL LEMGO 3 - TUS HARTUM | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 11 | Sa 05.12.2026 19:00 | HANDBALL BAD SALZUFLEN 2 - LIT 1912 IV | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 11 | Sa 05.12.2026 19:00 | VFL HANDBALL MENNIGHÜFFEN II - TSV BÖSINGFELD | - | ausstehend | N.H.MENNIGHüFFEN |
+| 11 | So 06.12.2026 15:00 | TUSPO Meißen - HSG PORTA WESTFALICA | - | ausstehend | HAUPTSCHULE DANKERSEN |
+| 12 | Sa 12.12.2026 16:00 | TSV BÖSINGFELD - HSG HANDBALL LEMGO 3 | - | ausstehend | SCHULZENTRUM HACKEMACK |
+| 12 | Sa 12.12.2026 16:45 | HANDBALL BAD SALZUFLEN 2 - HCE BAD OEYNHAUSEN | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 12 | Sa 12.12.2026 17:00 | TUS MÖLLBERGEN 2 - SG BÜNDE-DÜNNE II | - | ausstehend | SPARKASSEN-ARENA |
+| 12 | Sa 12.12.2026 19:00 | LIT 1912 IV - TUSPO Meißen | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 12 | Sa 12.12.2026 19:15 | HSG HÜLLHORST - VFL HANDBALL MENNIGHÜFFEN II | - | ausstehend | GESAMTSCHULE HüLLHORST |
+| 12 | So 13.12.2026 15:00 | TUS HARTUM - TUS WESTFALIA VLOTHO-UFFELN | - | ausstehend | SPORTHALLE HOLZHAUSEN |
+| 12 | So 13.12.2026 17:30 | HSG PORTA WESTFALICA - TG HERFORD 1 | - | ausstehend | KARL-KRüGER-HALLE |
+| 13 | Sa 19.12.2026 14:00 | VFL HANDBALL MENNIGHÜFFEN II - HSG PORTA WESTFALICA | - | ausstehend | N.H.MENNIGHüFFEN |
+| 13 | Sa 19.12.2026 16:30 | SG BÜNDE-DÜNNE II - TUS HARTUM | - | ausstehend | GYMNASIUM AM MARKT |
+| 13 | Sa 19.12.2026 17:00 | HCE BAD OEYNHAUSEN - TUS MÖLLBERGEN 2 | - | ausstehend | SCHULZENTRUM NORD EIDINGHAUSEN |
+| 13 | Sa 19.12.2026 18:00 | TG HERFORD 1 - LIT 1912 IV | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 13 | Sa 19.12.2026 18:15 | TUS WESTFALIA VLOTHO-UFFELN - TSV BÖSINGFELD | - | ausstehend | SCHULZENTRUM VLOTHO 1 |
+| 13 | Sa 19.12.2026 19:15 | HSG HANDBALL LEMGO 3 - HSG HÜLLHORST | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 13 | So 20.12.2026 15:00 | TUSPO Meißen - HANDBALL BAD SALZUFLEN 2 | - | ausstehend | HAUPTSCHULE DANKERSEN |
+| 6 | Do 14.01.2027 19:30 | HCE BAD OEYNHAUSEN - TUSPO Meißen | - | ausstehend | SCHULZENTRUM NORD EIDINGHAUSEN |
+| 14 | Sa 23.01.2027 16:30 | SG BÜNDE-DÜNNE II - TSV BÖSINGFELD | - | ausstehend | GYMNASIUM AM MARKT |
+| 14 | Sa 23.01.2027 17:00 | HCE BAD OEYNHAUSEN - TUS HARTUM | - | ausstehend | SCHULZENTRUM NORD EIDINGHAUSEN |
+| 14 | Sa 23.01.2027 17:00 | TUS MÖLLBERGEN 2 - HANDBALL BAD SALZUFLEN 2 | - | ausstehend | SPARKASSEN-ARENA |
+| 14 | Sa 23.01.2027 18:00 | TUS WESTFALIA VLOTHO-UFFELN - HSG HÜLLHORST | - | ausstehend | SCHULZENTRUM VLOTHO 1 |
+| 14 | Sa 23.01.2027 18:00 | TG HERFORD 1 - TUSPO Meißen | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 14 | Sa 23.01.2027 19:00 | VFL HANDBALL MENNIGHÜFFEN II - LIT 1912 IV | - | ausstehend | N.H.MENNIGHüFFEN |
+| 14 | Sa 23.01.2027 19:00 | HSG HANDBALL LEMGO 3 - HSG PORTA WESTFALICA | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 15 | Fr 29.01.2027 15:00 | TUSPO Meißen - VFL HANDBALL MENNIGHÜFFEN II | - | ausstehend | HAUPTSCHULE DANKERSEN |
+| 15 | Sa 30.01.2027 15:30 | TUS HARTUM - TUS MÖLLBERGEN 2 | - | ausstehend | SPORTHALLE HOLZHAUSEN |
+| 15 | Sa 30.01.2027 15:30 | LIT 1912 IV - HSG HANDBALL LEMGO 3 | - | ausstehend | SPORTHALLE NETTELSTEDT |
+| 15 | Sa 30.01.2027 16:15 | HANDBALL BAD SALZUFLEN 2 - TG HERFORD 1 | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 15 | Sa 30.01.2027 18:15 | TUS WESTFALIA VLOTHO-UFFELN - HSG PORTA WESTFALICA | - | ausstehend | SCHULZENTRUM VLOTHO 1 |
+| 15 | Sa 30.01.2027 19:15 | HSG HÜLLHORST - SG BÜNDE-DÜNNE II | - | ausstehend | GESAMTSCHULE HüLLHORST |
+| 15 | Sa 06.02.2027 17:30 | TSV BÖSINGFELD - HCE BAD OEYNHAUSEN | - | ausstehend | SCHULZENTRUM HACKEMACK |
+| 16 | Sa 13.02.2027 16:30 | SG BÜNDE-DÜNNE II - HSG PORTA WESTFALICA | - | ausstehend |  |
+| 16 | Sa 13.02.2027 17:00 | HCE BAD OEYNHAUSEN - HSG HÜLLHORST | - | ausstehend | SCHULZENTRUM NORD EIDINGHAUSEN |
+| 16 | Sa 13.02.2027 18:00 | HSG HANDBALL LEMGO 3 - TUSPO Meißen | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 16 | Sa 13.02.2027 18:15 | TUS WESTFALIA VLOTHO-UFFELN - LIT 1912 IV | - | ausstehend | SCHULZENTRUM VLOTHO 1 |
+| 16 | Sa 13.02.2027 19:00 | VFL HANDBALL MENNIGHÜFFEN II - TG HERFORD 1 | - | ausstehend | N.H.MENNIGHüFFEN |
+| 16 | So 14.02.2027 15:00 | TUS HARTUM - HANDBALL BAD SALZUFLEN 2 | - | ausstehend | VERBUNDSCHULE HILLE |
+| 16 | So 14.02.2027 17:00 | TUS MÖLLBERGEN 2 - TSV BÖSINGFELD | - | ausstehend | SPARKASSEN-ARENA |
+| 17 | Sa 20.02.2027 16:15 | HANDBALL BAD SALZUFLEN 2 - VFL HANDBALL MENNIGHÜFFEN II | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 17 | Sa 20.02.2027 17:00 | LIT 1912 IV - SG BÜNDE-DÜNNE II | - | ausstehend | SPORTHALLE NETTELSTEDT |
+| 17 | Sa 20.02.2027 17:30 | TSV BÖSINGFELD - TUS HARTUM | - | ausstehend |  |
+| 17 | Sa 20.02.2027 19:15 | HSG HÜLLHORST - TUS MÖLLBERGEN 2 | - | ausstehend | GESAMTSCHULE HüLLHORST |
+| 17 | So 21.02.2027 15:00 | TUSPO Meißen - TUS WESTFALIA VLOTHO-UFFELN | - | ausstehend | HAUPTSCHULE DANKERSEN |
+| 17 | So 21.02.2027 16:00 | TG HERFORD 1 - HSG HANDBALL LEMGO 3 | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 17 | So 21.02.2027 17:30 | HSG PORTA WESTFALICA - HCE BAD OEYNHAUSEN | - | ausstehend | KARL-KRüGER-HALLE |
+| 18 | Sa 27.02.2027 16:30 | SG BÜNDE-DÜNNE II - TUSPO Meißen | - | ausstehend | GYMNASIUM AM MARKT |
+| 18 | Sa 27.02.2027 17:00 | TUS MÖLLBERGEN 2 - HSG PORTA WESTFALICA | - | ausstehend | SPARKASSEN-ARENA |
+| 18 | Sa 27.02.2027 17:00 | HCE BAD OEYNHAUSEN - LIT 1912 IV | - | ausstehend | SCHULZENTRUM NORD EIDINGHAUSEN |
+| 18 | Sa 27.02.2027 17:30 | TSV BÖSINGFELD - HANDBALL BAD SALZUFLEN 2 | - | ausstehend | SCHULZENTRUM HACKEMACK |
+| 18 | Sa 27.02.2027 18:15 | TUS WESTFALIA VLOTHO-UFFELN - TG HERFORD 1 | - | ausstehend | SCHULZENTRUM VLOTHO 1 |
+| 18 | Sa 27.02.2027 19:00 | HSG HANDBALL LEMGO 3 - VFL HANDBALL MENNIGHÜFFEN II | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 18 | So 28.02.2027 15:00 | TUS HARTUM - HSG HÜLLHORST | - | ausstehend | VERBUNDSCHULE HILLE |
+| 19 | Sa 06.03.2027 16:15 | HANDBALL BAD SALZUFLEN 2 - HSG HANDBALL LEMGO 3 | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 19 | Sa 06.03.2027 16:30 | TG HERFORD 1 - SG BÜNDE-DÜNNE II | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 19 | Sa 06.03.2027 18:00 | VFL HANDBALL MENNIGHÜFFEN II - TUS WESTFALIA VLOTHO-UFFELN | - | ausstehend | N.H.MENNIGHüFFEN |
+| 19 | Sa 06.03.2027 19:15 | HSG HÜLLHORST - TSV BÖSINGFELD | - | ausstehend | GESAMTSCHULE HüLLHORST |
+| 19 | So 07.03.2027 13:00 | LIT 1912 IV - TUS MÖLLBERGEN 2 | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 19 | So 07.03.2027 15:00 | TUSPO Meißen - HCE BAD OEYNHAUSEN | - | ausstehend | HAUPTSCHULE DANKERSEN |
+| 19 | So 07.03.2027 17:30 | HSG PORTA WESTFALICA - TUS HARTUM | - | ausstehend | KARL-KRüGER-HALLE |
+| 20 | Sa 13.03.2027 15:00 | TUS MÖLLBERGEN 2 - TUSPO Meißen | - | ausstehend | SPARKASSEN-ARENA |
+| 20 | Sa 13.03.2027 16:30 | SG BÜNDE-DÜNNE II - VFL HANDBALL MENNIGHÜFFEN II | - | ausstehend | GYMNASIUM AM MARKT |
+| 20 | Sa 13.03.2027 17:00 | HCE BAD OEYNHAUSEN - TG HERFORD 1 | - | ausstehend | SCHULZENTRUM NORD EIDINGHAUSEN |
+| 20 | Sa 13.03.2027 17:30 | TSV BÖSINGFELD - HSG PORTA WESTFALICA | - | ausstehend | SCHULZENTRUM HACKEMACK |
+| 20 | Sa 13.03.2027 18:15 | TUS WESTFALIA VLOTHO-UFFELN - HSG HANDBALL LEMGO 3 | - | ausstehend | SCHULZENTRUM VLOTHO 1 |
+| 20 | Sa 13.03.2027 19:15 | HSG HÜLLHORST - HANDBALL BAD SALZUFLEN 2 | - | ausstehend | GESAMTSCHULE HüLLHORST |
+| 20 | So 14.03.2027 15:00 | TUS HARTUM - LIT 1912 IV | - | ausstehend | VERBUNDSCHULE HILLE |
+| 21 | Sa 03.04.2027 16:00 | TG HERFORD 1 - TUS MÖLLBERGEN 2 | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 21 | Sa 03.04.2027 16:30 | HANDBALL BAD SALZUFLEN 2 - TUS WESTFALIA VLOTHO-UFFELN | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 21 | Sa 03.04.2027 18:00 | HSG HANDBALL LEMGO 3 - SG BÜNDE-DÜNNE II | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 21 | Sa 03.04.2027 18:00 | VFL HANDBALL MENNIGHÜFFEN II - HCE BAD OEYNHAUSEN | - | ausstehend | N.H.MENNIGHüFFEN |
+| 21 | Sa 03.04.2027 18:30 | HSG PORTA WESTFALICA - HSG HÜLLHORST | - | ausstehend | KARL-KRüGER-HALLE |
+| 21 | So 04.04.2027 13:00 | LIT 1912 IV - TSV BÖSINGFELD | - | ausstehend | SPORTHALLE HOLZHAUSEN |
+| 21 | So 04.04.2027 15:00 | TUSPO Meißen - TUS HARTUM | - | ausstehend | HAUPTSCHULE DANKERSEN |
+| 22 | Fr 09.04.2027 20:00 | SG BÜNDE-DÜNNE II - TUS WESTFALIA VLOTHO-UFFELN | - | ausstehend | GYMNASIUM AM MARKT |
+| 22 | Sa 10.04.2027 15:00 | TUS MÖLLBERGEN 2 - VFL HANDBALL MENNIGHÜFFEN II | - | ausstehend | SPARKASSEN-ARENA |
+| 22 | Sa 10.04.2027 17:00 | HCE BAD OEYNHAUSEN - HSG HANDBALL LEMGO 3 | - | ausstehend | SCHULZENTRUM NORD EIDINGHAUSEN |
+| 22 | Sa 10.04.2027 17:30 | TSV BÖSINGFELD - TUSPO Meißen | - | ausstehend | SCHULZENTRUM HACKEMACK |
+| 22 | Sa 10.04.2027 19:15 | HSG HÜLLHORST - LIT 1912 IV | - | ausstehend | GESAMTSCHULE HüLLHORST |
+| 22 | So 11.04.2027 15:00 | TUS HARTUM - TG HERFORD 1 | - | ausstehend | VERBUNDSCHULE HILLE |
+| 22 | So 11.04.2027 17:30 | HSG PORTA WESTFALICA - HANDBALL BAD SALZUFLEN 2 | - | ausstehend | KARL-KRüGER-HALLE |
+| 23 | Sa 17.04.2027 16:00 | TG HERFORD 1 - TSV BÖSINGFELD | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 23 | Sa 17.04.2027 16:15 | HANDBALL BAD SALZUFLEN 2 - SG BÜNDE-DÜNNE II | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 23 | Sa 17.04.2027 18:00 | TUS WESTFALIA VLOTHO-UFFELN - HCE BAD OEYNHAUSEN | - | ausstehend | SCHULZENTRUM VLOTHO 1 |
+| 23 | Sa 17.04.2027 18:00 | VFL HANDBALL MENNIGHÜFFEN II - TUS HARTUM | - | ausstehend | N.H.MENNIGHüFFEN |
+| 23 | Sa 17.04.2027 18:00 | HSG HANDBALL LEMGO 3 - TUS MÖLLBERGEN 2 | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 23 | So 18.04.2027 14:00 | LIT 1912 IV - HSG PORTA WESTFALICA | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 23 | So 18.04.2027 15:00 | TUSPO Meißen - HSG HÜLLHORST | - | ausstehend | HAUPTSCHULE DANKERSEN |
+| 24 | Sa 24.04.2027 15:00 | TUS MÖLLBERGEN 2 - TUS WESTFALIA VLOTHO-UFFELN | - | ausstehend | SPARKASSEN-ARENA |
+| 24 | Sa 24.04.2027 15:00 | LIT 1912 IV - HANDBALL BAD SALZUFLEN 2 | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 24 | Sa 24.04.2027 17:00 | HCE BAD OEYNHAUSEN - SG BÜNDE-DÜNNE II | - | ausstehend | SCHULZENTRUM NORD EIDINGHAUSEN |
+| 24 | Sa 24.04.2027 17:30 | TSV BÖSINGFELD - VFL HANDBALL MENNIGHÜFFEN II | - | ausstehend | SCHULZENTRUM HACKEMACK |
+| 24 | Sa 24.04.2027 18:30 | HSG PORTA WESTFALICA - TUSPO Meißen | - | ausstehend | KARL-KRüGER-HALLE |
+| 24 | Sa 24.04.2027 19:15 | HSG HÜLLHORST - TG HERFORD 1 | - | ausstehend | GESAMTSCHULE HüLLHORST |
+| 24 | So 25.04.2027 15:00 | TUS HARTUM - HSG HANDBALL LEMGO 3 | - | ausstehend | VERBUNDSCHULE HILLE |
+| 25 | Sa 01.05.2027 18:00 | VFL HANDBALL MENNIGHÜFFEN II - HSG HÜLLHORST | - | ausstehend | N.H.MENNIGHüFFEN |
+| 25 | Sa 01.05.2027 18:00 | TG HERFORD 1 - HSG PORTA WESTFALICA | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 25 | Sa 01.05.2027 18:15 | TUS WESTFALIA VLOTHO-UFFELN - TUS HARTUM | - | ausstehend | SCHULZENTRUM VLOTHO 1 |
+| 25 | So 02.05.2027 14:45 | SG BÜNDE-DÜNNE II - TUS MÖLLBERGEN 2 | - | ausstehend | GYMNASIUM AM MARKT |
+| 25 | So 02.05.2027 15:00 | TUSPO Meißen - LIT 1912 IV | - | ausstehend | HAUPTSCHULE DANKERSEN |
+| 25 | So 02.05.2027 16:30 | HCE BAD OEYNHAUSEN - HANDBALL BAD SALZUFLEN 2 | - | ausstehend | SCHULZENTRUM NORD EIDINGHAUSEN |
+| 25 | So 02.05.2027 18:00 | HSG HANDBALL LEMGO 3 - TSV BÖSINGFELD | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 26 | Sa 08.05.2027 14:00 | LIT 1912 IV - TG HERFORD 1 | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 26 | Sa 08.05.2027 16:15 | HANDBALL BAD SALZUFLEN 2 - TUSPO Meißen | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 26 | Sa 08.05.2027 17:00 | TUS MÖLLBERGEN 2 - HCE BAD OEYNHAUSEN | - | ausstehend | SPARKASSEN-ARENA |
+| 26 | Sa 08.05.2027 17:00 | HSG PORTA WESTFALICA - VFL HANDBALL MENNIGHÜFFEN II | - | ausstehend | KARL-KRüGER-HALLE |
+| 26 | Sa 08.05.2027 17:30 | TSV BÖSINGFELD - TUS WESTFALIA VLOTHO-UFFELN | - | ausstehend | SCHULZENTRUM HACKEMACK |
+| 26 | Sa 08.05.2027 19:15 | HSG HÜLLHORST - HSG HANDBALL LEMGO 3 | - | ausstehend | GESAMTSCHULE HüLLHORST |
+| 26 | So 09.05.2027 15:00 | TUS HARTUM - SG BÜNDE-DÜNNE II | - | ausstehend | VERBUNDSCHULE HILLE |
 
 ## Kader und Spielerstatistik (Saison)
 
@@ -185,16 +569,25 @@ Alle 2 Spiele aller Mannschaften, nach Termin sortiert.
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
-- TSV BÖSINGFELD: #3 Hannes Heitkamp (38 Tore in 5 Spielen), #6 Nico Korbach (20 Tore in 4 Spielen), #4 Jakob Meier (12 Tore in 5 Spielen), #44 Timo Schnare (11 Tore in 5 Spielen), #15 Nils Schnare (9 Tore in 5 Spielen)
-- TG HERFORD 1: #11 Fabian Wittenborn (37 Tore in 5 Spielen), #27 Christian Skusa (31 Tore in 5 Spielen), #8 Levin Hertel (18 Tore in 6 Spielen), #2 Tim Rusnak (14 Tore in 4 Spielen), #3 Nils Keller (13 Tore in 5 Spielen)
-- HSG PORTA WESTFALICA: #3 Lukas Jurys (30 Tore in 5 Spielen), #11 Justin Pauser (28 Tore in 5 Spielen), #13 Joost Nottmeier (24 Tore in 5 Spielen), #8 Julian Ekkert (22 Tore in 5 Spielen), #4 Niklas Delius (20 Tore in 4 Spielen)
+- VFL HANDBALL MENNIGHÜFFEN II: #35 Kevin Eickmeier (34 Tore in 5 Spielen), #24 Lennard Fransmeier (34 Tore in 6 Spielen), #4 Tim Oliver Strauch (17 Tore in 5 Spielen), #14 Jannik Brune (16 Tore in 6 Spielen), #44 Andreas Kreft (15 Tore in 6 Spielen)
+- TSV BÖSINGFELD: #3 Hannes Heitkamp (38 Tore in 5 Spielen), #6 Nico Korbach (20 Tore in 4 Spielen), #4 Jakob Meier (12 Tore in 5 Spielen), #44 Timo Schnare (11 Tore in 5 Spielen), #19 Lukas Hoppenberg (9 Tore in 5 Spielen)
+- HSG HANDBALL LEMGO 3: #11 Anton Schirneker-Reineke (35 Tore in 5 Spielen), #9 Gleb Wiebe (26 Tore in 6 Spielen), #14 Leon Nolte (14 Tore in 6 Spielen), #99 Kornelijus Kausys (12 Tore in 6 Spielen), #22 Lennon Bollmeier (12 Tore in 6 Spielen)
+- TUS WESTFALIA VLOTHO-UFFELN: #17 Liam Heinemann (35 Tore in 5 Spielen), #7 Bastian Endler (31 Tore in 6 Spielen), #10 Louis Huxoll (19 Tore in 3 Spielen), #68 Nicklas Ruhnau (18 Tore in 6 Spielen), #23 Michael Ziemann (12 Tore in 4 Spielen)
+- HANDBALL BAD SALZUFLEN 2: #24 Moritz Sibma (36 Tore in 6 Spielen), #13 Jannik Mader (33 Tore in 6 Spielen), #63 Marcel Heumann (31 Tore in 6 Spielen), #3 Amir Sukurica (17 Tore in 6 Spielen), #22 Phil Ellerbrok (11 Tore in 6 Spielen)
+- HCE BAD OEYNHAUSEN: #14 Tobias Nick (42 Tore in 5 Spielen), #21 Calvin Krone (28 Tore in 4 Spielen), #13 Jannis Josef Han-Voth (15 Tore in 5 Spielen), #11 Lukas Schomburg (14 Tore in 5 Spielen), #31 Armel Rapic (12 Tore in 4 Spielen)
 - TUS MÖLLBERGEN 2: #34 Dustin Streitberger (27 Tore in 4 Spielen), #22 Tim Lennart Kohlmeier (24 Tore in 4 Spielen), #13 Leon Richter (15 Tore in 4 Spielen), #15 Leopold Bantelmann (9 Tore in 4 Spielen), #33 Marten Kollmeier (6 Tore in 4 Spielen)
+- TUS HARTUM: #5 Till Riechmann (47 Tore in 6 Spielen), #14 Tom-Bennet Lichtenberg (24 Tore in 6 Spielen), #29 Jannis Obst (17 Tore in 6 Spielen), #9 Lucas Wiese (16 Tore in 6 Spielen), #16 Maik Rubin (15 Tore in 6 Spielen)
+- HSG HÜLLHORST: #2 Niklas Depping (32 Tore in 6 Spielen), #24 Jonas Balke (28 Tore in 6 Spielen), #33 Timo Wittkoetter (27 Tore in 5 Spielen), #10 Benedict Els (19 Tore in 6 Spielen), #6 Lenard Tiemann (10 Tore in 5 Spielen)
+- HSG PORTA WESTFALICA: #3 Lukas Jurys (30 Tore in 6 Spielen), #11 Justin Pauser (28 Tore in 6 Spielen), #13 Joost Nottmeier (24 Tore in 6 Spielen), #8 Julian Ekkert (22 Tore in 6 Spielen), #4 Niklas Delius (20 Tore in 5 Spielen)
+- LIT 1912 IV: #23 Dennis Borcherding (45 Tore in 6 Spielen), #17 Tim Westerhoff (33 Tore in 6 Spielen), #2 Kaylen Ralf Kaiser (16 Tore in 5 Spielen), #47 Noah Drees (11 Tore in 5 Spielen), #24 Jonas Hohorst (10 Tore in 4 Spielen)
+- TUSPO Meißen: #6 Liam Nofz (34 Tore in 5 Spielen), #11 Nicolai Burzlaff (17 Tore in 4 Spielen), #8 Jannik Backhaus (15 Tore in 5 Spielen), #96 Marius Ibe (15 Tore in 4 Spielen), #3 John Edwin Braun (12 Tore in 5 Spielen)
+- TG HERFORD 1: #11 Fabian Wittenborn (37 Tore in 6 Spielen), #27 Christian Skusa (31 Tore in 6 Spielen), #8 Levin Hertel (18 Tore in 7 Spielen), #2 Tim Rusnak (14 Tore in 5 Spielen), #3 Nils Keller (13 Tore in 6 Spielen)
 
 
 ---
 
 # Dritte (Team-ID 85947)
-Quelle: handball.net, abgerufen am 30.10.2026 20:55
+Quelle: handball.net, abgerufen am 31.10.2026 12:25
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
@@ -218,6 +611,8 @@ Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 1 | So 13.09.2026 11:00 | SG BÜNDE-DÜNNE III - HSG Spradow 3 | Heim | 32:21 | beendet | GYMNASIUM AM MARKT |
+| 5 | So 11.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck IV - SG BÜNDE-DÜNNE III | Auswärts | 26:33 | beendet | REALSCHULE JöLLENBECK |
 | 6 | So 08.11.2026 11:00 | SG BÜNDE-DÜNNE III - VFL HERFORD II | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 7 | Sa 14.11.2026 16:15 | TUS SPENGE IV - SG BÜNDE-DÜNNE III | Auswärts | - | ausstehend | REALSCHULE SPENGE |
 | 4 | Di 17.11.2026 20:15 | TG SCHILDESCHE - SG BÜNDE-DÜNNE III | Auswärts | - | ausstehend | GESAMTSCHULE SCHILDESCHE |
@@ -237,10 +632,28 @@ Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
 
 ## Spielplan der gesamten Liga (BIHF Männer 1. Kreisklasse)
 
-Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 1 | Sa 12.09.2026 20:00 | TuS 97 Bielefeld/Jöllenbeck IV - TG HERFORD II | 29:31 | beendet | REALSCHULE JöLLENBECK |
+| 1 | So 13.09.2026 10:30 | TG SCHILDESCHE - VFL HANDBALL MENNIGHÜFFEN III | 37:29 | beendet | GESAMTSCHULE SCHILDESCHE |
+| 1 | So 13.09.2026 11:00 | SG BÜNDE-DÜNNE III - HSG Spradow 3 | 32:21 | beendet | GYMNASIUM AM MARKT |
+| 5 | Mo 14.09.2026 20:30 | VFL HERFORD II - TG SCHILDESCHE | 34:28 | beendet | FRIEDRICHS-GYMNASIUM |
+| 1 | Mi 16.09.2026 20:30 | VFL HERFORD II - TSV OERLINGHAUSEN II | 29:23 | beendet | FRIEDRICHS-GYMNASIUM |
+| 2 | Sa 19.09.2026 14:00 | TG HERFORD II - TG SCHILDESCHE | 34:29 | beendet | ERNST-BARLACH-REALSCHULE |
+| 2 | Sa 19.09.2026 16:00 | TSV OERLINGHAUSEN II - TUS SPENGE IV | 28:30 | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 2 | Sa 19.09.2026 18:00 | HSG LÖHNE-OBERNBECK - TuS 97 Bielefeld/Jöllenbeck IV | 26:20 | beendet | GYMNASIUM LöHNE |
+| 2 | So 20.09.2026 00:00 | HSG Spradow 3 - VFL HERFORD II | - | ausstehend | SPORTHALLE SPRADOW |
+| 3 | Sa 26.09.2026 12:30 | TuS 97 Bielefeld/Jöllenbeck IV - TG SCHILDESCHE | 18:21 | beendet | REALSCHULE JöLLENBECK |
+| 3 | Sa 26.09.2026 16:15 | TUS SPENGE IV - HSG Spradow 3 | 27:21 | beendet | REALSCHULE SPENGE |
+| 3 | Sa 26.09.2026 16:30 | VFL HERFORD II - VFL HANDBALL MENNIGHÜFFEN III | 35:27 | beendet | KREISSPORTHALLE HERMANNSTRAßE |
+| 3 | So 27.09.2026 18:00 | HSG LÖHNE-OBERNBECK - TSV OERLINGHAUSEN II | 20:27 | beendet | GYMNASIUM LöHNE |
+| 4 | So 04.10.2026 00:00 | VFL HANDBALL MENNIGHÜFFEN III - TUS SPENGE IV | - | ausstehend | N.H.MENNIGHüFFEN |
+| 5 | Sa 10.10.2026 18:30 | HSG LÖHNE-OBERNBECK - VFL HANDBALL MENNIGHÜFFEN III | 28:26 | beendet | GYMNASIUM LöHNE |
+| 5 | So 11.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck IV - SG BÜNDE-DÜNNE III | 26:33 | beendet | REALSCHULE JöLLENBECK |
+| 5 | Mi 14.10.2026 20:30 | TUS SPENGE IV - TG HERFORD II | 32:21 | beendet | REALSCHULE SPENGE |
+| 1 | Sa 24.10.2026 18:00 | TUS SPENGE IV - HSG LÖHNE-OBERNBECK | 22:17 | beendet | REALSCHULE SPENGE |
 | 6 | Sa 07.11.2026 14:45 | VFL HANDBALL MENNIGHÜFFEN III - TSV OERLINGHAUSEN II | - | ausstehend | N.H.MENNIGHüFFEN |
 | 6 | Sa 07.11.2026 18:00 | TG HERFORD II - HSG LÖHNE-OBERNBECK | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 6 | So 08.11.2026 00:00 | HSG Spradow 3 - TuS 97 Bielefeld/Jöllenbeck IV | - | beendet | SPORTHALLE SPRADOW |
@@ -360,7 +773,7 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Vierte (Team-ID 85963)
-Quelle: handball.net, abgerufen am 30.10.2026 20:56
+Quelle: handball.net, abgerufen am 31.10.2026 12:26
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
@@ -383,6 +796,11 @@ Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 1 | So 13.09.2026 09:00 | SG BÜNDE-DÜNNE IV - VFL HERFORD III | Heim | 20:29 | beendet | GYMNASIUM AM MARKT |
+| 2 | Sa 19.09.2026 18:00 | TV FAW MELBERGEN - SG BÜNDE-DÜNNE IV | Auswärts | 23:28 | beendet | HAUPTSCHULE MELBERGEN |
+| 3 | So 27.09.2026 10:30 | SG BÜNDE-DÜNNE IV - TSVE 1890 BIELEFELD II | Heim | 24:34 | beendet | GYMNASIUM AM MARKT |
+| 4 | So 04.10.2026 11:00 | VFL HANDBALL MENNIGHÜFFEN IV - SG BÜNDE-DÜNNE IV | Auswärts | 23:28 | beendet | N.H.MENNIGHüFFEN |
+| 5 | So 11.10.2026 11:00 | SG BÜNDE-DÜNNE IV - HSG QUELLE/UMMELN II (zurückgez.) | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 6 | So 08.11.2026 16:00 | TSV OERLINGHAUSEN III - SG BÜNDE-DÜNNE IV | Auswärts | - | ausstehend | GRUNDSCHULE OERLINGHAUSEN SüD |
 | 8 | So 29.11.2026 10:30 | SG BÜNDE-DÜNNE IV - DJK BLAU-WEISS BIELEFELD | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 9 | Sa 05.12.2026 16:00 | HSG LÖHNE-OBERNBECK II - SG BÜNDE-DÜNNE IV | Auswärts | - | ausstehend | GYMNASIUM LöHNE |
@@ -397,11 +815,82 @@ Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
 
 ## Spielplan der gesamten Liga (BIHF Männer 3. Kreisklasse)
 
-Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 1 | Sa 12.09.2026 00:00 | HSG QUELLE/UMMELN II (zurückgez.) - TSVE 1890 BIELEFELD II | - | beendet | SPORTHALLE QUELLE |
+| 1 | Sa 12.09.2026 18:00 | TSV OERLINGHAUSEN III - TV FAW MELBERGEN | 33:27 | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 1 | So 13.09.2026 09:00 | SG BÜNDE-DÜNNE IV - VFL HERFORD III | 20:29 | beendet | GYMNASIUM AM MARKT |
+| 2 | Sa 19.09.2026 18:00 | TV FAW MELBERGEN - SG BÜNDE-DÜNNE IV | 23:28 | beendet | HAUPTSCHULE MELBERGEN |
+| 2 | So 20.09.2026 00:00 | VFL HANDBALL MENNIGHÜFFEN IV - HSG QUELLE/UMMELN II (zurückgez.) | - | beendet | N.H.MENNIGHüFFEN |
+| 2 | So 20.09.2026 12:15 | VFL HERFORD III - DJK BLAU-WEISS BIELEFELD | 27:18 | beendet | FRIEDRICHS-GYMNASIUM |
+| 3 | Sa 26.09.2026 16:00 | TSV OERLINGHAUSEN III - VFL HANDBALL MENNIGHÜFFEN IV | 31:23 | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 3 | Sa 26.09.2026 17:30 | DJK BLAU-WEISS BIELEFELD - TV FAW MELBERGEN | 21:20 | beendet | SPORTHALLE STIEGHORST |
+| 3 | So 27.09.2026 10:30 | SG BÜNDE-DÜNNE IV - TSVE 1890 BIELEFELD II | 24:34 | beendet | GYMNASIUM AM MARKT |
+| 3 | So 27.09.2026 16:00 | HSG LÖHNE-OBERNBECK II - VFL HERFORD III | 18:19 | beendet | GYMNASIUM LöHNE |
+| 4 | Sa 03.10.2026 00:00 | HSG QUELLE/UMMELN II (zurückgez.) - TSV OERLINGHAUSEN III | - | beendet | SPORTHALLE QUELLE |
+| 4 | Sa 03.10.2026 16:30 | TSVE 1890 BIELEFELD II - DJK BLAU-WEISS BIELEFELD | 38:15 | beendet | TSVE-SPORTHALLE |
+| 4 | So 04.10.2026 11:00 | VFL HANDBALL MENNIGHÜFFEN IV - SG BÜNDE-DÜNNE IV | 23:28 | beendet | N.H.MENNIGHüFFEN |
+| 4 | So 04.10.2026 16:00 | TV FAW MELBERGEN - HSG LÖHNE-OBERNBECK II | 26:28 | beendet | HAUPTSCHULE MELBERGEN |
+| 5 | Sa 10.10.2026 00:00 | DJK BLAU-WEISS BIELEFELD - VFL HANDBALL MENNIGHÜFFEN IV | - | ausstehend | SPORTHALLE STIEGHORST |
+| 5 | Sa 10.10.2026 16:30 | HSG LÖHNE-OBERNBECK II - TSVE 1890 BIELEFELD II | 30:31 | beendet | GYMNASIUM LöHNE |
+| 5 | So 11.10.2026 00:00 | VFL HERFORD III - TV FAW MELBERGEN | - | ausstehend | KREISSPORTHALLE HERMANNSTRAßE |
+| 5 | So 11.10.2026 11:00 | SG BÜNDE-DÜNNE IV - HSG QUELLE/UMMELN II (zurückgez.) | - | ausstehend | GYMNASIUM AM MARKT |
+| 1 | Mi 14.10.2026 20:15 | DJK BLAU-WEISS BIELEFELD - HSG LÖHNE-OBERNBECK II | 26:31 | beendet | SPORTHALLE STIEGHORST |
 | 2 | Do 29.10.2026 20:00 | TSVE 1890 BIELEFELD II - TSV OERLINGHAUSEN III | 44:31 | beendet | TSVE-SPORTHALLE |
+| 6 | Sa 07.11.2026 00:00 | HSG QUELLE/UMMELN II (zurückgez.) - DJK BLAU-WEISS BIELEFELD | - | ausstehend | SPORTHALLE UMMELN |
+| 6 | Sa 07.11.2026 16:00 | TSVE 1890 BIELEFELD II - VFL HERFORD III | - | ausstehend | TSVE-SPORTHALLE |
+| 6 | So 08.11.2026 11:00 | VFL HANDBALL MENNIGHÜFFEN IV - HSG LÖHNE-OBERNBECK II | - | ausstehend | N.H.MENNIGHüFFEN |
+| 6 | So 08.11.2026 16:00 | TSV OERLINGHAUSEN III - SG BÜNDE-DÜNNE IV | - | ausstehend | GRUNDSCHULE OERLINGHAUSEN SüD |
+| 7 | Sa 14.11.2026 18:00 | DJK BLAU-WEISS BIELEFELD - TSV OERLINGHAUSEN III | - | ausstehend | SPORTHALLE STIEGHORST |
+| 7 | Sa 14.11.2026 18:00 | TV FAW MELBERGEN - TSVE 1890 BIELEFELD II | - | ausstehend | HAUPTSCHULE MELBERGEN |
+| 7 | So 15.11.2026 00:00 | HSG LÖHNE-OBERNBECK II - HSG QUELLE/UMMELN II (zurückgez.) | - | ausstehend | GYMNASIUM LöHNE |
+| 7 | So 15.11.2026 16:30 | VFL HERFORD III - VFL HANDBALL MENNIGHÜFFEN IV | - | ausstehend | FRIEDRICHS-GYMNASIUM |
+| 8 | Sa 28.11.2026 00:00 | HSG QUELLE/UMMELN II (zurückgez.) - VFL HERFORD III | - | ausstehend | SPORTHALLE UMMELN |
+| 8 | So 29.11.2026 10:30 | SG BÜNDE-DÜNNE IV - DJK BLAU-WEISS BIELEFELD | - | ausstehend | GYMNASIUM AM MARKT |
+| 8 | So 29.11.2026 11:00 | VFL HANDBALL MENNIGHÜFFEN IV - TV FAW MELBERGEN | - | ausstehend | N.H.MENNIGHüFFEN |
+| 8 | So 29.11.2026 16:00 | TSV OERLINGHAUSEN III - HSG LÖHNE-OBERNBECK II | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 9 | Sa 05.12.2026 00:00 | TV FAW MELBERGEN - HSG QUELLE/UMMELN II (zurückgez.) | - | ausstehend | HAUPTSCHULE MELBERGEN |
+| 9 | Sa 05.12.2026 16:00 | HSG LÖHNE-OBERNBECK II - SG BÜNDE-DÜNNE IV | - | ausstehend | GYMNASIUM LöHNE |
+| 9 | Sa 05.12.2026 17:00 | VFL HERFORD III - TSV OERLINGHAUSEN III | - | ausstehend | KREISSPORTHALLE BIELEFELDER STRAßE |
+| 9 | So 06.12.2026 13:00 | TSVE 1890 BIELEFELD II - VFL HANDBALL MENNIGHÜFFEN IV | - | ausstehend | TSVE-SPORTHALLE |
+| 10 | Sa 23.01.2027 16:00 | HSG LÖHNE-OBERNBECK II - DJK BLAU-WEISS BIELEFELD | - | ausstehend | GYMNASIUM LöHNE |
+| 10 | Sa 23.01.2027 18:00 | TV FAW MELBERGEN - TSV OERLINGHAUSEN III | - | ausstehend | HAUPTSCHULE MELBERGEN |
+| 10 | So 24.01.2027 00:00 | TSVE 1890 BIELEFELD II - HSG QUELLE/UMMELN II (zurückgez.) | - | ausstehend | TSVE-SPORTHALLE |
+| 10 | So 24.01.2027 10:00 | VFL HERFORD III - SG BÜNDE-DÜNNE IV | - | ausstehend | FRIEDRICHS-GYMNASIUM |
+| 11 | Sa 30.01.2027 00:00 | HSG QUELLE/UMMELN II (zurückgez.) - VFL HANDBALL MENNIGHÜFFEN IV | - | ausstehend | SPORTHALLE UMMELN |
+| 11 | Sa 30.01.2027 17:30 | DJK BLAU-WEISS BIELEFELD - VFL HERFORD III | - | ausstehend | SPORTHALLE STIEGHORST |
+| 11 | Sa 30.01.2027 18:00 | TSV OERLINGHAUSEN III - TSVE 1890 BIELEFELD II | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 11 | So 31.01.2027 12:30 | SG BÜNDE-DÜNNE IV - TV FAW MELBERGEN | - | ausstehend | GYMNASIUM AM MARKT |
+| 12 | Sa 13.02.2027 14:00 | TSVE 1890 BIELEFELD II - SG BÜNDE-DÜNNE IV | - | ausstehend | TSVE-SPORTHALLE |
+| 12 | So 14.02.2027 11:00 | VFL HANDBALL MENNIGHÜFFEN IV - TSV OERLINGHAUSEN III | - | ausstehend | N.H.MENNIGHüFFEN |
+| 12 | So 14.02.2027 13:15 | VFL HERFORD III - HSG LÖHNE-OBERNBECK II | - | ausstehend | FRIEDRICHS-GYMNASIUM |
+| 12 | So 14.02.2027 15:00 | TV FAW MELBERGEN - DJK BLAU-WEISS BIELEFELD | - | ausstehend | HAUPTSCHULE MELBERGEN |
+| 13 | Sa 20.02.2027 00:00 | TSV OERLINGHAUSEN III - HSG QUELLE/UMMELN II (zurückgez.) | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 13 | Sa 20.02.2027 17:20 | DJK BLAU-WEISS BIELEFELD - TSVE 1890 BIELEFELD II | - | ausstehend | SPORTHALLE STIEGHORST |
+| 13 | So 21.02.2027 10:30 | SG BÜNDE-DÜNNE IV - VFL HANDBALL MENNIGHÜFFEN IV | - | ausstehend | GYMNASIUM AM MARKT |
+| 13 | So 21.02.2027 14:00 | HSG LÖHNE-OBERNBECK II - TV FAW MELBERGEN | - | ausstehend | GYMNASIUM LöHNE |
+| 14 | Sa 27.02.2027 16:00 | TSVE 1890 BIELEFELD II - HSG LÖHNE-OBERNBECK II | - | ausstehend | TSVE-SPORTHALLE |
+| 14 | Sa 27.02.2027 18:00 | TV FAW MELBERGEN - VFL HERFORD III | - | ausstehend | HAUPTSCHULE MELBERGEN |
+| 14 | So 28.02.2027 00:00 | HSG QUELLE/UMMELN II (zurückgez.) - SG BÜNDE-DÜNNE IV | - | ausstehend | SPORTHALLE UMMELN |
+| 14 | So 28.02.2027 11:00 | VFL HANDBALL MENNIGHÜFFEN IV - DJK BLAU-WEISS BIELEFELD | - | ausstehend | N.H.MENNIGHüFFEN |
+| 15 | Sa 06.03.2027 00:00 | DJK BLAU-WEISS BIELEFELD - HSG QUELLE/UMMELN II (zurückgez.) | - | ausstehend | SPORTHALLE STIEGHORST |
+| 15 | Sa 06.03.2027 14:00 | HSG LÖHNE-OBERNBECK II - VFL HANDBALL MENNIGHÜFFEN IV | - | ausstehend | GYMNASIUM LöHNE |
+| 15 | So 07.03.2027 11:00 | SG BÜNDE-DÜNNE IV - TSV OERLINGHAUSEN III | - | ausstehend | GYMNASIUM AM MARKT |
+| 15 | So 07.03.2027 12:30 | VFL HERFORD III - TSVE 1890 BIELEFELD II | - | ausstehend | FRIEDRICHS-GYMNASIUM |
+| 16 | Sa 13.03.2027 00:00 | HSG QUELLE/UMMELN II (zurückgez.) - HSG LÖHNE-OBERNBECK II | - | ausstehend | SPORTHALLE UMMELN |
+| 16 | So 14.03.2027 11:00 | VFL HANDBALL MENNIGHÜFFEN IV - VFL HERFORD III | - | ausstehend | N.H.MENNIGHüFFEN |
+| 16 | So 14.03.2027 16:30 | TSVE 1890 BIELEFELD II - TV FAW MELBERGEN | - | ausstehend | TSVE-SPORTHALLE |
+| 16 | So 14.03.2027 17:00 | TSV OERLINGHAUSEN III - DJK BLAU-WEISS BIELEFELD | - | ausstehend | GRUNDSCHULE OERLINGHAUSEN SüD |
+| 17 | Sa 17.04.2027 16:00 | DJK BLAU-WEISS BIELEFELD - SG BÜNDE-DÜNNE IV | - | ausstehend | SPORTHALLE STIEGHORST |
+| 17 | Sa 17.04.2027 16:00 | HSG LÖHNE-OBERNBECK II - TSV OERLINGHAUSEN III | - | ausstehend | GYMNASIUM LöHNE |
+| 17 | Sa 17.04.2027 18:00 | TV FAW MELBERGEN - VFL HANDBALL MENNIGHÜFFEN IV | - | ausstehend | HAUPTSCHULE MELBERGEN |
+| 17 | So 18.04.2027 00:00 | VFL HERFORD III - HSG QUELLE/UMMELN II (zurückgez.) | - | ausstehend | FRIEDRICHS-GYMNASIUM |
+| 18 | Sa 24.04.2027 00:00 | HSG QUELLE/UMMELN II (zurückgez.) - TV FAW MELBERGEN | - | ausstehend | SPORTHALLE UMMELN |
+| 18 | Sa 24.04.2027 16:00 | TSV OERLINGHAUSEN III - VFL HERFORD III | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 18 | Sa 24.04.2027 16:30 | VFL HANDBALL MENNIGHÜFFEN IV - TSVE 1890 BIELEFELD II | - | ausstehend | N.H.MENNIGHüFFEN |
+| 18 | So 25.04.2027 10:30 | SG BÜNDE-DÜNNE IV - HSG LÖHNE-OBERNBECK II | - | ausstehend | GYMNASIUM AM MARKT |
 
 ## Kader und Spielerstatistik (Saison)
 
@@ -416,33 +905,39 @@ Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
 | 19 | Christoph Glomb | 3 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 13 | Jannick Stäbe | 3 | 5 | 0 | 0 | 1 | 0 | 0 |
 | 56 | Nils ole Bonus | 1 | 4 | 0 | 0 | 0 | 1 | 0 |
-| 10 | Linus Peitzmann | 4 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 3 | Jannik Herrchen | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Linus Peitzmann | 4 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 24 | Nils Wilmsmann | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 8 | Tom Gieselmann | 2 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 51 | Jens Hildebrand | 3 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 18 | Lennox Marquardt | 2 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2 | Dirk Meise-Reckefuss | 2 | 2 | 0 | 0 | 0 | 2 | 0 |
-| 77 | Karsten Dogar | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 77 | Marco Rottmann | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 2 | Marvin Orbke | 2 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 77 | Karsten Dogar | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 23 | Fabian Wehling | 1 | 0 | 0 | 0 | 0 | 2 | 0 |
-| - | Philipp Niemann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Tim Klocke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 3 | Michael Dieckmann | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1 | Thorsten Ledebrink | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 73 | Carsten Brinkmeyer | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Marcel Hetberg | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Marius Bungert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
-- TSVE 1890 BIELEFELD II: #55 Noah Beck (28 Tore in 4 Spielen), #19 Benedikt Hettlage (17 Tore in 4 Spielen), #27 Marcel Wolf (17 Tore in 4 Spielen), #90 Jonas Schröder (14 Tore in 4 Spielen), #11 Daniel Reiche (13 Tore in 4 Spielen)
 - TSV OERLINGHAUSEN III: #3 Jannik Czychun (17 Tore in 3 Spielen), #11 Marius Kempeni (16 Tore in 2 Spielen), #43 Daniel Schroeder (11 Tore in 2 Spielen), #9 Andreas Koester (10 Tore in 3 Spielen), #41 Philipp Tschöke (10 Tore in 3 Spielen)
+- DJK BLAU-WEISS BIELEFELD: #5 Rene Pankoke (14 Tore in 3 Spielen), #26 Sebastian Winter (13 Tore in 3 Spielen), #17 Timo Trayser (11 Tore in 4 Spielen), #9 Andreas Scheideler (9 Tore in 2 Spielen), #82 Aron Schraub (8 Tore in 3 Spielen)
+- HSG LÖHNE-OBERNBECK II: #30 Kevin Liebl (26 Tore in 4 Spielen), #91 Tobias schlingmann (13 Tore in 4 Spielen), #77 Tim Hoeinghaus (11 Tore in 3 Spielen), #9 Carsten Wehmeier (9 Tore in 1 Spielen), #77 Fynn-Jonas Janke (8 Tore in 2 Spielen)
+- VFL HERFORD III: #79 Andreas Schaefer (18 Tore in 3 Spielen), #9 Maximilian Heese (13 Tore in 3 Spielen), #7 Benjamin Schüller (10 Tore in 3 Spielen), #8 André Jung (10 Tore in 3 Spielen), #15 Johannes Keusch (9 Tore in 2 Spielen)
+- TV FAW MELBERGEN: #11 Til Luca Traue (20 Tore in 3 Spielen), #5 Dennis Pruessmeier (20 Tore in 4 Spielen), #77 Jan Paschke (18 Tore in 4 Spielen), #66 Marcel Ottensmeier (12 Tore in 4 Spielen), #33 Umman Kurt (7 Tore in 4 Spielen)
+- TSVE 1890 BIELEFELD II: #55 Noah Beck (28 Tore in 4 Spielen), #19 Benedikt Hettlage (17 Tore in 4 Spielen), #27 Marcel Wolf (17 Tore in 4 Spielen), #90 Jonas Schröder (14 Tore in 4 Spielen), #11 Daniel Reiche (13 Tore in 4 Spielen)
+- VFL HANDBALL MENNIGHÜFFEN IV: #7 Bastian Bröhenhorst (19 Tore in 3 Spielen), #5 Malte Bröhenhorst (6 Tore in 2 Spielen), #55 David Crisbin Eckert (5 Tore in 1 Spielen), #10 Holger Beck (4 Tore in 3 Spielen), #11 Kai Eschedor (4 Tore in 2 Spielen)
+- HSG QUELLE/UMMELN II (zurückgez.): keine Daten
 
 
 ---
 
 # A (Team-ID 88735)
-Quelle: handball.net, abgerufen am 30.10.2026 20:56
+Quelle: handball.net, abgerufen am 31.10.2026 12:27
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga MÄNNLICH A-Jugend (Phase 13393)
@@ -464,6 +959,10 @@ Liga/Runde: OWL Bezirksliga MÄNNLICH A-Jugend (Phase 13393)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 1 | So 13.09.2026 12:45 | SG BÜNDE-DÜNNE - TSV SCHLOSS NEUHAUS | Heim | 33:30 | beendet | GYMNASIUM AM MARKT |
+| 4 | So 04.10.2026 17:00 | TV ISSELHORST - SG BÜNDE-DÜNNE | Auswärts | 51:37 | beendet | 421 NEUE SPORTHALLE ISSELHORST |
+| 5 | Sa 10.10.2026 17:00 | SG BÜNDE-DÜNNE - HSG ALTENBEKEN/BUKE | Heim | 21:36 | beendet | GYMNASIUM AM MARKT |
+| 2 | Do 15.10.2026 20:00 | HSG EGB BIELEFELD - SG BÜNDE-DÜNNE | Auswärts | 28:31 | beendet | GYMNASIUM BRACKWEDE |
 | 7 | Sa 14.11.2026 13:30 | JSG H2 - EURo - SG BÜNDE-DÜNNE | Auswärts | - | ausstehend | SPORTHALLE UNTERLüBBE |
 | 8 | Sa 21.11.2026 18:00 | SG BÜNDE-DÜNNE - HSG HÜLLHORST | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 9 | So 29.11.2026 16:00 | VFL SCHLANGEN - SG BÜNDE-DÜNNE | Auswärts | - | ausstehend | SPORTHALLE RENNEKAMP |
@@ -477,10 +976,24 @@ Liga/Runde: OWL Bezirksliga MÄNNLICH A-Jugend (Phase 13393)
 
 ## Spielplan der gesamten Liga (OWL Bezirksliga MÄNNLICH A-Jugend)
 
-Alle 42 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 1 | Sa 12.09.2026 18:00 | HSG HÜLLHORST - VFL SCHLANGEN | 41:42 | beendet | GESAMTSCHULE HüLLHORST |
+| 1 | So 13.09.2026 12:45 | SG BÜNDE-DÜNNE - TSV SCHLOSS NEUHAUS | 33:30 | beendet | GYMNASIUM AM MARKT |
+| 1 | So 13.09.2026 17:00 | JSG H2 - EURo - TV ISSELHORST | 28:38 | beendet | VERBUNDSCHULE HILLE |
+| 2 | So 20.09.2026 13:00 | TSV SCHLOSS NEUHAUS - HSG HÜLLHORST | 42:29 | beendet | SCHULZENTRUM ANDREAS-WINTER |
+| 2 | So 20.09.2026 17:00 | TV ISSELHORST - HSG ALTENBEKEN/BUKE | 38:41 | beendet | 447 NEUE SPORTHALLE STäDTISCHES GYMNASIUM HALLE C |
+| 3 | Sa 26.09.2026 13:00 | HSG HÜLLHORST - HSG EGB BIELEFELD | 29:23 | beendet | GESAMTSCHULE HüLLHORST |
+| 3 | So 27.09.2026 13:00 | JSG H2 - EURo - HSG ALTENBEKEN/BUKE | 21:28 | beendet | VERBUNDSCHULE HILLE |
+| 3 | So 27.09.2026 16:00 | VFL SCHLANGEN - TSV SCHLOSS NEUHAUS | 31:33 | beendet | SPORTHALLE RENNEKAMP |
+| 4 | Sa 03.10.2026 18:45 | TSV SCHLOSS NEUHAUS - JSG H2 - EURo | 27:24 | beendet | SCHULZENTRUM ANDREAS-WINTER |
+| 4 | So 04.10.2026 17:00 | TV ISSELHORST - SG BÜNDE-DÜNNE | 51:37 | beendet | 421 NEUE SPORTHALLE ISSELHORST |
+| 5 | Sa 10.10.2026 17:00 | SG BÜNDE-DÜNNE - HSG ALTENBEKEN/BUKE | 21:36 | beendet | GYMNASIUM AM MARKT |
+| 5 | Sa 10.10.2026 18:00 | TSV SCHLOSS NEUHAUS - HSG EGB BIELEFELD | 35:27 | beendet | SCHULZENTRUM ANDREAS-WINTER |
+| 5 | So 11.10.2026 17:00 | HSG HÜLLHORST - TV ISSELHORST | 27:44 | beendet | GESAMTSCHULE HüLLHORST |
+| 2 | Do 15.10.2026 20:00 | HSG EGB BIELEFELD - SG BÜNDE-DÜNNE | 28:31 | beendet | GYMNASIUM BRACKWEDE |
 | 6 | Sa 07.11.2026 19:15 | HSG EGB BIELEFELD - JSG H2 - EURo | - | ausstehend | SPORTHALLE GADDERBAUM |
 | 6 | So 08.11.2026 16:00 | HSG ALTENBEKEN/BUKE - HSG HÜLLHORST | - | ausstehend | SCHULSPORTHALLE |
 | 6 | So 08.11.2026 17:00 | TV ISSELHORST - VFL SCHLANGEN | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
@@ -539,8 +1052,6 @@ Alle 42 Spiele aller Mannschaften, nach Termin sortiert.
 | 8 | Erik Ferdinand Meier | 3 | 4 | 0 | 0 | 0 | 1 | 0 |
 | 16 | Tom Gieselmann | 3 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 6 | Mats Ludewig | 4 | 2 | 0 | 0 | 0 | 0 | 0 |
-| - | Samuel Wöhlecke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1 | Lasse-Jona Letsch | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Mika Fredrik Dankert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Carsten Brinkmeyer | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Guido Mailänder | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -548,11 +1059,13 @@ Alle 42 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Nathan Lange | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 12 | Alkesandre Dekanoidze | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Joost Titus Wisskamp | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 17 | Silas Peitzmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Samuel Wöhlecke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Lasse-Jona Letsch | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 15 | Finn David Heinze | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Henrik Link | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 4 | Mika Christian Fleischer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Oskar Bringewatt | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Simon Unzicker | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -561,14 +1074,14 @@ Alle 42 Spiele aller Mannschaften, nach Termin sortiert.
 - VFL SCHLANGEN: #10 Noah Thoene (16 Tore in 2 Spielen), #7 Nick Benkelberg (14 Tore in 2 Spielen), #4 Louis Schroeder (12 Tore in 2 Spielen), #8 Hendrik Walde (11 Tore in 2 Spielen), #9 Leander Beckmann (10 Tore in 1 Spielen)
 - TSV SCHLOSS NEUHAUS: #8 Len Gröpper (52 Tore in 5 Spielen), #11 Maximilian Klatte (39 Tore in 5 Spielen), #2 Nils Robin Stuemmler (19 Tore in 5 Spielen), #6 Jeremy Prus (18 Tore in 5 Spielen), #12 Jan Streitbörger (16 Tore in 5 Spielen)
 - HSG EGB BIELEFELD: #14 Thorben Striewisch (17 Tore in 3 Spielen), #17 Noah Guemues (14 Tore in 3 Spielen), #10 Leon Bunte (11 Tore in 3 Spielen), #16 Lenard Kroll (9 Tore in 3 Spielen), #8 Max Buescher (6 Tore in 2 Spielen)
-- TV ISSELHORST: #7 Jan Barbosa Klose (39 Tore in 4 Spielen), #67 Nick Dust (27 Tore in 4 Spielen), #11 Gero Keil (25 Tore in 4 Spielen), #17 Linus Weckermann (22 Tore in 4 Spielen), #13 Julius Kriegesmann (15 Tore in 4 Spielen)
+- TV ISSELHORST: #7 Jan Barbosa Klose (39 Tore in 4 Spielen), #67 Nick Dust (27 Tore in 4 Spielen), #11 Gero Keil (25 Tore in 4 Spielen), #17 Linus Weckermann (22 Tore in 4 Spielen), #5 Lukas Schuetz (15 Tore in 4 Spielen)
 - HSG ALTENBEKEN/BUKE: #17 Aron Kraehe (31 Tore in 3 Spielen), #19 Johann Koch (19 Tore in 3 Spielen), #13 Jasper Grußmann (16 Tore in 3 Spielen), #3 Lukas Hake (11 Tore in 3 Spielen), #4 Malte Schlothane (10 Tore in 3 Spielen)
 
 
 ---
 
 # B (Team-ID 88756)
-Quelle: handball.net, abgerufen am 30.10.2026 20:57
+Quelle: handball.net, abgerufen am 31.10.2026 12:27
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga MÄNNLICH  B-Jugend (Phase 13913)
@@ -594,6 +1107,12 @@ Liga/Runde: OWL Bezirksliga MÄNNLICH  B-Jugend (Phase 13913)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 1 | So 06.09.2026 12:00 | JSG Steinhagen-Brockhagen - SG BÜNDE-DÜNNE | Auswärts | 33:17 | beendet | 453 SPORTHALLE GRUNDSCHULE |
+| 2 | Sa 12.09.2026 16:30 | SG BÜNDE-DÜNNE - SG HANDBALL DETMOLD | Heim | 29:34 | beendet | GYMNASIUM AM MARKT |
+| 3 | Sa 19.09.2026 16:15 | SG HANDBALL PADERBORN - SG BÜNDE-DÜNNE | Auswärts | 32:34 | beendet | SPORTHALLE SENNELAGER |
+| 4 | Sa 26.09.2026 00:00 | SG BÜNDE-DÜNNE - TV ISSELHORST II | Heim | - | ausstehend | GYMNASIUM AM MARKT |
+| 5 | So 04.10.2026 12:00 | HSG HANDBALL LEMGO 2 - SG BÜNDE-DÜNNE | Auswärts | 32:34 | beendet | GANZTAGSHAUPTSCHULE |
+| 6 | So 11.10.2026 14:45 | SG BÜNDE-DÜNNE - JUGENDHANDBALL WESERBERGLAND | Heim | 24:27 | beendet | GYMNASIUM AM MARKT |
 | 7 | So 08.11.2026 16:00 | HSG EGB BIELEFELD - SG BÜNDE-DÜNNE | Auswärts | - | ausstehend | SPORTHALLE GADDERBAUM |
 | 8 | Sa 14.11.2026 16:30 | SG BÜNDE-DÜNNE - UNION 92 HALLE | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 9 | Sa 21.11.2026 15:30 | JSG ELSE-WIEHEN WÖLFE - SG BÜNDE-DÜNNE | Auswärts | - | ausstehend | SPORTHALLE SPRADOW |
@@ -613,11 +1132,142 @@ Liga/Runde: OWL Bezirksliga MÄNNLICH  B-Jugend (Phase 13913)
 
 ## Spielplan der gesamten Liga (OWL Bezirksliga MÄNNLICH  B-Jugend)
 
-Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 132 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 1 | Sa 05.09.2026 13:00 | HSG HANDBALL LEMGO 2 - JUGENDHANDBALL WESERBERGLAND | 35:27 | beendet | GANZTAGSHAUPTSCHULE |
+| 1 | Sa 05.09.2026 14:00 | TUS EINTRACHT OBERLÜBBE - JSG H2 - EURo | 21:15 | beendet | HILLE-SüD-GRUNDSCHULE OBERLüBBE |
+| 1 | So 06.09.2026 12:00 | JSG Steinhagen-Brockhagen - SG BÜNDE-DÜNNE | 33:17 | beendet | 453 SPORTHALLE GRUNDSCHULE |
+| 1 | So 06.09.2026 12:45 | SG HANDBALL DETMOLD - JSG ELSE-WIEHEN WÖLFE | 46:27 | beendet | SCHULZENTRUM MITTE, HINTERE |
+| 1 | So 06.09.2026 15:15 | TV ISSELHORST II - HSG EGB BIELEFELD | 30:17 | beendet | 421 NEUE SPORTHALLE ISSELHORST |
+| 2 | Sa 12.09.2026 16:30 | SG BÜNDE-DÜNNE - SG HANDBALL DETMOLD | 29:34 | beendet | GYMNASIUM AM MARKT |
+| 2 | Sa 12.09.2026 16:30 | JUGENDHANDBALL WESERBERGLAND - TUS EINTRACHT OBERLÜBBE | 18:26 | beendet | KARL-KRüGER-HALLE |
+| 2 | Sa 12.09.2026 19:00 | UNION 92 HALLE - TV ISSELHORST II | 47:26 | beendet | 437 KREISBERUFSSCHULE HALLE |
+| 2 | So 13.09.2026 15:00 | HSG EGB BIELEFELD - HSG HANDBALL LEMGO 2 | 25:42 | beendet | SPORTHALLE GADDERBAUM |
+| 2 | So 13.09.2026 15:15 | JSG H2 - EURo - JSG Steinhagen-Brockhagen | 25:25 | beendet | VERBUNDSCHULE HILLE |
+| 3 | Sa 19.09.2026 13:00 | JUGENDHANDBALL WESERBERGLAND - HSG EGB BIELEFELD | 30:17 | beendet | SPARKASSEN-ARENA |
+| 3 | Sa 19.09.2026 13:30 | TV ISSELHORST II - JSG ELSE-WIEHEN WÖLFE | 30:31 | beendet | 421 NEUE SPORTHALLE ISSELHORST |
+| 3 | Sa 19.09.2026 16:15 | SG HANDBALL PADERBORN - SG BÜNDE-DÜNNE | 32:34 | beendet | SPORTHALLE SENNELAGER |
+| 3 | Sa 19.09.2026 17:00 | HSG HANDBALL LEMGO 2 - UNION 92 HALLE | 31:23 | beendet | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 3 | So 20.09.2026 12:45 | SG HANDBALL DETMOLD - JSG H2 - EURo | 29:27 | beendet | SCHULZENTRUM MITTE, HINTERE |
+| 4 | Sa 26.09.2026 00:00 | SG BÜNDE-DÜNNE - TV ISSELHORST II | - | ausstehend | GYMNASIUM AM MARKT |
+| 4 | Sa 26.09.2026 15:30 | UNION 92 HALLE - JUGENDHANDBALL WESERBERGLAND | 21:29 | beendet | 434 SPORTHALLE MASCH HALLE I |
+| 4 | Sa 26.09.2026 17:00 | JSG Steinhagen-Brockhagen - SG HANDBALL DETMOLD | 35:23 | beendet | 453 SPORTHALLE GRUNDSCHULE |
+| 4 | So 27.09.2026 15:00 | JSG H2 - EURo - SG HANDBALL PADERBORN | 26:18 | beendet | VERBUNDSCHULE HILLE |
+| 4 | So 27.09.2026 16:00 | HSG EGB BIELEFELD - TUS EINTRACHT OBERLÜBBE | 31:28 | beendet | SPORTHALLE GADDERBAUM |
+| 1 | Fr 02.10.2026 18:00 | SG HANDBALL PADERBORN - UNION 92 HALLE | 41:43 | beendet | SPORTHALLE SENNELAGER |
+| 5 | So 04.10.2026 00:00 | HSG EGB BIELEFELD - UNION 92 HALLE | - | ausstehend | SPORTHALLE GADDERBAUM |
+| 5 | So 04.10.2026 00:00 | TV ISSELHORST II - JSG H2 - EURo | - | ausstehend | 447 NEUE SPORTHALLE STäDTISCHES GYMNASIUM HALLE C |
+| 5 | So 04.10.2026 12:00 | HSG HANDBALL LEMGO 2 - SG BÜNDE-DÜNNE | 32:34 | beendet | GANZTAGSHAUPTSCHULE |
+| 5 | So 04.10.2026 13:00 | JUGENDHANDBALL WESERBERGLAND - JSG ELSE-WIEHEN WÖLFE | 36:21 | beendet | SPARKASSEN-ARENA |
+| 5 | So 04.10.2026 15:15 | TUS EINTRACHT OBERLÜBBE - SG HANDBALL DETMOLD | 30:22 | beendet | HILLE-SüD-GRUNDSCHULE OBERLüBBE |
+| 5 | So 04.10.2026 15:30 | SG HANDBALL PADERBORN - JSG Steinhagen-Brockhagen | 24:38 | beendet | DREIFACHSPORTHALLE ELSEN |
+| 6 | Sa 10.10.2026 14:45 | JSG H2 - EURo - HSG HANDBALL LEMGO 2 | 22:26 | beendet | SPORTHALLE UNTERLüBBE |
+| 6 | Sa 10.10.2026 17:00 | JSG Steinhagen-Brockhagen - TV ISSELHORST II | 56:15 | beendet | 441 HöRMANN-SPORTZENTRUM |
+| 6 | So 11.10.2026 13:45 | JSG ELSE-WIEHEN WÖLFE - HSG EGB BIELEFELD | 34:31 | beendet | SPORTHALLE SPRADOW |
+| 6 | So 11.10.2026 14:45 | SG BÜNDE-DÜNNE - JUGENDHANDBALL WESERBERGLAND | 24:27 | beendet | GYMNASIUM AM MARKT |
+| 6 | So 11.10.2026 15:00 | SG HANDBALL DETMOLD - SG HANDBALL PADERBORN | 44:36 | beendet | LEOPOLDINUM |
+| 6 | So 11.10.2026 18:00 | UNION 92 HALLE - TUS EINTRACHT OBERLÜBBE | 23:42 | beendet | 436 SPORTHALLE MASCH HALLE II |
+| 4 | Di 13.10.2026 18:00 | JSG ELSE-WIEHEN WÖLFE - HSG HANDBALL LEMGO 2 | 29:42 | beendet | SPORTHALLE SPRADOW |
 | 3 | So 01.11.2026 18:00 | TUS EINTRACHT OBERLÜBBE - JSG Steinhagen-Brockhagen | - | ausstehend | HILLE-SüD-GRUNDSCHULE OBERLüBBE |
+| 2 | Do 05.11.2026 19:30 | JSG ELSE-WIEHEN WÖLFE - SG HANDBALL PADERBORN | - | ausstehend | SPORTHALLE SPRADOW |
+| 7 | Sa 07.11.2026 13:00 | TV ISSELHORST II - SG HANDBALL DETMOLD | - | ausstehend | 439 CARL-MIELE BERUFSKOLLEG GüTERSLOH (NEUE HALLE) |
+| 7 | Sa 07.11.2026 15:00 | HSG HANDBALL LEMGO 2 - JSG Steinhagen-Brockhagen | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 7 | Sa 07.11.2026 15:00 | TUS EINTRACHT OBERLÜBBE - SG HANDBALL PADERBORN | - | ausstehend | HILLE-SüD-GRUNDSCHULE OBERLüBBE |
+| 7 | Sa 07.11.2026 15:00 | JUGENDHANDBALL WESERBERGLAND - JSG H2 - EURo | - | ausstehend | KARL-KRüGER-HALLE |
+| 7 | So 08.11.2026 12:00 | UNION 92 HALLE - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 7 | So 08.11.2026 16:00 | HSG EGB BIELEFELD - SG BÜNDE-DÜNNE | - | ausstehend | SPORTHALLE GADDERBAUM |
+| 8 | Sa 14.11.2026 15:15 | SG HANDBALL PADERBORN - TV ISSELHORST II | - | ausstehend | DREIFACHSPORTHALLE ELSEN |
+| 8 | Sa 14.11.2026 15:30 | JSG H2 - EURo - HSG EGB BIELEFELD | - | ausstehend | SPORTHALLE UNTERLüBBE |
+| 8 | Sa 14.11.2026 16:30 | SG BÜNDE-DÜNNE - UNION 92 HALLE | - | ausstehend | GYMNASIUM AM MARKT |
+| 8 | Sa 14.11.2026 17:00 | JSG Steinhagen-Brockhagen - JUGENDHANDBALL WESERBERGLAND | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 8 | So 15.11.2026 13:00 | JSG ELSE-WIEHEN WÖLFE - TUS EINTRACHT OBERLÜBBE | - | ausstehend | GESAMTSCHULE RöDINGHAUSEN |
+| 8 | So 15.11.2026 14:45 | SG HANDBALL DETMOLD - HSG HANDBALL LEMGO 2 | - | ausstehend | SCHULZENTRUM MITTE, HINTERE |
+| 9 | Sa 21.11.2026 14:00 | UNION 92 HALLE - JSG H2 - EURo | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 9 | Sa 21.11.2026 14:30 | TUS EINTRACHT OBERLÜBBE - TV ISSELHORST II | - | ausstehend | HILLE-SüD-GRUNDSCHULE OBERLüBBE |
+| 9 | Sa 21.11.2026 15:00 | HSG HANDBALL LEMGO 2 - SG HANDBALL PADERBORN | - | ausstehend | GESAMTSCHULE (KARLA-RAVEH) |
+| 9 | Sa 21.11.2026 15:00 | JUGENDHANDBALL WESERBERGLAND - SG HANDBALL DETMOLD | - | ausstehend | SPARKASSEN-ARENA |
+| 9 | Sa 21.11.2026 15:30 | JSG ELSE-WIEHEN WÖLFE - SG BÜNDE-DÜNNE | - | ausstehend | SPORTHALLE SPRADOW |
+| 9 | Sa 21.11.2026 19:00 | HSG EGB BIELEFELD - JSG Steinhagen-Brockhagen | - | ausstehend | KUHLO-REALSCHULE |
+| 10 | Sa 28.11.2026 14:45 | TUS EINTRACHT OBERLÜBBE - SG BÜNDE-DÜNNE | - | ausstehend | HILLE-SüD-GRUNDSCHULE OBERLüBBE |
+| 10 | Sa 28.11.2026 15:15 | SG HANDBALL PADERBORN - JUGENDHANDBALL WESERBERGLAND | - | ausstehend | SPORTHALLE SENNELAGER |
+| 10 | Sa 28.11.2026 17:00 | JSG Steinhagen-Brockhagen - UNION 92 HALLE | - | ausstehend | 441 HöRMANN-SPORTZENTRUM |
+| 10 | Sa 28.11.2026 18:00 | TV ISSELHORST II - HSG HANDBALL LEMGO 2 | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 10 | So 29.11.2026 12:45 | SG HANDBALL DETMOLD - HSG EGB BIELEFELD | - | ausstehend | SCHULZENTRUM MITTE, HINTERE |
+| 10 | So 29.11.2026 15:00 | JSG H2 - EURo - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | SPORTHALLE UNTERLüBBE |
+| 11 | Sa 05.12.2026 13:00 | JUGENDHANDBALL WESERBERGLAND - TV ISSELHORST II | - | ausstehend | KARL-KRüGER-HALLE |
+| 11 | Sa 05.12.2026 14:45 | SG BÜNDE-DÜNNE - JSG H2 - EURo | - | ausstehend | GYMNASIUM AM MARKT |
+| 11 | Sa 05.12.2026 17:15 | JSG ELSE-WIEHEN WÖLFE - JSG Steinhagen-Brockhagen | - | ausstehend | GESAMTSCHULE RöDINGHAUSEN |
+| 11 | So 06.12.2026 11:00 | UNION 92 HALLE - SG HANDBALL DETMOLD | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 11 | So 06.12.2026 15:00 | HSG HANDBALL LEMGO 2 - TUS EINTRACHT OBERLÜBBE | - | ausstehend | GESAMTSCHULE (KARLA-RAVEH) |
+| 11 | So 06.12.2026 17:00 | HSG EGB BIELEFELD - SG HANDBALL PADERBORN | - | ausstehend | SPORTHALLE GADDERBAUM |
+| 12 | Sa 12.12.2026 14:00 | JSG ELSE-WIEHEN WÖLFE - SG HANDBALL DETMOLD | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
+| 12 | Sa 12.12.2026 15:00 | JUGENDHANDBALL WESERBERGLAND - HSG HANDBALL LEMGO 2 | - | ausstehend | SPARKASSEN-ARENA |
+| 12 | Sa 12.12.2026 15:00 | HSG EGB BIELEFELD - TV ISSELHORST II | - | ausstehend | KUHLO-REALSCHULE |
+| 12 | So 13.12.2026 14:45 | SG BÜNDE-DÜNNE - JSG Steinhagen-Brockhagen | - | ausstehend | GYMNASIUM AM MARKT |
+| 12 | So 13.12.2026 15:15 | JSG H2 - EURo - TUS EINTRACHT OBERLÜBBE | - | ausstehend | SPORTHALLE UNTERLüBBE |
+| 12 | So 13.12.2026 18:00 | UNION 92 HALLE - SG HANDBALL PADERBORN | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 13 | Sa 19.12.2026 13:00 | TV ISSELHORST II - UNION 92 HALLE | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 13 | Sa 19.12.2026 15:00 | HSG HANDBALL LEMGO 2 - HSG EGB BIELEFELD | - | ausstehend | GESAMTSCHULE (KARLA-RAVEH) |
+| 13 | Sa 19.12.2026 15:00 | TUS EINTRACHT OBERLÜBBE - JUGENDHANDBALL WESERBERGLAND | - | ausstehend | HILLE-SüD-GRUNDSCHULE OBERLüBBE |
+| 13 | Sa 19.12.2026 15:15 | SG HANDBALL PADERBORN - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | SPORTHALLE SENNELAGER |
+| 13 | So 20.12.2026 12:45 | SG HANDBALL DETMOLD - SG BÜNDE-DÜNNE | - | ausstehend | SCHULZENTRUM MITTE, HINTERE |
+| 13 | So 20.12.2026 14:00 | JSG Steinhagen-Brockhagen - JSG H2 - EURo | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 14 | Sa 09.01.2027 15:00 | JSG Steinhagen-Brockhagen - TUS EINTRACHT OBERLÜBBE | - | ausstehend | 441 HöRMANN-SPORTZENTRUM |
+| 14 | Sa 09.01.2027 15:30 | SG BÜNDE-DÜNNE - SG HANDBALL PADERBORN | - | ausstehend | GYMNASIUM AM MARKT |
+| 14 | So 10.01.2027 15:30 | JSG ELSE-WIEHEN WÖLFE - TV ISSELHORST II | - | ausstehend | SPORTHALLE SPRADOW |
+| 14 | So 10.01.2027 16:00 | UNION 92 HALLE - HSG HANDBALL LEMGO 2 | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 14 | So 10.01.2027 16:00 | HSG EGB BIELEFELD - JUGENDHANDBALL WESERBERGLAND | - | ausstehend | SPORTHALLE GADDERBAUM |
+| 14 | So 10.01.2027 16:45 | JSG H2 - EURo - SG HANDBALL DETMOLD | - | ausstehend | VERBUNDSCHULE HILLE |
+| 15 | Sa 23.01.2027 13:00 | JUGENDHANDBALL WESERBERGLAND - UNION 92 HALLE | - | ausstehend | SPARKASSEN-ARENA |
+| 15 | Sa 23.01.2027 15:00 | HSG HANDBALL LEMGO 2 - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | GESAMTSCHULE (KARLA-RAVEH) |
+| 15 | Sa 23.01.2027 17:00 | TUS EINTRACHT OBERLÜBBE - HSG EGB BIELEFELD | - | ausstehend | HILLE-SüD-GRUNDSCHULE OBERLüBBE |
+| 15 | So 24.01.2027 13:00 | TV ISSELHORST II - SG BÜNDE-DÜNNE | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 15 | So 24.01.2027 15:15 | SG HANDBALL DETMOLD - JSG Steinhagen-Brockhagen | - | ausstehend | SCHULZENTRUM MITTE, HINTERE |
+| 15 | So 24.01.2027 17:15 | SG HANDBALL PADERBORN - JSG H2 - EURo | - | ausstehend | DREIFACHSPORTHALLE ELSEN |
+| 16 | Sa 30.01.2027 13:00 | SG HANDBALL DETMOLD - TUS EINTRACHT OBERLÜBBE | - | ausstehend | SCHULZENTRUM MITTE, HINTERE |
+| 16 | Sa 30.01.2027 13:00 | JSG Steinhagen-Brockhagen - SG HANDBALL PADERBORN | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 16 | Sa 30.01.2027 14:00 | JSG H2 - EURo - TV ISSELHORST II | - | ausstehend | SPORTHALLE UNTERLüBBE |
+| 16 | Sa 30.01.2027 16:30 | SG BÜNDE-DÜNNE - HSG HANDBALL LEMGO 2 | - | ausstehend | GYMNASIUM AM MARKT |
+| 16 | Sa 30.01.2027 16:30 | JSG ELSE-WIEHEN WÖLFE - JUGENDHANDBALL WESERBERGLAND | - | ausstehend | GESAMTSCHULE RöDINGHAUSEN |
+| 16 | So 31.01.2027 12:00 | UNION 92 HALLE - HSG EGB BIELEFELD | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 17 | Sa 06.02.2027 15:00 | JUGENDHANDBALL WESERBERGLAND - SG BÜNDE-DÜNNE | - | ausstehend | SPARKASSEN-ARENA |
+| 17 | Sa 06.02.2027 15:00 | TUS EINTRACHT OBERLÜBBE - UNION 92 HALLE | - | ausstehend | HILLE-SüD-GRUNDSCHULE OBERLüBBE |
+| 17 | Sa 06.02.2027 16:00 | HSG HANDBALL LEMGO 2 - JSG H2 - EURo | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 17 | So 07.02.2027 16:00 | SG HANDBALL PADERBORN - SG HANDBALL DETMOLD | - | ausstehend | DREIFACHSPORTHALLE ELSEN |
+| 17 | So 07.02.2027 16:00 | HSG EGB BIELEFELD - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | SPORTHALLE GADDERBAUM |
+| 17 | So 07.02.2027 17:00 | TV ISSELHORST II - JSG Steinhagen-Brockhagen | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 18 | So 14.02.2027 11:15 | JSG H2 - EURo - JUGENDHANDBALL WESERBERGLAND | - | ausstehend | VERBUNDSCHULE HILLE |
+| 18 | So 14.02.2027 15:00 | SG BÜNDE-DÜNNE - HSG EGB BIELEFELD | - | ausstehend | GYMNASIUM AM MARKT |
+| 18 | So 14.02.2027 15:45 | JSG ELSE-WIEHEN WÖLFE - UNION 92 HALLE | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
+| 18 | So 14.02.2027 16:00 | SG HANDBALL PADERBORN - TUS EINTRACHT OBERLÜBBE | - | ausstehend | DREIFACHSPORTHALLE ELSEN |
+| 18 | So 14.02.2027 17:30 | JSG Steinhagen-Brockhagen - HSG HANDBALL LEMGO 2 | - | ausstehend | 441 HöRMANN-SPORTZENTRUM |
+| 18 | So 14.02.2027 18:15 | SG HANDBALL DETMOLD - TV ISSELHORST II | - | ausstehend | SCHULZENTRUM MITTE, HINTERE |
+| 19 | Sa 20.02.2027 13:00 | JUGENDHANDBALL WESERBERGLAND - JSG Steinhagen-Brockhagen | - | ausstehend | SPARKASSEN-ARENA |
+| 19 | Sa 20.02.2027 16:15 | TUS EINTRACHT OBERLÜBBE - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | HILLE-SüD-GRUNDSCHULE OBERLüBBE |
+| 19 | Sa 20.02.2027 17:00 | HSG HANDBALL LEMGO 2 - SG HANDBALL DETMOLD | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 19 | So 21.02.2027 14:00 | UNION 92 HALLE - SG BÜNDE-DÜNNE | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 19 | So 21.02.2027 16:00 | HSG EGB BIELEFELD - JSG H2 - EURo | - | ausstehend | SPORTHALLE GADDERBAUM |
+| 19 | So 21.02.2027 17:00 | TV ISSELHORST II - SG HANDBALL PADERBORN | - | ausstehend | 447 NEUE SPORTHALLE STäDTISCHES GYMNASIUM HALLE C |
+| 20 | Sa 27.02.2027 15:45 | JSG H2 - EURo - UNION 92 HALLE | - | ausstehend | VERBUNDSCHULE HILLE |
+| 20 | Sa 27.02.2027 16:15 | SG HANDBALL PADERBORN - HSG HANDBALL LEMGO 2 | - | ausstehend | DREIFACHSPORTHALLE ELSEN |
+| 20 | Sa 27.02.2027 19:00 | JSG Steinhagen-Brockhagen - HSG EGB BIELEFELD | - | ausstehend | 420 SCHULZENTRUM STEINHAGEN |
+| 20 | So 28.02.2027 15:00 | SG BÜNDE-DÜNNE - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | GYMNASIUM AM MARKT |
+| 20 | So 28.02.2027 17:00 | TV ISSELHORST II - TUS EINTRACHT OBERLÜBBE | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 20 | So 28.02.2027 18:45 | SG HANDBALL DETMOLD - JUGENDHANDBALL WESERBERGLAND | - | ausstehend | SCHULZENTRUM MITTE, HINTERE |
+| 21 | Sa 06.03.2027 15:00 | HSG HANDBALL LEMGO 2 - TV ISSELHORST II | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 21 | Sa 06.03.2027 15:15 | UNION 92 HALLE - JSG Steinhagen-Brockhagen | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 21 | Sa 06.03.2027 16:00 | JUGENDHANDBALL WESERBERGLAND - SG HANDBALL PADERBORN | - | ausstehend | KARL-KRüGER-HALLE |
+| 21 | So 07.03.2027 15:00 | SG BÜNDE-DÜNNE - TUS EINTRACHT OBERLÜBBE | - | ausstehend | GYMNASIUM AM MARKT |
+| 21 | So 07.03.2027 15:00 | JSG ELSE-WIEHEN WÖLFE - JSG H2 - EURo | - | ausstehend | GESAMTSCHULE RöDINGHAUSEN |
+| 21 | So 07.03.2027 16:00 | HSG EGB BIELEFELD - SG HANDBALL DETMOLD | - | ausstehend | SPORTHALLE GADDERBAUM |
+| 22 | Sa 13.03.2027 13:00 | SG HANDBALL DETMOLD - UNION 92 HALLE | - | ausstehend | LEOPOLDINUM |
+| 22 | Sa 13.03.2027 15:00 | TUS EINTRACHT OBERLÜBBE - HSG HANDBALL LEMGO 2 | - | ausstehend | HILLE-SüD-GRUNDSCHULE OBERLüBBE |
+| 22 | Sa 13.03.2027 16:15 | SG HANDBALL PADERBORN - HSG EGB BIELEFELD | - | ausstehend | DREIFACHSPORTHALLE ELSEN |
+| 22 | Sa 13.03.2027 17:00 | JSG H2 - EURo - SG BÜNDE-DÜNNE | - | ausstehend | SPORTHALLE UNTERLüBBE |
+| 22 | Sa 13.03.2027 17:00 | JSG Steinhagen-Brockhagen - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | 441 HöRMANN-SPORTZENTRUM |
+| 22 | So 14.03.2027 17:00 | TV ISSELHORST II - JUGENDHANDBALL WESERBERGLAND | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
 
 ## Kader und Spielerstatistik (Saison)
 
@@ -651,14 +1301,23 @@ Alle 1 Spiele aller Mannschaften, nach Termin sortiert.
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
+- HSG EGB BIELEFELD: #8 Fynn Klesse (34 Tore in 5 Spielen), #10 Max Wilhelm Finken (23 Tore in 4 Spielen), #9 Lino Scholz (11 Tore in 2 Spielen), #91 Anton Jonek (9 Tore in 5 Spielen), #4 Damian Niko Kovacevic (6 Tore in 5 Spielen)
+- UNION 92 HALLE: #17 Matteo Piecuch (26 Tore in 5 Spielen), #13 Linus Flottmann (23 Tore in 5 Spielen), #3 Ben Biermann (22 Tore in 4 Spielen), #11 Paul Knapp (22 Tore in 5 Spielen), #7 Kilian Habenicht (18 Tore in 5 Spielen)
+- JSG ELSE-WIEHEN WÖLFE: #72 Leander Rodemeister (36 Tore in 6 Spielen), #15 Henry Robert Sievers (25 Tore in 5 Spielen), #11 Ben Ellersiek (22 Tore in 5 Spielen), #3 Mattis Neumann (21 Tore in 6 Spielen), #13 Luis Köplin-Fritsche (15 Tore in 5 Spielen)
 - TUS EINTRACHT OBERLÜBBE: #10 Jenke Kottkamp (29 Tore in 5 Spielen), #7 Benjamin Werner (28 Tore in 4 Spielen), #5 Till Krumme (24 Tore in 4 Spielen), #25 Justus Richard Oestreich (21 Tore in 5 Spielen), #6 Leander Engmann (18 Tore in 5 Spielen)
+- JSG H2 - EURo: #25 Mats Luca Richardt (38 Tore in 5 Spielen), #6 Marvin Kaiser (28 Tore in 5 Spielen), #19 Hauke Heinrich Kinkelbur (11 Tore in 5 Spielen), #14 Theo Grannemann (10 Tore in 3 Spielen), #29 Sören Jerik Rohlfing (7 Tore in 5 Spielen)
 - JSG Steinhagen-Brockhagen: #10 Oscar Degenhardt (43 Tore in 5 Spielen), #33 Tim Noltenhans (24 Tore in 5 Spielen), #11 Fabian Grosse Johannboeke (21 Tore in 5 Spielen), #62 Yannick Juergens (20 Tore in 5 Spielen), #16 Hannes Klaus Brandtmann (19 Tore in 5 Spielen)
+- SG HANDBALL DETMOLD: #9 Ben Lukas Graeser (59 Tore in 6 Spielen), #4 Jannik Hunold (50 Tore in 6 Spielen), #3 Till Felix Sander (24 Tore in 6 Spielen), #6 Mattis Stodenberg (22 Tore in 6 Spielen), #13 Ben Louis Ameling (10 Tore in 5 Spielen)
+- SG HANDBALL PADERBORN: #8 Elias Johnen (41 Tore in 5 Spielen), #6 Luca Barrancotto (29 Tore in 4 Spielen), #10 Björn Patscheke (26 Tore in 5 Spielen), #3 Mats Scheffler (20 Tore in 5 Spielen), #4 Linus Leon Korte (14 Tore in 5 Spielen)
+- TV ISSELHORST II: #66 Mathis Enke (23 Tore in 2 Spielen), #79 Arne Schemhaus (16 Tore in 3 Spielen), #13 Tinus Schmidt (9 Tore in 2 Spielen), #14 Luca Neumann (8 Tore in 2 Spielen), #74 Emilian Zehles (7 Tore in 1 Spielen)
+- HSG HANDBALL LEMGO 2: #17 Emil Kaatze (71 Tore in 6 Spielen), #7 Paul Stukenbrok (33 Tore in 6 Spielen), #6 Carl Henri Henselmeyer (13 Tore in 6 Spielen), #1 Janis Jakup Perkons (11 Tore in 6 Spielen), #15 Louis Hannig (10 Tore in 5 Spielen)
+- JUGENDHANDBALL WESERBERGLAND: #32 Louis Stegmann (58 Tore in 5 Spielen), #10 Roschdi Saido (32 Tore in 5 Spielen), #11 Leonard Gerdes (21 Tore in 5 Spielen), #13 Jannik Klamfuss (7 Tore in 5 Spielen), #3 David Niendorf (6 Tore in 5 Spielen)
 
 
 ---
 
 # C (Team-ID 88826)
-Quelle: handball.net, abgerufen am 30.10.2026 20:57
+Quelle: handball.net, abgerufen am 31.10.2026 12:28
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Kreisliga MÄNNLICH  C-Jugend (Phase 13926)
@@ -682,6 +1341,10 @@ Liga/Runde: OWL Kreisliga MÄNNLICH  C-Jugend (Phase 13926)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 1 | Sa 12.09.2026 14:45 | SG BÜNDE-DÜNNE - HSG BLOMBERG-LIPPE | Heim | 44:43 | beendet | GYMNASIUM AM MARKT |
+| 2 | Sa 19.09.2026 16:30 | TV CONCORDIA ENGER - SG BÜNDE-DÜNNE | Auswärts | 44:30 | beendet | GYMNASIUM ENGER |
+| 3 | So 27.09.2026 14:30 | SG BÜNDE-DÜNNE - TSVE 1890 Bielefeld | Heim | 51:34 | beendet | GYMNASIUM AM MARKT |
+| 5 | Sa 10.10.2026 15:00 | SG BÜNDE-DÜNNE - JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK | Heim | 37:17 | beendet | GYMNASIUM AM MARKT |
 | 4 | Di 03.11.2026 18:35 | HSG EGB BIELEFELD II - SG BÜNDE-DÜNNE | Auswärts | - | ausstehend | KUHLO-REALSCHULE |
 | 6 | So 08.11.2026 16:30 | JSG ELSE-WIEHEN WÖLFE - SG BÜNDE-DÜNNE | Auswärts | - | ausstehend | SPH GRUNDSCHULE QUERNHEIM |
 | 7 | So 15.11.2026 13:00 | TUS LEOPOLDSHÖHE - SG BÜNDE-DÜNNE | Auswärts | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
@@ -699,10 +1362,33 @@ Liga/Runde: OWL Kreisliga MÄNNLICH  C-Jugend (Phase 13926)
 
 ## Spielplan der gesamten Liga (OWL Kreisliga MÄNNLICH  C-Jugend)
 
-Alle 67 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 1 | Sa 12.09.2026 10:45 | TUS LEOPOLDSHÖHE - HSG EGB BIELEFELD II | 25:31 | beendet | SPORTHALLE GADDERBAUM |
+| 1 | Sa 12.09.2026 11:00 | TSV GWD MINDEN E.V. III - TSV BÖSINGFELD | 21:52 | beendet | SPORTHALLE MINDEN SüD |
+| 1 | Sa 12.09.2026 14:45 | SG BÜNDE-DÜNNE - HSG BLOMBERG-LIPPE | 44:43 | beendet | GYMNASIUM AM MARKT |
+| 1 | So 13.09.2026 15:30 | JSG ELSE-WIEHEN WÖLFE - TV CONCORDIA ENGER | 23:23 | beendet | SPORTHALLE SPRADOW |
+| 2 | Sa 19.09.2026 14:00 | HSG BLOMBERG-LIPPE - TSV GWD MINDEN E.V. III | 40:24 | beendet | SCHULZENTRUM VORDERE HALLE |
+| 2 | Sa 19.09.2026 16:30 | TV CONCORDIA ENGER - SG BÜNDE-DÜNNE | 44:30 | beendet | GYMNASIUM ENGER |
+| 2 | So 20.09.2026 12:00 | TSVE 1890 Bielefeld - JSG ELSE-WIEHEN WÖLFE | 29:25 | beendet | TSVE-SPORTHALLE |
+| 2 | So 20.09.2026 12:00 | HSG EGB BIELEFELD II - JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK | 33:15 | beendet | SPORTHALLE GADDERBAUM |
+| 2 | So 20.09.2026 12:30 | TSV BÖSINGFELD - TUS LEOPOLDSHÖHE | 26:29 | beendet | SCHULZENTRUM HACKEMACK |
+| 3 | Sa 26.09.2026 15:15 | JSG ELSE-WIEHEN WÖLFE - HSG EGB BIELEFELD II | 24:22 | beendet | SIEGFRIED-MONING-SPORTHALLE |
+| 3 | Sa 26.09.2026 15:30 | TSV BÖSINGFELD - HSG BLOMBERG-LIPPE | 32:39 | beendet | SCHULZENTRUM HACKEMACK |
+| 3 | So 27.09.2026 09:30 | TSV GWD MINDEN E.V. III - TV CONCORDIA ENGER | 31:33 | beendet | SPORTHALLE MINDEN SüD |
+| 3 | So 27.09.2026 14:30 | SG BÜNDE-DÜNNE - TSVE 1890 Bielefeld | 51:34 | beendet | GYMNASIUM AM MARKT |
+| 3 | So 27.09.2026 15:30 | TUS LEOPOLDSHÖHE - JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK | 27:21 | beendet | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
+| 4 | Sa 03.10.2026 14:30 | JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK - JSG ELSE-WIEHEN WÖLFE | 24:23 | beendet | N.H.MENNIGHüFFEN |
+| 4 | Sa 03.10.2026 14:30 | TSVE 1890 Bielefeld - TSV GWD MINDEN E.V. III | 43:26 | beendet | TSVE-SPORTHALLE |
+| 4 | Sa 03.10.2026 16:30 | TV CONCORDIA ENGER - TSV BÖSINGFELD | 39:38 | beendet | GYMNASIUM ENGER |
+| 4 | So 04.10.2026 14:00 | HSG BLOMBERG-LIPPE - TUS LEOPOLDSHÖHE | 33:29 | beendet | SCHULZENTRUM VORDERE HALLE |
+| 5 | Sa 10.10.2026 12:00 | TSV GWD MINDEN E.V. III - HSG EGB BIELEFELD II | 18:37 | beendet | OTTO-MICHELSOHN-SPORTZENTRUM (DREIFACHSPORTHALLE) |
+| 5 | Sa 10.10.2026 15:00 | SG BÜNDE-DÜNNE - JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK | 37:17 | beendet | GYMNASIUM AM MARKT |
+| 5 | Sa 10.10.2026 16:00 | TUS LEOPOLDSHÖHE - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
+| 5 | So 11.10.2026 13:30 | TSV BÖSINGFELD - TSVE 1890 Bielefeld | 37:43 | beendet | SCHULZENTRUM HACKEMACK |
+| 5 | So 11.10.2026 14:00 | HSG BLOMBERG-LIPPE - TV CONCORDIA ENGER | 45:39 | beendet | SCHULZENTRUM HINTERE HALLE |
 | 4 | Di 03.11.2026 18:35 | HSG EGB BIELEFELD II - SG BÜNDE-DÜNNE | - | ausstehend | KUHLO-REALSCHULE |
 | 6 | Sa 07.11.2026 14:00 | TSVE 1890 Bielefeld - HSG BLOMBERG-LIPPE | - | ausstehend | TSVE-SPORTHALLE |
 | 6 | So 08.11.2026 13:00 | JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK - TSV GWD MINDEN E.V. III | - | ausstehend | N.H.MENNIGHüFFEN |
@@ -817,7 +1503,7 @@ Alle 67 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # D1 (Team-ID 87727)
-Quelle: handball.net, abgerufen am 30.10.2026 20:58
+Quelle: handball.net, abgerufen am 31.10.2026 12:29
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF männliche D-Jugend Kreisliga (Phase 13744)
@@ -841,6 +1527,11 @@ Liga/Runde: BIHF männliche D-Jugend Kreisliga (Phase 13744)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 1 | Sa 05.09.2026 16:15 | SG Bünde-Dünne - JSG ELSE-WIEHEN WÖLFE II | Heim | 31:12 | beendet | GYMNASIUM AM MARKT |
+| 2 | Sa 12.09.2026 15:00 | VFL HERFORD II - SG Bünde-Dünne | Auswärts | 17:37 | beendet | KREISSPORTHALLE HERMANNSTRAßE |
+| 5 | So 04.10.2026 15:00 | SG Bünde-Dünne - JSG HANDBALL LÖMO | Heim | 17:17 | beendet | GYMNASIUM AM MARKT |
+| 6 | So 11.10.2026 15:30 | TuS 97 Bielefeld/Jöllenbeck II - SG Bünde-Dünne | Auswärts | 21:45 | beendet | WESTERFELDSCHULE |
+| 3 | Fr 16.10.2026 18:30 | SG Bünde-Dünne - VFL HERFORD | Heim | 33:23 | beendet | ERICH-GUTENBERG-BERUFSKOLLEG |
 | 7 | Sa 07.11.2026 15:45 | SG Bünde-Dünne - TSV OERLINGHAUSEN | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | Sa 14.11.2026 12:30 | TSG ALTENHAGEN-HEEPEN - SG Bünde-Dünne | Auswärts | - | ausstehend | GYMNASIUM HEEPEN |
 | 4 | Mo 16.11.2026 18:00 | JSG LENZINGHAUSEN-SPENGE - SG Bünde-Dünne | Auswärts | - | ausstehend | SPORTHALLE LENZINGHAUSEN |
@@ -857,10 +1548,37 @@ Liga/Runde: BIHF männliche D-Jugend Kreisliga (Phase 13744)
 
 ## Spielplan der gesamten Liga (BIHF männliche D-Jugend Kreisliga)
 
-Alle 63 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 1 | Sa 05.09.2026 12:00 | TVC ENGER - JSG HANDBALL LÖMO | 13:20 | beendet | GYMNASIUM ENGER |
+| 1 | Sa 05.09.2026 13:00 | TSG ALTENHAGEN-HEEPEN - VFL HERFORD II | 19:19 | beendet | GYMNASIUM HEEPEN |
+| 1 | Sa 05.09.2026 16:15 | SG Bünde-Dünne - JSG ELSE-WIEHEN WÖLFE II | 31:12 | beendet | GYMNASIUM AM MARKT |
+| 1 | So 06.09.2026 14:30 | TSV OERLINGHAUSEN - VFL HERFORD | 16:16 | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 1 | So 06.09.2026 14:30 | TuS 97 Bielefeld/Jöllenbeck II - JSG LENZINGHAUSEN-SPENGE | 14:33 | beendet | REALSCHULE JöLLENBECK |
+| 2 | Sa 12.09.2026 13:30 | VFL HERFORD - TSG ALTENHAGEN-HEEPEN | 16:14 | beendet | KREISSPORTHALLE HERMANNSTRAßE |
+| 2 | Sa 12.09.2026 15:00 | VFL HERFORD II - SG Bünde-Dünne | 17:37 | beendet | KREISSPORTHALLE HERMANNSTRAßE |
+| 2 | So 13.09.2026 11:30 | JSG HANDBALL LÖMO - TuS 97 Bielefeld/Jöllenbeck II | 22:14 | beendet | GYMNASIUM LöHNE |
+| 2 | So 13.09.2026 15:00 | JSG LENZINGHAUSEN-SPENGE - TSV OERLINGHAUSEN | 27:14 | beendet | REALSCHULE SPENGE |
+| 3 | Sa 19.09.2026 12:00 | TVC ENGER - TuS 97 Bielefeld/Jöllenbeck II | 21:12 | beendet | GYMNASIUM ENGER |
+| 3 | So 20.09.2026 12:00 | TSG ALTENHAGEN-HEEPEN - JSG LENZINGHAUSEN-SPENGE | 27:34 | beendet | GYMNASIUM HEEPEN |
+| 4 | Sa 26.09.2026 13:15 | VFL HERFORD II - TVC ENGER | 23:32 | beendet | KREISSPORTHALLE HERMANNSTRAßE |
+| 4 | Sa 26.09.2026 14:30 | JSG HANDBALL LÖMO - TSG ALTENHAGEN-HEEPEN | 23:14 | beendet | N.H.MENNIGHüFFEN |
+| 4 | So 27.09.2026 13:15 | TuS 97 Bielefeld/Jöllenbeck II - TSV OERLINGHAUSEN | 23:28 | beendet | WESTERFELDSCHULE |
+| 5 | Sa 03.10.2026 12:00 | TVC ENGER - TSV OERLINGHAUSEN | 20:21 | beendet | GYMNASIUM ENGER |
+| 5 | Sa 03.10.2026 14:15 | TSG ALTENHAGEN-HEEPEN - TuS 97 Bielefeld/Jöllenbeck II | 31:18 | beendet | GYMNASIUM HEEPEN |
+| 5 | So 04.10.2026 12:00 | JSG ELSE-WIEHEN WÖLFE II - JSG LENZINGHAUSEN-SPENGE | 17:37 | beendet | SPH RöDH.-BRUCHMüHLEN |
+| 5 | So 04.10.2026 14:00 | VFL HERFORD II - VFL HERFORD | 27:32 | beendet | OTTO-HAHN-REALSCHULE |
+| 5 | So 04.10.2026 15:00 | SG Bünde-Dünne - JSG HANDBALL LÖMO | 17:17 | beendet | GYMNASIUM AM MARKT |
+| 4 | Do 08.10.2026 17:30 | VFL HERFORD - JSG ELSE-WIEHEN WÖLFE II | 27:19 | beendet | GESAMTSCHULE FRIEDENSTAL |
+| 6 | Sa 10.10.2026 00:00 | VFL HERFORD - TVC ENGER | - | ausstehend | KREISSPORTHALLE HERMANNSTRAßE |
+| 6 | Sa 10.10.2026 13:00 | JSG HANDBALL LÖMO - JSG ELSE-WIEHEN WÖLFE II | 24:10 | beendet | GYMNASIUM LöHNE |
+| 6 | So 11.10.2026 13:00 | TSV OERLINGHAUSEN - TSG ALTENHAGEN-HEEPEN | 20:24 | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 6 | So 11.10.2026 15:30 | TuS 97 Bielefeld/Jöllenbeck II - SG Bünde-Dünne | 21:45 | beendet | WESTERFELDSCHULE |
+| 3 | Mo 12.10.2026 17:30 | JSG ELSE-WIEHEN WÖLFE II - VFL HERFORD II | 14:16 | beendet | SPORTHALLE SPRADOW |
+| 3 | Fr 16.10.2026 18:30 | SG Bünde-Dünne - VFL HERFORD | 33:23 | beendet | ERICH-GUTENBERG-BERUFSKOLLEG |
+| 2 | Sa 17.10.2026 15:00 | JSG ELSE-WIEHEN WÖLFE II - TVC ENGER | 17:22 | beendet | ERICH-KäSTNER-GESAMTSCHULE |
 | 7 | Sa 07.11.2026 12:15 | VFL HERFORD II - JSG HANDBALL LÖMO | - | ausstehend | FRIEDRICHS-GYMNASIUM |
 | 7 | Sa 07.11.2026 13:45 | VFL HERFORD - JSG LENZINGHAUSEN-SPENGE | - | ausstehend | FRIEDRICHS-GYMNASIUM |
 | 7 | Sa 07.11.2026 15:45 | SG Bünde-Dünne - TSV OERLINGHAUSEN | - | ausstehend | GYMNASIUM AM MARKT |
@@ -971,7 +1689,7 @@ Alle 63 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # D2 (Team-ID 87743)
-Quelle: handball.net, abgerufen am 30.10.2026 20:59
+Quelle: handball.net, abgerufen am 31.10.2026 12:30
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF männliche D-Jugend Kreisklasse (Phase 13746)
@@ -999,6 +1717,12 @@ Liga/Runde: BIHF männliche D-Jugend Kreisklasse (Phase 13746)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 1 | So 06.09.2026 13:00 | TSV OERLINGHAUSEN II - SG BÜNDE-DÜNNE II | Auswärts | 21:23 | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 2 | Sa 12.09.2026 13:00 | SG BÜNDE-DÜNNE II - TUS LEOPOLDSHÖHE | Heim | 14:18 | beendet | GYMNASIUM AM MARKT |
+| 3 | Sa 19.09.2026 00:00 | SG BÜNDE-DÜNNE II - DJK BLAU-WEISS BIELEFELD | Heim | - | beendet |  |
+| 4 | So 27.09.2026 00:00 | TVC ENGER II - SG BÜNDE-DÜNNE II | Auswärts | - | beendet | GYMNASIUM ENGER |
+| 5 | So 04.10.2026 00:00 | SG BÜNDE-DÜNNE II - TG HERFORD | Heim | - | ausstehend | GYMNASIUM AM MARKT |
+| 6 | So 11.10.2026 00:00 | HSG EGB BIELEFELD II - SG BÜNDE-DÜNNE II | Auswärts | - | beendet | SPORTHALLE GADDERBAUM |
 | 8 | So 08.11.2026 15:30 | HTSF SENNE - SG BÜNDE-DÜNNE II | Auswärts | - | ausstehend | SPORTHALLE SENNESTADT-NORD |
 | 9 | Sa 14.11.2026 13:00 | SG BÜNDE-DÜNNE II - JSG BIELEFELD 07 | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 7 | Fr 20.11.2026 18:30 | SG BÜNDE-DÜNNE II - TSVE 1890 BIELEFELD | Heim | - | ausstehend | ERICH-GUTENBERG-BERUFSKOLLEG |
@@ -1009,16 +1733,101 @@ Liga/Runde: BIHF männliche D-Jugend Kreisklasse (Phase 13746)
 
 ## Spielplan der gesamten Liga (BIHF männliche D-Jugend Kreisklasse)
 
-Alle 6 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 91 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 1 | Sa 05.09.2026 00:00 | JSG ELSE-WIEHEN WÖLFE III - DJK BLAU-WEISS BIELEFELD | - | beendet |  |
+| 1 | Sa 05.09.2026 00:00 | HSG EGB BIELEFELD - HSG EGB BIELEFELD II | 49:22 | beendet | KUHLO-REALSCHULE |
+| 1 | So 06.09.2026 11:30 | TUS LEOPOLDSHÖHE - HTSF SENNE | 10:18 | beendet | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
+| 1 | So 06.09.2026 12:00 | JSG BIELEFELD 07 - TSVE 1890 BIELEFELD | 26:23 | beendet | SPORTHALLE BRAKE |
+| 1 | So 06.09.2026 13:00 | TSV OERLINGHAUSEN II - SG BÜNDE-DÜNNE II | 21:23 | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 1 | So 06.09.2026 13:30 | JSG HANDBALL LÖMO II - TVC ENGER II | 18:12 | beendet | GYMNASIUM LöHNE |
+| 1 | So 06.09.2026 14:00 | HSG QUELLE/UMMELN - TG HERFORD | 23:9 | beendet | SPORTHALLE QUELLE |
+| 2 | Sa 12.09.2026 00:00 | DJK BLAU-WEISS BIELEFELD - TSV OERLINGHAUSEN II | - | beendet | SPORTHALLE STIEGHORST |
+| 2 | Sa 12.09.2026 13:00 | SG BÜNDE-DÜNNE II - TUS LEOPOLDSHÖHE | 14:18 | beendet | GYMNASIUM AM MARKT |
+| 2 | Sa 12.09.2026 13:30 | TSVE 1890 BIELEFELD - HSG EGB BIELEFELD | 19:23 | beendet | TSVE-SPORTHALLE |
+| 2 | Sa 12.09.2026 14:00 | TG HERFORD - JSG HANDBALL LÖMO II | 9:24 | beendet | ERNST-BARLACH-REALSCHULE |
+| 2 | Sa 12.09.2026 15:00 | HTSF SENNE - JSG BIELEFELD 07 | 12:21 | beendet | REALSCHULE SENNE I |
+| 2 | So 13.09.2026 00:00 | HSG EGB BIELEFELD II - HSG QUELLE/UMMELN | 14:24 | beendet | SPORTHALLE GADDERBAUM |
+| 2 | So 13.09.2026 14:10 | TVC ENGER II - JSG ELSE-WIEHEN WÖLFE III | 12:15 | beendet | GYMNASIUM ENGER |
+| 3 | Sa 19.09.2026 00:00 | SG BÜNDE-DÜNNE II - DJK BLAU-WEISS BIELEFELD | - | beendet |  |
+| 3 | Sa 19.09.2026 13:00 | HSG EGB BIELEFELD - HTSF SENNE | 29:11 | beendet | SPORTHALLE GADDERBAUM |
+| 3 | So 20.09.2026 10:00 | TUS LEOPOLDSHÖHE - JSG BIELEFELD 07 | 20:28 | beendet | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
+| 3 | So 20.09.2026 13:00 | TSV OERLINGHAUSEN II - TVC ENGER II | 13:12 | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 3 | So 20.09.2026 14:00 | HSG QUELLE/UMMELN - TSVE 1890 BIELEFELD | 20:24 | beendet | SPORTHALLE UMMELN |
+| 3 | Do 24.09.2026 17:30 | JSG ELSE-WIEHEN WÖLFE III - TG HERFORD | 34:13 | beendet | GESAMTSCHULE RöDINGHAUSEN |
+| 4 | Sa 26.09.2026 00:00 | DJK BLAU-WEISS BIELEFELD - TUS LEOPOLDSHÖHE | - | beendet | SPORTHALLE STIEGHORST |
+| 4 | Sa 26.09.2026 14:30 | TSVE 1890 BIELEFELD - JSG HANDBALL LÖMO II | 23:14 | beendet | TSVE-SPORTHALLE |
+| 4 | So 27.09.2026 00:00 | TVC ENGER II - SG BÜNDE-DÜNNE II | - | beendet | GYMNASIUM ENGER |
+| 4 | So 27.09.2026 00:00 | HSG EGB BIELEFELD II - JSG ELSE-WIEHEN WÖLFE III | 15:33 | beendet | SPORTHALLE GADDERBAUM |
+| 4 | So 27.09.2026 13:00 | JSG BIELEFELD 07 - HSG EGB BIELEFELD | 17:22 | beendet | SPORTHALLE BRAKE |
+| 3 | Do 01.10.2026 00:00 | JSG HANDBALL LÖMO II - HSG EGB BIELEFELD II | 18:13 | beendet | N.H.MENNIGHüFFEN |
+| 5 | Sa 03.10.2026 00:00 | DJK BLAU-WEISS BIELEFELD - TVC ENGER II | - | beendet | SPORTHALLE STIEGHORST |
+| 5 | So 04.10.2026 00:00 | SG BÜNDE-DÜNNE II - TG HERFORD | - | ausstehend | GYMNASIUM AM MARKT |
+| 5 | So 04.10.2026 00:00 | TSV OERLINGHAUSEN II - HSG EGB BIELEFELD II | - | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 5 | So 04.10.2026 10:00 | TUS LEOPOLDSHÖHE - HSG EGB BIELEFELD | 14:34 | beendet | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
+| 5 | So 04.10.2026 13:00 | JSG HANDBALL LÖMO II - HTSF SENNE | 18:18 | beendet | N.H.MENNIGHüFFEN |
+| 5 | So 04.10.2026 13:45 | JSG ELSE-WIEHEN WÖLFE III - TSVE 1890 BIELEFELD | 11:21 | beendet | SPH RöDH.-BRUCHMüHLEN |
+| 6 | Sa 10.10.2026 12:00 | TVC ENGER II - TUS LEOPOLDSHÖHE | 19:23 | beendet | GYMNASIUM ENGER |
+| 6 | Sa 10.10.2026 13:00 | JSG BIELEFELD 07 - JSG HANDBALL LÖMO II | 21:23 | beendet | SPORTHALLE BRAKE |
+| 6 | Sa 10.10.2026 15:00 | HTSF SENNE - JSG ELSE-WIEHEN WÖLFE III | 25:21 | beendet | REALSCHULE SENNE I |
+| 6 | So 11.10.2026 00:00 | HSG EGB BIELEFELD II - SG BÜNDE-DÜNNE II | - | beendet | SPORTHALLE GADDERBAUM |
+| 6 | So 11.10.2026 00:00 | TG HERFORD - DJK BLAU-WEISS BIELEFELD | - | beendet |  |
+| 4 | So 11.10.2026 12:00 | TG HERFORD - TSV OERLINGHAUSEN II | 7:26 | beendet | ERNST-BARLACH-REALSCHULE |
+| 6 | So 11.10.2026 13:30 | HSG EGB BIELEFELD - HSG QUELLE/UMMELN | 41:9 | beendet | GYMNASIUM BRACKWEDE |
+| 5 | Di 13.10.2026 17:30 | HSG QUELLE/UMMELN - JSG BIELEFELD 07 | - | ausstehend | SPORTHALLE QUELLE |
+| 4 | Sa 17.10.2026 16:00 | HTSF SENNE - HSG QUELLE/UMMELN | 13:17 | beendet | REALSCHULE SENNE I |
 | 7 | Sa 31.10.2026 00:00 | DJK BLAU-WEISS BIELEFELD - HSG EGB BIELEFELD II | - | beendet | SPORTHALLE STIEGHORST |
 | 7 | Sa 31.10.2026 00:00 | TVC ENGER II - TG HERFORD | - | beendet | GYMNASIUM ENGER |
 | 7 | Sa 31.10.2026 13:00 | TUS LEOPOLDSHÖHE - HSG QUELLE/UMMELN | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
 | 7 | Sa 31.10.2026 14:00 | TSV OERLINGHAUSEN II - HTSF SENNE | - | ausstehend | GRUNDSCHULE OERLINGHAUSEN SüD |
 | 7 | Sa 31.10.2026 15:00 | JSG HANDBALL LÖMO II - HSG EGB BIELEFELD | - | ausstehend | N.H.MENNIGHüFFEN |
 | 7 | Sa 31.10.2026 15:45 | JSG ELSE-WIEHEN WÖLFE III - JSG BIELEFELD 07 | - | ausstehend | SPH RöDH.-BRUCHMüHLEN |
+| 6 | Fr 06.11.2026 18:30 | TSV OERLINGHAUSEN II - TSVE 1890 BIELEFELD | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 8 | Sa 07.11.2026 14:15 | HSG QUELLE/UMMELN - JSG HANDBALL LÖMO II | - | ausstehend | SPORTHALLE UMMELN |
+| 8 | So 08.11.2026 00:00 | TSVE 1890 BIELEFELD - DJK BLAU-WEISS BIELEFELD | - | beendet | ACHIM-BADEN, LAHOF-SZ |
+| 8 | So 08.11.2026 00:00 | HSG EGB BIELEFELD II - TVC ENGER II | - | beendet | SPORTHALLE GADDERBAUM |
+| 8 | So 08.11.2026 10:00 | TG HERFORD - TUS LEOPOLDSHÖHE | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 8 | So 08.11.2026 12:15 | HSG EGB BIELEFELD - JSG ELSE-WIEHEN WÖLFE III | - | ausstehend | SPORTHALLE GADDERBAUM |
+| 8 | So 08.11.2026 13:00 | JSG BIELEFELD 07 - TSV OERLINGHAUSEN II | - | ausstehend | SPORTHALLE BRAKE |
+| 8 | So 08.11.2026 15:30 | HTSF SENNE - SG BÜNDE-DÜNNE II | - | ausstehend | SPORTHALLE SENNESTADT-NORD |
+| 9 | Sa 14.11.2026 00:00 | DJK BLAU-WEISS BIELEFELD - HTSF SENNE | - | beendet | SPORTHALLE STIEGHORST |
+| 9 | Sa 14.11.2026 00:00 | TVC ENGER II - TSVE 1890 BIELEFELD | - | beendet | SCHULZENTRUM ENGER |
+| 9 | Sa 14.11.2026 00:00 | TG HERFORD - HSG EGB BIELEFELD II | - | beendet | ERNST-BARLACH-REALSCHULE |
+| 9 | Sa 14.11.2026 12:30 | JSG ELSE-WIEHEN WÖLFE III - HSG QUELLE/UMMELN | - | ausstehend | GESAMTSCHULE RöDINGHAUSEN |
+| 9 | Sa 14.11.2026 13:00 | SG BÜNDE-DÜNNE II - JSG BIELEFELD 07 | - | ausstehend | GYMNASIUM AM MARKT |
+| 9 | So 15.11.2026 13:30 | TSV OERLINGHAUSEN II - HSG EGB BIELEFELD | - | ausstehend | GRUNDSCHULE OERLINGHAUSEN SüD |
+| 9 | So 15.11.2026 16:15 | TUS LEOPOLDSHÖHE - JSG HANDBALL LÖMO II | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
+| 7 | Fr 20.11.2026 18:30 | SG BÜNDE-DÜNNE II - TSVE 1890 BIELEFELD | - | ausstehend | ERICH-GUTENBERG-BERUFSKOLLEG |
+| 10 | Sa 21.11.2026 00:00 | JSG BIELEFELD 07 - DJK BLAU-WEISS BIELEFELD | - | beendet | ACHIM-BADEN, LAHOF-SZ |
+| 10 | Sa 21.11.2026 00:00 | HTSF SENNE - TVC ENGER II | - | beendet | REALSCHULE SENNE I |
+| 10 | Sa 21.11.2026 13:00 | JSG HANDBALL LÖMO II - JSG ELSE-WIEHEN WÖLFE III | - | ausstehend | N.H.MENNIGHüFFEN |
+| 10 | Sa 21.11.2026 13:00 | HSG EGB BIELEFELD II - TUS LEOPOLDSHÖHE | - | beendet | KUHLO-REALSCHULE |
+| 10 | Sa 21.11.2026 13:45 | HSG QUELLE/UMMELN - TSV OERLINGHAUSEN II | - | ausstehend | SPORTHALLE UMMELN |
+| 10 | Sa 21.11.2026 15:00 | HSG EGB BIELEFELD - SG BÜNDE-DÜNNE II | - | ausstehend | KUHLO-REALSCHULE |
+| 10 | Sa 21.11.2026 18:00 | TSVE 1890 BIELEFELD - TG HERFORD | - | ausstehend | TSVE-SPORTHALLE |
+| 11 | Sa 28.11.2026 13:00 | DJK BLAU-WEISS BIELEFELD - HSG EGB BIELEFELD | - | beendet | SPORTHALLE STIEGHORST |
+| 11 | Sa 28.11.2026 14:00 | TUS LEOPOLDSHÖHE - JSG ELSE-WIEHEN WÖLFE III | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
+| 11 | Sa 28.11.2026 14:30 | SG BÜNDE-DÜNNE II - HSG QUELLE/UMMELN | - | ausstehend | GYMNASIUM AM MARKT |
+| 11 | Sa 28.11.2026 15:30 | TG HERFORD - HTSF SENNE | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 11 | So 29.11.2026 00:00 | HSG EGB BIELEFELD II - TSVE 1890 BIELEFELD | - | beendet | SPORTHALLE GADDERBAUM |
+| 11 | So 29.11.2026 09:00 | TVC ENGER II - JSG BIELEFELD 07 | - | beendet | GYMNASIUM ENGER |
+| 11 | So 29.11.2026 12:30 | TSV OERLINGHAUSEN II - JSG HANDBALL LÖMO II | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 12 | Sa 05.12.2026 00:00 | HTSF SENNE - HSG EGB BIELEFELD II | - | beendet | SPORTHALLE SENNESTADT-NORD |
+| 12 | So 06.12.2026 00:00 | HSG QUELLE/UMMELN - DJK BLAU-WEISS BIELEFELD | - | beendet | ACHIM-BADEN, LAHOF-SZ |
+| 12 | So 06.12.2026 00:00 | HSG EGB BIELEFELD - TVC ENGER II | - | beendet | SPORTHALLE GADDERBAUM |
+| 12 | So 06.12.2026 10:00 | TUS LEOPOLDSHÖHE - TSVE 1890 BIELEFELD | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
+| 12 | So 06.12.2026 13:00 | JSG ELSE-WIEHEN WÖLFE III - TSV OERLINGHAUSEN II | - | ausstehend | SPH RöDH.-BRUCHMüHLEN |
+| 12 | So 06.12.2026 13:30 | JSG BIELEFELD 07 - TG HERFORD | - | ausstehend | SPORTHALLE BRAKE |
+| 12 | So 06.12.2026 14:00 | JSG HANDBALL LÖMO II - SG BÜNDE-DÜNNE II | - | ausstehend | GYMNASIUM LöHNE |
+| 13 | Sa 12.12.2026 13:45 | TSVE 1890 BIELEFELD - HTSF SENNE | - | ausstehend | TSVE-SPORTHALLE |
+| 13 | Sa 12.12.2026 14:00 | TG HERFORD - HSG EGB BIELEFELD | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 13 | Sa 12.12.2026 14:45 | SG BÜNDE-DÜNNE II - JSG ELSE-WIEHEN WÖLFE III | - | ausstehend | GYMNASIUM AM MARKT |
+| 13 | Sa 12.12.2026 16:00 | DJK BLAU-WEISS BIELEFELD - JSG HANDBALL LÖMO II | - | beendet | SPORTHALLE STIEGHORST |
+| 13 | So 13.12.2026 00:00 | TVC ENGER II - HSG QUELLE/UMMELN | - | beendet | GYMNASIUM ENGER |
+| 13 | So 13.12.2026 00:00 | HSG EGB BIELEFELD II - JSG BIELEFELD 07 | - | beendet | SPORTHALLE GADDERBAUM |
+| 13 | So 13.12.2026 13:00 | TSV OERLINGHAUSEN II - TUS LEOPOLDSHÖHE | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
 
 ## Kader und Spielerstatistik (Saison)
 
@@ -1032,44 +1841,45 @@ Alle 6 Spiele aller Mannschaften, nach Termin sortiert.
 | 8 | Henry Oleff | 2 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 8 | Lisa Wolz | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 95 | Jona Michalik | 2 | 1 | 0 | 0 | 0 | 0 | 0 |
-| - | Julius Wille | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Tim Bunte | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Friedrich Lückemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Simon Daniel Sprenger | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Felix Hansch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Tim Hartmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Zoey Kiara Kretschmer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1 | Fabian Eppli | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | Phoebe Bergner | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Mats Kemner | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Lena Herdt | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Anastasia Knaus | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Pascal Heibrock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Dorde Mikac | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Mayla Döring | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Tino Meyer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Hannes Moellering | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Klaas Joris Hofemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Linus Phileas Boesch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Maxim Neufeld | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Leland Heer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Marco Rossol | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Fabian Meyer | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 | Emma Wiegand | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Lewin Goddard | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 17 | Aaron Möller | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Aleksej Bekemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Dorde Mikac | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Julius Wille | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Tim Bunte | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Friedrich Lückemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
-- DJK BLAU-WEISS BIELEFELD: keine Daten
-- HSG EGB BIELEFELD II: #11 Linus Recker (17 Tore in 4 Spielen), #15 Mats Steinke (12 Tore in 4 Spielen), #5 Jakob Gaus (10 Tore in 3 Spielen), #15 Phil Radzyminski (6 Tore in 1 Spielen), #7 Noah Daube (4 Tore in 1 Spielen)
-- TVC ENGER II: #15 Marten Burmann (11 Tore in 2 Spielen), #14 Rasmus Büscher (9 Tore in 4 Spielen), #5 Noah Schäfer (6 Tore in 1 Spielen), #2 Jakob Lückingsmeier (5 Tore in 1 Spielen), #11 Fiete Leimbrock (5 Tore in 1 Spielen)
-- TG HERFORD: #15 Lennart Nelson Flagmeier (11 Tore in 4 Spielen), #10 Simeon Grün (11 Tore in 3 Spielen), #14 Julian Cors (7 Tore in 4 Spielen), #9 Mia Joline Huwendieck (4 Tore in 3 Spielen), #16 Laura Pracht (2 Tore in 2 Spielen)
-- TUS LEOPOLDSHÖHE: #2 Carl Rasmus Schlepper (16 Tore in 6 Spielen), #11 Louis Rose (14 Tore in 6 Spielen), #16 Marc Kassner (14 Tore in 5 Spielen), #6 Finn Kauther (10 Tore in 5 Spielen), #17 Ben Haakon Babuder (9 Tore in 3 Spielen)
-- HSG QUELLE/UMMELN: #4 Paul Becker (26 Tore in 6 Spielen), #11 Sönke Pagenberg (18 Tore in 6 Spielen), #8 Benjamin Wilhelm Kornblum (15 Tore in 6 Spielen), #14 Emil Rathmann (13 Tore in 6 Spielen), #7 Mats Krause (11 Tore in 5 Spielen)
-- TSV OERLINGHAUSEN II: #4 Adrian Evgenij Schmunk (20 Tore in 13 Spielen), #16 Noah Scott Bollmann (11 Tore in 13 Spielen), #14 Louis Sudmann (8 Tore in 13 Spielen), #5 Tjark Kenai Müller (7 Tore in 13 Spielen), #11 Henri Boer (5 Tore in 13 Spielen)
 - HTSF SENNE: #8 Bent Pachnicke (38 Tore in 7 Spielen), #5 Jannik Beyermann (16 Tore in 7 Spielen), #16 Fiete Witthuhn (10 Tore in 5 Spielen), #11 Matz Sperling (7 Tore in 6 Spielen), #14 Jon Dreves (6 Tore in 6 Spielen)
-- JSG HANDBALL LÖMO II: #20 Paul Polster (36 Tore in 7 Spielen), #9 Bjarne Georg Sketsch (33 Tore in 7 Spielen), #10 Emil Fiebig (21 Tore in 4 Spielen), #14 Henry Kuhlmann (10 Tore in 7 Spielen), #19 Paul Giesbrecht (3 Tore in 7 Spielen)
-- HSG EGB BIELEFELD: #16 Milo Stallmann (59 Tore in 5 Spielen), #9 Matti Schulz (32 Tore in 5 Spielen), #7 Karlson Klaas Ludvig Bent (23 Tore in 5 Spielen), #15 Phil Radzyminski (20 Tore in 5 Spielen), #24 Romeo Böning (17 Tore in 4 Spielen)
-- JSG ELSE-WIEHEN WÖLFE III: #14 Milo Johannes Tapp (25 Tore in 4 Spielen), #4 Charlie-Joel Böhm (12 Tore in 5 Spielen), #16 Bennet Fabert (7 Tore in 1 Spielen), #9 Finn-Elias Block (7 Tore in 4 Spielen), #22 Bjarne Mylius (7 Tore in 1 Spielen)
 - JSG BIELEFELD 07: #14 Noyan Levin Ömür (32 Tore in 5 Spielen), #18 Theo Brockmann (26 Tore in 5 Spielen), #13 Lennart Köper (24 Tore in 5 Spielen), #7 Michael Dick (14 Tore in 4 Spielen), #9 Julian Hartmann (10 Tore in 4 Spielen)
+- TSVE 1890 BIELEFELD: #14 Lian Henry Boly (25 Tore in 4 Spielen), #18 Gero Menges (19 Tore in 4 Spielen), #7 Julius Friedrichs (17 Tore in 4 Spielen), #15 Oskar Tiago Grutzpalk (15 Tore in 4 Spielen), #3 Lucas Timmermann (7 Tore in 3 Spielen)
+- HSG EGB BIELEFELD: #16 Milo Stallmann (59 Tore in 5 Spielen), #9 Matti Schulz (32 Tore in 5 Spielen), #7 Karlson Klaas Ludvig Bent (23 Tore in 5 Spielen), #15 Phil Radzyminski (20 Tore in 5 Spielen), #24 Romeo Böning (17 Tore in 4 Spielen)
+- HSG QUELLE/UMMELN: #4 Paul Becker (26 Tore in 7 Spielen), #11 Sönke Pagenberg (18 Tore in 7 Spielen), #8 Benjamin Wilhelm Kornblum (15 Tore in 7 Spielen), #14 Emil Rathmann (13 Tore in 7 Spielen), #7 Mats Krause (11 Tore in 6 Spielen)
+- JSG HANDBALL LÖMO II: #20 Paul Polster (36 Tore in 7 Spielen), #9 Bjarne Georg Sketsch (33 Tore in 7 Spielen), #10 Emil Fiebig (21 Tore in 4 Spielen), #14 Henry Kuhlmann (10 Tore in 7 Spielen), #4 Leno Maxim Skiba (3 Tore in 5 Spielen)
+- JSG ELSE-WIEHEN WÖLFE III: #14 Milo Johannes Tapp (25 Tore in 4 Spielen), #4 Charlie-Joel Böhm (12 Tore in 5 Spielen), #16 Bennet Fabert (7 Tore in 1 Spielen), #9 Finn-Elias Block (7 Tore in 4 Spielen), #22 Bjarne Mylius (7 Tore in 1 Spielen)
+- TSV OERLINGHAUSEN II: #4 Adrian Evgenij Schmunk (20 Tore in 13 Spielen), #16 Noah Scott Bollmann (11 Tore in 13 Spielen), #14 Louis Sudmann (8 Tore in 13 Spielen), #5 Tjark Kenai Müller (7 Tore in 13 Spielen), #11 Henri Boer (5 Tore in 13 Spielen)
+- TUS LEOPOLDSHÖHE: #2 Carl Rasmus Schlepper (16 Tore in 7 Spielen), #11 Louis Rose (14 Tore in 7 Spielen), #16 Marc Kassner (14 Tore in 6 Spielen), #6 Finn Kauther (10 Tore in 6 Spielen), #17 Ben Haakon Babuder (9 Tore in 3 Spielen)
+- DJK BLAU-WEISS BIELEFELD: keine Daten
+- TVC ENGER II: #15 Marten Burmann (11 Tore in 2 Spielen), #14 Rasmus Büscher (9 Tore in 4 Spielen), #5 Noah Schäfer (6 Tore in 1 Spielen), #11 Fiete Leimbrock (5 Tore in 1 Spielen), #2 Jakob Lückingsmeier (5 Tore in 1 Spielen)
+- TG HERFORD: #10 Simeon Grün (11 Tore in 3 Spielen), #15 Lennart Nelson Flagmeier (11 Tore in 5 Spielen), #14 Julian Cors (7 Tore in 5 Spielen), #9 Mia Joline Huwendieck (4 Tore in 4 Spielen), #16 Laura Pracht (2 Tore in 2 Spielen)
+- HSG EGB BIELEFELD II: #11 Linus Recker (17 Tore in 4 Spielen), #15 Mats Steinke (12 Tore in 4 Spielen), #5 Jakob Gaus (10 Tore in 3 Spielen), #15 Phil Radzyminski (6 Tore in 1 Spielen), #7 Noah Daube (4 Tore in 1 Spielen)
 
 
 ---
 
 # E1 (Team-ID 87763)
-Quelle: handball.net, abgerufen am 30.10.2026 21:00
+Quelle: handball.net, abgerufen am 31.10.2026 12:31
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF gemischte E-Jugend Kreisliga (Phase 13747)
@@ -1092,6 +1902,11 @@ Liga/Runde: BIHF gemischte E-Jugend Kreisliga (Phase 13747)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 1 | Sa 05.09.2026 14:30 | SG Bünde-Dünne - HSG QUELLE/UMMELN | Heim | - | ausstehend | GYMNASIUM AM MARKT |
+| 2 | Sa 12.09.2026 13:30 | JSG LENZINGHAUSEN-SPENGE - SG Bünde-Dünne | Auswärts | 14:27 | beendet | SPORTHALLE LENZINGHAUSEN |
+| 3 | Sa 19.09.2026 14:30 | SG Bünde-Dünne - VFL HERFORD | Heim | 24:27 | beendet | GYMNASIUM AM MARKT |
+| 4 | So 27.09.2026 13:15 | TVC ENGER - SG Bünde-Dünne | Auswärts | 18:15 | beendet | GYMNASIUM ENGER |
+| 6 | Sa 10.10.2026 13:00 | SG Bünde-Dünne - TSG ALTENHAGEN-HEEPEN | Heim | 23:12 | beendet | GYMNASIUM AM MARKT |
 | 7 | So 15.11.2026 15:45 | JSG Else-Wiehen Wölfe - SG Bünde-Dünne | Auswärts | - | ausstehend | SPH RöDH.-BRUCHMüHLEN |
 | 8 | Sa 21.11.2026 13:00 | SG Bünde-Dünne - TuS 97 Bielefeld/Jöllenbeck | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 9 | So 29.11.2026 14:30 | JSG HANDBALL LÖMO - SG Bünde-Dünne | Auswärts | - | ausstehend | GYMNASIUM LöHNE |
@@ -1106,10 +1921,32 @@ Liga/Runde: BIHF gemischte E-Jugend Kreisliga (Phase 13747)
 
 ## Spielplan der gesamten Liga (BIHF gemischte E-Jugend Kreisliga)
 
-Alle 50 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 1 | Sa 05.09.2026 14:30 | SG Bünde-Dünne - HSG QUELLE/UMMELN | - | ausstehend | GYMNASIUM AM MARKT |
+| 1 | Sa 05.09.2026 16:00 | TVC ENGER - JSG LENZINGHAUSEN-SPENGE | 35:10 | beendet | GYMNASIUM ENGER |
+| 1 | So 06.09.2026 10:00 | TSG ALTENHAGEN-HEEPEN - JSG HANDBALL LÖMO | 22:27 | beendet | GYMNASIUM HEEPEN |
+| 2 | Sa 12.09.2026 13:30 | JSG LENZINGHAUSEN-SPENGE - SG Bünde-Dünne | 14:27 | beendet | SPORTHALLE LENZINGHAUSEN |
+| 2 | Sa 12.09.2026 14:45 | HSG QUELLE/UMMELN - TSG ALTENHAGEN-HEEPEN | 17:17 | beendet | SPORTHALLE QUELLE |
+| 2 | So 13.09.2026 10:00 | VFL HERFORD - TVC ENGER | 24:23 | beendet | KREISSPORTHALLE HERMANNSTRAßE |
+| 2 | So 13.09.2026 13:00 | JSG HANDBALL LÖMO - JSG Else-Wiehen Wölfe | 23:38 | beendet | GYMNASIUM LöHNE |
+| 3 | Sa 19.09.2026 14:30 | SG Bünde-Dünne - VFL HERFORD | 24:27 | beendet | GYMNASIUM AM MARKT |
+| 3 | Sa 19.09.2026 15:30 | TSG ALTENHAGEN-HEEPEN - JSG LENZINGHAUSEN-SPENGE | 24:23 | beendet | SPORTHALLE ALTENHAGEN |
+| 3 | So 20.09.2026 14:00 | TuS 97 Bielefeld/Jöllenbeck - JSG HANDBALL LÖMO | 40:34 | beendet | WESTERFELDSCHULE |
+| 3 | So 20.09.2026 14:45 | JSG Else-Wiehen Wölfe - HSG QUELLE/UMMELN | 37:11 | beendet | SPH GRUNDSCHULE QUERNHEIM |
+| 4 | Sa 26.09.2026 12:00 | JSG LENZINGHAUSEN-SPENGE - JSG Else-Wiehen Wölfe | 13:27 | beendet | REALSCHULE SPENGE |
+| 4 | Sa 26.09.2026 12:00 | VFL HERFORD - TSG ALTENHAGEN-HEEPEN | 28:21 | beendet | FRIEDRICHS-GYMNASIUM |
+| 4 | So 27.09.2026 13:15 | TVC ENGER - SG Bünde-Dünne | 18:15 | beendet | GYMNASIUM ENGER |
+| 4 | So 27.09.2026 14:30 | HSG QUELLE/UMMELN - TuS 97 Bielefeld/Jöllenbeck | 21:46 | beendet | SPORTHALLE UMMELN |
+| 5 | Sa 03.10.2026 14:15 | JSG Else-Wiehen Wölfe - VFL HERFORD | 50:13 | beendet | SPH RöDH.-BRUCHMüHLEN |
+| 5 | So 04.10.2026 12:30 | TuS 97 Bielefeld/Jöllenbeck - JSG LENZINGHAUSEN-SPENGE | 40:23 | beendet | WESTERFELDSCHULE |
+| 5 | So 04.10.2026 16:00 | JSG HANDBALL LÖMO - HSG QUELLE/UMMELN | 30:14 | beendet | GYMNASIUM LöHNE |
+| 6 | Sa 10.10.2026 13:00 | SG Bünde-Dünne - TSG ALTENHAGEN-HEEPEN | 23:12 | beendet | GYMNASIUM AM MARKT |
+| 6 | Sa 10.10.2026 13:45 | VFL HERFORD - TuS 97 Bielefeld/Jöllenbeck | 25:50 | beendet | FRIEDRICHS-GYMNASIUM |
+| 6 | So 11.10.2026 15:00 | JSG LENZINGHAUSEN-SPENGE - JSG HANDBALL LÖMO | 18:29 | beendet | SPORTHALLE LENZINGHAUSEN |
+| 6 | Di 13.10.2026 17:30 | TVC ENGER - JSG Else-Wiehen Wölfe | 29:26 | beendet | SCHULZENTRUM ENGER |
 | 1 | Fr 06.11.2026 17:00 | JSG Else-Wiehen Wölfe - TuS 97 Bielefeld/Jöllenbeck | - | ausstehend | ERICH-KäSTNER-GESAMTSCHULE |
 | 5 | Sa 07.11.2026 15:30 | TSG ALTENHAGEN-HEEPEN - TVC ENGER | - | ausstehend | SPORTHALLE ALTENHAGEN |
 | 7 | Sa 14.11.2026 16:00 | TuS 97 Bielefeld/Jöllenbeck - TVC ENGER | - | ausstehend | WESTERFELDSCHULE |
@@ -1206,15 +2043,97 @@ Alle 50 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # E2 (Team-ID 87781)
-Quelle: handball.net, abgerufen am 30.10.2026 21:00
+Quelle: handball.net, abgerufen am 31.10.2026 12:32
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
-Keine Spiele gefunden.
+Liga/Runde: BIHF gem. E-Jugend Kreisklasse (Phase 13750)
+
+## Tabelle
+
+| Platz | Mannschaft | Spiele | S | U | N | Tore | Diff | Punkte | Form |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | JSG Else-Wiehen Wölfe II | 5 | 4 | 1 | 0 | 71:39 | 32 | 9 | DWWWW |
+| 2 | JSG BIELEFELD 07 | 5 | 3 | 1 | 1 | 77:56 | 21 | 7 | DLWWW |
+| 3 | JSG HANDBALL LÖMO III | 5 | 3 | 0 | 2 | 81:44 | 37 | 6 | WWWLL |
+| 4 | SG Bünde-Dünne II | 5 | 3 | 0 | 2 | 86:64 | 22 | 6 | WWLLW |
+| 5 | JSG LENZINGHAUSEN-SPENGE II | 5 | 1 | 0 | 4 | 40:84 | -44 | 2 | LLLWL |
+| 6 | DJK BLAU-WEISS BIELEFELD | 5 | 0 | 0 | 5 | 32:100 | -68 | 0 | LLLLL |
+
+## Spielplan (alle Spiele der Saison)
+
+| Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
+|---|---|---|---|---|---|---|
+| 1 | Sa 05.09.2026 13:00 | SG Bünde-Dünne II - DJK BLAU-WEISS BIELEFELD | Heim | 28:12 | beendet | GYMNASIUM AM MARKT |
+| 2 | Sa 12.09.2026 15:00 | JSG LENZINGHAUSEN-SPENGE II - SG Bünde-Dünne II | Auswärts | 9:19 | beendet | SPORTHALLE LENZINGHAUSEN |
+| 3 | Sa 19.09.2026 13:00 | SG Bünde-Dünne II - JSG Else-Wiehen Wölfe II | Heim | 9:16 | beendet | GYMNASIUM AM MARKT |
+| 4 | So 04.10.2026 11:30 | SG Bünde-Dünne II - JSG BIELEFELD 07 | Heim | 14:17 | beendet | GYMNASIUM AM MARKT |
+| 5 | So 11.10.2026 16:30 | JSG HANDBALL LÖMO III - SG Bünde-Dünne II | Auswärts | 10:16 | beendet | N.H.MENNIGHüFFEN |
+
+## Spielplan der gesamten Liga (BIHF gem. E-Jugend Kreisklasse)
+
+Alle 15 Spiele aller Mannschaften, nach Termin sortiert.
+
+| Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
+|---|---|---|---|---|---|
+| 1 | Sa 05.09.2026 13:00 | SG Bünde-Dünne II - DJK BLAU-WEISS BIELEFELD | 28:12 | beendet | GYMNASIUM AM MARKT |
+| 1 | Sa 05.09.2026 15:45 | JSG Else-Wiehen Wölfe II - JSG BIELEFELD 07 | 7:7 | beendet | SPH RöDH.-BRUCHMüHLEN |
+| 1 | So 06.09.2026 10:00 | JSG HANDBALL LÖMO III - JSG LENZINGHAUSEN-SPENGE II | 15:1 | beendet | GYMNASIUM LöHNE |
+| 2 | Sa 12.09.2026 14:35 | DJK BLAU-WEISS BIELEFELD - JSG Else-Wiehen Wölfe II | 5:11 | beendet | SPORTHALLE STIEGHORST |
+| 2 | Sa 12.09.2026 15:00 | JSG LENZINGHAUSEN-SPENGE II - SG Bünde-Dünne II | 9:19 | beendet | SPORTHALLE LENZINGHAUSEN |
+| 2 | So 13.09.2026 16:30 | JSG BIELEFELD 07 - JSG HANDBALL LÖMO III | 12:19 | beendet | SPORTHALLE BRAKE |
+| 3 | Sa 19.09.2026 13:00 | SG Bünde-Dünne II - JSG Else-Wiehen Wölfe II | 9:16 | beendet | GYMNASIUM AM MARKT |
+| 3 | Sa 19.09.2026 13:00 | DJK BLAU-WEISS BIELEFELD - JSG HANDBALL LÖMO III | 0:26 | beendet | SPORTHALLE STIEGHORST |
+| 3 | Sa 19.09.2026 14:45 | JSG LENZINGHAUSEN-SPENGE II - JSG BIELEFELD 07 | 4:25 | beendet | REALSCHULE SPENGE |
+| 4 | Sa 03.10.2026 12:15 | JSG Else-Wiehen Wölfe II - JSG HANDBALL LÖMO III | 15:11 | beendet | SPH RöDH.-BRUCHMüHLEN |
+| 4 | Sa 03.10.2026 13:30 | DJK BLAU-WEISS BIELEFELD - JSG LENZINGHAUSEN-SPENGE II | 3:19 | beendet | SPORTHALLE STIEGHORST |
+| 4 | So 04.10.2026 11:30 | SG Bünde-Dünne II - JSG BIELEFELD 07 | 14:17 | beendet | GYMNASIUM AM MARKT |
+| 5 | Sa 10.10.2026 13:00 | JSG BIELEFELD 07 - DJK BLAU-WEISS BIELEFELD | 16:12 | beendet | GESAMTSCHULE SCHILDESCHE - HALLE 6 |
+| 5 | So 11.10.2026 16:30 | JSG HANDBALL LÖMO III - SG Bünde-Dünne II | 10:16 | beendet | N.H.MENNIGHüFFEN |
+| 5 | So 11.10.2026 16:45 | JSG LENZINGHAUSEN-SPENGE II - JSG Else-Wiehen Wölfe II | 7:22 | beendet | SPORTHALLE LENZINGHAUSEN |
+
+## Kader und Spielerstatistik (Saison)
+
+| Nr | Name | Spiele | Tore | davon 7m | 7m-Versuche | Verwarnungen | 2-Min | Disqualifikationen |
+|---|---|---|---|---|---|---|---|---|
+| 27 | Nicklas Culemann | 2 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 19 | Milan Varwig | 5 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Karl Joas Langer | 1 | 12 | 1 | 1 | 0 | 0 | 0 |
+| 10 | Lasse Pieper | 1 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Noah Meise-Reckefuß | 5 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 5 | Halil Cünenoglu | 2 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 29 | Theo Oleff | 4 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 24 | Jhashvin Thillainathan | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Jonas Tinz | 4 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Finn Eimertenbrink | 3 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Hanna Mina Marie Behrensmeier | 4 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 31 | Linus Löscher | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 27 | Moritz Ebert | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
+| - | Milan-Illirian Becker | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Niko Bekemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Dennis Ladaje | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Piet Lukas Letsch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Noah vom Bruch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Luca Joel Röper | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Felix Frerich Wolz | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Hermann Larionov | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Nico Rossol | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Yannis Rouven Ladaje | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Malia Bergner | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Pascal Heibrock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+## Beste Torschützen der anderen Mannschaften der Liga
+
+- DJK BLAU-WEISS BIELEFELD: #16 Luana Sophie Kranzmann (14 Tore in 3 Spielen), #14 Amir Kahi (7 Tore in 5 Spielen), #45 Alessia Manni (5 Tore in 5 Spielen), #20 Younes Bouali (2 Tore in 4 Spielen), #43 Milena Schneider (2 Tore in 1 Spielen)
+- JSG LENZINGHAUSEN-SPENGE II: #9 Yannik Waldecker (15 Tore in 4 Spielen), #13 Joshua Leano Krain (9 Tore in 2 Spielen), #5 Leonard Alexander Pieper (7 Tore in 1 Spielen), #10 Theo Stelzner (3 Tore in 3 Spielen), #6 Martin Arwed Tielmann (2 Tore in 5 Spielen)
+- JSG Else-Wiehen Wölfe II: #9 Ole Glüer-Beinke (20 Tore in 5 Spielen), #61 Oskar Jürging (11 Tore in 5 Spielen), #2 Jonathan Wilhelm Höpker (10 Tore in 3 Spielen), #50 Tim Benjamin Palsbröcker (9 Tore in 5 Spielen), #17 Lasse Schumann (7 Tore in 5 Spielen)
+- JSG BIELEFELD 07: #6 Emilian Janosch Reinardy (33 Tore in 4 Spielen), #4 Anton Adelt (14 Tore in 5 Spielen), #10 Maximilian Heimann (6 Tore in 3 Spielen), #3 Henry Bartz (6 Tore in 4 Spielen), #18 Noah Goldmann (6 Tore in 5 Spielen)
+- JSG HANDBALL LÖMO III: #10 Fritz Büschenfeld (30 Tore in 5 Spielen), #4 Marlon Schaaf (12 Tore in 3 Spielen), #20 Luis Schröder (11 Tore in 4 Spielen), #14 Ben Schildmann (9 Tore in 1 Spielen), #14 Ben Albers (6 Tore in 4 Spielen)
+
 
 ---
 
 # EQ (Team-ID 87805)
-Quelle: handball.net, abgerufen am 30.10.2026 21:00
+Quelle: handball.net, abgerufen am 31.10.2026 12:32
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF E-Querfeld (Phase 13753)
@@ -1225,6 +2144,12 @@ Liga/Runde: BIHF E-Querfeld (Phase 13753)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 2 | So 20.09.2026 14:00 | SG Bünde-Dünne - JSG Bielefeld 07 | Heim | - | beendet | GYMNASIUM AM MARKT |
+| 2 | So 20.09.2026 15:30 | JSG Bielefeld 07 II - SG Bünde-Dünne | Auswärts | - | beendet |  |
+| 3 | Sa 26.09.2026 13:30 | JSG Bielefeld 07 - SG Bünde-Dünne | Auswärts | - | beendet | SPORTHALLE BABENHAUSEN |
+| 3 | Sa 26.09.2026 14:00 | SG Bünde-Dünne - DJK BLAU-WEISS BIELEFELD | Heim | - | beendet | SPORTHALLE BABENHAUSEN |
+| 4 | So 11.10.2026 11:00 | TuS 97 Bielefeld/Jöllenbeck II - SG Bünde-Dünne | Auswärts | - | beendet | WESTERFELDSCHULE |
+| 4 | So 11.10.2026 12:00 | SG Bünde-Dünne - HSG QUELLE/UMMELN | Heim | - | beendet | WESTERFELDSCHULE |
 | 5 | So 15.11.2026 16:30 | SG Bünde-Dünne - TVC ENGER | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 5 | So 15.11.2026 17:50 | JSG HANDBALL LÖMO II - SG Bünde-Dünne | Auswärts | - | ausstehend | GYMNASIUM AM MARKT |
 | 6 | So 29.11.2026 12:00 | TSG ALTENHAGEN-HEEPEN II - SG Bünde-Dünne | Auswärts | - | ausstehend | GYMNASIUM LöHNE |
@@ -1242,17 +2167,65 @@ Liga/Runde: BIHF E-Querfeld (Phase 13753)
 
 ## Spielplan der gesamten Liga (BIHF E-Querfeld)
 
-Alle 92 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 149 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 1 | Sa 12.09.2026 12:40 | DJK BLAU-WEISS BIELEFELD - JSG HANDBALL LÖMO II | - | beendet | SPORTHALLE STIEGHORST |
+| 1 | Sa 12.09.2026 13:15 | JSG HANDBALL LÖMO II - TuS 97 Bielefeld/Jöllenbeck | - | beendet | SPORTHALLE STIEGHORST |
+| 1 | Sa 12.09.2026 13:50 | TuS 97 Bielefeld/Jöllenbeck - DJK BLAU-WEISS BIELEFELD | - | ausstehend | SPORTHALLE STIEGHORST |
+| 1 | So 13.09.2026 09:30 | TSG ALTENHAGEN-HEEPEN II - VFL HERFORD II | - | beendet | SPORTHALLE ALTENHAGEN |
+| 1 | So 13.09.2026 10:00 | TVC ENGER - HSG EGB BIELEFELD | - | beendet | GYMNASIUM ENGER |
+| 1 | So 13.09.2026 10:15 | VFL HERFORD II - JSG LENZINGHAUSEN-SPENGE II | - | beendet | SPORTHALLE ALTENHAGEN |
+| 1 | So 13.09.2026 10:30 | TSV OERLINGHAUSEN - HTSF SENNE | - | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 1 | So 13.09.2026 10:50 | HSG EGB BIELEFELD - HSG QUELLE/UMMELN | - | beendet | GYMNASIUM ENGER |
+| 1 | So 13.09.2026 11:00 | JSG LENZINGHAUSEN-SPENGE II - TSG ALTENHAGEN-HEEPEN II | - | beendet | SPORTHALLE ALTENHAGEN |
+| 1 | So 13.09.2026 11:15 | HTSF SENNE - TuS 97 Bielefeld/Jöllenbeck II | - | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 1 | So 13.09.2026 11:40 | HSG QUELLE/UMMELN - TVC ENGER | - | beendet | GYMNASIUM ENGER |
+| 1 | So 13.09.2026 12:00 | TuS 97 Bielefeld/Jöllenbeck II - TSV OERLINGHAUSEN | - | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 2 | So 20.09.2026 14:00 | SG Bünde-Dünne - JSG Bielefeld 07 | - | beendet | GYMNASIUM AM MARKT |
+| 2 | So 20.09.2026 14:45 | JSG Bielefeld 07 - JSG Bielefeld 07 II | - | beendet |  |
+| 2 | So 20.09.2026 15:30 | JSG Bielefeld 07 II - SG Bünde-Dünne | - | beendet |  |
+| 3 | Sa 26.09.2026 13:30 | JSG Bielefeld 07 - SG Bünde-Dünne | - | beendet | SPORTHALLE BABENHAUSEN |
+| 3 | Sa 26.09.2026 14:00 | SG Bünde-Dünne - DJK BLAU-WEISS BIELEFELD | - | beendet | SPORTHALLE BABENHAUSEN |
+| 3 | Sa 26.09.2026 14:00 | VFL HERFORD II - TSV OERLINGHAUSEN | - | ausstehend | KöNIGIN-MATHILDE-GYMNASIUM (SCHULHOF-HINTEN) |
+| 3 | Sa 26.09.2026 14:30 | DJK BLAU-WEISS BIELEFELD - JSG Bielefeld 07 | - | beendet | SPORTHALLE BABENHAUSEN |
+| 3 | Sa 26.09.2026 14:45 | TSV OERLINGHAUSEN - JSG LENZINGHAUSEN-SPENGE II | - | ausstehend | KöNIGIN-MATHILDE-GYMNASIUM (SCHULHOF-HINTEN) |
+| 3 | Sa 26.09.2026 15:30 | JSG LENZINGHAUSEN-SPENGE II - VFL HERFORD II | - | beendet | KöNIGIN-MATHILDE-GYMNASIUM (SCHULHOF-HINTEN) |
+| 3 | So 27.09.2026 11:00 | HSG EGB BIELEFELD - TVC ENGER | - | beendet | KUHLO-REALSCHULE |
+| 3 | So 27.09.2026 11:30 | HTSF SENNE - TSG ALTENHAGEN-HEEPEN II | - | beendet | SPORTHALLE SENNESTADT-NORD |
+| 3 | So 27.09.2026 11:30 | TVC ENGER - JSG HANDBALL LÖMO II | - | beendet | KUHLO-REALSCHULE |
+| 3 | So 27.09.2026 12:00 | JSG HANDBALL LÖMO II - HSG EGB BIELEFELD | - | beendet | KUHLO-REALSCHULE |
+| 3 | So 27.09.2026 12:10 | TSG ALTENHAGEN-HEEPEN II - JSG Bielefeld 07 II | - | beendet | SPORTHALLE SENNESTADT-NORD |
+| 3 | So 27.09.2026 12:30 | HSG QUELLE/UMMELN - TuS 97 Bielefeld/Jöllenbeck | - | beendet | SPORTHALLE UMMELN |
+| 3 | So 27.09.2026 12:50 | JSG Bielefeld 07 II - HTSF SENNE | - | beendet | SPORTHALLE SENNESTADT-NORD |
+| 3 | So 27.09.2026 13:00 | TuS 97 Bielefeld/Jöllenbeck - TuS 97 Bielefeld/Jöllenbeck II | - | beendet | SPORTHALLE UMMELN |
+| 3 | So 27.09.2026 13:30 | TuS 97 Bielefeld/Jöllenbeck II - HSG QUELLE/UMMELN | - | beendet | SPORTHALLE UMMELN |
+| 4 | Sa 10.10.2026 14:00 | TSG ALTENHAGEN-HEEPEN II - VFL HERFORD II | - | beendet | SPORTHALLE ALTENHAGEN |
+| 4 | Sa 10.10.2026 14:50 | VFL HERFORD II - HSG EGB BIELEFELD | - | beendet | SPORTHALLE ALTENHAGEN |
+| 4 | Sa 10.10.2026 15:40 | HSG EGB BIELEFELD - TSG ALTENHAGEN-HEEPEN II | - | beendet | SPORTHALLE ALTENHAGEN |
+| 4 | So 11.10.2026 10:00 | JSG LENZINGHAUSEN-SPENGE II - DJK BLAU-WEISS BIELEFELD | - | ausstehend | REALSCHULE SPENGE |
+| 4 | So 11.10.2026 10:00 | JSG HANDBALL LÖMO II - TSV OERLINGHAUSEN | - | beendet | N.H.MENNIGHüFFEN |
+| 4 | So 11.10.2026 10:45 | DJK BLAU-WEISS BIELEFELD - JSG Bielefeld 07 | - | ausstehend | REALSCHULE SPENGE |
+| 4 | So 11.10.2026 11:00 | TuS 97 Bielefeld/Jöllenbeck II - SG Bünde-Dünne | - | beendet | WESTERFELDSCHULE |
+| 4 | So 11.10.2026 11:00 | TSV OERLINGHAUSEN - TuS 97 Bielefeld/Jöllenbeck | - | beendet | N.H.MENNIGHüFFEN |
+| 4 | So 11.10.2026 11:30 | JSG Bielefeld 07 - JSG LENZINGHAUSEN-SPENGE II | - | ausstehend | REALSCHULE SPENGE |
+| 4 | So 11.10.2026 12:00 | SG Bünde-Dünne - HSG QUELLE/UMMELN | - | beendet | WESTERFELDSCHULE |
+| 4 | So 11.10.2026 12:00 | TuS 97 Bielefeld/Jöllenbeck - JSG HANDBALL LÖMO II | - | beendet | N.H.MENNIGHüFFEN |
+| 4 | So 11.10.2026 13:00 | HSG QUELLE/UMMELN - TuS 97 Bielefeld/Jöllenbeck II | - | beendet | WESTERFELDSCHULE |
+| 4 | So 11.10.2026 13:00 | JSG Bielefeld 07 II - TVC ENGER | - | beendet | SPORTHALLE BRAKE |
+| 4 | So 11.10.2026 13:40 | TVC ENGER - HTSF SENNE | - | beendet | SPORTHALLE BRAKE |
+| 4 | So 11.10.2026 14:20 | HTSF SENNE - JSG Bielefeld 07 II | - | beendet | SPORTHALLE BRAKE |
 | 5 | Sa 14.11.2026 12:40 | DJK BLAU-WEISS BIELEFELD - VFL HERFORD II | - | ausstehend | SPORTHALLE STIEGHORST |
 | 5 | Sa 14.11.2026 13:20 | VFL HERFORD II - TuS 97 Bielefeld/Jöllenbeck II | - | ausstehend | SPORTHALLE STIEGHORST |
+| 5 | Sa 14.11.2026 14:00 | TuS 97 Bielefeld/Jöllenbeck II - DJK BLAU-WEISS BIELEFELD | - | ausstehend | SPORTHALLE STIEGHORST |
 | 5 | So 15.11.2026 00:00 | TuS 97 Bielefeld/Jöllenbeck - TSG ALTENHAGEN-HEEPEN II | - | ausstehend | WESTERFELDSCHULE |
 | 5 | So 15.11.2026 00:00 | TSG ALTENHAGEN-HEEPEN II - JSG Bielefeld 07 | - | ausstehend | WESTERFELDSCHULE |
 | 5 | So 15.11.2026 13:00 | JSG Bielefeld 07 - TuS 97 Bielefeld/Jöllenbeck | - | ausstehend | WESTERFELDSCHULE |
 | 5 | So 15.11.2026 13:45 | TSV OERLINGHAUSEN - JSG LENZINGHAUSEN-SPENGE II | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 5 | So 15.11.2026 13:50 | HSG EGB BIELEFELD - HSG QUELLE/UMMELN | - | ausstehend | REALSCHULE SENNE I |
 | 5 | So 15.11.2026 14:30 | JSG LENZINGHAUSEN-SPENGE II - JSG Bielefeld 07 II | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 5 | So 15.11.2026 14:40 | HSG QUELLE/UMMELN - HTSF SENNE | - | ausstehend | REALSCHULE SENNE I |
 | 5 | So 15.11.2026 15:15 | JSG Bielefeld 07 II - TSV OERLINGHAUSEN | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
 | 5 | So 15.11.2026 16:30 | SG Bünde-Dünne - TVC ENGER | - | ausstehend | GYMNASIUM AM MARKT |
 | 5 | So 15.11.2026 17:10 | TVC ENGER - JSG HANDBALL LÖMO II | - | ausstehend | GYMNASIUM AM MARKT |
@@ -1267,6 +2240,7 @@ Alle 92 Spiele aller Mannschaften, nach Termin sortiert.
 | 6 | So 29.11.2026 13:00 | TSV OERLINGHAUSEN - DJK BLAU-WEISS BIELEFELD | - | ausstehend | SPORTHALLE UMMELN |
 | 6 | So 29.11.2026 13:15 | JSG Bielefeld 07 II - HSG EGB BIELEFELD | - | ausstehend | REALSCHULE SPENGE |
 | 6 | So 29.11.2026 13:25 | TuS 97 Bielefeld/Jöllenbeck II - TVC ENGER | - | ausstehend | GYMNASIUM ENGER |
+| 6 | So 29.11.2026 13:30 | DJK BLAU-WEISS BIELEFELD - HSG QUELLE/UMMELN | - | ausstehend | SPORTHALLE UMMELN |
 | 6 | So 29.11.2026 13:30 | JSG Bielefeld 07 - HTSF SENNE | - | ausstehend | SPORTHALLE BABENHAUSEN |
 | 6 | So 29.11.2026 14:00 | HTSF SENNE - TuS 97 Bielefeld/Jöllenbeck | - | ausstehend | SPORTHALLE BABENHAUSEN |
 | 6 | So 29.11.2026 14:00 | HSG EGB BIELEFELD - JSG LENZINGHAUSEN-SPENGE II | - | ausstehend | REALSCHULE SPENGE |
@@ -1280,12 +2254,16 @@ Alle 92 Spiele aller Mannschaften, nach Termin sortiert.
 | 7 | So 13.12.2026 10:40 | JSG LENZINGHAUSEN-SPENGE II - HTSF SENNE | - | ausstehend | SPORTHALLE STIEGHORST |
 | 7 | So 13.12.2026 11:00 | TuS 97 Bielefeld/Jöllenbeck II - TSV OERLINGHAUSEN | - | ausstehend | WESTERFELDSCHULE |
 | 7 | So 13.12.2026 11:20 | HSG QUELLE/UMMELN - TSG ALTENHAGEN-HEEPEN II | - | ausstehend | SPORTHALLE ALTENHAGEN |
+| 7 | So 13.12.2026 11:20 | HTSF SENNE - DJK BLAU-WEISS BIELEFELD | - | ausstehend | SPORTHALLE STIEGHORST |
 | 7 | So 13.12.2026 12:00 | JSG Bielefeld 07 II - SG Bünde-Dünne | - | ausstehend | SPORTHALLE BRAKE |
 | 7 | So 13.12.2026 12:00 | TSV OERLINGHAUSEN - JSG Bielefeld 07 | - | ausstehend | WESTERFELDSCHULE |
 | 7 | So 13.12.2026 12:40 | SG Bünde-Dünne - TuS 97 Bielefeld/Jöllenbeck | - | ausstehend | SPORTHALLE BRAKE |
 | 7 | So 13.12.2026 13:00 | JSG Bielefeld 07 - TuS 97 Bielefeld/Jöllenbeck II | - | ausstehend | WESTERFELDSCHULE |
 | 7 | So 13.12.2026 13:20 | TuS 97 Bielefeld/Jöllenbeck - JSG Bielefeld 07 II | - | ausstehend | SPORTHALLE BRAKE |
+| 8 | Sa 23.01.2027 12:00 | HTSF SENNE - DJK BLAU-WEISS BIELEFELD | - | ausstehend | REALSCHULE SENNE I |
+| 8 | Sa 23.01.2027 12:50 | DJK BLAU-WEISS BIELEFELD - TuS 97 Bielefeld/Jöllenbeck II | - | ausstehend | REALSCHULE SENNE I |
 | 8 | Sa 23.01.2027 13:30 | JSG Bielefeld 07 - HSG QUELLE/UMMELN | - | ausstehend | SPORTHALLE BABENHAUSEN |
+| 8 | Sa 23.01.2027 13:40 | TuS 97 Bielefeld/Jöllenbeck II - HTSF SENNE | - | ausstehend | REALSCHULE SENNE I |
 | 8 | Sa 23.01.2027 14:00 | HSG QUELLE/UMMELN - JSG HANDBALL LÖMO II | - | ausstehend | SPORTHALLE BABENHAUSEN |
 | 8 | Sa 23.01.2027 14:30 | JSG HANDBALL LÖMO II - JSG Bielefeld 07 | - | ausstehend | SPORTHALLE BABENHAUSEN |
 | 8 | Sa 23.01.2027 16:00 | HSG EGB BIELEFELD - TSV OERLINGHAUSEN | - | ausstehend | SPORTHALLE GADDERBAUM |
@@ -1298,6 +2276,7 @@ Alle 92 Spiele aller Mannschaften, nach Termin sortiert.
 | 8 | So 24.01.2027 16:00 | TSG ALTENHAGEN-HEEPEN II - JSG LENZINGHAUSEN-SPENGE II | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 24.01.2027 16:45 | JSG LENZINGHAUSEN-SPENGE II - SG Bünde-Dünne | - | ausstehend | GYMNASIUM AM MARKT |
 | 9 | Sa 06.02.2027 12:00 | JSG HANDBALL LÖMO II - HTSF SENNE | - | ausstehend | N.H.MENNIGHüFFEN |
+| 9 | Sa 06.02.2027 13:00 | HTSF SENNE - TuS 97 Bielefeld/Jöllenbeck II | - | ausstehend | N.H.MENNIGHüFFEN |
 | 9 | Sa 06.02.2027 13:30 | HSG QUELLE/UMMELN - TSG ALTENHAGEN-HEEPEN II | - | ausstehend | SPORTHALLE UMMELN |
 | 9 | Sa 06.02.2027 14:00 | TSG ALTENHAGEN-HEEPEN II - JSG Bielefeld 07 | - | ausstehend | SPORTHALLE UMMELN |
 | 9 | Sa 06.02.2027 14:00 | TuS 97 Bielefeld/Jöllenbeck II - JSG HANDBALL LÖMO II | - | ausstehend | N.H.MENNIGHüFFEN |
@@ -1323,6 +2302,8 @@ Alle 92 Spiele aller Mannschaften, nach Termin sortiert.
 | 10 | So 28.02.2027 12:45 | TSG ALTENHAGEN-HEEPEN II - DJK BLAU-WEISS BIELEFELD | - | ausstehend | SPORTHALLE GADDERBAUM |
 | 10 | So 28.02.2027 13:00 | JSG LENZINGHAUSEN-SPENGE II - TuS 97 Bielefeld/Jöllenbeck | - | ausstehend | WESTERFELDSCHULE |
 | 10 | So 28.02.2027 13:00 | JSG Bielefeld 07 II - HTSF SENNE | - | ausstehend | SPORTHALLE BRAKE |
+| 10 | So 28.02.2027 13:30 | DJK BLAU-WEISS BIELEFELD - HSG EGB BIELEFELD | - | ausstehend | SPORTHALLE GADDERBAUM |
+| 10 | So 28.02.2027 13:40 | HTSF SENNE - TuS 97 Bielefeld/Jöllenbeck II | - | ausstehend | SPORTHALLE BRAKE |
 | 10 | So 28.02.2027 14:20 | TuS 97 Bielefeld/Jöllenbeck II - JSG Bielefeld 07 II | - | ausstehend | SPORTHALLE BRAKE |
 | 11 | So 07.03.2027 12:30 | JSG LENZINGHAUSEN-SPENGE II - TSV OERLINGHAUSEN | - | ausstehend | REALSCHULE SPENGE |
 | 11 | So 07.03.2027 13:15 | TSV OERLINGHAUSEN - HSG QUELLE/UMMELN | - | ausstehend | REALSCHULE SPENGE |
@@ -1330,6 +2311,7 @@ Alle 92 Spiele aller Mannschaften, nach Termin sortiert.
 | 11 | Sa 13.03.2027 14:00 | TSG ALTENHAGEN-HEEPEN II - DJK BLAU-WEISS BIELEFELD | - | ausstehend | SPORTHALLE ALTENHAGEN |
 | 11 | Sa 13.03.2027 14:50 | DJK BLAU-WEISS BIELEFELD - TVC ENGER | - | ausstehend | SPORTHALLE ALTENHAGEN |
 | 11 | Sa 13.03.2027 15:40 | TVC ENGER - TSG ALTENHAGEN-HEEPEN II | - | ausstehend | SPORTHALLE ALTENHAGEN |
+| 11 | So 14.03.2027 11:00 | TuS 97 Bielefeld/Jöllenbeck II - HSG EGB BIELEFELD | - | ausstehend | WESTERFELDSCHULE |
 | 11 | So 14.03.2027 12:00 | HSG EGB BIELEFELD - JSG HANDBALL LÖMO II | - | ausstehend | WESTERFELDSCHULE |
 | 11 | So 14.03.2027 13:00 | JSG HANDBALL LÖMO II - TuS 97 Bielefeld/Jöllenbeck II | - | ausstehend | WESTERFELDSCHULE |
 | 11 | So 14.03.2027 13:30 | SG Bünde-Dünne - JSG Bielefeld 07 | - | ausstehend | GYMNASIUM AM MARKT |
@@ -1368,17 +2350,17 @@ Alle 92 Spiele aller Mannschaften, nach Termin sortiert.
 - TSV OERLINGHAUSEN: keine Daten
 - VFL HERFORD II: keine Daten
 - JSG Bielefeld 07: keine Daten
+- DJK BLAU-WEISS BIELEFELD: keine Daten
+- TuS 97 Bielefeld/Jöllenbeck II: keine Daten
 - HSG QUELLE/UMMELN: keine Daten
 - HSG EGB BIELEFELD: keine Daten
-- DJK BLAU-WEISS BIELEFELD: keine Daten
 - HTSF SENNE: keine Daten
-- TuS 97 Bielefeld/Jöllenbeck II: keine Daten
 
 
 ---
 
 # Minis 1 (Team-ID 87821)
-Quelle: handball.net, abgerufen am 30.10.2026 21:02
+Quelle: handball.net, abgerufen am 31.10.2026 12:33
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -1389,6 +2371,7 @@ Liga/Runde: BIHF Minis (Phase 13754)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - SG Bünde-Dünne | Auswärts | - | ausstehend | REALSCHULE JöLLENBECK |
 | 6 | So 08.11.2026 13:00 | JSG LENZINGHAUSEN-SPENGE - SG Bünde-Dünne | Auswärts | - | ausstehend | SPORTHALLE LENZINGHAUSEN |
 | 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - SG Bünde-Dünne II | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - JSG Else-Wiehen Wölfe II | Heim | - | ausstehend | GYMNASIUM AM MARKT |
@@ -1402,10 +2385,23 @@ Liga/Runde: BIHF Minis (Phase 13754)
 
 ## Spielplan der gesamten Liga (BIHF Minis)
 
-Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 62 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 2 | So 13.09.2026 13:00 | JSG Bielefeld 07 - JSG LENZINGHAUSEN-SPENGE | - | ausstehend | SPORTHALLE BRAKE |
+| 3 | Sa 03.10.2026 12:00 | TuS Leopoldhöhe Minis - JSG HANDBALL LÖMO | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
+| 3 | Sa 03.10.2026 12:00 | TuS Leopoldhöhe Minis - JSG HANDBALL LÖMO II | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - SG Bünde-Dünne | - | ausstehend | REALSCHULE JöLLENBECK |
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - TuS 97 Bielefeld/Jöllenbeck II | - | ausstehend | REALSCHULE JöLLENBECK |
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - TSG ALTENHAGEN-HEEPEN | - | ausstehend | REALSCHULE JöLLENBECK |
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - SG Bünde-Dünne II | - | ausstehend | REALSCHULE JöLLENBECK |
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - JSG LENZINGHAUSEN-SPENGE | - | ausstehend | REALSCHULE JöLLENBECK |
+| 4 | So 11.10.2026 11:00 | JSG Else-Wiehen Wölfe - TVC ENGER | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
+| 4 | So 11.10.2026 11:00 | JSG Else-Wiehen Wölfe - VFL HERFORD | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
+| 4 | So 11.10.2026 11:00 | JSG Else-Wiehen Wölfe - JSG Else-Wiehen Wölfe II | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
+| 4 | So 11.10.2026 11:00 | JSG Else-Wiehen Wölfe - JSG Bielefeld 07 II | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
+| 4 | So 11.10.2026 11:00 | JSG Else-Wiehen Wölfe - JSG Bielefeld 07 | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
 | 5 | Sa 07.11.2026 12:00 | TG HERFORD - JSG HANDBALL LÖMO | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 5 | Sa 07.11.2026 12:00 | TG HERFORD - JSG HANDBALL LÖMO II | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 5 | Sa 07.11.2026 12:00 | TG HERFORD - JSG HANDBALL LÖMO III | - | ausstehend | ERNST-BARLACH-REALSCHULE |
@@ -1430,9 +2426,9 @@ Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
 | 8 | So 06.12.2026 12:00 | VFL HERFORD - TVC ENGER | - | ausstehend | FRIEDRICHS-GYMNASIUM |
 | 8 | So 06.12.2026 12:00 | VFL HERFORD - JSG LENZINGHAUSEN-SPENGE | - | ausstehend | FRIEDRICHS-GYMNASIUM |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - SG Bünde-Dünne | - | ausstehend | GYMNASIUM AM MARKT |
+| 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - TuS 97 Bielefeld/Jöllenbeck | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - HTSF SENNE | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - TuS 97 Bielefeld/Jöllenbeck II | - | ausstehend | GYMNASIUM AM MARKT |
-| 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - TuS 97 Bielefeld/Jöllenbeck | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - TSV Oerlinghausen v. 1863 e.V. | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - JSG HANDBALL LÖMO III | - | ausstehend | GYMNASIUM AM MARKT |
 | 9 | So 14.02.2027 10:30 | TSV Oerlinghausen v. 1863 e.V. - JSG Else-Wiehen Wölfe | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
@@ -1442,6 +2438,7 @@ Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
 | 10 | So 21.02.2027 10:00 | TVC ENGER - JSG HANDBALL LÖMO II | - | ausstehend | GYMNASIUM ENGER |
 | 10 | So 21.02.2027 10:00 | TVC ENGER - JSG HANDBALL LÖMO III | - | ausstehend | GYMNASIUM ENGER |
 | 10 | So 21.02.2027 10:00 | TVC ENGER - VFL HERFORD | - | ausstehend | GYMNASIUM ENGER |
+| 11 | So 07.03.2027 00:00 | TuS 97 Bielefeld/Jöllenbeck II - TuS 97 Bielefeld/Jöllenbeck | - | ausstehend |  |
 | 11 | So 07.03.2027 00:00 | JSG Else-Wiehen Wölfe II - TVC ENGER | - | ausstehend |  |
 | 11 | So 07.03.2027 00:00 | JSG Else-Wiehen Wölfe II - JSG LENZINGHAUSEN-SPENGE | - | ausstehend |  |
 | 11 | So 07.03.2027 00:00 | JSG Else-Wiehen Wölfe II - JSG Else-Wiehen Wölfe | - | ausstehend |  |
@@ -1459,10 +2456,10 @@ Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Nr | Name | Spiele | Tore | davon 7m | 7m-Versuche | Verwarnungen | 2-Min | Disqualifikationen |
 |---|---|---|---|---|---|---|---|---|
-| - | Jonah Holverscheid | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Alexander Salle | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Simon Beckmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Bjoern Ebert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Jonah Holverscheid | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Alexander Salle | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -1474,25 +2471,25 @@ Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
 - JSG HANDBALL LÖMO III: keine Daten
 - JSG Else-Wiehen Wölfe: keine Daten
 - JSG HANDBALL LÖMO II: keine Daten
-- HTSF SENNE: keine Daten
-- TuS 97 Bielefeld/Jöllenbeck II: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck: keine Daten
+- TuS 97 Bielefeld/Jöllenbeck II: keine Daten
+- TSG ALTENHAGEN-HEEPEN: keine Daten
+- HTSF SENNE: keine Daten
 - TSV Oerlinghausen v. 1863 e.V.: keine Daten
 - VFL HERFORD: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck IV: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck III: keine Daten
 - HSG EGB BIELEFELD: keine Daten
+- JSG Bielefeld 07: keine Daten
 - TG HERFORD: keine Daten
 - TuS Leopoldhöhe Minis: keine Daten
 - JSG Bielefeld 07 II: keine Daten
-- JSG Bielefeld 07: keine Daten
-- TSG ALTENHAGEN-HEEPEN: keine Daten
 
 
 ---
 
 # Minis 2 (Team-ID 87822)
-Quelle: handball.net, abgerufen am 30.10.2026 21:04
+Quelle: handball.net, abgerufen am 31.10.2026 12:35
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -1503,6 +2500,7 @@ Liga/Runde: BIHF Minis (Phase 13754)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - SG Bünde-Dünne II | Auswärts | - | ausstehend | REALSCHULE JöLLENBECK |
 | 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - SG Bünde-Dünne II | Auswärts | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - SG Bünde-Dünne | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - HTSF SENNE | Heim | - | ausstehend | GYMNASIUM AM MARKT |
@@ -1515,10 +2513,23 @@ Liga/Runde: BIHF Minis (Phase 13754)
 
 ## Spielplan der gesamten Liga (BIHF Minis)
 
-Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 62 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 2 | So 13.09.2026 13:00 | JSG Bielefeld 07 - JSG LENZINGHAUSEN-SPENGE | - | ausstehend | SPORTHALLE BRAKE |
+| 3 | Sa 03.10.2026 12:00 | TuS Leopoldhöhe Minis - JSG HANDBALL LÖMO | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
+| 3 | Sa 03.10.2026 12:00 | TuS Leopoldhöhe Minis - JSG HANDBALL LÖMO II | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - SG Bünde-Dünne | - | ausstehend | REALSCHULE JöLLENBECK |
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - TuS 97 Bielefeld/Jöllenbeck II | - | ausstehend | REALSCHULE JöLLENBECK |
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - TSG ALTENHAGEN-HEEPEN | - | ausstehend | REALSCHULE JöLLENBECK |
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - SG Bünde-Dünne II | - | ausstehend | REALSCHULE JöLLENBECK |
+| 4 | Sa 10.10.2026 10:00 | TuS 97 Bielefeld/Jöllenbeck - JSG LENZINGHAUSEN-SPENGE | - | ausstehend | REALSCHULE JöLLENBECK |
+| 4 | So 11.10.2026 11:00 | JSG Else-Wiehen Wölfe - TVC ENGER | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
+| 4 | So 11.10.2026 11:00 | JSG Else-Wiehen Wölfe - VFL HERFORD | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
+| 4 | So 11.10.2026 11:00 | JSG Else-Wiehen Wölfe - JSG Else-Wiehen Wölfe II | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
+| 4 | So 11.10.2026 11:00 | JSG Else-Wiehen Wölfe - JSG Bielefeld 07 II | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
+| 4 | So 11.10.2026 11:00 | JSG Else-Wiehen Wölfe - JSG Bielefeld 07 | - | ausstehend | SIEGFRIED-MONING-SPORTHALLE |
 | 5 | Sa 07.11.2026 12:00 | TG HERFORD - JSG HANDBALL LÖMO | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 5 | Sa 07.11.2026 12:00 | TG HERFORD - JSG HANDBALL LÖMO II | - | ausstehend | ERNST-BARLACH-REALSCHULE |
 | 5 | Sa 07.11.2026 12:00 | TG HERFORD - JSG HANDBALL LÖMO III | - | ausstehend | ERNST-BARLACH-REALSCHULE |
@@ -1543,9 +2554,9 @@ Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
 | 8 | So 06.12.2026 12:00 | VFL HERFORD - TVC ENGER | - | ausstehend | FRIEDRICHS-GYMNASIUM |
 | 8 | So 06.12.2026 12:00 | VFL HERFORD - JSG LENZINGHAUSEN-SPENGE | - | ausstehend | FRIEDRICHS-GYMNASIUM |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - SG Bünde-Dünne | - | ausstehend | GYMNASIUM AM MARKT |
+| 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - TuS 97 Bielefeld/Jöllenbeck | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - HTSF SENNE | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - TuS 97 Bielefeld/Jöllenbeck II | - | ausstehend | GYMNASIUM AM MARKT |
-| 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - TuS 97 Bielefeld/Jöllenbeck | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - TSV Oerlinghausen v. 1863 e.V. | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 06.12.2026 13:00 | SG Bünde-Dünne II - JSG HANDBALL LÖMO III | - | ausstehend | GYMNASIUM AM MARKT |
 | 9 | So 14.02.2027 10:30 | TSV Oerlinghausen v. 1863 e.V. - JSG Else-Wiehen Wölfe | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
@@ -1555,6 +2566,7 @@ Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
 | 10 | So 21.02.2027 10:00 | TVC ENGER - JSG HANDBALL LÖMO II | - | ausstehend | GYMNASIUM ENGER |
 | 10 | So 21.02.2027 10:00 | TVC ENGER - JSG HANDBALL LÖMO III | - | ausstehend | GYMNASIUM ENGER |
 | 10 | So 21.02.2027 10:00 | TVC ENGER - VFL HERFORD | - | ausstehend | GYMNASIUM ENGER |
+| 11 | So 07.03.2027 00:00 | TuS 97 Bielefeld/Jöllenbeck II - TuS 97 Bielefeld/Jöllenbeck | - | ausstehend |  |
 | 11 | So 07.03.2027 00:00 | JSG Else-Wiehen Wölfe II - TVC ENGER | - | ausstehend |  |
 | 11 | So 07.03.2027 00:00 | JSG Else-Wiehen Wölfe II - JSG LENZINGHAUSEN-SPENGE | - | ausstehend |  |
 | 11 | So 07.03.2027 00:00 | JSG Else-Wiehen Wölfe II - JSG Else-Wiehen Wölfe | - | ausstehend |  |
@@ -1572,10 +2584,10 @@ Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Nr | Name | Spiele | Tore | davon 7m | 7m-Versuche | Verwarnungen | 2-Min | Disqualifikationen |
 |---|---|---|---|---|---|---|---|---|
-| - | Simon Beckmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Bjoern Ebert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Jonah Holverscheid | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Alexander Salle | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Simon Beckmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Bjoern Ebert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -1587,25 +2599,25 @@ Alle 48 Spiele aller Mannschaften, nach Termin sortiert.
 - JSG HANDBALL LÖMO III: keine Daten
 - JSG Else-Wiehen Wölfe: keine Daten
 - JSG HANDBALL LÖMO II: keine Daten
-- HTSF SENNE: keine Daten
-- TuS 97 Bielefeld/Jöllenbeck II: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck: keine Daten
+- TuS 97 Bielefeld/Jöllenbeck II: keine Daten
+- TSG ALTENHAGEN-HEEPEN: keine Daten
+- HTSF SENNE: keine Daten
 - TSV Oerlinghausen v. 1863 e.V.: keine Daten
 - VFL HERFORD: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck IV: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck III: keine Daten
 - HSG EGB BIELEFELD: keine Daten
+- JSG Bielefeld 07: keine Daten
 - TG HERFORD: keine Daten
 - TuS Leopoldhöhe Minis: keine Daten
 - JSG Bielefeld 07 II: keine Daten
-- JSG Bielefeld 07: keine Daten
-- TSG ALTENHAGEN-HEEPEN: keine Daten
 
 
 ---
 
 # JSGEWWD1 (Team-ID 88860)
-Quelle: handball.net, abgerufen am 30.10.2026 21:04
+Quelle: handball.net, abgerufen am 31.10.2026 12:35
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
@@ -1627,6 +2639,11 @@ Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
+| 1 | Sa 12.09.2026 14:00 | JSG Else-Wiehen Wölfe - HANDBALL BAD SALZUFLEN | Heim | 28:20 | beendet | SIEGFRIED-MONING-SPORTHALLE |
+| 3 | So 27.09.2026 11:45 | JSG Else-Wiehen Wölfe - JSG Steinhagen-Brockhagen | Heim | 29:33 | beendet | SIEGFRIED-MONING-SPORTHALLE |
+| 4 | So 04.10.2026 14:00 | UNION 92 HALLE - JSG Else-Wiehen Wölfe | Auswärts | 37:25 | beendet | 437 KREISBERUFSSCHULE HALLE |
+| 5 | So 11.10.2026 13:45 | TuS 97 Bielefeld/Jöllenbeck - JSG Else-Wiehen Wölfe | Auswärts | 40:12 | beendet | REALSCHULE JöLLENBECK |
+| 2 | Mo 12.10.2026 17:30 | HSG HANDBALL LEMGO - JSG Else-Wiehen Wölfe | Auswärts | 37:25 | beendet | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
 | 6 | Sa 07.11.2026 14:45 | JSG Else-Wiehen Wölfe - JSG LIT 1912 | Heim | - | ausstehend | SPH GRUNDSCHULE QUERNHEIM |
 | 7 | Sa 14.11.2026 13:00 | TSV GWD MINDEN - JSG Else-Wiehen Wölfe | Auswärts | - | ausstehend | SPORTHALLE MINDEN SüD |
 | 8 | So 29.11.2026 15:45 | HANDBALL BAD SALZUFLEN - JSG Else-Wiehen Wölfe | Auswärts | - | ausstehend | LOHFELD I MIT TRIBüNE |
@@ -1639,10 +2656,28 @@ Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
 
 ## Spielplan der gesamten Liga (OWL Bezirksliga GEMISCHT  D-Jugend)
 
-Alle 38 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 1 | Sa 12.09.2026 14:00 | JSG Else-Wiehen Wölfe - HANDBALL BAD SALZUFLEN | 28:20 | beendet | SIEGFRIED-MONING-SPORTHALLE |
+| 1 | So 13.09.2026 12:00 | TuS 97 Bielefeld/Jöllenbeck - JSG Steinhagen-Brockhagen | 25:25 | beendet | REALSCHULE JöLLENBECK |
+| 1 | So 13.09.2026 17:00 | JSG LIT 1912 - TSV GWD MINDEN | 23:32 | beendet | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 2 | Sa 19.09.2026 15:00 | JSG Steinhagen-Brockhagen - UNION 92 HALLE | 20:24 | beendet | 453 SPORTHALLE GRUNDSCHULE |
+| 2 | So 20.09.2026 14:15 | HANDBALL BAD SALZUFLEN - JSG LIT 1912 | 21:39 | beendet | LOHFELD I MIT TRIBüNE |
+| 3 | Sa 26.09.2026 13:00 | JSG LIT 1912 - HSG HANDBALL LEMGO | 22:35 | beendet | SPORTHALLE NETTELSTEDT |
+| 3 | Sa 26.09.2026 15:30 | TSV GWD MINDEN - HANDBALL BAD SALZUFLEN | 46:22 | beendet | SPORTHALLE MINDEN SüD |
+| 3 | So 27.09.2026 11:45 | JSG Else-Wiehen Wölfe - JSG Steinhagen-Brockhagen | 29:33 | beendet | SIEGFRIED-MONING-SPORTHALLE |
+| 3 | So 27.09.2026 12:00 | TuS 97 Bielefeld/Jöllenbeck - UNION 92 HALLE | 46:27 | beendet | REALSCHULE JöLLENBECK |
+| 4 | Sa 03.10.2026 13:00 | HSG HANDBALL LEMGO - TSV GWD MINDEN | 37:31 | beendet | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 4 | So 04.10.2026 14:00 | UNION 92 HALLE - JSG Else-Wiehen Wölfe | 37:25 | beendet | 437 KREISBERUFSSCHULE HALLE |
+| 4 | So 04.10.2026 14:00 | HANDBALL BAD SALZUFLEN - TuS 97 Bielefeld/Jöllenbeck | 11:40 | beendet | LOHFELD II OHNE TRIBüNE |
+| 1 | Mi 07.10.2026 18:30 | UNION 92 HALLE - HSG HANDBALL LEMGO | 20:23 | beendet | 436 SPORTHALLE MASCH HALLE II |
+| 5 | Sa 10.10.2026 11:15 | TSV GWD MINDEN - JSG Steinhagen-Brockhagen | 31:30 | beendet | SPORTHALLE MINDEN SüD |
+| 5 | So 11.10.2026 13:45 | TuS 97 Bielefeld/Jöllenbeck - JSG Else-Wiehen Wölfe | 40:12 | beendet | REALSCHULE JöLLENBECK |
+| 5 | So 11.10.2026 15:15 | HANDBALL BAD SALZUFLEN - HSG HANDBALL LEMGO | 18:32 | beendet | LOHFELD I MIT TRIBüNE |
+| 5 | So 11.10.2026 17:00 | JSG LIT 1912 - UNION 92 HALLE | 23:38 | beendet | SPORTHALLE NETTELSTEDT |
+| 2 | Mo 12.10.2026 17:30 | HSG HANDBALL LEMGO - JSG Else-Wiehen Wölfe | 37:25 | beendet | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
 | 6 | Sa 07.11.2026 13:00 | JSG Steinhagen-Brockhagen - HANDBALL BAD SALZUFLEN | - | ausstehend | 420 SCHULZENTRUM STEINHAGEN |
 | 6 | Sa 07.11.2026 14:45 | JSG Else-Wiehen Wölfe - JSG LIT 1912 | - | ausstehend | SPH GRUNDSCHULE QUERNHEIM |
 | 6 | Sa 07.11.2026 16:15 | UNION 92 HALLE - TSV GWD MINDEN | - | ausstehend | 436 SPORTHALLE MASCH HALLE II |
@@ -1698,6 +2733,7 @@ Alle 38 Spiele aller Mannschaften, nach Termin sortiert.
 | 15 | Lukas Ueckermann | 7 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Finn Obermeier | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Melina Schömer | 5 | 0 | 0 | 0 | 0 | 2 | 0 |
+| - | Thilo Sprinke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1 | Moritz Learner | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Felix Kock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Jonathan Priem | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -1710,7 +2746,6 @@ Alle 38 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Bruno Stock | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Ireoluwa Grace Akiode | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Til Rosenkötter | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Paul Marlon Vahsen | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
