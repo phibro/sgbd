@@ -1,5 +1,5 @@
 # Zweite (Team-ID 83554)
-Quelle: handball.net, abgerufen am 01.11.2026 00:20
+Quelle: handball.net, abgerufen am 01.11.2026 16:00
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga Männer (Phase 12671)
