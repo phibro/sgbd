@@ -1,5 +1,5 @@
 # Zweite (Team-ID 83554)
-Quelle: handball.net, abgerufen am 01.11.2026 16:00
+Quelle: handball.net, abgerufen am 01.11.2026 20:34
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga Männer (Phase 12671)
@@ -267,11 +267,11 @@ Alle 182 Spiele aller Mannschaften, nach Termin sortiert.
 | 9 | Janis Leon Holdmann | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
 | 0 | Michael Schaaf | 4 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 0 | Raoul Wittemeier | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 1 | Sebastian Heisig | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 27 | Nils ole Bonus | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 16 | Malte Nehl | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 22 | Christoph Erdbruegger | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 19 | Erik Ferdinand Meier | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 26 | Maurice Hippel | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
