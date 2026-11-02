@@ -1,5 +1,5 @@
 # Minis 2 (Team-ID 87822)
-Quelle: handball.net, abgerufen am 02.11.2026 14:37
+Quelle: handball.net, abgerufen am 03.11.2026 00:18
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -103,13 +103,13 @@ Alle 62 Spiele aller Mannschaften, nach Termin sortiert.
 
 - JSG LENZINGHAUSEN-SPENGE: keine Daten
 - SG Bünde-Dünne: keine Daten
+- TuS 97 Bielefeld/Jöllenbeck: keine Daten
 - JSG Else-Wiehen Wölfe II: keine Daten
 - TVC ENGER: keine Daten
 - JSG HANDBALL LÖMO: keine Daten
 - JSG HANDBALL LÖMO III: keine Daten
 - JSG Else-Wiehen Wölfe: keine Daten
 - JSG HANDBALL LÖMO II: keine Daten
-- TuS 97 Bielefeld/Jöllenbeck: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck II: keine Daten
 - TSG ALTENHAGEN-HEEPEN: keine Daten
 - HTSF SENNE: keine Daten
@@ -117,8 +117,8 @@ Alle 62 Spiele aller Mannschaften, nach Termin sortiert.
 - VFL HERFORD: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck IV: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck III: keine Daten
-- HSG EGB BIELEFELD: keine Daten
 - JSG Bielefeld 07: keine Daten
+- HSG EGB BIELEFELD: keine Daten
 - TG HERFORD: keine Daten
 - TuS Leopoldhöhe Minis: keine Daten
 - JSG Bielefeld 07 II: keine Daten

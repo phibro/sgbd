@@ -1,5 +1,5 @@
 # Minis 1 (Team-ID 87821)
-Quelle: handball.net, abgerufen am 02.11.2026 14:35
+Quelle: handball.net, abgerufen am 03.11.2026 00:16
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -103,6 +103,7 @@ Alle 62 Spiele aller Mannschaften, nach Termin sortiert.
 ## Beste Torschützen der anderen Mannschaften der Liga
 
 - JSG LENZINGHAUSEN-SPENGE: keine Daten
+- TuS 97 Bielefeld/Jöllenbeck: keine Daten
 - SG Bünde-Dünne II: keine Daten
 - JSG Else-Wiehen Wölfe II: keine Daten
 - TVC ENGER: keine Daten
@@ -110,7 +111,6 @@ Alle 62 Spiele aller Mannschaften, nach Termin sortiert.
 - JSG HANDBALL LÖMO III: keine Daten
 - JSG Else-Wiehen Wölfe: keine Daten
 - JSG HANDBALL LÖMO II: keine Daten
-- TuS 97 Bielefeld/Jöllenbeck: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck II: keine Daten
 - TSG ALTENHAGEN-HEEPEN: keine Daten
 - HTSF SENNE: keine Daten
@@ -118,8 +118,8 @@ Alle 62 Spiele aller Mannschaften, nach Termin sortiert.
 - VFL HERFORD: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck IV: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck III: keine Daten
-- HSG EGB BIELEFELD: keine Daten
 - JSG Bielefeld 07: keine Daten
+- HSG EGB BIELEFELD: keine Daten
 - TG HERFORD: keine Daten
 - TuS Leopoldhöhe Minis: keine Daten
 - JSG Bielefeld 07 II: keine Daten
