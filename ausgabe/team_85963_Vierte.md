@@ -1,5 +1,5 @@
 # Vierte (Team-ID 85963)
-Quelle: handball.net, abgerufen am 03.11.2026 00:08
+Quelle: handball.net, abgerufen am 03.11.2026 13:47
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
@@ -153,7 +153,7 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 - TSV OERLINGHAUSEN III: #3 Jannik Czychun (17 Tore in 3 Spielen), #11 Marius Kempeni (16 Tore in 2 Spielen), #43 Daniel Schroeder (11 Tore in 2 Spielen), #9 Andreas Koester (10 Tore in 3 Spielen), #41 Philipp Tschöke (10 Tore in 3 Spielen)
 - VFL HERFORD III: #79 Andreas Schaefer (18 Tore in 3 Spielen), #9 Maximilian Heese (13 Tore in 3 Spielen), #7 Benjamin Schüller (10 Tore in 3 Spielen), #8 André Jung (10 Tore in 3 Spielen), #15 Johannes Keusch (9 Tore in 2 Spielen)
 - TV FAW MELBERGEN: #11 Til Luca Traue (20 Tore in 3 Spielen), #5 Dennis Pruessmeier (20 Tore in 4 Spielen), #77 Jan Paschke (18 Tore in 4 Spielen), #66 Marcel Ottensmeier (12 Tore in 4 Spielen), #33 Umman Kurt (7 Tore in 4 Spielen)
-- TSVE 1890 BIELEFELD II: #55 Noah Beck (28 Tore in 4 Spielen), #19 Benedikt Hettlage (17 Tore in 4 Spielen), #27 Marcel Wolf (17 Tore in 4 Spielen), #90 Jonas Schröder (14 Tore in 4 Spielen), #11 Daniel Reiche (13 Tore in 4 Spielen)
+- TSVE 1890 BIELEFELD II: #55 Noah Beck (28 Tore in 5 Spielen), #19 Benedikt Hettlage (17 Tore in 4 Spielen), #27 Marcel Wolf (17 Tore in 5 Spielen), #90 Jonas Schröder (14 Tore in 5 Spielen), #11 Daniel Reiche (13 Tore in 5 Spielen)
 - VFL HANDBALL MENNIGHÜFFEN IV: #7 Bastian Bröhenhorst (19 Tore in 3 Spielen), #5 Malte Bröhenhorst (6 Tore in 2 Spielen), #55 David Crisbin Eckert (5 Tore in 1 Spielen), #10 Holger Beck (4 Tore in 3 Spielen), #11 Kai Eschedor (4 Tore in 2 Spielen)
 - HSG QUELLE/UMMELN II (zurückgez.): keine Daten
 - DJK BLAU-WEISS BIELEFELD: #5 Rene Pankoke (14 Tore in 3 Spielen), #26 Sebastian Winter (13 Tore in 3 Spielen), #17 Timo Trayser (11 Tore in 4 Spielen), #9 Andreas Scheideler (9 Tore in 2 Spielen), #82 Aron Schraub (8 Tore in 3 Spielen)
