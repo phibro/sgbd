@@ -1,5 +1,5 @@
 # Erste (Team-ID 86611)
-Quelle: handball.net, abgerufen am 03.11.2026 13:44
+Quelle: handball.net, abgerufen am 03.11.2026 21:58
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
@@ -251,19 +251,19 @@ Alle 175 Spiele aller Mannschaften, nach Termin sortiert.
 | 10 | David Nobbe | 3 | 4 | 3 | 5 | 0 | 0 | 0 |
 | 21 | Alexej Wiebe | 7 | 3 | 0 | 0 | 1 | 2 | 0 |
 | 99 | Janis Leon Holdmann | 6 | 2 | 0 | 0 | 1 | 0 | 0 |
+| 12 | Joern Schlottmann | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 5 | Jannes Westerheide | 4 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 13 | Christopher Fischer | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Joern Schlottmann | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 18 | Arne Halstenberg | 6 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 23 | Dennis Moellering | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Jonas Koester | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 32 | Sören Halstenberg | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Fabian Schaaf | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Josephine Mailaender | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 6 | Tom Luca Hellwig | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Dennis Specht | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Daniel Habbe | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Jury Lütgen | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Jonas Koester | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 32 | Sören Halstenberg | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Fabian Schaaf | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Josephine Mailaender | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 23 | Dennis Moellering | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 

@@ -1,5 +1,5 @@
 # Erste (Team-ID 86611)
-Quelle: handball.net, abgerufen am 03.11.2026 13:44
+Quelle: handball.net, abgerufen am 03.11.2026 21:58
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
@@ -251,19 +251,19 @@ Alle 175 Spiele aller Mannschaften, nach Termin sortiert.
 | 10 | David Nobbe | 3 | 4 | 3 | 5 | 0 | 0 | 0 |
 | 21 | Alexej Wiebe | 7 | 3 | 0 | 0 | 1 | 2 | 0 |
 | 99 | Janis Leon Holdmann | 6 | 2 | 0 | 0 | 1 | 0 | 0 |
+| 12 | Joern Schlottmann | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 5 | Jannes Westerheide | 4 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 13 | Christopher Fischer | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Joern Schlottmann | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 18 | Arne Halstenberg | 6 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 23 | Dennis Moellering | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Jonas Koester | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 32 | Sören Halstenberg | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Fabian Schaaf | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Josephine Mailaender | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 6 | Tom Luca Hellwig | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Dennis Specht | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Daniel Habbe | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Jury Lütgen | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Jonas Koester | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 32 | Sören Halstenberg | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Fabian Schaaf | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Josephine Mailaender | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 23 | Dennis Moellering | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -285,7 +285,7 @@ Alle 175 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Zweite (Team-ID 83554)
-Quelle: handball.net, abgerufen am 03.11.2026 13:45
+Quelle: handball.net, abgerufen am 03.11.2026 21:59
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga Männer (Phase 12671)
@@ -536,20 +536,20 @@ Alle 175 Spiele aller Mannschaften, nach Termin sortiert.
 | 3 | Tim Ahrend | 5 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 8 | Marlo Erdbruegger | 4 | 3 | 0 | 0 | 1 | 2 | 0 |
 | 10 | Nico Mailänder | 1 | 3 | 0 | 0 | 1 | 0 | 0 |
-| 4 | Jonah Holverscheid | 3 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 7 | Tom Schuster | 5 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Jonah Holverscheid | 3 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 9 | Arne Halstenberg | 1 | 2 | 0 | 0 | 0 | 1 | 0 |
 | 34 | Fabian Schaaf | 2 | 2 | 0 | 0 | 0 | 1 | 0 |
 | 3 | Nico Schneidmiller | 1 | 2 | 0 | 2 | 0 | 0 | 0 |
 | 6 | Dennis Peter | 1 | 1 | 0 | 0 | 0 | 1 | 1 |
 | 9 | Janis Leon Holdmann | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
-| 0 | Raoul Wittemeier | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 0 | Michael Schaaf | 4 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 5 | Jannes Westerheide | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Dennis Moellering | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Max Kuehn | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Bjoern Ebert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 6 | Dennis Specht | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Raoul Wittemeier | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 1 | Sebastian Heisig | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 27 | Nils ole Bonus | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 | Malte Nehl | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 22 | Christoph Erdbruegger | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 19 | Erik Ferdinand Meier | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -571,7 +571,7 @@ Alle 175 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Dritte (Team-ID 85947)
-Quelle: handball.net, abgerufen am 03.11.2026 13:46
+Quelle: handball.net, abgerufen am 03.11.2026 22:01
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 1. Kreisklasse (Phase 13293)
@@ -672,7 +672,7 @@ Alle 5 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Vierte (Team-ID 85963)
-Quelle: handball.net, abgerufen am 03.11.2026 13:47
+Quelle: handball.net, abgerufen am 03.11.2026 22:01
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
@@ -836,7 +836,7 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # A (Team-ID 88735)
-Quelle: handball.net, abgerufen am 03.11.2026 13:48
+Quelle: handball.net, abgerufen am 03.11.2026 22:02
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga MÄNNLICH A-Jugend (Phase 13393)
@@ -969,18 +969,18 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 ## Beste Torschützen der anderen Mannschaften der Liga
 
 - JSG H2 - EURo: #8 Gunnar Wirth (16 Tore in 3 Spielen), #10 Simon Jonathan Tüting (15 Tore in 3 Spielen), #6 Clemens Rubin (10 Tore in 3 Spielen), #11 Joris Gartmann (6 Tore in 2 Spielen), #13 Mats Luca Richardt (5 Tore in 3 Spielen)
-- HSG HÜLLHORST: #7 Niklas Unterbrink (31 Tore in 4 Spielen), #9 Leo Fritze (31 Tore in 4 Spielen), #99 Merlin Puehse (19 Tore in 4 Spielen), #18 Till Montag (12 Tore in 4 Spielen), #17 Jack Lennox Vormann (12 Tore in 3 Spielen)
+- HSG HÜLLHORST: #7 Niklas Unterbrink (31 Tore in 4 Spielen), #9 Leo Fritze (31 Tore in 4 Spielen), #99 Merlin Puehse (19 Tore in 4 Spielen), #17 Jack Lennox Vormann (12 Tore in 3 Spielen), #18 Till Montag (12 Tore in 4 Spielen)
 - VFL SCHLANGEN: #10 Noah Thoene (16 Tore in 2 Spielen), #7 Nick Benkelberg (14 Tore in 2 Spielen), #4 Louis Schroeder (12 Tore in 2 Spielen), #8 Hendrik Walde (11 Tore in 2 Spielen), #9 Leander Beckmann (10 Tore in 1 Spielen)
 - TSV SCHLOSS NEUHAUS: #8 Len Gröpper (52 Tore in 5 Spielen), #11 Maximilian Klatte (39 Tore in 5 Spielen), #2 Nils Robin Stuemmler (19 Tore in 5 Spielen), #6 Jeremy Prus (18 Tore in 5 Spielen), #12 Jan Streitbörger (16 Tore in 5 Spielen)
 - HSG EGB BIELEFELD: #14 Thorben Striewisch (17 Tore in 3 Spielen), #17 Noah Guemues (14 Tore in 3 Spielen), #10 Leon Bunte (11 Tore in 3 Spielen), #16 Lenard Kroll (9 Tore in 3 Spielen), #8 Max Buescher (6 Tore in 2 Spielen)
-- TV ISSELHORST: #7 Jan Barbosa Klose (39 Tore in 4 Spielen), #67 Nick Dust (27 Tore in 4 Spielen), #11 Gero Keil (25 Tore in 4 Spielen), #17 Linus Weckermann (22 Tore in 4 Spielen), #13 Julius Kriegesmann (15 Tore in 4 Spielen)
+- TV ISSELHORST: #7 Jan Barbosa Klose (39 Tore in 4 Spielen), #67 Nick Dust (27 Tore in 4 Spielen), #11 Gero Keil (25 Tore in 4 Spielen), #17 Linus Weckermann (22 Tore in 4 Spielen), #5 Lukas Schuetz (15 Tore in 4 Spielen)
 - HSG ALTENBEKEN/BUKE: #17 Aron Kraehe (31 Tore in 3 Spielen), #19 Johann Koch (19 Tore in 3 Spielen), #13 Jasper Grußmann (16 Tore in 3 Spielen), #3 Lukas Hake (11 Tore in 3 Spielen), #4 Malte Schlothane (10 Tore in 3 Spielen)
 
 
 ---
 
 # B (Team-ID 88756)
-Quelle: handball.net, abgerufen am 03.11.2026 13:49
+Quelle: handball.net, abgerufen am 03.11.2026 22:03
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga MÄNNLICH  B-Jugend (Phase 13913)
@@ -1187,9 +1187,6 @@ Alle 132 Spiele aller Mannschaften, nach Termin sortiert.
 | 15 | Jason Oberhacke | 1 | 3 | 0 | 0 | 0 | 1 | 0 |
 | 3 | Phil Kostross | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 17 | Paul Sjoerds | 4 | 1 | 0 | 0 | 0 | 0 | 0 |
-| - | Anthony Joel Pouwels | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Linus Buddenberg | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Arne Lamkemeier | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Joris Raulwing | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Guido Mailänder | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Demian Erik Ewert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -1197,6 +1194,9 @@ Alle 132 Spiele aller Mannschaften, nach Termin sortiert.
 | - | Jasper Riecke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Thomas Heterle | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Paul-Janosch Heikel | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Levi Elia Wippermann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Meo Schmitz | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Anthony Joel Pouwels | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -1216,7 +1216,7 @@ Alle 132 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # C (Team-ID 88826)
-Quelle: handball.net, abgerufen am 03.11.2026 13:50
+Quelle: handball.net, abgerufen am 03.11.2026 22:04
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Kreisliga MÄNNLICH  C-Jugend (Phase 13926)
@@ -1225,11 +1225,11 @@ Liga/Runde: OWL Kreisliga MÄNNLICH  C-Jugend (Phase 13926)
 
 | Platz | Mannschaft | Spiele | S | U | N | Tore | Diff | Punkte | Form |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | HSG BLOMBERG-LIPPE | 5 | 4 | 0 | 1 | 200:168 | 32 | 8 | LWWWW |
-| 2 | TV CONCORDIA ENGER | 5 | 3 | 1 | 1 | 178:167 | 11 | 7 | DWWWL |
-| 3 | HSG EGB BIELEFELD II | 4 | 3 | 0 | 1 | 123:82 | 41 | 6 | WWLW |
-| 4 | SG BÜNDE-DÜNNE | 4 | 3 | 0 | 1 | 162:138 | 24 | 6 | WLWW |
-| 5 | TSVE 1890 Bielefeld | 4 | 3 | 0 | 1 | 149:139 | 10 | 6 | WLWW |
+| 1 | SG BÜNDE-DÜNNE | 5 | 4 | 0 | 1 | 213:178 | 35 | 8 | WLWWW |
+| 2 | HSG BLOMBERG-LIPPE | 5 | 4 | 0 | 1 | 200:168 | 32 | 8 | LWWWW |
+| 3 | TV CONCORDIA ENGER | 5 | 3 | 1 | 1 | 178:167 | 11 | 7 | DWWWL |
+| 4 | TSVE 1890 Bielefeld | 4 | 3 | 0 | 1 | 149:139 | 10 | 6 | WLWW |
+| 5 | HSG EGB BIELEFELD II | 5 | 3 | 0 | 2 | 163:133 | 30 | 6 | WWLLW |
 | 6 | TUS LEOPOLDSHÖHE | 4 | 2 | 0 | 2 | 110:111 | -1 | 4 | LWWL |
 | 7 | JSG ELSE-WIEHEN WÖLFE | 4 | 1 | 1 | 2 | 95:98 | -3 | 3 | DLWL |
 | 8 | JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK | 4 | 1 | 0 | 3 | 77:120 | -43 | 2 | LLWL |
@@ -1244,7 +1244,7 @@ Liga/Runde: OWL Kreisliga MÄNNLICH  C-Jugend (Phase 13926)
 | 2 | Sa 19.09.2026 16:30 | TV CONCORDIA ENGER - SG BÜNDE-DÜNNE | Auswärts | 44:30 | beendet | GYMNASIUM ENGER |
 | 3 | So 27.09.2026 14:30 | SG BÜNDE-DÜNNE - TSVE 1890 Bielefeld | Heim | 51:34 | beendet | GYMNASIUM AM MARKT |
 | 5 | Sa 10.10.2026 15:00 | SG BÜNDE-DÜNNE - JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK | Heim | 37:17 | beendet | GYMNASIUM AM MARKT |
-| 4 | Di 03.11.2026 18:35 | HSG EGB BIELEFELD II - SG BÜNDE-DÜNNE | Auswärts | - | ausstehend | KUHLO-REALSCHULE |
+| 4 | Di 03.11.2026 18:35 | HSG EGB BIELEFELD II - SG BÜNDE-DÜNNE | Auswärts | 40:51 | beendet | KUHLO-REALSCHULE |
 | 6 | So 08.11.2026 16:30 | JSG ELSE-WIEHEN WÖLFE - SG BÜNDE-DÜNNE | Auswärts | - | ausstehend | SPH GRUNDSCHULE QUERNHEIM |
 | 7 | So 15.11.2026 13:00 | TUS LEOPOLDSHÖHE - SG BÜNDE-DÜNNE | Auswärts | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
 | 8 | Sa 21.11.2026 16:15 | SG BÜNDE-DÜNNE - TSV GWD MINDEN E.V. III | Heim | - | ausstehend | GYMNASIUM AM MARKT |
@@ -1261,124 +1261,40 @@ Liga/Runde: OWL Kreisliga MÄNNLICH  C-Jugend (Phase 13926)
 
 ## Spielplan der gesamten Liga (OWL Kreisliga MÄNNLICH  C-Jugend)
 
-Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 6 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
-| 1 | Sa 12.09.2026 10:45 | TUS LEOPOLDSHÖHE - HSG EGB BIELEFELD II | 25:31 | beendet | SPORTHALLE GADDERBAUM |
-| 1 | Sa 12.09.2026 11:00 | TSV GWD MINDEN E.V. III - TSV BÖSINGFELD | 21:52 | beendet | SPORTHALLE MINDEN SüD |
-| 1 | Sa 12.09.2026 14:45 | SG BÜNDE-DÜNNE - HSG BLOMBERG-LIPPE | 44:43 | beendet | GYMNASIUM AM MARKT |
-| 1 | So 13.09.2026 15:30 | JSG ELSE-WIEHEN WÖLFE - TV CONCORDIA ENGER | 23:23 | beendet | SPORTHALLE SPRADOW |
-| 2 | Sa 19.09.2026 14:00 | HSG BLOMBERG-LIPPE - TSV GWD MINDEN E.V. III | 40:24 | beendet | SCHULZENTRUM VORDERE HALLE |
-| 2 | Sa 19.09.2026 16:30 | TV CONCORDIA ENGER - SG BÜNDE-DÜNNE | 44:30 | beendet | GYMNASIUM ENGER |
-| 2 | So 20.09.2026 12:00 | TSVE 1890 Bielefeld - JSG ELSE-WIEHEN WÖLFE | 29:25 | beendet | TSVE-SPORTHALLE |
-| 2 | So 20.09.2026 12:00 | HSG EGB BIELEFELD II - JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK | 33:15 | beendet | SPORTHALLE GADDERBAUM |
-| 2 | So 20.09.2026 12:30 | TSV BÖSINGFELD - TUS LEOPOLDSHÖHE | 26:29 | beendet | SCHULZENTRUM HACKEMACK |
-| 3 | Sa 26.09.2026 15:15 | JSG ELSE-WIEHEN WÖLFE - HSG EGB BIELEFELD II | 24:22 | beendet | SIEGFRIED-MONING-SPORTHALLE |
-| 3 | Sa 26.09.2026 15:30 | TSV BÖSINGFELD - HSG BLOMBERG-LIPPE | 32:39 | beendet | SCHULZENTRUM HACKEMACK |
-| 3 | So 27.09.2026 09:30 | TSV GWD MINDEN E.V. III - TV CONCORDIA ENGER | 31:33 | beendet | SPORTHALLE MINDEN SüD |
-| 3 | So 27.09.2026 14:30 | SG BÜNDE-DÜNNE - TSVE 1890 Bielefeld | 51:34 | beendet | GYMNASIUM AM MARKT |
-| 3 | So 27.09.2026 15:30 | TUS LEOPOLDSHÖHE - JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK | 27:21 | beendet | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
-| 4 | Sa 03.10.2026 14:30 | JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK - JSG ELSE-WIEHEN WÖLFE | 24:23 | beendet | N.H.MENNIGHüFFEN |
-| 4 | Sa 03.10.2026 14:30 | TSVE 1890 Bielefeld - TSV GWD MINDEN E.V. III | 43:26 | beendet | TSVE-SPORTHALLE |
-| 4 | Sa 03.10.2026 16:30 | TV CONCORDIA ENGER - TSV BÖSINGFELD | 39:38 | beendet | GYMNASIUM ENGER |
-| 4 | So 04.10.2026 14:00 | HSG BLOMBERG-LIPPE - TUS LEOPOLDSHÖHE | 33:29 | beendet | SCHULZENTRUM VORDERE HALLE |
-| 5 | Sa 10.10.2026 12:00 | TSV GWD MINDEN E.V. III - HSG EGB BIELEFELD II | 18:37 | beendet | OTTO-MICHELSOHN-SPORTZENTRUM (DREIFACHSPORTHALLE) |
-| 5 | Sa 10.10.2026 15:00 | SG BÜNDE-DÜNNE - JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK | 37:17 | beendet | GYMNASIUM AM MARKT |
-| 5 | Sa 10.10.2026 16:00 | TUS LEOPOLDSHÖHE - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
-| 5 | So 11.10.2026 13:30 | TSV BÖSINGFELD - TSVE 1890 Bielefeld | 37:43 | beendet | SCHULZENTRUM HACKEMACK |
-| 5 | So 11.10.2026 14:00 | HSG BLOMBERG-LIPPE - TV CONCORDIA ENGER | 45:39 | beendet | SCHULZENTRUM HINTERE HALLE |
-| 4 | Di 03.11.2026 18:35 | HSG EGB BIELEFELD II - SG BÜNDE-DÜNNE | - | ausstehend | KUHLO-REALSCHULE |
+| 4 | Di 03.11.2026 18:35 | HSG EGB BIELEFELD II - SG BÜNDE-DÜNNE | 40:51 | beendet | KUHLO-REALSCHULE |
 | 6 | Sa 07.11.2026 14:00 | TSVE 1890 Bielefeld - HSG BLOMBERG-LIPPE | - | ausstehend | TSVE-SPORTHALLE |
 | 6 | So 08.11.2026 13:00 | JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK - TSV GWD MINDEN E.V. III | - | ausstehend | N.H.MENNIGHüFFEN |
 | 6 | So 08.11.2026 14:00 | HSG EGB BIELEFELD II - TSV BÖSINGFELD | - | ausstehend | SPORTHALLE GADDERBAUM |
 | 6 | So 08.11.2026 14:15 | TV CONCORDIA ENGER - TUS LEOPOLDSHÖHE | - | ausstehend | GYMNASIUM ENGER |
 | 6 | So 08.11.2026 16:30 | JSG ELSE-WIEHEN WÖLFE - SG BÜNDE-DÜNNE | - | ausstehend | SPH GRUNDSCHULE QUERNHEIM |
-| 1 | Fr 13.11.2026 18:45 | JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK - TSVE 1890 Bielefeld | - | ausstehend | A.N.MENNIGHüFFEN |
-| 7 | Sa 14.11.2026 11:30 | TSV GWD MINDEN E.V. III - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | HAUPTSCHULE DANKERSEN |
-| 7 | Sa 14.11.2026 13:30 | TSV BÖSINGFELD - JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK | - | ausstehend | SCHULZENTRUM HACKEMACK |
-| 7 | Sa 14.11.2026 18:00 | HSG BLOMBERG-LIPPE - HSG EGB BIELEFELD II | - | ausstehend | SCHULZENTRUM HINTERE HALLE |
-| 7 | So 15.11.2026 13:00 | TUS LEOPOLDSHÖHE - SG BÜNDE-DÜNNE | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
-| 7 | So 15.11.2026 15:30 | TV CONCORDIA ENGER - TSVE 1890 Bielefeld | - | ausstehend | GYMNASIUM ENGER |
-| 8 | Sa 21.11.2026 13:45 | TUS LEOPOLDSHÖHE - TSVE 1890 Bielefeld | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
-| 8 | Sa 21.11.2026 14:30 | JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK - HSG BLOMBERG-LIPPE | - | ausstehend | N.H.MENNIGHüFFEN |
-| 8 | Sa 21.11.2026 16:15 | SG BÜNDE-DÜNNE - TSV GWD MINDEN E.V. III | - | ausstehend | GYMNASIUM AM MARKT |
-| 8 | Sa 21.11.2026 17:00 | HSG EGB BIELEFELD II - TV CONCORDIA ENGER | - | ausstehend | SPORTHALLE GADDERBAUM |
-| 8 | So 22.11.2026 00:00 | JSG ELSE-WIEHEN WÖLFE - TSV BÖSINGFELD | - | ausstehend | SPORTHALLE SPRADOW |
-| 9 | Sa 28.11.2026 14:00 | TSVE 1890 Bielefeld - HSG EGB BIELEFELD II | - | ausstehend | TSVE-SPORTHALLE |
-| 9 | Sa 28.11.2026 16:00 | TSV GWD MINDEN E.V. III - TUS LEOPOLDSHÖHE | - | ausstehend | HAUPTSCHULE DANKERSEN |
-| 9 | So 29.11.2026 13:30 | TSV BÖSINGFELD - SG BÜNDE-DÜNNE | - | ausstehend | SCHULZENTRUM HACKEMACK |
-| 9 | So 29.11.2026 14:00 | HSG BLOMBERG-LIPPE - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | SCHULZENTRUM VORDERE HALLE |
-| 9 | So 29.11.2026 14:00 | TV CONCORDIA ENGER - JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK | - | ausstehend | GYMNASIUM ENGER |
-| 10 | Sa 05.12.2026 13:30 | TSV BÖSINGFELD - TSV GWD MINDEN E.V. III | - | ausstehend | SCHULZENTRUM HACKEMACK |
-| 10 | Sa 05.12.2026 14:00 | HSG EGB BIELEFELD II - TUS LEOPOLDSHÖHE | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, 2-FACH SPORTHALLE |
-| 10 | Sa 05.12.2026 14:45 | TV CONCORDIA ENGER - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | GYMNASIUM ENGER |
-| 10 | So 06.12.2026 11:00 | TSVE 1890 Bielefeld - JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK | - | ausstehend | TSVE-SPORTHALLE |
-| 10 | So 06.12.2026 14:00 | HSG BLOMBERG-LIPPE - SG BÜNDE-DÜNNE | - | ausstehend | SCHULZENTRUM HINTERE HALLE |
-| 11 | Sa 12.12.2026 11:30 | TSV GWD MINDEN E.V. III - HSG BLOMBERG-LIPPE | - | ausstehend | HAUPTSCHULE DANKERSEN |
-| 11 | Sa 12.12.2026 14:00 | TUS LEOPOLDSHÖHE - TSV BÖSINGFELD | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, 2-FACH SPORTHALLE |
-| 11 | Sa 12.12.2026 16:30 | SG BÜNDE-DÜNNE - TV CONCORDIA ENGER | - | ausstehend | GYMNASIUM AM MARKT |
-| 11 | So 13.12.2026 14:00 | JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK - HSG EGB BIELEFELD II | - | ausstehend | N.H.MENNIGHüFFEN |
-| 11 | So 13.12.2026 15:30 | JSG ELSE-WIEHEN WÖLFE - TSVE 1890 Bielefeld | - | ausstehend | SPORTHALLE SPRADOW |
-| 12 | Sa 19.12.2026 13:30 | JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK - TUS LEOPOLDSHÖHE | - | ausstehend | GYMNASIUM LöHNE |
-| 12 | Sa 19.12.2026 13:45 | TSVE 1890 Bielefeld - SG BÜNDE-DÜNNE | - | ausstehend | TSVE-SPORTHALLE |
-| 12 | Sa 19.12.2026 14:45 | TV CONCORDIA ENGER - TSV GWD MINDEN E.V. III | - | ausstehend | GYMNASIUM ENGER |
-| 12 | So 20.12.2026 14:00 | HSG BLOMBERG-LIPPE - TSV BÖSINGFELD | - | ausstehend | SCHULZENTRUM VORDERE HALLE |
-| 12 | So 20.12.2026 14:00 | HSG EGB BIELEFELD II - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | SPORTHALLE GADDERBAUM |
-| 13 | Sa 23.01.2027 00:00 | TSV GWD MINDEN E.V. III - TSVE 1890 Bielefeld | - | ausstehend | HAUPTSCHULE DANKERSEN |
-| 13 | Sa 23.01.2027 15:00 | TSV BÖSINGFELD - TV CONCORDIA ENGER | - | ausstehend | SCHULZENTRUM HACKEMACK |
-| 13 | So 24.01.2027 13:00 | SG BÜNDE-DÜNNE - HSG EGB BIELEFELD II | - | ausstehend | GYMNASIUM AM MARKT |
-| 13 | So 24.01.2027 14:45 | TUS LEOPOLDSHÖHE - HSG BLOMBERG-LIPPE | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
-| 13 | So 24.01.2027 16:30 | JSG ELSE-WIEHEN WÖLFE - JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK | - | ausstehend | SPH GRUNDSCHULE QUERNHEIM |
-| 14 | Sa 30.01.2027 14:30 | JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK - SG BÜNDE-DÜNNE | - | ausstehend | N.H.MENNIGHüFFEN |
-| 14 | Sa 30.01.2027 14:30 | JSG ELSE-WIEHEN WÖLFE - TUS LEOPOLDSHÖHE | - | ausstehend | GESAMTSCHULE RöDINGHAUSEN |
-| 14 | Sa 30.01.2027 15:30 | TV CONCORDIA ENGER - HSG BLOMBERG-LIPPE | - | ausstehend | GYMNASIUM ENGER |
-| 14 | So 31.01.2027 00:00 | HSG EGB BIELEFELD II - TSV GWD MINDEN E.V. III | - | ausstehend | KUHLO-REALSCHULE |
-| 14 | So 31.01.2027 13:00 | TSVE 1890 Bielefeld - TSV BÖSINGFELD | - | ausstehend | TSVE-SPORTHALLE |
-| 15 | Sa 13.02.2027 13:30 | TSV BÖSINGFELD - HSG EGB BIELEFELD II | - | ausstehend | SCHULZENTRUM HACKEMACK |
-| 15 | Sa 13.02.2027 14:45 | SG BÜNDE-DÜNNE - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | GYMNASIUM AM MARKT |
-| 15 | Sa 13.02.2027 16:00 | TSV GWD MINDEN E.V. III - JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK | - | ausstehend | HAUPTSCHULE DANKERSEN |
-| 15 | So 14.02.2027 12:00 | HSG BLOMBERG-LIPPE - TSVE 1890 Bielefeld | - | ausstehend | SCHULZENTRUM HINTERE HALLE |
-| 15 | So 14.02.2027 12:00 | TUS LEOPOLDSHÖHE - TV CONCORDIA ENGER | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
-| 16 | Sa 20.02.2027 14:00 | SG BÜNDE-DÜNNE - TUS LEOPOLDSHÖHE | - | ausstehend | GYMNASIUM AM MARKT |
-| 16 | Sa 20.02.2027 16:15 | JSG ELSE-WIEHEN WÖLFE - TSV GWD MINDEN E.V. III | - | ausstehend | SPH GRUNDSCHULE QUERNHEIM |
-| 16 | Sa 20.02.2027 17:00 | JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK - TSV BÖSINGFELD | - | ausstehend | N.H.MENNIGHüFFEN |
-| 16 | So 21.02.2027 12:00 | HSG EGB BIELEFELD II - HSG BLOMBERG-LIPPE | - | ausstehend | SPORTHALLE GADDERBAUM |
-| 16 | So 21.02.2027 13:00 | TSVE 1890 Bielefeld - TV CONCORDIA ENGER | - | ausstehend | TSVE-SPORTHALLE |
-| 17 | Sa 27.02.2027 13:00 | TSVE 1890 Bielefeld - TUS LEOPOLDSHÖHE | - | ausstehend | TSVE-SPORTHALLE |
-| 17 | Sa 27.02.2027 14:00 | TSV GWD MINDEN E.V. III - SG BÜNDE-DÜNNE | - | ausstehend | HAUPTSCHULE DANKERSEN |
-| 17 | Sa 27.02.2027 16:30 | TV CONCORDIA ENGER - HSG EGB BIELEFELD II | - | ausstehend | GYMNASIUM ENGER |
-| 17 | So 28.02.2027 12:30 | TSV BÖSINGFELD - JSG ELSE-WIEHEN WÖLFE | - | ausstehend | SCHULZENTRUM HACKEMACK |
-| 17 | So 28.02.2027 14:00 | HSG BLOMBERG-LIPPE - JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK | - | ausstehend | SCHULZENTRUM VORDERE HALLE |
-| 18 | Sa 06.03.2027 14:00 | JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK - TV CONCORDIA ENGER | - | ausstehend | N.H.MENNIGHüFFEN |
-| 18 | Sa 06.03.2027 14:45 | SG BÜNDE-DÜNNE - TSV BÖSINGFELD | - | ausstehend | GYMNASIUM AM MARKT |
-| 18 | Sa 06.03.2027 16:15 | JSG ELSE-WIEHEN WÖLFE - HSG BLOMBERG-LIPPE | - | ausstehend | SPH RöDH.-BRUCHMüHLEN |
-| 18 | So 07.03.2027 14:00 | HSG EGB BIELEFELD II - TSVE 1890 Bielefeld | - | ausstehend | SPORTHALLE GADDERBAUM |
-| 18 | So 07.03.2027 15:00 | TUS LEOPOLDSHÖHE - TSV GWD MINDEN E.V. III | - | ausstehend | SCHULZENTRUM LEOPOLDSHöHE, GROßE SPORTHALLE |
 
 ## Kader und Spielerstatistik (Saison)
 
 | Nr | Name | Spiele | Tore | davon 7m | 7m-Versuche | Verwarnungen | 2-Min | Disqualifikationen |
 |---|---|---|---|---|---|---|---|---|
-| 8 | Maximilian Culemann | 4 | 26 | 3 | 5 | 0 | 1 | 0 |
-| 10 | Simon Meyer | 3 | 24 | 0 | 0 | 0 | 2 | 0 |
-| 11 | Lennart Gossmann | 3 | 23 | 0 | 1 | 0 | 0 | 0 |
-| 17 | Jannis Letsch | 3 | 21 | 0 | 0 | 0 | 1 | 0 |
-| 3 | Hugo Schmidt | 4 | 21 | 0 | 1 | 0 | 0 | 0 |
-| 5 | Mats Jonas Horstmeier | 2 | 15 | 1 | 2 | 0 | 0 | 0 |
-| 9 | Erik Hildebrand | 3 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Simon Meyer | 4 | 37 | 0 | 0 | 1 | 2 | 0 |
+| 17 | Jannis Letsch | 4 | 35 | 0 | 0 | 0 | 1 | 0 |
+| 8 | Maximilian Culemann | 5 | 29 | 3 | 5 | 0 | 1 | 0 |
+| 5 | Mats Jonas Horstmeier | 3 | 27 | 1 | 2 | 0 | 0 | 0 |
+| 3 | Hugo Schmidt | 5 | 24 | 0 | 1 | 0 | 1 | 0 |
+| 11 | Lennart Gossmann | 4 | 24 | 0 | 1 | 0 | 0 | 0 |
+| 9 | Erik Hildebrand | 4 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 17 | Mattes Auer | 3 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 13 | Nela Philippa Grundorf | 3 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 6 | Mattes Auer | 2 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 10 | Jannes Hannig | 3 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Joris Raulwing | 2 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 13 | Julius Arik Weber | 4 | 3 | 0 | 0 | 1 | 1 | 0 |
 | 2 | Tom Fey | 4 | 3 | 0 | 0 | 1 | 0 | 0 |
-| 14 | Jerik Wittemeier | 4 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 17 | Justus Brölhorst | 2 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Jerik Wittemeier | 5 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 17 | Justus Brölhorst | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 7 | Finn Luca Pieper | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Arne Lamkemeier | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Joris Raulwing | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Friedrich Lückemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Daniel Kuckuck | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Daniel Kuckuck | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Jafarian Radmehr | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Alessandro Grabert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Robin Kristahn | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -1388,21 +1304,21 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
-- HSG EGB BIELEFELD II: #2 Jonas Finn Reichert (29 Tore in 4 Spielen), #20 Louis Noel Schmidt (26 Tore in 4 Spielen), #35 Emir Dilmac (21 Tore in 3 Spielen), #13 Ole Mathis Lindemann (11 Tore in 4 Spielen), #21 Emil Hüttermann (9 Tore in 2 Spielen)
-- JSG ELSE-WIEHEN WÖLFE: #18 Fiete Wengerowski (20 Tore in 3 Spielen), #33 Robin Dedering (18 Tore in 4 Spielen), #16 Alwin Walender (11 Tore in 3 Spielen), #17 Bennett Rodemeister (11 Tore in 3 Spielen), #32 Eric Lucas Hunter (10 Tore in 4 Spielen)
-- HSG BLOMBERG-LIPPE: #2 Max Rode (38 Tore in 5 Spielen), #9 Jim Luca Masmeier (35 Tore in 4 Spielen), #14 Max Schnittker (31 Tore in 5 Spielen), #22 Benedikt Block (19 Tore in 5 Spielen), #6 Ammiel Schmidt (13 Tore in 4 Spielen)
-- TV CONCORDIA ENGER: #73 Theo Ali Selaedin (71 Tore in 8 Spielen), #19 Benedikt Bulthaup (47 Tore in 7 Spielen), #7 Enno Johan Homburg (20 Tore in 8 Spielen), #6 Claas Friedrich Gehler (12 Tore in 6 Spielen), #14 Noah Schäfer (9 Tore in 7 Spielen)
+- HSG EGB BIELEFELD II: #2 Jonas Finn Reichert (41 Tore in 5 Spielen), #35 Emir Dilmac (31 Tore in 4 Spielen), #20 Louis Noel Schmidt (26 Tore in 4 Spielen), #13 Ole Mathis Lindemann (14 Tore in 5 Spielen), #7 Hendrik Blomeyer (13 Tore in 3 Spielen)
 - TSVE 1890 Bielefeld: #24 Sofian Aydin (43 Tore in 4 Spielen), #32 Jesko Menges (33 Tore in 3 Spielen), #20 Jona Jerrentrup (32 Tore in 4 Spielen), #27 Keno Volkhausen (17 Tore in 3 Spielen), #25 Jannis Vogt (10 Tore in 4 Spielen)
+- HSG BLOMBERG-LIPPE: #2 Max Rode (38 Tore in 5 Spielen), #9 Jim Luca Masmeier (35 Tore in 4 Spielen), #14 Max Schnittker (31 Tore in 5 Spielen), #22 Benedikt Block (19 Tore in 5 Spielen), #6 Ammiel Schmidt (13 Tore in 4 Spielen)
 - JSG HANDBALL LÖHNE-MENNIGHÜFFEN-OBERNBECK: #7 Jeremie Böcke (27 Tore in 4 Spielen), #77 Tim Zeilfelder (24 Tore in 4 Spielen), #10 Mattis Miko Kleimeier (9 Tore in 4 Spielen), #9 Oskar Giesbrecht (5 Tore in 4 Spielen), #6 Sam Salomon (5 Tore in 3 Spielen)
-- TUS LEOPOLDSHÖHE: #2 Kilian Koormann (29 Tore in 4 Spielen), #14 Johannes Decker (29 Tore in 4 Spielen), #3 Jost Hendrik Schwanold (15 Tore in 2 Spielen), #15 Jonte Schlepper (7 Tore in 4 Spielen), #4 Benny Hermann Frank (6 Tore in 4 Spielen)
-- TSV GWD MINDEN E.V. III: keine Daten
+- TSV GWD MINDEN E.V. III: #13 Edwin Softic' (30 Tore in 5 Spielen), #16 Tilo Buhrmester (21 Tore in 5 Spielen), #2 Ruben Krebs (16 Tore in 5 Spielen), #7 Kai Denne (11 Tore in 5 Spielen), #4 Fiete Bohnenberg (9 Tore in 4 Spielen)
 - TSV BÖSINGFELD: #10 Moritz Kleindiek (41 Tore in 5 Spielen), #2 Jannik Bruns (38 Tore in 4 Spielen), #13 Till Neumann (38 Tore in 4 Spielen), #6 Max Joachim Klusmeier (34 Tore in 5 Spielen), #3 Noah Steinmeier (10 Tore in 5 Spielen)
+- TV CONCORDIA ENGER: #73 Theo Ali Selaedin (71 Tore in 8 Spielen), #19 Benedikt Bulthaup (47 Tore in 7 Spielen), #7 Enno Johan Homburg (20 Tore in 8 Spielen), #6 Claas Friedrich Gehler (12 Tore in 6 Spielen), #14 Noah Schäfer (9 Tore in 7 Spielen)
+- TUS LEOPOLDSHÖHE: #2 Kilian Koormann (29 Tore in 4 Spielen), #14 Johannes Decker (29 Tore in 4 Spielen), #3 Jost Hendrik Schwanold (15 Tore in 2 Spielen), #15 Jonte Schlepper (7 Tore in 4 Spielen), #4 Benny Hermann Frank (6 Tore in 4 Spielen)
+- JSG ELSE-WIEHEN WÖLFE: keine Daten
 
 
 ---
 
 # D1 (Team-ID 87727)
-Quelle: handball.net, abgerufen am 03.11.2026 13:51
+Quelle: handball.net, abgerufen am 03.11.2026 22:05
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF männliche D-Jugend Kreisliga (Phase 13744)
@@ -1588,7 +1504,7 @@ Alle 90 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # D2 (Team-ID 87743)
-Quelle: handball.net, abgerufen am 03.11.2026 13:52
+Quelle: handball.net, abgerufen am 03.11.2026 22:06
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF männliche D-Jugend Kreisklasse (Phase 13746)
@@ -1695,7 +1611,7 @@ Alle 8 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # E1 (Team-ID 87763)
-Quelle: handball.net, abgerufen am 03.11.2026 13:53
+Quelle: handball.net, abgerufen am 03.11.2026 22:06
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF gemischte E-Jugend Kreisliga (Phase 13747)
@@ -1859,7 +1775,7 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # E2 (Team-ID 87781)
-Quelle: handball.net, abgerufen am 03.11.2026 13:54
+Quelle: handball.net, abgerufen am 03.11.2026 22:07
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF gem. E-Jugend Kreisklasse (Phase 13750)
@@ -1942,14 +1858,14 @@ Alle 15 Spiele aller Mannschaften, nach Termin sortiert.
 - DJK BLAU-WEISS BIELEFELD: #16 Luana Sophie Kranzmann (14 Tore in 3 Spielen), #14 Amir Kahi (7 Tore in 5 Spielen), #45 Alessia Manni (5 Tore in 5 Spielen), #20 Younes Bouali (2 Tore in 4 Spielen), #43 Milena Schneider (2 Tore in 1 Spielen)
 - JSG LENZINGHAUSEN-SPENGE II: #9 Yannik Waldecker (15 Tore in 4 Spielen), #13 Joshua Leano Krain (9 Tore in 2 Spielen), #5 Leonard Alexander Pieper (7 Tore in 1 Spielen), #10 Theo Stelzner (3 Tore in 3 Spielen), #6 Martin Arwed Tielmann (2 Tore in 5 Spielen)
 - JSG Else-Wiehen Wölfe II: #9 Ole Glüer-Beinke (20 Tore in 5 Spielen), #61 Oskar Jürging (11 Tore in 5 Spielen), #2 Jonathan Wilhelm Höpker (10 Tore in 3 Spielen), #50 Tim Benjamin Palsbröcker (9 Tore in 5 Spielen), #17 Lasse Schumann (7 Tore in 5 Spielen)
-- JSG BIELEFELD 07: #6 Emilian Janosch Reinardy (33 Tore in 4 Spielen), #4 Anton Adelt (14 Tore in 5 Spielen), #3 Henry Bartz (6 Tore in 4 Spielen), #18 Noah Goldmann (6 Tore in 5 Spielen), #10 Maximilian Heimann (6 Tore in 3 Spielen)
+- JSG BIELEFELD 07: #6 Emilian Janosch Reinardy (33 Tore in 4 Spielen), #4 Anton Adelt (14 Tore in 5 Spielen), #10 Maximilian Heimann (6 Tore in 3 Spielen), #3 Henry Bartz (6 Tore in 4 Spielen), #18 Noah Goldmann (6 Tore in 5 Spielen)
 - JSG HANDBALL LÖMO III: #10 Fritz Büschenfeld (30 Tore in 5 Spielen), #4 Marlon Schaaf (12 Tore in 3 Spielen), #20 Luis Schröder (11 Tore in 4 Spielen), #14 Ben Schildmann (9 Tore in 1 Spielen), #14 Ben Albers (6 Tore in 4 Spielen)
 
 
 ---
 
 # EQ (Team-ID 87805)
-Quelle: handball.net, abgerufen am 03.11.2026 13:54
+Quelle: handball.net, abgerufen am 03.11.2026 22:08
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF E-Querfeld (Phase 13753)
@@ -2141,12 +2057,6 @@ Alle 149 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Nr | Name | Spiele | Tore | davon 7m | 7m-Versuche | Verwarnungen | 2-Min | Disqualifikationen |
 |---|---|---|---|---|---|---|---|---|
-| 8 | Bennet Grundorf | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Milla Bartz | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | Henn Jarle Langer | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | Kenoah Siekmann | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 6 | Theo Heibrock | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Finn Heidenreich | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | Katja Schweitzer | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Finn Eimertenbrink | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 4 | Anton Diekmann | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -2154,6 +2064,12 @@ Alle 149 Spiele aller Mannschaften, nach Termin sortiert.
 | 3 | Justus Friedrich Borgstädt | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 12 | Theo Schleper | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Pauline Menke | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Bennet Grundorf | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Milla Bartz | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Henn Jarle Langer | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Kenoah Siekmann | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | Theo Heibrock | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Finn Heidenreich | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -2176,7 +2092,7 @@ Alle 149 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Minis 1 (Team-ID 87821)
-Quelle: handball.net, abgerufen am 03.11.2026 13:55
+Quelle: handball.net, abgerufen am 03.11.2026 22:09
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -2305,7 +2221,7 @@ Alle 62 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # Minis 2 (Team-ID 87822)
-Quelle: handball.net, abgerufen am 03.11.2026 13:57
+Quelle: handball.net, abgerufen am 03.11.2026 22:10
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -2400,10 +2316,10 @@ Alle 62 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Nr | Name | Spiele | Tore | davon 7m | 7m-Versuche | Verwarnungen | 2-Min | Disqualifikationen |
 |---|---|---|---|---|---|---|---|---|
-| - | Simon Beckmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Bjoern Ebert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Jonah Holverscheid | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Alexander Salle | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Simon Beckmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Bjoern Ebert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
@@ -2433,7 +2349,7 @@ Alle 62 Spiele aller Mannschaften, nach Termin sortiert.
 ---
 
 # JSGEWWD1 (Team-ID 88860)
-Quelle: handball.net, abgerufen am 03.11.2026 13:57
+Quelle: handball.net, abgerufen am 03.11.2026 22:10
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)
@@ -2569,6 +2485,6 @@ Alle 56 Spiele aller Mannschaften, nach Termin sortiert.
 - HANDBALL BAD SALZUFLEN: #2 Jos Meyer (23 Tore in 4 Spielen), #4 Paul Alexander Lienard (18 Tore in 3 Spielen), #8 Hannes Höckendorf (13 Tore in 5 Spielen), #15 Linus Partosch (10 Tore in 5 Spielen), #9 Mattis Partosch (7 Tore in 5 Spielen)
 - JSG Steinhagen-Brockhagen: #5 Carl-Anton Friedrich Ferdinand Ehle (32 Tore in 5 Spielen), #4 Henry Brüggemann (20 Tore in 5 Spielen), #2 Richard von Plato (14 Tore in 4 Spielen), #11 Robin Strauß (11 Tore in 5 Spielen), #10 Jonte Louis Hansen (11 Tore in 5 Spielen)
 - UNION 92 HALLE: #17 Gregor Schlote (25 Tore in 5 Spielen), #3 Denny Menzefricke (22 Tore in 4 Spielen), #11 Jonas Tippe (19 Tore in 5 Spielen), #15 Jakob Tobias Herbke (18 Tore in 5 Spielen), #7 Lukas HInghaus (16 Tore in 5 Spielen)
-- TuS 97 Bielefeld/Jöllenbeck: #60 Frederik Peperkorn (27 Tore in 4 Spielen), #66 Constantin Ziesche (23 Tore in 4 Spielen), #63 Jonte Jarn Fiedler (23 Tore in 4 Spielen), #59 Lennart Sommer (20 Tore in 4 Spielen), #65 Liam Ortmann (16 Tore in 4 Spielen)
+- TuS 97 Bielefeld/Jöllenbeck: #60 Frederik Peperkorn (27 Tore in 4 Spielen), #63 Jonte Jarn Fiedler (23 Tore in 4 Spielen), #66 Constantin Ziesche (23 Tore in 4 Spielen), #59 Lennart Sommer (20 Tore in 4 Spielen), #65 Liam Ortmann (16 Tore in 4 Spielen)
 - HSG HANDBALL LEMGO: #3 Maximilian Block (46 Tore in 7 Spielen), #1 Carl Philipp Fröhlich (30 Tore in 5 Spielen), #15 Erik Wolf (16 Tore in 7 Spielen), #12 Moritz Meier (14 Tore in 7 Spielen), #5 Richard Nier (10 Tore in 7 Spielen)
-- TSV GWD MINDEN: #18 Bennet Petereit (46 Tore in 4 Spielen), #25 Levin Krömer (28 Tore in 4 Spielen), #9 Flinn Papstein (18 Tore in 4 Spielen), #10 Finn Moritz Mik (14 Tore in 4 Spielen), #27 Theo Siekmann (14 Tore in 4 Spielen)
+- TSV GWD MINDEN: #18 Bennet Petereit (46 Tore in 4 Spielen), #25 Levin Krömer (28 Tore in 4 Spielen), #9 Flinn Papstein (18 Tore in 4 Spielen), #27 Theo Siekmann (14 Tore in 4 Spielen), #10 Finn Moritz Mik (14 Tore in 4 Spielen)

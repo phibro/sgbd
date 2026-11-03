@@ -1,5 +1,5 @@
 # Vierte (Team-ID 85963)
-Quelle: handball.net, abgerufen am 03.11.2026 13:47
+Quelle: handball.net, abgerufen am 03.11.2026 22:01
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)

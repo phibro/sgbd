@@ -1,5 +1,5 @@
 # Minis 1 (Team-ID 87821)
-Quelle: handball.net, abgerufen am 03.11.2026 13:55
+Quelle: handball.net, abgerufen am 03.11.2026 22:09
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
