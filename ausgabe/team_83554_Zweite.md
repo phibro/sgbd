@@ -1,5 +1,5 @@
 # Zweite (Team-ID 83554)
-Quelle: handball.net, abgerufen am 03.11.2026 21:59
+Quelle: handball.net, abgerufen am 04.11.2026 13:56
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga Männer (Phase 12671)
@@ -246,24 +246,24 @@ Alle 175 Spiele aller Mannschaften, nach Termin sortiert.
 | 24 | Nico Monien | 4 | 6 | 0 | 0 | 1 | 2 | 0 |
 | 13 | Conner Brinkmeyer | 4 | 6 | 0 | 0 | 0 | 1 | 0 |
 | 11 | Rune Fiefstück | 4 | 5 | 0 | 0 | 0 | 1 | 0 |
-| 95 | Finn Louis Dieckmann | 5 | 5 | 1 | 1 | 0 | 0 | 0 |
 | 3 | Tim Ahrend | 5 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 95 | Finn Louis Dieckmann | 5 | 5 | 1 | 1 | 0 | 0 | 0 |
 | 8 | Marlo Erdbruegger | 4 | 3 | 0 | 0 | 1 | 2 | 0 |
 | 10 | Nico Mailänder | 1 | 3 | 0 | 0 | 1 | 0 | 0 |
 | 7 | Tom Schuster | 5 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 4 | Jonah Holverscheid | 3 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Arne Halstenberg | 1 | 2 | 0 | 0 | 0 | 1 | 0 |
 | 34 | Fabian Schaaf | 2 | 2 | 0 | 0 | 0 | 1 | 0 |
+| 9 | Arne Halstenberg | 1 | 2 | 0 | 0 | 0 | 1 | 0 |
 | 3 | Nico Schneidmiller | 1 | 2 | 0 | 2 | 0 | 0 | 0 |
 | 6 | Dennis Peter | 1 | 1 | 0 | 0 | 0 | 1 | 1 |
 | 9 | Janis Leon Holdmann | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
 | 0 | Michael Schaaf | 4 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 0 | Raoul Wittemeier | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 1 | Sebastian Heisig | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 27 | Nils ole Bonus | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Malte Nehl | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 22 | Christoph Erdbruegger | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 19 | Erik Ferdinand Meier | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 26 | Maurice Hippel | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Jan Philip Sussiek | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Alkesandre Dekanoidze | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
