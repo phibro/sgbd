@@ -37,8 +37,9 @@ SAISON_BIS = "2027-07-31"
 
 # Teams (ID: Name). Die ID steht in der handball.net-URL: .../team/87727
 TEAMS = {
-	87727: "D1"
-"""  86611: "Erste",
+	87727: "D1",
+    86611: "Erste"
+	"""
     83554: "Zweite",
     85947: "Dritte",
     85963: "Vierte",
@@ -60,8 +61,9 @@ TEAMS = {
 VEREIN_ID = "1fwspnh"
 # Falls die Vereinsabfrage nicht klappt, werden stattdessen diese Mannschaften einzeln abgefragt:
 VEREIN_TEAMS = { 
-	87727: "D1"
-"""	86611: "Erste",
+	87727: "D1",
+	86611: "Erste"
+"""
     83554: "Zweite",
     85947: "Dritte",
     85963: "Vierte",
