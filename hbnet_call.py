@@ -37,8 +37,7 @@ SAISON_BIS = "2027-07-31"
 
 # Teams (ID: Name). Die ID steht in der handball.net-URL: .../team/87727
 TEAMS = {
-	87727: "D1"
-"""    
+	87727: "D1",  
 	86611: "Erste",
 	83554: "Zweite",
     85947: "Dritte",
@@ -54,7 +53,6 @@ TEAMS = {
     87821: "Minis 1",
     87822: "Minis 2",
 	88860: "JSGEWWD1"
-"""
 }
 
 # Verein (für "Spiele des Vereins am Spieltag"): ID steht in der URL .../club/1fwspnh
