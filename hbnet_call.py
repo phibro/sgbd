@@ -37,10 +37,10 @@ SAISON_BIS = "2027-07-31"
 
 # Teams (ID: Name). Die ID steht in der handball.net-URL: .../team/87727
 TEAMS = {
-	87727: "D1",
-    86611: "Erste"
-	"""
-    83554: "Zweite",
+	87727: "D1"
+"""    
+	86611: "Erste"
+	83554: "Zweite",
     85947: "Dritte",
     85963: "Vierte",
     88735: "A",
@@ -63,7 +63,6 @@ VEREIN_ID = "1fwspnh"
 VEREIN_TEAMS = { 
 	87727: "D1",
 	86611: "Erste"
-"""
     83554: "Zweite",
     85947: "Dritte",
     85963: "Vierte",
@@ -77,7 +76,6 @@ VEREIN_TEAMS = {
     87805: "EQ",
     87821: "Minis 1",
     87822: "Minis 2"
-"""
     }
 # Links der Startseite (index.html): (Gruppe, [(Name, Adresse), ...])
 STARTSEITE_LINKS = [
