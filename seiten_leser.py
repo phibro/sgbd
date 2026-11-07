@@ -30,6 +30,7 @@ class SeitenLeser:
         self.cache = {}
         self.hist_tab = None   # Reiter, der die Spiele nachlädt (wird beim ersten Team ermittelt)
         self.diag = []         # Protokoll des Laufs, wird als ausgabe/roh/diagnose.txt gespeichert
+        self.fehlserie = 0     # Seiten in Folge, die gar nicht geladen werden konnten
 
     # ------------------------------------------------------------ Diagnose
     def log(self, text):
@@ -130,20 +131,40 @@ class SeitenLeser:
     def _seite_laden(self, url, versuche=3):
         """Öffnet die Seite. Nicht auf 'networkidle' warten: Live-Ticker, Werbung und Tracking sorgen dafür,
         dass das Netzwerk nie zur Ruhe kommt. Stattdessen: Seite geladen, Reiter sichtbar, kurz Luft holen."""
+        antwort = None
         for versuch in range(1, versuche + 1):
             try:
-                self.page.goto(url, wait_until="domcontentloaded", timeout=60000)
+                antwort = self.page.goto(url, wait_until="domcontentloaded", timeout=60000)
                 self.page.get_by_role("tab").first.wait_for(timeout=30000)
                 try:
-                    self.page.wait_for_load_state("networkidle", timeout=8000)   # nur ein Versuch, kein Muss
+                    self.page.wait_for_load_state("networkidle", timeout=2000)   # nur ein Versuch, kein Muss
                 except Exception:
                     time.sleep(2)   # Angular braucht einen Moment, bis die Reiter klickbar sind
+                self.fehlserie = 0
                 return
             except Exception as e:
-                print(f"    Seite laden, Versuch {versuch}/{versuche} fehlgeschlagen: {str(e).splitlines()[0]}")
+                self.log(f"    Seite laden, Versuch {versuch}/{versuche} fehlgeschlagen: {str(e).splitlines()[0]}")
+                if versuch == 1:
+                    self._fehler_diagnose(url, antwort)
                 if versuch == versuche:
+                    self.fehlserie += 1
                     raise
                 time.sleep(5 * versuch)
+
+    def _fehler_diagnose(self, url, antwort):
+        """Hält fest, was der Browser statt der Seite bekommen hat (Statuscode, Titel, Text, Bild)."""
+        try:
+            status = antwort.status if antwort else "keine Antwort"
+            titel = self.page.title()
+            text = " ".join(self.page.inner_text("body").split())[:300]
+            self.log(f"      Diagnose: Statuscode {status}, Titel {titel!r}")
+            self.log(f"      Seitentext: {text!r}")
+            ROH.mkdir(parents=True, exist_ok=True)
+            self.page.screenshot(path=str(ROH / "fehler_seite.png"))
+            (ROH / "fehler_seite.html").write_text(self.page.content()[:200000], encoding="utf-8")
+            self.log("      Bild und HTML gespeichert: ausgabe/roh/fehler_seite.png, fehler_seite.html")
+        except Exception as e:
+            self.log(f"      Diagnose nicht möglich: {str(e).splitlines()[0]}")
 
     def _tab(self, name, url_teil):
         """Klickt einen Reiter an und gibt die JSON-Antwort zurück, die die Seite dabei selbst lädt."""

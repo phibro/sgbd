@@ -37,9 +37,8 @@ SAISON_BIS = "2027-07-31"
 
 # Teams (ID: Name). Die ID steht in der handball.net-URL: .../team/87727
 TEAMS = {
-	87727: "D1",  
-	86611: "Erste",
-	83554: "Zweite",
+    86611: "Erste",
+    83554: "Zweite",
     85947: "Dritte",
     85963: "Vierte",
     88735: "A",
@@ -58,9 +57,8 @@ TEAMS = {
 # Verein (für "Spiele des Vereins am Spieltag"): ID steht in der URL .../club/1fwspnh
 VEREIN_ID = "1fwspnh"
 # Falls die Vereinsabfrage nicht klappt, werden stattdessen diese Mannschaften einzeln abgefragt:
-VEREIN_TEAMS = { 
-	87727: "D1",
-	86611: "Erste",
+VEREIN_TEAMS = {    
+    86611: "Erste",
     83554: "Zweite",
     85947: "Dritte",
     85963: "Vierte",
@@ -649,8 +647,10 @@ def main():
     else:
         print("  Hinweis: favicon.png nicht neben dem Skript gefunden - kein Favicon.")
     alle = []
+    start = time.time()
     for tid, name in TEAMS.items():
         name = kurzname(name, tid)
+        t0 = time.time()
         try:
             text, info = team_holen(tid, name)
             seite = AUSGABE / f"seite_{tid}_{dateiname(name)}.html"
@@ -659,6 +659,13 @@ def main():
         except Exception as e:
             text = f"# {name}\nFehler beim Abruf: {e}"
             print("  FEHLER:", e)
+        leser().log(f"  Dauer {name}: {time.time() - t0:.0f} s, seit Start {(time.time() - start) / 60:.1f} min")
+        if leser().fehlserie >= 2:
+            # handball.net liefert keine Seiten mehr (Sperre, Störung). Weitermachen würde nur 30 Minuten
+            # Wartezeit verbrennen und am Ende leere Seiten erzeugen. Deshalb sofort mit Fehler beenden.
+            leser().log("ABBRUCH: Zwei Seiten in Folge konnten nicht geladen werden. Es werden keine Dateien veröffentlicht.")
+            browser_beenden()
+            raise SystemExit(1)
         (AUSGABE / f"team_{tid}_{dateiname(name)}.md").write_text(text, encoding="utf-8")
         alle.append(text)
     try:
