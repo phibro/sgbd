@@ -39,7 +39,7 @@ SAISON_BIS = "2027-07-31"
 TEAMS = {
 	87727: "D1"
 """    
-	86611: "Erste"
+	86611: "Erste",
 	83554: "Zweite",
     85947: "Dritte",
     85963: "Vierte",
@@ -62,7 +62,7 @@ VEREIN_ID = "1fwspnh"
 # Falls die Vereinsabfrage nicht klappt, werden stattdessen diese Mannschaften einzeln abgefragt:
 VEREIN_TEAMS = { 
 	87727: "D1",
-	86611: "Erste"
+	86611: "Erste",
     83554: "Zweite",
     85947: "Dritte",
     85963: "Vierte",
