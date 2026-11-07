@@ -152,7 +152,7 @@ class SeitenLeser:
             print(f"    Reiter {name} nicht gefunden")
             return None
         try:
-            with self.page.expect_response(lambda r: url_teil in r.url and r.status == 200, timeout=15000) as info:
+            with self.page.expect_response(lambda r: url_teil in r.url and r.status == 200, timeout=8000) as info:
                 try:
                     tab.first.click(timeout=3000)
                 except Exception:
