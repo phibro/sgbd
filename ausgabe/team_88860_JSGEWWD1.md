@@ -1,5 +1,5 @@
 # JSGEWWD1 (Team-ID 88860)
-Quelle: handball.net, abgerufen am 08.11.2026 13:24
+Quelle: handball.net, abgerufen am 09.11.2026 10:53
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: OWL Bezirksliga GEMISCHT  D-Jugend (Phase 13940)

@@ -1,5 +1,5 @@
 # Vierte (Team-ID 85963)
-Quelle: handball.net, abgerufen am 08.11.2026 13:20
+Quelle: handball.net, abgerufen am 09.11.2026 10:39
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
@@ -10,9 +10,9 @@ Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | TSVE 1890 BIELEFELD II | 5 | 5 | 0 | 0 | 178:130 | 48 | 10 | WWWWW |
 | 2 | VFL HERFORD III | 4 | 3 | 0 | 1 | 105:87 | 18 | 6 | WWWL |
-| 3 | HSG LÖHNE-OBERNBECK II | 5 | 3 | 0 | 2 | 130:122 | 8 | 6 | WLWLW |
-| 4 | TSV OERLINGHAUSEN III | 3 | 2 | 0 | 1 | 95:94 | 1 | 4 | WLW |
-| 5 | SG BÜNDE-DÜNNE IV | 4 | 2 | 0 | 2 | 100:109 | -9 | 4 | LWLW |
+| 3 | TSV OERLINGHAUSEN III | 4 | 3 | 0 | 1 | 129:118 | 11 | 6 | WLWW |
+| 4 | HSG LÖHNE-OBERNBECK II | 5 | 3 | 0 | 2 | 130:122 | 8 | 6 | WLWLW |
+| 5 | SG BÜNDE-DÜNNE IV | 5 | 2 | 0 | 3 | 124:143 | -19 | 4 | LWLWL |
 | 6 | DJK BLAU-WEISS BIELEFELD | 4 | 1 | 0 | 3 | 80:116 | -36 | 2 | LLWL |
 | 7 | HSG QUELLE/UMMELN II (zurückgez.) | 0 | 0 | 0 | 0 | 0:0 | 0 | 0 |  |
 | 8 | VFL HANDBALL MENNIGHÜFFEN IV | 3 | 0 | 0 | 3 | 66:82 | -16 | 0 | LLL |
@@ -27,7 +27,7 @@ Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
 | 3 | So 27.09.2026 10:30 | SG BÜNDE-DÜNNE IV - TSVE 1890 BIELEFELD II | Heim | 24:34 | beendet | GYMNASIUM AM MARKT |
 | 4 | So 04.10.2026 11:00 | VFL HANDBALL MENNIGHÜFFEN IV - SG BÜNDE-DÜNNE IV | Auswärts | 23:28 | beendet | N.H.MENNIGHüFFEN |
 | 5 | So 11.10.2026 11:00 | SG BÜNDE-DÜNNE IV - HSG QUELLE/UMMELN II (zurückgez.) | Heim | - | ausstehend | GYMNASIUM AM MARKT |
-| 6 | So 08.11.2026 16:00 | TSV OERLINGHAUSEN III - SG BÜNDE-DÜNNE IV | Auswärts | - | ausstehend | GRUNDSCHULE OERLINGHAUSEN SüD |
+| 6 | So 08.11.2026 16:00 | TSV OERLINGHAUSEN III - SG BÜNDE-DÜNNE IV | Auswärts | 34:24 | beendet | GRUNDSCHULE OERLINGHAUSEN SüD |
 | 8 | So 29.11.2026 10:30 | SG BÜNDE-DÜNNE IV - DJK BLAU-WEISS BIELEFELD | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 9 | Sa 05.12.2026 16:00 | HSG LÖHNE-OBERNBECK II - SG BÜNDE-DÜNNE IV | Auswärts | - | ausstehend | GYMNASIUM LöHNE |
 | 10 | So 24.01.2027 10:00 | VFL HERFORD III - SG BÜNDE-DÜNNE IV | Auswärts | - | ausstehend | FRIEDRICHS-GYMNASIUM |
@@ -68,7 +68,7 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 | 6 | Sa 07.11.2026 00:00 | HSG QUELLE/UMMELN II (zurückgez.) - DJK BLAU-WEISS BIELEFELD | - | ausstehend | SPORTHALLE UMMELN |
 | 6 | Sa 07.11.2026 16:00 | TSVE 1890 BIELEFELD II - VFL HERFORD III | 31:30 | beendet | TSVE-SPORTHALLE |
 | 6 | So 08.11.2026 11:00 | VFL HANDBALL MENNIGHÜFFEN IV - HSG LÖHNE-OBERNBECK II | 20:23 | beendet | N.H.MENNIGHüFFEN |
-| 6 | So 08.11.2026 16:00 | TSV OERLINGHAUSEN III - SG BÜNDE-DÜNNE IV | - | ausstehend | GRUNDSCHULE OERLINGHAUSEN SüD |
+| 6 | So 08.11.2026 16:00 | TSV OERLINGHAUSEN III - SG BÜNDE-DÜNNE IV | 34:24 | beendet | GRUNDSCHULE OERLINGHAUSEN SüD |
 | 7 | Sa 14.11.2026 18:00 | DJK BLAU-WEISS BIELEFELD - TSV OERLINGHAUSEN III | - | ausstehend | SPORTHALLE STIEGHORST |
 | 7 | Sa 14.11.2026 18:00 | TV FAW MELBERGEN - TSVE 1890 BIELEFELD II | - | ausstehend | HAUPTSCHULE MELBERGEN |
 | 7 | So 15.11.2026 00:00 | HSG LÖHNE-OBERNBECK II - HSG QUELLE/UMMELN II (zurückgez.) | - | ausstehend | GYMNASIUM LöHNE |
@@ -122,35 +122,35 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Nr | Name | Spiele | Tore | davon 7m | 7m-Versuche | Verwarnungen | 2-Min | Disqualifikationen |
 |---|---|---|---|---|---|---|---|---|
-| 69 | Lars Bonus | 4 | 17 | 9 | 12 | 0 | 0 | 0 |
+| 69 | Lars Bonus | 5 | 22 | 9 | 14 | 0 | 0 | 0 |
+| 7 | Jan-Philipp Gerking | 3 | 12 | 0 | 0 | 0 | 1 | 0 |
+| 77 | Johannes Müller | 4 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Tino Meyer | 4 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 3 | Karl Moritz Westphal | 1 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 77 | Johannes Müller | 3 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 6 | Pascal Heibrock | 4 | 8 | 0 | 0 | 0 | 1 | 0 |
-| 14 | Tino Meyer | 3 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Jan-Philipp Gerking | 2 | 7 | 0 | 0 | 0 | 1 | 0 |
+| 6 | Pascal Heibrock | 5 | 9 | 0 | 1 | 1 | 1 | 0 |
+| 13 | Jannick Stäbe | 4 | 7 | 0 | 0 | 1 | 0 | 0 |
 | 19 | Christoph Glomb | 3 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Jannick Stäbe | 3 | 5 | 0 | 0 | 1 | 0 | 0 |
+| 8 | Tom Gieselmann | 3 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 51 | Jens Hildebrand | 4 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Dirk Meise-Reckefuss | 3 | 4 | 0 | 0 | 0 | 2 | 0 |
 | 56 | Nils ole Bonus | 1 | 4 | 0 | 0 | 0 | 1 | 0 |
 | 10 | Linus Peitzmann | 4 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 3 | Jannik Herrchen | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 24 | Nils Wilmsmann | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 8 | Tom Gieselmann | 2 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 51 | Jens Hildebrand | 3 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 18 | Lennox Marquardt | 2 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Dirk Meise-Reckefuss | 2 | 2 | 0 | 0 | 0 | 2 | 0 |
-| 2 | Marvin Orbke | 2 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 23 | Marvin Orbke | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 77 | Karsten Dogar | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 77 | Marco Rottmann | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 23 | Fabian Wehling | 1 | 0 | 0 | 0 | 0 | 2 | 0 |
 | - | Philipp Niemann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Tim Klocke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Michael Dieckmann | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Michael Dieckmann | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Hannes Moellering | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 64 | Guido Mailänder | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
-- TSV OERLINGHAUSEN III: #3 Jannik Czychun (17 Tore in 3 Spielen), #11 Marius Kempeni (16 Tore in 2 Spielen), #43 Daniel Schroeder (11 Tore in 2 Spielen), #9 Andreas Koester (10 Tore in 3 Spielen), #41 Philipp Tschöke (10 Tore in 3 Spielen)
+- TSV OERLINGHAUSEN III: #11 Marius Kempeni (26 Tore in 3 Spielen), #19 Philipp Kroll (18 Tore in 3 Spielen), #3 Jannik Czychun (17 Tore in 3 Spielen), #43 Daniel Schroeder (16 Tore in 3 Spielen), #41 Philipp Tschöke (13 Tore in 4 Spielen)
 - VFL HERFORD III: #9 Maximilian Heese (19 Tore in 4 Spielen), #79 Andreas Schaefer (19 Tore in 4 Spielen), #15 Johannes Keusch (17 Tore in 3 Spielen), #7 Benjamin Schüller (15 Tore in 4 Spielen), #8 André Jung (10 Tore in 3 Spielen)
 - TV FAW MELBERGEN: #11 Til Luca Traue (20 Tore in 3 Spielen), #5 Dennis Pruessmeier (20 Tore in 4 Spielen), #77 Jan Paschke (18 Tore in 4 Spielen), #66 Marcel Ottensmeier (12 Tore in 4 Spielen), #33 Umman Kurt (7 Tore in 4 Spielen)
 - TSVE 1890 BIELEFELD II: #55 Noah Beck (37 Tore in 5 Spielen), #90 Jonas Schröder (22 Tore in 5 Spielen), #27 Marcel Wolf (19 Tore in 5 Spielen), #19 Benedikt Hettlage (17 Tore in 4 Spielen), #11 Daniel Reiche (17 Tore in 5 Spielen)

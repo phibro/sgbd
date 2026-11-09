@@ -1,5 +1,5 @@
 # Erste (Team-ID 86611)
-Quelle: handball.net, abgerufen am 08.11.2026 13:18
+Quelle: handball.net, abgerufen am 09.11.2026 10:35
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
@@ -9,18 +9,18 @@ Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
 | Platz | Mannschaft | Spiele | S | U | N | Tore | Diff | Punkte | Form |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | TSV Hahlen 1945 e.V. | 8 | 8 | 0 | 0 | 277:201 | 76 | 16 | WWWWW |
-| 2 | TUS SPENGE E.V. II | 7 | 6 | 1 | 0 | 230:204 | 26 | 13 | WWWWW |
+| 2 | TUS SPENGE E.V. II | 8 | 7 | 1 | 0 | 266:237 | 29 | 15 | WWWWW |
 | 3 | TV ISSELHORST 1 | 8 | 5 | 2 | 1 | 243:218 | 25 | 12 | WWDWD |
 | 4 | HANDBALL BAD SALZUFLEN | 7 | 5 | 0 | 2 | 238:197 | 41 | 10 | LWWLW |
-| 5 | TuS 97 Bielefeld/Jöllenbeck Herren 1 | 7 | 3 | 1 | 3 | 183:179 | 4 | 7 | WLLLW |
-| 6 | ASV SENDEN E.V. | 6 | 3 | 0 | 3 | 196:174 | 22 | 6 | WLLWW |
+| 5 | ASV SENDEN E.V. | 7 | 4 | 0 | 3 | 228:197 | 31 | 8 | LLWWW |
+| 6 | TuS 97 Bielefeld/Jöllenbeck Herren 1 | 7 | 3 | 1 | 3 | 183:179 | 4 | 7 | WLLLW |
 | 7 | SG BÜNDE-DÜNNE | 7 | 2 | 1 | 4 | 215:235 | -20 | 5 | LWLDW |
 | 8 | TuS 09 Möllbergen e.V. | 7 | 2 | 1 | 4 | 191:217 | -26 | 5 | WLWLD |
-| 9 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | 7 | 2 | 1 | 4 | 205:240 | -35 | 5 | LLWLD |
-| 10 | VFL HANDBALL MENNIGHÜFFEN E.V. | 8 | 2 | 1 | 5 | 225:237 | -12 | 5 | LLLDL |
+| 9 | VFL HANDBALL MENNIGHÜFFEN E.V. | 8 | 2 | 1 | 5 | 225:237 | -12 | 5 | LLLDL |
+| 10 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | 8 | 2 | 1 | 5 | 238:276 | -38 | 5 | LWLDL |
 | 11 | HSG Petershagen/Lahde | 7 | 2 | 0 | 5 | 212:241 | -29 | 4 | LLLWL |
-| 12 | TUS BROCKHAGEN | 5 | 1 | 1 | 3 | 138:143 | -5 | 3 | WLLLD |
-| 13 | TG HÖRSTE | 5 | 1 | 1 | 3 | 150:166 | -16 | 3 | LWLDL |
+| 12 | TG HÖRSTE | 5 | 1 | 1 | 3 | 150:166 | -16 | 3 | LWLDL |
+| 13 | TUS BROCKHAGEN | 6 | 1 | 1 | 4 | 161:175 | -14 | 3 | LLLDL |
 | 14 | HSG Werther/Borgholzhausen | 7 | 1 | 0 | 6 | 177:228 | -51 | 2 | LWLLL |
 
 ## Spielplan (alle Spiele der Saison)
@@ -108,8 +108,8 @@ Alle 177 Spiele aller Mannschaften, nach Termin sortiert.
 | 8 | Sa 07.11.2026 18:30 | TV ISSELHORST 1 - TuS 09 Möllbergen e.V. | 30:30 | beendet | 421 NEUE SPORTHALLE ISSELHORST |
 | 8 | Sa 07.11.2026 19:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - HANDBALL BAD SALZUFLEN | 27:34 | beendet | N.H.MENNIGHüFFEN |
 | 8 | Sa 07.11.2026 20:00 | TG HÖRSTE - TSV Hahlen 1945 e.V. | 28:37 | beendet | 434 SPORTHALLE MASCH HALLE I |
-| 8 | So 08.11.2026 17:00 | ASV SENDEN E.V. - TUS BROCKHAGEN | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
-| 8 | So 08.11.2026 17:00 | TUS SPENGE E.V. II - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | REALSCHULE SPENGE |
+| 8 | So 08.11.2026 17:00 | ASV SENDEN E.V. - TUS BROCKHAGEN | 32:23 | beendet | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 8 | So 08.11.2026 17:00 | TUS SPENGE E.V. II - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | 36:33 | beendet | REALSCHULE SPENGE |
 | 3 | Di 10.11.2026 20:00 | TUS BROCKHAGEN - TG HÖRSTE | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
 | 9 | Fr 13.11.2026 20:00 | TSV Hahlen 1945 e.V. - TUS SPENGE E.V. II | - | ausstehend | SPORTHALLE HAHLER FELD |
 | 9 | Fr 13.11.2026 20:00 | TV ISSELHORST 1 - TG HÖRSTE | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
@@ -270,16 +270,16 @@ Alle 177 Spiele aller Mannschaften, nach Termin sortiert.
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
-- ASV SENDEN E.V.: #7 Luca Kuckhermann (34 Tore in 6 Spielen), #18 Jakob Janssen (31 Tore in 5 Spielen), #21 Matthias Hernzel (25 Tore in 6 Spielen), #77 Erik Meyering (20 Tore in 6 Spielen), #30 Nick Rueddenklau (20 Tore in 6 Spielen)
+- ASV SENDEN E.V.: #18 Jakob Janssen (39 Tore in 6 Spielen), #7 Luca Kuckhermann (38 Tore in 7 Spielen), #21 Matthias Hernzel (28 Tore in 7 Spielen), #30 Nick Rueddenklau (23 Tore in 7 Spielen), #19 Vincent Lukas (21 Tore in 7 Spielen)
 - HSG Petershagen/Lahde: #4 Joel Damian Lange (36 Tore in 7 Spielen), #20 Niels Adriaan Fuchs (34 Tore in 7 Spielen), #55 Marten Franke (27 Tore in 7 Spielen), #3 Jonas Schaekel (25 Tore in 7 Spielen), #2 Fin Lasse Röbke (23 Tore in 5 Spielen)
 - VFL HANDBALL MENNIGHÜFFEN E.V.: #6 Marvin Vieregge (43 Tore in 7 Spielen), #2 Daniel Danowsky (40 Tore in 8 Spielen), #11 Fynn Walter (38 Tore in 8 Spielen), #25 Mats Lennart Rinne (29 Tore in 7 Spielen), #43 Simon Harre (22 Tore in 8 Spielen)
-- TUS BROCKHAGEN: #24 Jan Mescher (22 Tore in 6 Spielen), #4 Till Bzdega (14 Tore in 6 Spielen), #7 Yannick Sonntag (14 Tore in 6 Spielen), #9 Yannec Ergun (12 Tore in 5 Spielen), #21 Jarne Max Mews (10 Tore in 6 Spielen)
+- TUS BROCKHAGEN: #24 Jan Mescher (23 Tore in 6 Spielen), #4 Till Bzdega (15 Tore in 6 Spielen), #7 Yannick Sonntag (15 Tore in 6 Spielen), #72 Nick Bzdega (13 Tore in 6 Spielen), #9 Yannec Ergun (13 Tore in 5 Spielen)
 - TuS 97 Bielefeld/Jöllenbeck Herren 1: #13 Dominic Wehmeyer (32 Tore in 6 Spielen), #10 Adrian Boehnke (25 Tore in 6 Spielen), #21 Henning Fynn Koch (20 Tore in 6 Spielen), #24 Tim Lukas Ackermann (19 Tore in 7 Spielen), #7 Benny Gehring (15 Tore in 6 Spielen)
 - TuS 09 Möllbergen e.V.: #13 Nils Van Zuetphen (47 Tore in 6 Spielen), #2 William Schlaeger (44 Tore in 7 Spielen), #20 Edwin Lause (19 Tore in 6 Spielen), #47 Kjell Watermann (14 Tore in 7 Spielen), #34 Dustin Streitberger (13 Tore in 2 Spielen)
-- TG HÖRSTE: #21 Julius Hagemann (44 Tore in 5 Spielen), #71 Silvan Tarner (19 Tore in 4 Spielen), #30 Silas Burstaedt (19 Tore in 4 Spielen), #34 Finn Moritz Niemann (14 Tore in 5 Spielen), #4 Maximilian Schwenker (10 Tore in 5 Spielen)
-- TUS SPENGE E.V. II: #8 Philipp Holtmann (46 Tore in 8 Spielen), #27 Jannick Osha (41 Tore in 8 Spielen), #77 Andrei Astefanii (30 Tore in 8 Spielen), #25 Goswin Poerschke (25 Tore in 8 Spielen), #95 Marc Schindler (19 Tore in 8 Spielen)
+- TG HÖRSTE: #21 Julius Hagemann (44 Tore in 5 Spielen), #30 Silas Burstaedt (19 Tore in 4 Spielen), #71 Silvan Tarner (19 Tore in 4 Spielen), #34 Finn Moritz Niemann (14 Tore in 5 Spielen), #4 Maximilian Schwenker (10 Tore in 5 Spielen)
+- TUS SPENGE E.V. II: #8 Philipp Holtmann (58 Tore in 8 Spielen), #27 Jannick Osha (50 Tore in 8 Spielen), #77 Andrei Astefanii (30 Tore in 8 Spielen), #25 Goswin Poerschke (27 Tore in 8 Spielen), #95 Marc Schindler (19 Tore in 8 Spielen)
 - HANDBALL BAD SALZUFLEN: #10 Nick ter Duis (36 Tore in 6 Spielen), #44 Fynn Sträter (33 Tore in 7 Spielen), #2 Marvin Anzer (29 Tore in 7 Spielen), #21 Marc-Ole Pöppelmeier (24 Tore in 7 Spielen), #5 Tom Ostrop (23 Tore in 7 Spielen)
-- LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III: #6 Aaron Schuette (31 Tore in 6 Spielen), #20 Hagen Viering (23 Tore in 5 Spielen), #71 Michel Anton Schwarz (22 Tore in 8 Spielen), #31 Torben Meinking (16 Tore in 8 Spielen), #19 Paul Scheibe (16 Tore in 4 Spielen)
+- LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III: #6 Aaron Schuette (38 Tore in 6 Spielen), #20 Hagen Viering (30 Tore in 5 Spielen), #71 Michel Anton Schwarz (22 Tore in 8 Spielen), #31 Torben Meinking (21 Tore in 8 Spielen), #59 Paul Weinberger (19 Tore in 5 Spielen)
 - TSV Hahlen 1945 e.V.: #8 Keanu Reimler (57 Tore in 7 Spielen), #7 Marten Kirchhoff (40 Tore in 8 Spielen), #16 Ruven Riechmann (38 Tore in 8 Spielen), #10 Heinrich Maximilian Bredemeier (28 Tore in 6 Spielen), #19 Luca Halstenberg (24 Tore in 7 Spielen)
 - TV ISSELHORST 1: #25 Alexander Wiese (50 Tore in 8 Spielen), #8 Moritz Lünstroth (50 Tore in 8 Spielen), #5 * * (33 Tore in 7 Spielen), #31 Laurin Borren (19 Tore in 8 Spielen), #22 Marlon Walhorn (18 Tore in 8 Spielen)
 - HSG Werther/Borgholzhausen: #24 Fynn Huxohl (34 Tore in 7 Spielen), #4 Louis Hartmann (33 Tore in 7 Spielen), #11 Jonas Leon Jürgensen (29 Tore in 7 Spielen), #77 Max Kleinepaehler (18 Tore in 7 Spielen), #33 Jendrik Lakebrink (14 Tore in 7 Spielen)
