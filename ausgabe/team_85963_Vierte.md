@@ -1,5 +1,5 @@
 # Vierte (Team-ID 85963)
-Quelle: handball.net, abgerufen am 09.11.2026 10:39
+Quelle: handball.net, abgerufen am 16.11.2026 15:22
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
@@ -9,13 +9,13 @@ Liga/Runde: BIHF Männer 3. Kreisklasse (Phase 13298)
 | Platz | Mannschaft | Spiele | S | U | N | Tore | Diff | Punkte | Form |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | TSVE 1890 BIELEFELD II | 5 | 5 | 0 | 0 | 178:130 | 48 | 10 | WWWWW |
-| 2 | VFL HERFORD III | 4 | 3 | 0 | 1 | 105:87 | 18 | 6 | WWWL |
+| 2 | VFL HERFORD III | 5 | 4 | 0 | 1 | 135:109 | 26 | 8 | WWWLW |
 | 3 | TSV OERLINGHAUSEN III | 4 | 3 | 0 | 1 | 129:118 | 11 | 6 | WLWW |
 | 4 | HSG LÖHNE-OBERNBECK II | 5 | 3 | 0 | 2 | 130:122 | 8 | 6 | WLWLW |
 | 5 | SG BÜNDE-DÜNNE IV | 5 | 2 | 0 | 3 | 124:143 | -19 | 4 | LWLWL |
 | 6 | DJK BLAU-WEISS BIELEFELD | 4 | 1 | 0 | 3 | 80:116 | -36 | 2 | LLWL |
 | 7 | HSG QUELLE/UMMELN II (zurückgez.) | 0 | 0 | 0 | 0 | 0:0 | 0 | 0 |  |
-| 8 | VFL HANDBALL MENNIGHÜFFEN IV | 3 | 0 | 0 | 3 | 66:82 | -16 | 0 | LLL |
+| 8 | VFL HANDBALL MENNIGHÜFFEN IV | 4 | 0 | 0 | 4 | 88:112 | -24 | 0 | LLLL |
 | 9 | TV FAW MELBERGEN | 4 | 0 | 0 | 4 | 96:110 | -14 | 0 | LLLL |
 
 ## Spielplan (alle Spiele der Saison)
@@ -69,14 +69,14 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 | 6 | Sa 07.11.2026 16:00 | TSVE 1890 BIELEFELD II - VFL HERFORD III | 31:30 | beendet | TSVE-SPORTHALLE |
 | 6 | So 08.11.2026 11:00 | VFL HANDBALL MENNIGHÜFFEN IV - HSG LÖHNE-OBERNBECK II | 20:23 | beendet | N.H.MENNIGHüFFEN |
 | 6 | So 08.11.2026 16:00 | TSV OERLINGHAUSEN III - SG BÜNDE-DÜNNE IV | 34:24 | beendet | GRUNDSCHULE OERLINGHAUSEN SüD |
-| 7 | Sa 14.11.2026 18:00 | DJK BLAU-WEISS BIELEFELD - TSV OERLINGHAUSEN III | - | ausstehend | SPORTHALLE STIEGHORST |
 | 7 | Sa 14.11.2026 18:00 | TV FAW MELBERGEN - TSVE 1890 BIELEFELD II | - | ausstehend | HAUPTSCHULE MELBERGEN |
 | 7 | So 15.11.2026 00:00 | HSG LÖHNE-OBERNBECK II - HSG QUELLE/UMMELN II (zurückgez.) | - | ausstehend | GYMNASIUM LöHNE |
-| 7 | So 15.11.2026 16:30 | VFL HERFORD III - VFL HANDBALL MENNIGHÜFFEN IV | - | ausstehend | FRIEDRICHS-GYMNASIUM |
+| 7 | So 15.11.2026 16:30 | VFL HERFORD III - VFL HANDBALL MENNIGHÜFFEN IV | 30:22 | beendet | FRIEDRICHS-GYMNASIUM |
 | 8 | Sa 28.11.2026 00:00 | HSG QUELLE/UMMELN II (zurückgez.) - VFL HERFORD III | - | ausstehend | SPORTHALLE UMMELN |
 | 8 | So 29.11.2026 10:30 | SG BÜNDE-DÜNNE IV - DJK BLAU-WEISS BIELEFELD | - | ausstehend | GYMNASIUM AM MARKT |
 | 8 | So 29.11.2026 11:00 | VFL HANDBALL MENNIGHÜFFEN IV - TV FAW MELBERGEN | - | ausstehend | N.H.MENNIGHüFFEN |
 | 8 | So 29.11.2026 16:00 | TSV OERLINGHAUSEN III - HSG LÖHNE-OBERNBECK II | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 7 | Mi 02.12.2026 20:00 | DJK BLAU-WEISS BIELEFELD - TSV OERLINGHAUSEN III | - | ausstehend | SPORTHALLE STIEGHORST |
 | 9 | Sa 05.12.2026 00:00 | TV FAW MELBERGEN - HSG QUELLE/UMMELN II (zurückgez.) | - | ausstehend | HAUPTSCHULE MELBERGEN |
 | 9 | Sa 05.12.2026 16:00 | HSG LÖHNE-OBERNBECK II - SG BÜNDE-DÜNNE IV | - | ausstehend | GYMNASIUM LöHNE |
 | 9 | Sa 05.12.2026 17:00 | VFL HERFORD III - TSV OERLINGHAUSEN III | - | ausstehend | KREISSPORTHALLE BIELEFELDER STRAßE |
@@ -124,8 +124,8 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 |---|---|---|---|---|---|---|---|---|
 | 69 | Lars Bonus | 5 | 22 | 9 | 14 | 0 | 0 | 0 |
 | 7 | Jan-Philipp Gerking | 3 | 12 | 0 | 0 | 0 | 1 | 0 |
-| 77 | Johannes Müller | 4 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 14 | Tino Meyer | 4 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 77 | Johannes Müller | 4 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 3 | Karl Moritz Westphal | 1 | 10 | 0 | 0 | 0 | 0 | 0 |
 | 6 | Pascal Heibrock | 5 | 9 | 0 | 1 | 1 | 1 | 0 |
 | 13 | Jannick Stäbe | 4 | 7 | 0 | 0 | 1 | 0 | 0 |
@@ -134,27 +134,27 @@ Alle 72 Spiele aller Mannschaften, nach Termin sortiert.
 | 51 | Jens Hildebrand | 4 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2 | Dirk Meise-Reckefuss | 3 | 4 | 0 | 0 | 0 | 2 | 0 |
 | 56 | Nils ole Bonus | 1 | 4 | 0 | 0 | 0 | 1 | 0 |
+| 24 | Nils Wilmsmann | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 10 | Linus Peitzmann | 4 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 3 | Jannik Herrchen | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 24 | Nils Wilmsmann | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 18 | Lennox Marquardt | 2 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 23 | Marvin Orbke | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 77 | Karsten Dogar | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 77 | Marco Rottmann | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 23 | Marvin Orbke | 3 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 23 | Fabian Wehling | 1 | 0 | 0 | 0 | 0 | 2 | 0 |
-| - | Philipp Niemann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Tim Klocke | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Michael Dieckmann | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Hannes Moellering | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 64 | Guido Mailänder | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Marcel Hetberg | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Marius Bungert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Jonah Westerholz | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Philipp Nagel | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Dirk Böker | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
-- TSV OERLINGHAUSEN III: #11 Marius Kempeni (26 Tore in 3 Spielen), #19 Philipp Kroll (18 Tore in 3 Spielen), #3 Jannik Czychun (17 Tore in 3 Spielen), #43 Daniel Schroeder (16 Tore in 3 Spielen), #41 Philipp Tschöke (13 Tore in 4 Spielen)
-- VFL HERFORD III: #9 Maximilian Heese (19 Tore in 4 Spielen), #79 Andreas Schaefer (19 Tore in 4 Spielen), #15 Johannes Keusch (17 Tore in 3 Spielen), #7 Benjamin Schüller (15 Tore in 4 Spielen), #8 André Jung (10 Tore in 3 Spielen)
-- TV FAW MELBERGEN: #11 Til Luca Traue (20 Tore in 3 Spielen), #5 Dennis Pruessmeier (20 Tore in 4 Spielen), #77 Jan Paschke (18 Tore in 4 Spielen), #66 Marcel Ottensmeier (12 Tore in 4 Spielen), #33 Umman Kurt (7 Tore in 4 Spielen)
-- TSVE 1890 BIELEFELD II: #55 Noah Beck (37 Tore in 5 Spielen), #90 Jonas Schröder (22 Tore in 5 Spielen), #27 Marcel Wolf (19 Tore in 5 Spielen), #19 Benedikt Hettlage (17 Tore in 4 Spielen), #11 Daniel Reiche (17 Tore in 5 Spielen)
-- VFL HANDBALL MENNIGHÜFFEN IV: #7 Bastian Bröhenhorst (27 Tore in 4 Spielen), #10 Holger Beck (6 Tore in 4 Spielen), #5 Malte Bröhenhorst (6 Tore in 3 Spielen), #58 Patrick Barkowski (5 Tore in 3 Spielen), #55 David Crisbin Eckert (5 Tore in 1 Spielen)
-- HSG QUELLE/UMMELN II (zurückgez.): keine Daten
 - DJK BLAU-WEISS BIELEFELD: #5 Rene Pankoke (14 Tore in 3 Spielen), #26 Sebastian Winter (13 Tore in 3 Spielen), #17 Timo Trayser (11 Tore in 4 Spielen), #9 Andreas Scheideler (9 Tore in 2 Spielen), #82 Aron Schraub (8 Tore in 3 Spielen)
 - HSG LÖHNE-OBERNBECK II: #30 Kevin Liebl (30 Tore in 5 Spielen), #91 Tobias schlingmann (18 Tore in 5 Spielen), #77 Tim Hoeinghaus (11 Tore in 3 Spielen), #9 Carsten Wehmeier (9 Tore in 1 Spielen), #77 Fynn-Jonas Janke (8 Tore in 2 Spielen)
+- VFL HERFORD III: #9 Maximilian Heese (22 Tore in 5 Spielen), #79 Andreas Schaefer (22 Tore in 5 Spielen), #15 Johannes Keusch (22 Tore in 4 Spielen), #7 Benjamin Schüller (21 Tore in 5 Spielen), #8 André Jung (17 Tore in 4 Spielen)
+- TV FAW MELBERGEN: #5 Dennis Pruessmeier (20 Tore in 4 Spielen), #11 Til Luca Traue (20 Tore in 3 Spielen), #77 Jan Paschke (18 Tore in 4 Spielen), #66 Marcel Ottensmeier (12 Tore in 4 Spielen), #33 Umman Kurt (7 Tore in 4 Spielen)
+- TSVE 1890 BIELEFELD II: #55 Noah Beck (37 Tore in 5 Spielen), #90 Jonas Schröder (22 Tore in 5 Spielen), #27 Marcel Wolf (19 Tore in 5 Spielen), #19 Benedikt Hettlage (17 Tore in 4 Spielen), #11 Daniel Reiche (17 Tore in 5 Spielen)
+- VFL HANDBALL MENNIGHÜFFEN IV: #7 Bastian Bröhenhorst (31 Tore in 5 Spielen), #9 Stefan Nienstedt (10 Tore in 4 Spielen), #10 Holger Beck (7 Tore in 5 Spielen), #5 Malte Bröhenhorst (6 Tore in 3 Spielen), #6 Christian Held (6 Tore in 4 Spielen)
+- HSG QUELLE/UMMELN II (zurückgez.): keine Daten
+- TSV OERLINGHAUSEN III: #11 Marius Kempeni (26 Tore in 3 Spielen), #19 Philipp Kroll (18 Tore in 3 Spielen), #3 Jannik Czychun (17 Tore in 3 Spielen), #43 Daniel Schroeder (16 Tore in 3 Spielen), #41 Philipp Tschöke (13 Tore in 4 Spielen)

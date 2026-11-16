@@ -1,5 +1,5 @@
 # EQ (Team-ID 87805)
-Quelle: handball.net, abgerufen am 09.11.2026 10:48
+Quelle: handball.net, abgerufen am 16.11.2026 15:30
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF E-Querfeld (Phase 13753)
@@ -16,8 +16,8 @@ Liga/Runde: BIHF E-Querfeld (Phase 13753)
 | 3 | Sa 26.09.2026 14:00 | SG Bünde-Dünne - DJK BLAU-WEISS BIELEFELD | Heim | - | beendet | SPORTHALLE BABENHAUSEN |
 | 4 | So 11.10.2026 11:00 | TuS 97 Bielefeld/Jöllenbeck II - SG Bünde-Dünne | Auswärts | - | beendet | WESTERFELDSCHULE |
 | 4 | So 11.10.2026 12:00 | SG Bünde-Dünne - HSG QUELLE/UMMELN | Heim | - | beendet | WESTERFELDSCHULE |
-| 5 | So 15.11.2026 16:30 | SG Bünde-Dünne - TVC ENGER | Heim | - | ausstehend | GYMNASIUM AM MARKT |
-| 5 | So 15.11.2026 17:50 | JSG HANDBALL LÖMO II - SG Bünde-Dünne | Auswärts | - | ausstehend | GYMNASIUM AM MARKT |
+| 5 | So 15.11.2026 16:30 | SG Bünde-Dünne - TVC ENGER | Heim | - | LIVE | GYMNASIUM AM MARKT |
+| 5 | So 15.11.2026 17:50 | JSG HANDBALL LÖMO II - SG Bünde-Dünne | Auswärts | - | beendet | GYMNASIUM AM MARKT |
 | 6 | So 29.11.2026 12:00 | TSG ALTENHAGEN-HEEPEN II - SG Bünde-Dünne | Auswärts | - | ausstehend | GYMNASIUM LöHNE |
 | 6 | So 29.11.2026 13:00 | SG Bünde-Dünne - JSG HANDBALL LÖMO II | Heim | - | ausstehend | GYMNASIUM LöHNE |
 | 7 | So 13.12.2026 12:00 | JSG Bielefeld 07 II - SG Bünde-Dünne | Auswärts | - | ausstehend | SPORTHALLE BRAKE |
@@ -82,20 +82,20 @@ Alle 149 Spiele aller Mannschaften, nach Termin sortiert.
 | 4 | So 11.10.2026 13:00 | JSG Bielefeld 07 II - TVC ENGER | - | beendet | SPORTHALLE BRAKE |
 | 4 | So 11.10.2026 13:40 | TVC ENGER - HTSF SENNE | - | beendet | SPORTHALLE BRAKE |
 | 4 | So 11.10.2026 14:20 | HTSF SENNE - JSG Bielefeld 07 II | - | beendet | SPORTHALLE BRAKE |
-| 5 | Sa 14.11.2026 12:40 | DJK BLAU-WEISS BIELEFELD - VFL HERFORD II | - | ausstehend | SPORTHALLE STIEGHORST |
-| 5 | Sa 14.11.2026 13:20 | VFL HERFORD II - TuS 97 Bielefeld/Jöllenbeck II | - | ausstehend | SPORTHALLE STIEGHORST |
-| 5 | Sa 14.11.2026 14:00 | TuS 97 Bielefeld/Jöllenbeck II - DJK BLAU-WEISS BIELEFELD | - | ausstehend | SPORTHALLE STIEGHORST |
-| 5 | So 15.11.2026 13:30 | TuS 97 Bielefeld/Jöllenbeck - TSG ALTENHAGEN-HEEPEN II | - | ausstehend | WESTERFELDSCHULE |
-| 5 | So 15.11.2026 13:45 | TSV OERLINGHAUSEN - JSG LENZINGHAUSEN-SPENGE II | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
-| 5 | So 15.11.2026 13:50 | HSG EGB BIELEFELD - HSG QUELLE/UMMELN | - | ausstehend | REALSCHULE SENNE I |
-| 5 | So 15.11.2026 14:15 | TSG ALTENHAGEN-HEEPEN II - JSG Bielefeld 07 | - | ausstehend | WESTERFELDSCHULE |
-| 5 | So 15.11.2026 14:30 | JSG LENZINGHAUSEN-SPENGE II - JSG Bielefeld 07 II | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 5 | Sa 14.11.2026 12:40 | DJK BLAU-WEISS BIELEFELD - VFL HERFORD II | - | beendet | SPORTHALLE STIEGHORST |
+| 5 | Sa 14.11.2026 13:20 | VFL HERFORD II - TuS 97 Bielefeld/Jöllenbeck II | - | beendet | SPORTHALLE STIEGHORST |
+| 5 | Sa 14.11.2026 14:00 | TuS 97 Bielefeld/Jöllenbeck II - DJK BLAU-WEISS BIELEFELD | - | beendet | SPORTHALLE STIEGHORST |
+| 5 | So 15.11.2026 13:30 | TuS 97 Bielefeld/Jöllenbeck - TSG ALTENHAGEN-HEEPEN II | - | beendet | WESTERFELDSCHULE |
+| 5 | So 15.11.2026 13:45 | TSV OERLINGHAUSEN - JSG LENZINGHAUSEN-SPENGE II | - | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 5 | So 15.11.2026 13:50 | HSG EGB BIELEFELD - HSG QUELLE/UMMELN | - | beendet | REALSCHULE SENNE I |
+| 5 | So 15.11.2026 14:15 | TSG ALTENHAGEN-HEEPEN II - JSG Bielefeld 07 | - | beendet | WESTERFELDSCHULE |
+| 5 | So 15.11.2026 14:30 | JSG LENZINGHAUSEN-SPENGE II - JSG Bielefeld 07 II | - | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
 | 5 | So 15.11.2026 14:40 | HSG QUELLE/UMMELN - HTSF SENNE | - | ausstehend | REALSCHULE SENNE I |
-| 5 | So 15.11.2026 15:00 | JSG Bielefeld 07 - TuS 97 Bielefeld/Jöllenbeck | - | ausstehend | WESTERFELDSCHULE |
-| 5 | So 15.11.2026 15:15 | JSG Bielefeld 07 II - TSV OERLINGHAUSEN | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
-| 5 | So 15.11.2026 16:30 | SG Bünde-Dünne - TVC ENGER | - | ausstehend | GYMNASIUM AM MARKT |
-| 5 | So 15.11.2026 17:10 | TVC ENGER - JSG HANDBALL LÖMO II | - | ausstehend | GYMNASIUM AM MARKT |
-| 5 | So 15.11.2026 17:50 | JSG HANDBALL LÖMO II - SG Bünde-Dünne | - | ausstehend | GYMNASIUM AM MARKT |
+| 5 | So 15.11.2026 15:00 | JSG Bielefeld 07 - TuS 97 Bielefeld/Jöllenbeck | - | beendet | WESTERFELDSCHULE |
+| 5 | So 15.11.2026 15:15 | JSG Bielefeld 07 II - TSV OERLINGHAUSEN | - | beendet | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
+| 5 | So 15.11.2026 16:30 | SG Bünde-Dünne - TVC ENGER | - | LIVE | GYMNASIUM AM MARKT |
+| 5 | So 15.11.2026 17:10 | TVC ENGER - JSG HANDBALL LÖMO II | - | beendet | GYMNASIUM AM MARKT |
+| 5 | So 15.11.2026 17:50 | JSG HANDBALL LÖMO II - SG Bünde-Dünne | - | beendet | GYMNASIUM AM MARKT |
 | 6 | So 29.11.2026 11:00 | JSG HANDBALL LÖMO II - TSG ALTENHAGEN-HEEPEN II | - | ausstehend | GYMNASIUM LöHNE |
 | 6 | So 29.11.2026 11:45 | TVC ENGER - VFL HERFORD II | - | ausstehend | GYMNASIUM ENGER |
 | 6 | So 29.11.2026 12:00 | TSG ALTENHAGEN-HEEPEN II - SG Bünde-Dünne | - | ausstehend | GYMNASIUM LöHNE |
@@ -191,33 +191,33 @@ Alle 149 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Nr | Name | Spiele | Tore | davon 7m | 7m-Versuche | Verwarnungen | 2-Min | Disqualifikationen |
 |---|---|---|---|---|---|---|---|---|
-| 6 | Theo Heibrock | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Finn Heidenreich | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 | Bennet Grundorf | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Milla Bartz | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | Henn Jarle Langer | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | Kenoah Siekmann | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Theo Schleper | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | Pauline Menke | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Katja Schweitzer | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Katja Schweitzer | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | - | Finn Eimertenbrink | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Anton Diekmann | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 | Enno Kurzbach | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Justus Friedrich Borgstädt | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Anton Diekmann | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Enno Kurzbach | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Justus Friedrich Borgstädt | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Theo Schleper | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Pauline Menke | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Bennet Grundorf | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Milla Bartz | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Henn Jarle Langer | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Kenoah Siekmann | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | Theo Heibrock | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Finn Heidenreich | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
 - TVC ENGER: keine Daten
 - JSG HANDBALL LÖMO II: keine Daten
-- TSG ALTENHAGEN-HEEPEN II: keine Daten
+- JSG Bielefeld 07: keine Daten
 - JSG Bielefeld 07 II: keine Daten
+- DJK BLAU-WEISS BIELEFELD: keine Daten
+- TuS 97 Bielefeld/Jöllenbeck II: keine Daten
+- HSG QUELLE/UMMELN: keine Daten
+- TSG ALTENHAGEN-HEEPEN II: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck: keine Daten
 - JSG LENZINGHAUSEN-SPENGE II: keine Daten
 - TSV OERLINGHAUSEN: keine Daten
 - VFL HERFORD II: keine Daten
-- JSG Bielefeld 07: keine Daten
-- DJK BLAU-WEISS BIELEFELD: keine Daten
-- TuS 97 Bielefeld/Jöllenbeck II: keine Daten
-- HSG QUELLE/UMMELN: keine Daten
-- HSG EGB BIELEFELD: keine Daten
 - HTSF SENNE: keine Daten
+- HSG EGB BIELEFELD: keine Daten

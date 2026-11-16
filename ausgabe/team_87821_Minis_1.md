@@ -1,5 +1,5 @@
 # Minis 1 (Team-ID 87821)
-Quelle: handball.net, abgerufen am 09.11.2026 10:50
+Quelle: handball.net, abgerufen am 16.11.2026 15:32
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: BIHF Minis (Phase 13754)
@@ -14,7 +14,7 @@ Liga/Runde: BIHF Minis (Phase 13754)
 | 6 | So 08.11.2026 13:00 | JSG LENZINGHAUSEN-SPENGE - SG Bünde-Dünne | Auswärts | - | ausstehend | SPORTHALLE LENZINGHAUSEN |
 | 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - SG Bünde-Dünne II | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - JSG Else-Wiehen Wölfe II | Heim | - | ausstehend | GYMNASIUM AM MARKT |
-| 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - TVC ENGER | Heim | - | ausstehend | GYMNASIUM AM MARKT |
+| 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - TVC ENGER | Heim | - | beendet | GYMNASIUM AM MARKT |
 | 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - JSG HANDBALL LÖMO | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - JSG HANDBALL LÖMO III | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - JSG Else-Wiehen Wölfe | Heim | - | ausstehend | GYMNASIUM AM MARKT |
@@ -52,7 +52,7 @@ Alle 62 Spiele aller Mannschaften, nach Termin sortiert.
 | 6 | So 08.11.2026 13:00 | JSG LENZINGHAUSEN-SPENGE - VFL HERFORD | - | ausstehend | SPORTHALLE LENZINGHAUSEN |
 | 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - SG Bünde-Dünne II | - | ausstehend | GYMNASIUM AM MARKT |
 | 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - JSG Else-Wiehen Wölfe II | - | ausstehend | GYMNASIUM AM MARKT |
-| 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - TVC ENGER | - | ausstehend | GYMNASIUM AM MARKT |
+| 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - TVC ENGER | - | beendet | GYMNASIUM AM MARKT |
 | 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - JSG HANDBALL LÖMO | - | ausstehend | GYMNASIUM AM MARKT |
 | 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - JSG HANDBALL LÖMO III | - | ausstehend | GYMNASIUM AM MARKT |
 | 7 | So 15.11.2026 13:00 | SG Bünde-Dünne - JSG Else-Wiehen Wölfe | - | ausstehend | GYMNASIUM AM MARKT |
@@ -102,24 +102,24 @@ Alle 62 Spiele aller Mannschaften, nach Termin sortiert.
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
-- JSG LENZINGHAUSEN-SPENGE: keine Daten
-- TuS 97 Bielefeld/Jöllenbeck: keine Daten
 - SG Bünde-Dünne II: keine Daten
 - JSG Else-Wiehen Wölfe II: keine Daten
 - TVC ENGER: keine Daten
 - JSG HANDBALL LÖMO: keine Daten
 - JSG HANDBALL LÖMO III: keine Daten
 - JSG Else-Wiehen Wölfe: keine Daten
+- TuS 97 Bielefeld/Jöllenbeck: keine Daten
+- JSG LENZINGHAUSEN-SPENGE: keine Daten
 - JSG HANDBALL LÖMO II: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck II: keine Daten
 - TSG ALTENHAGEN-HEEPEN: keine Daten
 - HTSF SENNE: keine Daten
 - TSV Oerlinghausen v. 1863 e.V.: keine Daten
 - VFL HERFORD: keine Daten
+- HSG EGB BIELEFELD: keine Daten
+- JSG Bielefeld 07: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck IV: keine Daten
 - TuS 97 Bielefeld/Jöllenbeck III: keine Daten
-- JSG Bielefeld 07: keine Daten
-- HSG EGB BIELEFELD: keine Daten
-- TG HERFORD: keine Daten
 - TuS Leopoldhöhe Minis: keine Daten
+- TG HERFORD: keine Daten
 - JSG Bielefeld 07 II: keine Daten
