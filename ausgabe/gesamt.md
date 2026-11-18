@@ -1,98 +1,115 @@
-# D1 (Team-ID 87727)
-Quelle: handball.net, abgerufen am 17.11.2026 10:10
+# Zweite (Team-ID 83554)
+Quelle: handball.net, abgerufen am 18.11.2026 11:20
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
-Liga/Runde: BIHF männliche D-Jugend Kreisliga (Phase 13744)
+Liga/Runde: OWL Bezirksliga Männer (Phase 12671)
 
 ## Tabelle
 
 | Platz | Mannschaft | Spiele | S | U | N | Tore | Diff | Punkte | Form |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | SG Bünde-Dünne | 8 | 6 | 2 | 0 | 261:165 | 96 | 14 | DDWWW |
-| 2 | JSG LENZINGHAUSEN-SPENGE | 7 | 6 | 1 | 0 | 213:138 | 75 | 13 | WDWWW |
-| 3 | VFL HERFORD | 7 | 4 | 1 | 2 | 147:148 | -1 | 9 | LWWLW |
-| 4 | JSG HANDBALL LÖMO | 7 | 4 | 1 | 2 | 141:105 | 36 | 9 | LWDWL |
-| 5 | TSV OERLINGHAUSEN | 8 | 4 | 1 | 3 | 161:183 | -22 | 9 | WWLLW |
-| 6 | TSG ALTENHAGEN-HEEPEN | 8 | 3 | 1 | 4 | 172:174 | -2 | 7 | LWWWL |
-| 7 | TVC ENGER | 6 | 3 | 0 | 3 | 122:113 | 9 | 6 | WWWLL |
-| 8 | TuS 97 Bielefeld/Jöllenbeck II | 8 | 2 | 0 | 6 | 138:212 | -74 | 4 | LLLWW |
-| 9 | VFL HERFORD II | 7 | 1 | 1 | 5 | 139:181 | -42 | 3 | WLLLL |
-| 10 | JSG ELSE-WIEHEN WÖLFE II | 8 | 0 | 0 | 8 | 120:195 | -75 | 0 | LLLLL |
+| 1 | HSG PORTA WESTFALICA | 8 | 8 | 0 | 0 | 289:212 | 77 | 16 | WWWWW |
+| 2 | HANDBALL BAD SALZUFLEN 2 | 8 | 7 | 1 | 0 | 229:201 | 28 | 15 | WDWWW |
+| 3 | TUS MÖLLBERGEN 2 | 8 | 6 | 0 | 2 | 232:207 | 25 | 12 | WLWWW |
+| 4 | TSV BÖSINGFELD | 9 | 5 | 1 | 3 | 276:255 | 21 | 11 | DWLWW |
+| 5 | HCE BAD OEYNHAUSEN | 7 | 5 | 0 | 2 | 198:192 | 6 | 10 | WLLWW |
+| 6 | HSG HANDBALL LEMGO 3 | 8 | 4 | 0 | 4 | 211:183 | 28 | 8 | LWLWW |
+| 7 | LIT 1912 IV | 8 | 4 | 0 | 4 | 215:240 | -25 | 8 | WWLWL |
+| 8 | HSG HÜLLHORST | 8 | 3 | 0 | 5 | 191:211 | -20 | 6 | LWLLL |
+| 9 | TUS WESTFALIA VLOTHO-UFFELN | 8 | 3 | 0 | 5 | 219:225 | -6 | 6 | WWWLL |
+| 10 | SG BÜNDE-DÜNNE II | 8 | 3 | 0 | 5 | 211:226 | -15 | 6 | LWWWL |
+| 11 | VFL HANDBALL MENNIGHÜFFEN II | 8 | 3 | 0 | 5 | 203:217 | -14 | 6 | LLLLL |
+| 12 | TUSPO Meißen | 7 | 2 | 1 | 4 | 188:195 | -7 | 5 | WLLLD |
+| 13 | TG HERFORD 1 | 9 | 1 | 0 | 8 | 241:276 | -35 | 2 | LLLLL |
+| 14 | TUS HARTUM | 8 | 0 | 1 | 7 | 214:277 | -63 | 1 | LLLLD |
 
 ## Spielplan (alle Spiele der Saison)
 
 | Runde | Termin | Ansetzung | Heim/Auswärts | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|---|
-| 1 | Sa 05.09.2026 16:15 | SG Bünde-Dünne - JSG ELSE-WIEHEN WÖLFE II | Heim | 31:12 | beendet | GYMNASIUM AM MARKT |
-| 2 | Sa 12.09.2026 15:00 | VFL HERFORD II - SG Bünde-Dünne | Auswärts | 17:37 | beendet | KREISSPORTHALLE HERMANNSTRAßE |
-| 5 | So 04.10.2026 15:00 | SG Bünde-Dünne - JSG HANDBALL LÖMO | Heim | 17:17 | beendet | GYMNASIUM AM MARKT |
-| 6 | So 11.10.2026 15:30 | TuS 97 Bielefeld/Jöllenbeck II - SG Bünde-Dünne | Auswärts | 21:45 | beendet | WESTERFELDSCHULE |
-| 3 | Fr 16.10.2026 18:30 | SG Bünde-Dünne - VFL HERFORD | Heim | 33:23 | beendet | ERICH-GUTENBERG-BERUFSKOLLEG |
-| 7 | Sa 07.11.2026 15:45 | SG Bünde-Dünne - TSV OERLINGHAUSEN | Heim | 38:22 | beendet | GYMNASIUM AM MARKT |
-| 8 | Sa 14.11.2026 12:30 | TSG ALTENHAGEN-HEEPEN - SG Bünde-Dünne | Auswärts | 23:30 | beendet | GYMNASIUM HEEPEN |
-| 4 | Mo 16.11.2026 18:00 | JSG LENZINGHAUSEN-SPENGE - SG Bünde-Dünne | Auswärts | 30:30 | beendet | SPORTHALLE LENZINGHAUSEN |
-| 9 | Sa 21.11.2026 14:30 | SG Bünde-Dünne - TVC ENGER | Heim | - | ausstehend | GYMNASIUM AM MARKT |
-| 10 | Sa 28.11.2026 13:00 | JSG ELSE-WIEHEN WÖLFE II - SG Bünde-Dünne | Auswärts | - | ausstehend | SPH GRUNDSCHULE QUERNHEIM |
-| 11 | Sa 05.12.2026 13:00 | SG Bünde-Dünne - VFL HERFORD II | Heim | - | ausstehend | GYMNASIUM AM MARKT |
-| 12 | Sa 12.12.2026 12:00 | VFL HERFORD - SG Bünde-Dünne | Auswärts | - | ausstehend | FRIEDRICHS-GYMNASIUM |
-| 13 | Sa 23.01.2027 14:15 | SG Bünde-Dünne - JSG LENZINGHAUSEN-SPENGE | Heim | - | ausstehend | GYMNASIUM AM MARKT |
-| 14 | Sa 06.02.2027 17:30 | JSG HANDBALL LÖMO - SG Bünde-Dünne | Auswärts | - | ausstehend | N.H.MENNIGHüFFEN |
-| 15 | Sa 13.02.2027 13:00 | SG Bünde-Dünne - TuS 97 Bielefeld/Jöllenbeck II | Heim | - | ausstehend | GYMNASIUM AM MARKT |
-| 16 | So 21.02.2027 13:00 | TSV OERLINGHAUSEN - SG Bünde-Dünne | Auswärts | - | ausstehend | SCHULZENTRUM (NIKLAS-LUHMANN GYMNASIUM) |
-| 17 | Sa 06.03.2027 13:00 | SG Bünde-Dünne - TSG ALTENHAGEN-HEEPEN | Heim | - | ausstehend | GYMNASIUM AM MARKT |
-| 18 | Sa 13.03.2027 14:00 | TVC ENGER - SG Bünde-Dünne | Auswärts | - | ausstehend | SCHULZENTRUM ENGER |
+| 2 | So 13.09.2026 14:45 | SG BÜNDE-DÜNNE II - HSG HÜLLHORST | Heim | 20:23 | beendet | GYMNASIUM AM MARKT |
+| 3 | So 20.09.2026 17:30 | HSG PORTA WESTFALICA - SG BÜNDE-DÜNNE II | Auswärts | 43:29 | beendet | KARL-KRüGER-HALLE |
+| 4 | So 04.10.2026 17:00 | SG BÜNDE-DÜNNE II - LIT 1912 IV | Heim | 32:34 | beendet | GYMNASIUM AM MARKT |
+| 5 | So 11.10.2026 15:00 | TUSPO Meißen - SG BÜNDE-DÜNNE II | Auswärts | 25:29 | beendet | SPORTHALLE MINDEN SüD |
+| 6 | Sa 17.10.2026 16:30 | SG BÜNDE-DÜNNE II - TG HERFORD 1 | Heim | 29:20 | beendet | GYMNASIUM AM MARKT |
+| 7 | Sa 07.11.2026 16:45 | VFL HANDBALL MENNIGHÜFFEN II - SG BÜNDE-DÜNNE II | Auswärts | 23:26 | beendet | N.H.MENNIGHüFFEN |
+| 1 | Do 12.11.2026 20:15 | TSV BÖSINGFELD - SG BÜNDE-DÜNNE II | Auswärts | 30:23 | beendet | SCHULZENTRUM HACKEMACK |
+| 8 | Mo 16.11.2026 20:15 | SG BÜNDE-DÜNNE II - HSG HANDBALL LEMGO 3 | Heim | 23:28 | beendet | SIEGFRIED-MONING-SPORTHALLE |
+| 9 | Sa 21.11.2026 18:15 | TUS WESTFALIA VLOTHO-UFFELN - SG BÜNDE-DÜNNE II | Auswärts | - | ausstehend | SCHULZENTRUM VLOTHO 1 |
+| 10 | Sa 28.11.2026 16:30 | SG BÜNDE-DÜNNE II - HANDBALL BAD SALZUFLEN 2 | Heim | - | ausstehend | GYMNASIUM AM MARKT |
+| 11 | Sa 05.12.2026 16:30 | SG BÜNDE-DÜNNE II - HCE BAD OEYNHAUSEN | Heim | - | ausstehend | GYMNASIUM AM MARKT |
+| 12 | Sa 12.12.2026 17:00 | TUS MÖLLBERGEN 2 - SG BÜNDE-DÜNNE II | Auswärts | - | ausstehend | SPARKASSEN-ARENA |
+| 13 | Sa 19.12.2026 16:30 | SG BÜNDE-DÜNNE II - TUS HARTUM | Heim | - | ausstehend | GYMNASIUM AM MARKT |
+| 14 | Sa 23.01.2027 16:30 | SG BÜNDE-DÜNNE II - TSV BÖSINGFELD | Heim | - | ausstehend | GYMNASIUM AM MARKT |
+| 15 | Sa 30.01.2027 19:15 | HSG HÜLLHORST - SG BÜNDE-DÜNNE II | Auswärts | - | ausstehend | GESAMTSCHULE HüLLHORST |
+| 16 | Sa 13.02.2027 16:30 | SG BÜNDE-DÜNNE II - HSG PORTA WESTFALICA | Heim | - | ausstehend |  |
+| 17 | Sa 20.02.2027 17:00 | LIT 1912 IV - SG BÜNDE-DÜNNE II | Auswärts | - | ausstehend | SPORTHALLE NETTELSTEDT |
+| 18 | Sa 27.02.2027 16:30 | SG BÜNDE-DÜNNE II - TUSPO Meißen | Heim | - | ausstehend | GYMNASIUM AM MARKT |
+| 19 | Sa 06.03.2027 16:30 | TG HERFORD 1 - SG BÜNDE-DÜNNE II | Auswärts | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 20 | Sa 13.03.2027 16:30 | SG BÜNDE-DÜNNE II - VFL HANDBALL MENNIGHÜFFEN II | Heim | - | ausstehend | GYMNASIUM AM MARKT |
+| 21 | Sa 03.04.2027 18:00 | HSG HANDBALL LEMGO 3 - SG BÜNDE-DÜNNE II | Auswärts | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 22 | Fr 09.04.2027 20:00 | SG BÜNDE-DÜNNE II - TUS WESTFALIA VLOTHO-UFFELN | Heim | - | ausstehend | GYMNASIUM AM MARKT |
+| 23 | Sa 17.04.2027 16:15 | HANDBALL BAD SALZUFLEN 2 - SG BÜNDE-DÜNNE II | Auswärts | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 24 | Sa 24.04.2027 17:00 | HCE BAD OEYNHAUSEN - SG BÜNDE-DÜNNE II | Auswärts | - | ausstehend | SCHULZENTRUM NORD EIDINGHAUSEN |
+| 25 | So 02.05.2027 14:45 | SG BÜNDE-DÜNNE II - TUS MÖLLBERGEN 2 | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 
-## Spielplan der gesamten Liga (BIHF männliche D-Jugend Kreisliga)
+## Spielplan der gesamten Liga (OWL Bezirksliga Männer)
 
-Alle 6 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 8 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
-| 4 | Mo 16.11.2026 18:00 | JSG LENZINGHAUSEN-SPENGE - SG Bünde-Dünne | 30:30 | beendet | SPORTHALLE LENZINGHAUSEN |
-| 9 | Sa 21.11.2026 12:00 | VFL HERFORD II - TSV OERLINGHAUSEN | - | ausstehend | FRIEDRICHS-GYMNASIUM |
-| 9 | Sa 21.11.2026 13:30 | VFL HERFORD - TuS 97 Bielefeld/Jöllenbeck II | - | ausstehend | FRIEDRICHS-GYMNASIUM |
-| 9 | Sa 21.11.2026 14:30 | SG Bünde-Dünne - TVC ENGER | - | ausstehend | GYMNASIUM AM MARKT |
-| 9 | Sa 21.11.2026 15:45 | JSG LENZINGHAUSEN-SPENGE - JSG HANDBALL LÖMO | - | ausstehend | REALSCHULE SPENGE |
-| 9 | So 22.11.2026 00:00 | JSG ELSE-WIEHEN WÖLFE II - TSG ALTENHAGEN-HEEPEN | - | ausstehend | SPORTHALLE SPRADOW |
+| 8 | Mo 16.11.2026 20:15 | SG BÜNDE-DÜNNE II - HSG HANDBALL LEMGO 3 | 23:28 | beendet | SIEGFRIED-MONING-SPORTHALLE |
+| 9 | Sa 21.11.2026 17:00 | TUSPO Meißen - TSV BÖSINGFELD | - | ausstehend | HAUPTSCHULE DANKERSEN |
+| 9 | Sa 21.11.2026 17:00 | LIT 1912 IV - HSG HÜLLHORST | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 9 | Sa 21.11.2026 17:15 | HSG HANDBALL LEMGO 3 - HCE BAD OEYNHAUSEN | - | ausstehend | VOLKER-ZERBE-HALLE (SPORTHALLE HELDMANNSKAMP) |
+| 9 | Sa 21.11.2026 18:00 | TG HERFORD 1 - TUS HARTUM | - | ausstehend | ERNST-BARLACH-REALSCHULE |
+| 9 | Sa 21.11.2026 18:00 | VFL HANDBALL MENNIGHÜFFEN II - TUS MÖLLBERGEN 2 | - | ausstehend | N.H.MENNIGHüFFEN |
+| 9 | Sa 21.11.2026 18:15 | TUS WESTFALIA VLOTHO-UFFELN - SG BÜNDE-DÜNNE II | - | ausstehend | SCHULZENTRUM VLOTHO 1 |
+| 9 | Sa 21.11.2026 18:30 | HANDBALL BAD SALZUFLEN 2 - HSG PORTA WESTFALICA | - | ausstehend | NEUES SCHULZENTRUM ASPE |
 
 ## Kader und Spielerstatistik (Saison)
 
 | Nr | Name | Spiele | Tore | davon 7m | 7m-Versuche | Verwarnungen | 2-Min | Disqualifikationen |
 |---|---|---|---|---|---|---|---|---|
-| 11 | Fabian Meyer | 9 | 62 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Finn Luca Pieper | 9 | 51 | 0 | 0 | 1 | 2 | 0 |
-| 10 | Mats Kemner | 8 | 44 | 12 | 15 | 0 | 0 | 0 |
-| 9 | Ben Heibrock | 9 | 27 | 0 | 0 | 1 | 0 | 0 |
-| 3 | Julius Wille | 9 | 23 | 0 | 0 | 0 | 0 | 0 |
-| 6 | Klaas Joris Hofemeier | 8 | 20 | 0 | 0 | 0 | 0 | 0 |
-| 5 | Friedrich Lückemeier | 8 | 14 | 0 | 2 | 0 | 0 | 0 |
-| 7 | Linus Phileas Boesch | 7 | 10 | 0 | 0 | 1 | 0 | 0 |
-| 4 | Tim Hartmann | 6 | 6 | 0 | 0 | 1 | 0 | 0 |
-| 15 | Jonah Hannig | 6 | 4 | 0 | 0 | 0 | 1 | 0 |
-| - | Marco Rossol | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Lewin Goddard | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Pepe Altemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Aleksej Bekemeier | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Pascal Heibrock | 9 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Tim Bunte | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Simon Daniel Sprenger | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Henry Oleff | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1 | Felix Hansch | 9 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Fabian Eppli | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Aaron Möller | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Jona Michalik | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Dorde Mikac | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Tino Meyer | 9 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Hannes Moellering | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 31 | Tom-Niklas Koch | 6 | 51 | 25 | 30 | 0 | 0 | 0 |
+| 23 | Tim Benjamin Koebke | 8 | 47 | 11 | 16 | 1 | 2 | 0 |
+| 2 | Marvin Erdbruegger | 8 | 24 | 0 | 0 | 1 | 6 | 0 |
+| 99 | Marvin Fransmeier | 6 | 15 | 1 | 1 | 0 | 1 | 0 |
+| 8 | Marlo Erdbruegger | 7 | 11 | 1 | 2 | 3 | 3 | 0 |
+| 24 | Nico Monien | 6 | 10 | 0 | 0 | 1 | 2 | 0 |
+| 11 | Rune Fiefstück | 7 | 10 | 1 | 1 | 0 | 3 | 0 |
+| 3 | Tim Ahrend | 8 | 10 | 0 | 0 | 0 | 2 | 0 |
+| 13 | Conner Brinkmeyer | 6 | 6 | 0 | 0 | 0 | 1 | 0 |
+| 4 | Jonah Holverscheid | 6 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 95 | Finn Louis Dieckmann | 7 | 6 | 1 | 1 | 0 | 0 | 0 |
+| 10 | Nico Mailänder | 1 | 3 | 0 | 0 | 1 | 0 | 0 |
+| 5 | Nico Schneidmiller | 3 | 3 | 0 | 2 | 0 | 0 | 0 |
+| 7 | Tom Schuster | 7 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 34 | Fabian Schaaf | 2 | 2 | 0 | 0 | 0 | 1 | 0 |
+| 9 | Arne Halstenberg | 1 | 2 | 0 | 0 | 0 | 1 | 0 |
+| 6 | Dennis Peter | 1 | 1 | 0 | 0 | 0 | 1 | 1 |
+| 9 | Janis Leon Holdmann | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
+| 0 | Michael Schaaf | 7 | 0 | 0 | 0 | 3 | 0 | 0 |
+| 0 | Raoul Wittemeier | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
+| - | Bjoern Ebert | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | Dennis Specht | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Torben Stallmann | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 21 | Christian Beining | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | Jannes Westerheide | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
-- JSG LENZINGHAUSEN-SPENGE: #14 Mats Finkemeier (70 Tore in 7 Spielen), #17 Felix Moormann (47 Tore in 7 Spielen), #16 Mats Koester (40 Tore in 7 Spielen), #3 Maik Bender (12 Tore in 7 Spielen), #99 Lukas Vogtschmidt (12 Tore in 7 Spielen)
-- VFL HERFORD II: #10 Carl Magnus Amlong (37 Tore in 7 Spielen), #15 Jonas Constantin Treu (25 Tore in 6 Spielen), #8 Leo Johannsen (18 Tore in 7 Spielen), #23 Maximilian Stahn (17 Tore in 6 Spielen), #6 Ben Wächter (8 Tore in 6 Spielen)
-- TSV OERLINGHAUSEN: #9 Lennon Müller (46 Tore in 18 Spielen), #13 Jarne Landerbarthold (24 Tore in 17 Spielen), #3 Luca Walbrodt (19 Tore in 17 Spielen), #6 Tim Kasten (18 Tore in 17 Spielen), #4 Henry Kamp (18 Tore in 18 Spielen)
-- VFL HERFORD: #6 Julian Reinhold (38 Tore in 7 Spielen), #2 Veit Bartl (22 Tore in 5 Spielen), #18 Josch Biermann (19 Tore in 6 Spielen), #4 Mats Wiebusch (19 Tore in 7 Spielen), #7 Niklas Tessmann (15 Tore in 5 Spielen)
-- TuS 97 Bielefeld/Jöllenbeck II: #86 Jakob Maximilian Königsberger (30 Tore in 9 Spielen), #92 Mattheo Thorenz (26 Tore in 10 Spielen), #84 David Kampe (17 Tore in 9 Spielen), #80 Theo Gehring (16 Tore in 10 Spielen), #78 Nathan Debreceni (11 Tore in 9 Spielen)
-- TVC ENGER: #13 Claas Friedrich Gehler (36 Tore in 5 Spielen), #14 Noah Schäfer (28 Tore in 6 Spielen), #15 Clemens Gehler (21 Tore in 4 Spielen), #10 Wilm Wellmann (14 Tore in 6 Spielen), #14 Jakob Lückingsmeier (8 Tore in 5 Spielen)
-- JSG HANDBALL LÖMO: #8 Felix Wegner (48 Tore in 11 Spielen), #6 Bela Seele (20 Tore in 11 Spielen), #2 Eric Laurin Koop (20 Tore in 11 Spielen), #13 Mika Seele (20 Tore in 11 Spielen), #10 Oskar Kolios (16 Tore in 11 Spielen)
-- JSG ELSE-WIEHEN WÖLFE II: #16 Bennet Fabert (19 Tore in 7 Spielen), #23 Thore Nykamp (16 Tore in 6 Spielen), #65 Ben Eric Moor (14 Tore in 8 Spielen), #17 Aaron Andreas Born (12 Tore in 8 Spielen), #10 Melina Schömer (9 Tore in 5 Spielen)
-- TSG ALTENHAGEN-HEEPEN: #13 Noah Rafael Wakat (47 Tore in 7 Spielen), #11 Louis Blöbaum (38 Tore in 8 Spielen), #9 Valentin Keitel (15 Tore in 8 Spielen), #10 Matti Schulz (14 Tore in 7 Spielen), #15 Aaron Schirrmacher (12 Tore in 7 Spielen)
+- HSG HANDBALL LEMGO 3: #11 Anton Schirneker-Reineke (50 Tore in 7 Spielen), #9 Gleb Wiebe (42 Tore in 8 Spielen), #14 Leon Nolte (18 Tore in 8 Spielen), #22 Lennon Bollmeier (17 Tore in 8 Spielen), #7 Hannes Bley (17 Tore in 8 Spielen)
+- TUSPO Meißen: #6 Liam Nofz (48 Tore in 7 Spielen), #11 Nicolai Burzlaff (28 Tore in 6 Spielen), #96 Marius Ibe (25 Tore in 6 Spielen), #8 Jannik Backhaus (18 Tore in 7 Spielen), #17 Ron-Bennet Neufeld (15 Tore in 7 Spielen)
+- TSV BÖSINGFELD: #3 Hannes Heitkamp (75 Tore in 9 Spielen), #6 Nico Korbach (45 Tore in 8 Spielen), #2 Can Luca Sagir (26 Tore in 8 Spielen), #44 Timo Schnare (26 Tore in 8 Spielen), #86 Lukas Hoppenberg (22 Tore in 9 Spielen)
+- LIT 1912 IV: #17 Tim Westerhoff (48 Tore in 8 Spielen), #23 Dennis Borcherding (45 Tore in 6 Spielen), #20 Kaylen Ralf Kaiser (28 Tore in 7 Spielen), #24 Jonas Hohorst (18 Tore in 6 Spielen), #4 Lennart Julius Kruse (13 Tore in 8 Spielen)
+- HSG HÜLLHORST: #33 Timo Wittkoetter (38 Tore in 7 Spielen), #2 Niklas Depping (37 Tore in 8 Spielen), #24 Jonas Balke (35 Tore in 8 Spielen), #10 Benedict Els (23 Tore in 8 Spielen), #15 Florian Stallmann (11 Tore in 5 Spielen)
+- HCE BAD OEYNHAUSEN: #14 Tobias Nick (49 Tore in 6 Spielen), #21 Calvin Krone (39 Tore in 6 Spielen), #13 Jannis Josef Han-Voth (19 Tore in 7 Spielen), #31 Armel Rapic (18 Tore in 6 Spielen), #11 Lukas Schomburg (18 Tore in 7 Spielen)
+- TG HERFORD 1: #11 Fabian Wittenborn (51 Tore in 8 Spielen), #8 Levin Hertel (35 Tore in 9 Spielen), #27 Christian Skusa (31 Tore in 8 Spielen), #2 Tim Rusnak (28 Tore in 7 Spielen), #15 Philipp Bucceri (24 Tore in 3 Spielen)
+- TUS HARTUM: #5 Till Riechmann (64 Tore in 8 Spielen), #14 Tom-Bennet Lichtenberg (38 Tore in 8 Spielen), #29 Jannis Obst (23 Tore in 8 Spielen), #9 Lucas Wiese (22 Tore in 8 Spielen), #16 Maik Rubin (19 Tore in 8 Spielen)
+- VFL HANDBALL MENNIGHÜFFEN II: #24 Lennard Fransmeier (43 Tore in 8 Spielen), #35 Kevin Eickmeier (41 Tore in 6 Spielen), #4 Tim Oliver Strauch (19 Tore in 7 Spielen), #44 Andreas Kreft (16 Tore in 8 Spielen), #14 Jannik Brune (16 Tore in 8 Spielen)
+- TUS MÖLLBERGEN 2: #34 Dustin Streitberger (63 Tore in 8 Spielen), #22 Tim Lennart Kohlmeier (35 Tore in 8 Spielen), #13 Leon Richter (30 Tore in 7 Spielen), #33 Marten Kollmeier (15 Tore in 8 Spielen), #15 Leopold Bantelmann (11 Tore in 6 Spielen)
+- TUS WESTFALIA VLOTHO-UFFELN: #17 Liam Heinemann (49 Tore in 7 Spielen), #7 Bastian Endler (34 Tore in 7 Spielen), #10 Louis Huxoll (31 Tore in 5 Spielen), #23 Michael Ziemann (20 Tore in 6 Spielen), #68 Nicklas Ruhnau (19 Tore in 8 Spielen)
+- HANDBALL BAD SALZUFLEN 2: #24 Moritz Sibma (47 Tore in 8 Spielen), #3 Marcel Heumann (46 Tore in 8 Spielen), #15 Jannik Mader (38 Tore in 8 Spielen), #26 Amir Sukurica (20 Tore in 8 Spielen), #7 Henri Speckmann (17 Tore in 8 Spielen)
+- HSG PORTA WESTFALICA: #11 Justin Pauser (43 Tore in 8 Spielen), #13 Joost Nottmeier (38 Tore in 8 Spielen), #3 Lukas Jurys (37 Tore in 8 Spielen), #8 Julian Ekkert (33 Tore in 8 Spielen), #4 Niklas Delius (30 Tore in 7 Spielen)
