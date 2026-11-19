@@ -1,5 +1,5 @@
 # Erste (Team-ID 86611)
-Quelle: handball.net, abgerufen am 16.11.2026 15:17
+Quelle: handball.net, abgerufen am 19.11.2026 22:30
 Hinweis: Zeiten sind Ortszeit. 'Heim' bedeutet: das Team steht in der Ansetzung vorne.
 
 Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
@@ -15,12 +15,12 @@ Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
 | 5 | ASV SENDEN E.V. | 8 | 5 | 0 | 3 | 260:228 | 32 | 10 | LWWWW |
 | 6 | TuS 97 Bielefeld/Jöllenbeck Herren 1 | 8 | 4 | 1 | 3 | 216:207 | 9 | 9 | LLLWW |
 | 7 | TuS 09 Möllbergen e.V. | 8 | 3 | 1 | 4 | 217:241 | -24 | 7 | LWLDW |
-| 8 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | 9 | 3 | 1 | 5 | 267:303 | -36 | 7 | WLDLW |
-| 9 | TG HÖRSTE | 7 | 2 | 1 | 4 | 212:221 | -9 | 5 | WLDLW |
-| 10 | SG BÜNDE-DÜNNE | 8 | 2 | 1 | 5 | 246:267 | -21 | 5 | WLDWL |
+| 8 | SG BÜNDE-DÜNNE | 9 | 3 | 1 | 5 | 276:288 | -12 | 7 | LDWWL |
+| 9 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | 9 | 3 | 1 | 5 | 267:303 | -36 | 7 | WLDLW |
+| 10 | TG HÖRSTE | 7 | 2 | 1 | 4 | 212:221 | -9 | 5 | WLDLW |
 | 11 | TUS BROCKHAGEN | 8 | 2 | 1 | 5 | 209:226 | -17 | 5 | LLDLL |
 | 12 | VFL HANDBALL MENNIGHÜFFEN E.V. | 9 | 2 | 1 | 6 | 252:266 | -14 | 5 | LLDLL |
-| 13 | HSG Petershagen/Lahde | 8 | 2 | 0 | 6 | 240:274 | -34 | 4 | LLWLL |
+| 13 | HSG Petershagen/Lahde | 9 | 2 | 0 | 7 | 261:304 | -43 | 4 | LWLLL |
 | 14 | HSG Werther/Borgholzhausen | 8 | 1 | 0 | 7 | 201:254 | -53 | 2 | WLLLL |
 
 ## Spielplan (alle Spiele der Saison)
@@ -35,7 +35,7 @@ Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
 | 6 | So 11.10.2026 17:00 | SG BÜNDE-DÜNNE - TV ISSELHORST 1 | Heim | 29:29 | beendet | GYMNASIUM AM MARKT |
 | 7 | Fr 16.10.2026 20:00 | HSG Werther/Borgholzhausen - SG BÜNDE-DÜNNE | Auswärts | 24:31 | beendet | 429 SPORTHALLE GESAMTSCHULE WERTHER |
 | 9 | So 15.11.2026 17:00 | ASV SENDEN E.V. - SG BÜNDE-DÜNNE | Auswärts | 32:31 | beendet | NEUE HALLE (1) IM SPORTPARK SENDEN |
-| 8 | Do 19.11.2026 20:00 | SG BÜNDE-DÜNNE - HSG Petershagen/Lahde | Heim | - | ausstehend | GYMNASIUM AM MARKT |
+| 8 | Do 19.11.2026 20:00 | SG BÜNDE-DÜNNE - HSG Petershagen/Lahde | Heim | 30:21 | beendet | GYMNASIUM AM MARKT |
 | 15 | So 22.11.2026 18:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - SG BÜNDE-DÜNNE | Auswärts | - | ausstehend | N.H.MENNIGHüFFEN |
 | 10 | Sa 28.11.2026 18:45 | SG BÜNDE-DÜNNE - TUS BROCKHAGEN | Heim | - | ausstehend | GYMNASIUM AM MARKT |
 | 11 | Sa 05.12.2026 18:45 | SG BÜNDE-DÜNNE - TuS 97 Bielefeld/Jöllenbeck Herren 1 | Heim | - | ausstehend | GYMNASIUM AM MARKT |
@@ -55,61 +55,233 @@ Liga/Runde: Oberliga MÄNNLICH (Phase 12646)
 
 ## Spielplan der gesamten Liga (Oberliga MÄNNLICH)
 
-Alle 8 Spiele aller Mannschaften, nach Termin sortiert.
+Alle 180 Spiele aller Mannschaften, nach Termin sortiert.
 
 | Runde | Termin | Ansetzung | Ergebnis | Status | Halle |
 |---|---|---|---|---|---|
+| 1 | Sa 05.09.2026 15:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - ASV SENDEN E.V. | 28:25 | beendet | N.H.MENNIGHüFFEN |
+| 1 | Sa 05.09.2026 16:30 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - HSG Werther/Borgholzhausen | 32:31 | beendet | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 1 | Sa 05.09.2026 17:00 | TUS BROCKHAGEN - TuS 09 Möllbergen e.V. | 30:26 | beendet | 453 SPORTHALLE GRUNDSCHULE |
+| 1 | Sa 05.09.2026 18:30 | HANDBALL BAD SALZUFLEN - HSG Petershagen/Lahde | 38:28 | beendet | NEUES SCHULZENTRUM ASPE |
+| 1 | Sa 05.09.2026 19:30 | TSV Hahlen 1945 e.V. - TV ISSELHORST 1 | 27:22 | beendet | SPORTHALLE HAHLER FELD |
+| 1 | So 06.09.2026 16:00 | TUS SPENGE E.V. II - SG BÜNDE-DÜNNE | 39:32 | beendet | REALSCHULE SPENGE |
+| 2 | Fr 11.09.2026 19:30 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - TUS SPENGE E.V. II | 23:23 | beendet | REALSCHULE JöLLENBECK |
+| 2 | Sa 12.09.2026 18:30 | TV ISSELHORST 1 - TUS BROCKHAGEN | 32:26 | beendet | 421 NEUE SPORTHALLE ISSELHORST |
+| 2 | Sa 12.09.2026 19:15 | HSG Werther/Borgholzhausen - TSV Hahlen 1945 e.V. | 19:34 | beendet | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 2 | So 13.09.2026 17:00 | SG BÜNDE-DÜNNE - VFL HANDBALL MENNIGHÜFFEN E.V. | 28:33 | beendet | GYMNASIUM AM MARKT |
+| 2 | So 13.09.2026 17:00 | HSG Petershagen/Lahde - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | 45:30 | beendet | WESER-HALLE LAHDE |
+| 3 | Fr 18.09.2026 20:00 | TSV Hahlen 1945 e.V. - HSG Petershagen/Lahde | 42:25 | beendet | SPORTHALLE HAHLER FELD |
+| 3 | Sa 19.09.2026 18:30 | HANDBALL BAD SALZUFLEN - SG BÜNDE-DÜNNE | 37:31 | beendet | NEUES SCHULZENTRUM ASPE |
+| 3 | Sa 19.09.2026 18:30 | TV ISSELHORST 1 - HSG Werther/Borgholzhausen | 37:24 | beendet | 421 NEUE SPORTHALLE ISSELHORST |
+| 3 | Sa 19.09.2026 19:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - TuS 97 Bielefeld/Jöllenbeck Herren 1 | 23:29 | beendet | N.H.MENNIGHüFFEN |
+| 3 | So 20.09.2026 17:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - ASV SENDEN E.V. | 24:37 | beendet | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 3 | So 20.09.2026 17:00 | TUS SPENGE E.V. II - TuS 09 Möllbergen e.V. | 33:23 | beendet | REALSCHULE SPENGE |
+| 4 | Fr 25.09.2026 20:00 | TG HÖRSTE - TUS SPENGE E.V. II | 34:38 | beendet | 434 SPORTHALLE MASCH HALLE I |
+| 4 | Sa 26.09.2026 17:45 | SG BÜNDE-DÜNNE - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | 36:30 | beendet | GYMNASIUM AM MARKT |
+| 4 | Sa 26.09.2026 18:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - HANDBALL BAD SALZUFLEN | 26:25 | beendet | REALSCHULE JöLLENBECK |
+| 4 | Sa 26.09.2026 19:00 | HSG Petershagen/Lahde - TV ISSELHORST 1 | 32:36 | beendet | WESER-HALLE LAHDE |
+| 4 | So 27.09.2026 17:00 | ASV SENDEN E.V. - TSV Hahlen 1945 e.V. | 29:37 | beendet | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 4 | So 27.09.2026 17:00 | TuS 09 Möllbergen e.V. - VFL HANDBALL MENNIGHÜFFEN E.V. | 28:25 | beendet | SPARKASSEN-ARENA |
+| 5 | Fr 02.10.2026 20:00 | TSV Hahlen 1945 e.V. - SG BÜNDE-DÜNNE | 43:28 | beendet | SPORTHALLE HAHLER FELD |
+| 5 | Sa 03.10.2026 15:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - TuS 97 Bielefeld/Jöllenbeck Herren 1 | 31:28 | beendet | SPORTHALLE NETTELSTEDT |
+| 5 | Sa 03.10.2026 16:15 | HANDBALL BAD SALZUFLEN - TuS 09 Möllbergen e.V. | 45:29 | beendet | NEUES SCHULZENTRUM ASPE |
+| 5 | Sa 03.10.2026 18:30 | TV ISSELHORST 1 - ASV SENDEN E.V. | 33:28 | beendet | 421 NEUE SPORTHALLE ISSELHORST |
+| 5 | Sa 03.10.2026 19:15 | TUS BROCKHAGEN - TUS SPENGE E.V. II | 27:28 | beendet | 453 SPORTHALLE GRUNDSCHULE |
+| 5 | So 04.10.2026 17:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - TG HÖRSTE | 25:28 | beendet | N.H.MENNIGHüFFEN |
+| 6 | Sa 10.10.2026 17:45 | TG HÖRSTE - HANDBALL BAD SALZUFLEN | 27:33 | beendet | 434 SPORTHALLE MASCH HALLE I |
+| 6 | Sa 10.10.2026 18:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - TSV Hahlen 1945 e.V. | 25:28 | beendet | REALSCHULE JöLLENBECK |
+| 6 | Sa 10.10.2026 18:00 | HSG Petershagen/Lahde - TUS BROCKHAGEN | 32:30 | beendet | WESER-HALLE LAHDE |
+| 6 | So 11.10.2026 17:00 | SG BÜNDE-DÜNNE - TV ISSELHORST 1 | 29:29 | beendet | GYMNASIUM AM MARKT |
+| 6 | So 11.10.2026 17:00 | ASV SENDEN E.V. - HSG Werther/Borgholzhausen | 42:24 | beendet | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 6 | So 11.10.2026 17:00 | TuS 09 Möllbergen e.V. - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | 30:25 | beendet | SPARKASSEN-ARENA |
+| 6 | So 11.10.2026 17:00 | TUS SPENGE E.V. II - VFL HANDBALL MENNIGHÜFFEN E.V. | 40:39 | beendet | REALSCHULE SPENGE |
+| 7 | Fr 16.10.2026 19:15 | TUS BROCKHAGEN - VFL HANDBALL MENNIGHÜFFEN E.V. | 25:25 | beendet | 453 SPORTHALLE GRUNDSCHULE |
+| 7 | Fr 16.10.2026 20:00 | HSG Werther/Borgholzhausen - SG BÜNDE-DÜNNE | 24:31 | beendet | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 7 | Sa 17.10.2026 18:00 | HSG Petershagen/Lahde - ASV SENDEN E.V. | 28:35 | beendet | WESER-HALLE LAHDE |
+| 7 | Sa 17.10.2026 18:30 | TV ISSELHORST 1 - TuS 97 Bielefeld/Jöllenbeck Herren 1 | 24:22 | beendet | 421 NEUE SPORTHALLE ISSELHORST |
+| 7 | Sa 17.10.2026 18:30 | HANDBALL BAD SALZUFLEN - TUS SPENGE E.V. II | 26:29 | beendet | NEUES SCHULZENTRUM ASPE |
+| 7 | Sa 17.10.2026 19:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - TG HÖRSTE | 33:33 | beendet | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 7 | Sa 17.10.2026 19:30 | TSV Hahlen 1945 e.V. - TuS 09 Möllbergen e.V. | 29:25 | beendet | SPORTHALLE HAHLER FELD |
+| 5 | Sa 31.10.2026 19:00 | HSG Werther/Borgholzhausen - HSG Petershagen/Lahde | 30:22 | beendet | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 8 | Fr 06.11.2026 19:30 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - HSG Werther/Borgholzhausen | 30:25 | beendet | REALSCHULE JöLLENBECK |
+| 8 | Sa 07.11.2026 18:30 | TV ISSELHORST 1 - TuS 09 Möllbergen e.V. | 30:30 | beendet | 421 NEUE SPORTHALLE ISSELHORST |
+| 8 | Sa 07.11.2026 19:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - HANDBALL BAD SALZUFLEN | 27:34 | beendet | N.H.MENNIGHüFFEN |
+| 8 | Sa 07.11.2026 20:00 | TG HÖRSTE - TSV Hahlen 1945 e.V. | 28:37 | beendet | 434 SPORTHALLE MASCH HALLE I |
+| 8 | So 08.11.2026 17:00 | ASV SENDEN E.V. - TUS BROCKHAGEN | 32:23 | beendet | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 8 | So 08.11.2026 17:00 | TUS SPENGE E.V. II - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | 36:33 | beendet | REALSCHULE SPENGE |
 | 3 | Di 10.11.2026 20:00 | TUS BROCKHAGEN - TG HÖRSTE | 30:27 | beendet | 453 SPORTHALLE GRUNDSCHULE |
 | 9 | Fr 13.11.2026 20:00 | TSV Hahlen 1945 e.V. - TUS SPENGE E.V. II | 33:30 | beendet | SPORTHALLE HAHLER FELD |
 | 9 | Fr 13.11.2026 20:00 | TV ISSELHORST 1 - TG HÖRSTE | 25:35 | beendet | 421 NEUE SPORTHALLE ISSELHORST |
 | 9 | Sa 14.11.2026 18:00 | HSG Petershagen/Lahde - TuS 97 Bielefeld/Jöllenbeck Herren 1 | 28:33 | beendet | WESER-HALLE LAHDE |
 | 9 | Sa 14.11.2026 19:15 | TUS BROCKHAGEN - HANDBALL BAD SALZUFLEN | 18:24 | beendet | 453 SPORTHALLE GRUNDSCHULE |
-| 9 | So 15.11.2026 17:00 | HSG Werther/Borgholzhausen - TuS 09 Möllbergen e.V. | 24:26 | beendet | 429 SPORTHALLE GESAMTSCHULE WERTHER |
 | 9 | So 15.11.2026 17:00 | ASV SENDEN E.V. - SG BÜNDE-DÜNNE | 32:31 | beendet | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 9 | So 15.11.2026 17:00 | HSG Werther/Borgholzhausen - TuS 09 Möllbergen e.V. | 24:26 | beendet | 429 SPORTHALLE GESAMTSCHULE WERTHER |
 | 9 | So 15.11.2026 17:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - VFL HANDBALL MENNIGHÜFFEN E.V. | 29:27 | beendet | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 8 | Do 19.11.2026 20:00 | SG BÜNDE-DÜNNE - HSG Petershagen/Lahde | 30:21 | beendet | GYMNASIUM AM MARKT |
+| 1 | Fr 20.11.2026 20:00 | TG HÖRSTE - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 15 | So 22.11.2026 18:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - SG BÜNDE-DÜNNE | - | ausstehend | N.H.MENNIGHüFFEN |
+| 2 | So 22.11.2026 18:00 | ASV SENDEN E.V. - HANDBALL BAD SALZUFLEN | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 10 | Fr 27.11.2026 20:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - TSV Hahlen 1945 e.V. | - | ausstehend | N.H.MENNIGHüFFEN |
+| 10 | Fr 27.11.2026 20:00 | TG HÖRSTE - HSG Werther/Borgholzhausen | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 10 | Fr 27.11.2026 20:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - HANDBALL BAD SALZUFLEN | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 10 | Sa 28.11.2026 18:00 | TUS SPENGE E.V. II - TV ISSELHORST 1 | - | ausstehend | REALSCHULE SPENGE |
+| 10 | Sa 28.11.2026 18:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - ASV SENDEN E.V. | - | ausstehend | REALSCHULE JöLLENBECK |
+| 10 | Sa 28.11.2026 18:45 | SG BÜNDE-DÜNNE - TUS BROCKHAGEN | - | ausstehend | GYMNASIUM AM MARKT |
+| 10 | Sa 28.11.2026 19:00 | TuS 09 Möllbergen e.V. - HSG Petershagen/Lahde | - | ausstehend | SPARKASSEN-ARENA |
+| 11 | Sa 05.12.2026 17:00 | TSV Hahlen 1945 e.V. - HANDBALL BAD SALZUFLEN | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 11 | Sa 05.12.2026 17:00 | HSG Werther/Borgholzhausen - TUS SPENGE E.V. II | - | ausstehend | 425 SPORTHALLE GESAMTSCHULE BORGHOLZH. |
+| 11 | Sa 05.12.2026 18:00 | HSG Petershagen/Lahde - TG HÖRSTE | - | ausstehend | WESER-HALLE LAHDE |
+| 11 | Sa 05.12.2026 18:30 | TV ISSELHORST 1 - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 11 | Sa 05.12.2026 18:45 | SG BÜNDE-DÜNNE - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | GYMNASIUM AM MARKT |
+| 11 | Sa 05.12.2026 19:15 | TUS BROCKHAGEN - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 11 | So 06.12.2026 17:00 | ASV SENDEN E.V. - TuS 09 Möllbergen e.V. | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 12 | Fr 11.12.2026 20:30 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - TSV Hahlen 1945 e.V. | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 12 | Sa 12.12.2026 18:00 | TUS SPENGE E.V. II - HSG Petershagen/Lahde | - | ausstehend | REALSCHULE SPENGE |
+| 12 | Sa 12.12.2026 19:00 | TuS 09 Möllbergen e.V. - SG BÜNDE-DÜNNE | - | ausstehend | SPARKASSEN-ARENA |
+| 12 | Sa 12.12.2026 19:15 | TUS BROCKHAGEN - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 12 | Sa 12.12.2026 20:00 | TG HÖRSTE - ASV SENDEN E.V. | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 12 | So 13.12.2026 16:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - HSG Werther/Borgholzhausen | - | ausstehend | N.H.MENNIGHüFFEN |
+| 13 | Fr 18.12.2026 19:00 | HSG Petershagen/Lahde - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | WESER-HALLE LAHDE |
+| 13 | Fr 18.12.2026 20:00 | SG BÜNDE-DÜNNE - TG HÖRSTE | - | ausstehend | GYMNASIUM AM MARKT |
+| 13 | Fr 18.12.2026 20:00 | TSV Hahlen 1945 e.V. - TUS BROCKHAGEN | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 13 | Fr 18.12.2026 20:00 | HSG Werther/Borgholzhausen - HANDBALL BAD SALZUFLEN | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 13 | Sa 19.12.2026 18:30 | TV ISSELHORST 1 - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 13 | So 20.12.2026 17:00 | ASV SENDEN E.V. - TUS SPENGE E.V. II | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 13 | So 20.12.2026 17:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - TuS 09 Möllbergen e.V. | - | ausstehend | REALSCHULE JöLLENBECK |
+| 12 | Fr 15.01.2027 20:00 | HANDBALL BAD SALZUFLEN - TV ISSELHORST 1 | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 4 | Fr 15.01.2027 20:00 | HSG Werther/Borgholzhausen - TUS BROCKHAGEN | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 2 | Fr 15.01.2027 20:00 | TuS 09 Möllbergen e.V. - TG HÖRSTE | - | ausstehend | SPARKASSEN-ARENA |
+| 14 | Fr 22.01.2027 19:30 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - TG HÖRSTE | - | ausstehend | REALSCHULE JöLLENBECK |
+| 14 | Sa 23.01.2027 18:00 | HSG Petershagen/Lahde - HANDBALL BAD SALZUFLEN | - | ausstehend | WESER-HALLE LAHDE |
+| 14 | Sa 23.01.2027 18:30 | TV ISSELHORST 1 - TSV Hahlen 1945 e.V. | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 14 | Sa 23.01.2027 18:45 | SG BÜNDE-DÜNNE - TUS SPENGE E.V. II | - | ausstehend | GYMNASIUM AM MARKT |
+| 14 | Sa 23.01.2027 19:15 | HSG Werther/Borgholzhausen - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | 425 SPORTHALLE GESAMTSCHULE BORGHOLZH. |
+| 14 | So 24.01.2027 17:00 | ASV SENDEN E.V. - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 14 | So 24.01.2027 17:00 | TuS 09 Möllbergen e.V. - TUS BROCKHAGEN | - | ausstehend | SPARKASSEN-ARENA |
+| 15 | Sa 30.01.2027 17:30 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - HSG Petershagen/Lahde | - | ausstehend | SPORTHALLE NETTELSTEDT |
+| 15 | Sa 30.01.2027 18:00 | TG HÖRSTE - TuS 09 Möllbergen e.V. | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 15 | Sa 30.01.2027 18:30 | HANDBALL BAD SALZUFLEN - ASV SENDEN E.V. | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 15 | Sa 30.01.2027 19:15 | TUS BROCKHAGEN - TV ISSELHORST 1 | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 15 | Sa 30.01.2027 19:15 | TUS SPENGE E.V. II - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | REALSCHULE SPENGE |
+| 15 | Sa 30.01.2027 19:30 | TSV Hahlen 1945 e.V. - HSG Werther/Borgholzhausen | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 16 | Fr 05.02.2027 20:00 | TG HÖRSTE - TUS BROCKHAGEN | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 16 | Sa 06.02.2027 17:45 | SG BÜNDE-DÜNNE - HANDBALL BAD SALZUFLEN | - | ausstehend | GYMNASIUM AM MARKT |
+| 16 | Sa 06.02.2027 18:00 | HSG Petershagen/Lahde - TSV Hahlen 1945 e.V. | - | ausstehend | WESER-HALLE LAHDE |
+| 16 | Sa 06.02.2027 18:00 | ASV SENDEN E.V. - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 16 | Sa 06.02.2027 18:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | REALSCHULE JöLLENBECK |
+| 16 | Sa 06.02.2027 19:00 | TuS 09 Möllbergen e.V. - TUS SPENGE E.V. II | - | ausstehend | SPARKASSEN-ARENA |
+| 16 | Sa 06.02.2027 19:30 | HSG Werther/Borgholzhausen - TV ISSELHORST 1 | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 17 | Fr 19.02.2027 20:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - TuS 09 Möllbergen e.V. | - | ausstehend | N.H.MENNIGHüFFEN |
+| 17 | Fr 19.02.2027 20:30 | TUS BROCKHAGEN - HSG Werther/Borgholzhausen | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 17 | Sa 20.02.2027 18:30 | TV ISSELHORST 1 - HSG Petershagen/Lahde | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 17 | Sa 20.02.2027 18:30 | HANDBALL BAD SALZUFLEN - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 17 | Sa 20.02.2027 19:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - SG BÜNDE-DÜNNE | - | ausstehend | SPORTHALLE NETTELSTEDT |
+| 17 | Sa 20.02.2027 19:30 | TSV Hahlen 1945 e.V. - ASV SENDEN E.V. | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 17 | So 21.02.2027 17:00 | TUS SPENGE E.V. II - TG HÖRSTE | - | ausstehend | REALSCHULE SPENGE |
+| 18 | Fr 26.02.2027 20:00 | TG HÖRSTE - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 18 | Sa 27.02.2027 18:00 | HSG Petershagen/Lahde - HSG Werther/Borgholzhausen | - | ausstehend | WESER-HALLE LAHDE |
+| 18 | Sa 27.02.2027 18:00 | TUS SPENGE E.V. II - TUS BROCKHAGEN | - | ausstehend | REALSCHULE SPENGE |
+| 18 | Sa 27.02.2027 18:45 | SG BÜNDE-DÜNNE - TSV Hahlen 1945 e.V. | - | ausstehend | GYMNASIUM AM MARKT |
+| 18 | Sa 27.02.2027 19:00 | TuS 09 Möllbergen e.V. - HANDBALL BAD SALZUFLEN | - | ausstehend | SPARKASSEN-ARENA |
+| 18 | So 28.02.2027 17:00 | ASV SENDEN E.V. - TV ISSELHORST 1 | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 18 | So 28.02.2027 17:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | REALSCHULE JöLLENBECK |
+| 19 | Sa 06.03.2027 18:30 | TV ISSELHORST 1 - SG BÜNDE-DÜNNE | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 19 | Sa 06.03.2027 18:30 | HANDBALL BAD SALZUFLEN - TG HÖRSTE | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 19 | Sa 06.03.2027 19:15 | HSG Werther/Borgholzhausen - ASV SENDEN E.V. | - | ausstehend | 425 SPORTHALLE GESAMTSCHULE BORGHOLZH. |
+| 19 | Sa 06.03.2027 19:15 | TUS BROCKHAGEN - HSG Petershagen/Lahde | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 19 | Sa 06.03.2027 19:30 | TSV Hahlen 1945 e.V. - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 19 | So 07.03.2027 15:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - TuS 09 Möllbergen e.V. | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 19 | So 07.03.2027 16:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - TUS SPENGE E.V. II | - | ausstehend | N.H.MENNIGHüFFEN |
+| 20 | Sa 13.03.2027 18:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - TV ISSELHORST 1 | - | ausstehend | REALSCHULE JöLLENBECK |
+| 20 | Sa 13.03.2027 18:45 | SG BÜNDE-DÜNNE - HSG Werther/Borgholzhausen | - | ausstehend | GYMNASIUM AM MARKT |
+| 20 | Sa 13.03.2027 19:00 | TuS 09 Möllbergen e.V. - TSV Hahlen 1945 e.V. | - | ausstehend | SPARKASSEN-ARENA |
+| 20 | Sa 13.03.2027 20:00 | TG HÖRSTE - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 20 | So 14.03.2027 17:00 | ASV SENDEN E.V. - HSG Petershagen/Lahde | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 20 | So 14.03.2027 17:00 | TUS SPENGE E.V. II - HANDBALL BAD SALZUFLEN | - | ausstehend | REALSCHULE SPENGE |
+| 20 | So 14.03.2027 17:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - TUS BROCKHAGEN | - | ausstehend | N.H.MENNIGHüFFEN |
+| 21 | Sa 20.03.2027 18:00 | HSG Petershagen/Lahde - SG BÜNDE-DÜNNE | - | ausstehend | WESER-HALLE LAHDE |
+| 21 | Sa 20.03.2027 18:30 | HANDBALL BAD SALZUFLEN - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 21 | Sa 20.03.2027 19:00 | TuS 09 Möllbergen e.V. - TV ISSELHORST 1 | - | ausstehend | SPARKASSEN-ARENA |
+| 21 | Sa 20.03.2027 19:15 | HSG Werther/Borgholzhausen - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 21 | Sa 20.03.2027 19:15 | TUS BROCKHAGEN - ASV SENDEN E.V. | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 21 | Sa 20.03.2027 19:30 | TSV Hahlen 1945 e.V. - TG HÖRSTE | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 21 | So 21.03.2027 15:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - TUS SPENGE E.V. II | - | ausstehend | SPORTHALLE NETTELSTEDT |
+| 22 | Fr 09.04.2027 19:30 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - HSG Petershagen/Lahde | - | ausstehend | REALSCHULE JöLLENBECK |
+| 22 | Fr 09.04.2027 20:00 | TG HÖRSTE - TV ISSELHORST 1 | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 22 | Sa 10.04.2027 18:00 | TUS SPENGE E.V. II - TSV Hahlen 1945 e.V. | - | ausstehend | REALSCHULE SPENGE |
+| 22 | Sa 10.04.2027 18:30 | HANDBALL BAD SALZUFLEN - TUS BROCKHAGEN | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 22 | Sa 10.04.2027 18:45 | SG BÜNDE-DÜNNE - ASV SENDEN E.V. | - | ausstehend | GYMNASIUM AM MARKT |
+| 22 | Sa 10.04.2027 19:00 | TuS 09 Möllbergen e.V. - HSG Werther/Borgholzhausen | - | ausstehend | SPARKASSEN-ARENA |
+| 22 | So 11.04.2027 16:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | N.H.MENNIGHüFFEN |
+| 23 | Sa 17.04.2027 18:00 | HSG Petershagen/Lahde - TuS 09 Möllbergen e.V. | - | ausstehend | WESER-HALLE LAHDE |
+| 23 | Sa 17.04.2027 18:30 | TV ISSELHORST 1 - TUS SPENGE E.V. II | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 23 | Sa 17.04.2027 18:30 | HANDBALL BAD SALZUFLEN - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 23 | Sa 17.04.2027 19:15 | TUS BROCKHAGEN - SG BÜNDE-DÜNNE | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
+| 23 | Sa 17.04.2027 19:15 | HSG Werther/Borgholzhausen - TG HÖRSTE | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 23 | Sa 17.04.2027 19:30 | TSV Hahlen 1945 e.V. - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 23 | So 18.04.2027 17:00 | ASV SENDEN E.V. - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 24 | Sa 24.04.2027 17:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - TUS BROCKHAGEN | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 24 | Sa 24.04.2027 18:00 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - SG BÜNDE-DÜNNE | - | ausstehend | REALSCHULE JöLLENBECK |
+| 24 | Sa 24.04.2027 18:30 | HANDBALL BAD SALZUFLEN - TSV Hahlen 1945 e.V. | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 24 | Sa 24.04.2027 19:00 | VFL HANDBALL MENNIGHÜFFEN E.V. - TV ISSELHORST 1 | - | ausstehend | N.H.MENNIGHüFFEN |
+| 24 | Sa 24.04.2027 19:00 | TuS 09 Möllbergen e.V. - ASV SENDEN E.V. | - | ausstehend | SPARKASSEN-ARENA |
+| 24 | Sa 24.04.2027 19:30 | TG HÖRSTE - HSG Petershagen/Lahde | - | ausstehend | 434 SPORTHALLE MASCH HALLE I |
+| 24 | So 25.04.2027 17:00 | TUS SPENGE E.V. II - HSG Werther/Borgholzhausen | - | ausstehend | REALSCHULE SPENGE |
+| 25 | Fr 30.04.2027 19:30 | TuS 97 Bielefeld/Jöllenbeck Herren 1 - TUS BROCKHAGEN | - | ausstehend | REALSCHULE JöLLENBECK |
+| 25 | Sa 01.05.2027 18:00 | HSG Petershagen/Lahde - TUS SPENGE E.V. II | - | ausstehend | WESER-HALLE LAHDE |
+| 25 | Sa 01.05.2027 18:30 | TV ISSELHORST 1 - HANDBALL BAD SALZUFLEN | - | ausstehend | 421 NEUE SPORTHALLE ISSELHORST |
+| 25 | Sa 01.05.2027 19:15 | HSG Werther/Borgholzhausen - VFL HANDBALL MENNIGHÜFFEN E.V. | - | ausstehend | 429 SPORTHALLE GESAMTSCHULE WERTHER |
+| 25 | Sa 01.05.2027 19:30 | TSV Hahlen 1945 e.V. - LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III | - | ausstehend | SPORTHALLE HAHLER FELD |
+| 25 | So 02.05.2027 17:00 | SG BÜNDE-DÜNNE - TuS 09 Möllbergen e.V. | - | ausstehend | GYMNASIUM AM MARKT |
+| 25 | So 02.05.2027 17:00 | ASV SENDEN E.V. - TG HÖRSTE | - | ausstehend | NEUE HALLE (1) IM SPORTPARK SENDEN |
+| 26 | Sa 08.05.2027 16:00 | LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III - TV ISSELHORST 1 | - | ausstehend | HILLE-NORD-GRUNDSCHULE NORDHEMMERN |
+| 26 | Sa 08.05.2027 18:00 | TUS SPENGE E.V. II - ASV SENDEN E.V. | - | ausstehend | REALSCHULE SPENGE |
+| 26 | Sa 08.05.2027 18:30 | HANDBALL BAD SALZUFLEN - HSG Werther/Borgholzhausen | - | ausstehend | NEUES SCHULZENTRUM ASPE |
+| 26 | Sa 08.05.2027 19:00 | TuS 09 Möllbergen e.V. - TuS 97 Bielefeld/Jöllenbeck Herren 1 | - | ausstehend | SPARKASSEN-ARENA |
+| 26 | Sa 08.05.2027 19:15 | TUS BROCKHAGEN - TSV Hahlen 1945 e.V. | - | ausstehend | 453 SPORTHALLE GRUNDSCHULE |
 
 ## Kader und Spielerstatistik (Saison)
 
 | Nr | Name | Spiele | Tore | davon 7m | 7m-Versuche | Verwarnungen | 2-Min | Disqualifikationen |
 |---|---|---|---|---|---|---|---|---|
+| 49 | Ben Luis Broecker | 9 | 47 | 1 | 1 | 1 | 4 | 0 |
 | 4 | Arne Ransiek | 7 | 46 | 0 | 0 | 2 | 3 | 0 |
-| 49 | Ben Luis Broecker | 8 | 39 | 1 | 1 | 0 | 4 | 0 |
-| 25 | Mark-Erik Schneider | 8 | 32 | 0 | 0 | 0 | 0 | 0 |
-| 51 | Mika Fredrik Dankert | 8 | 25 | 0 | 0 | 1 | 2 | 2 |
-| 3 | Lukas Mailaender | 8 | 23 | 4 | 6 | 0 | 1 | 0 |
-| 7 | Nils Sundermann | 8 | 21 | 0 | 0 | 2 | 3 | 1 |
-| 17 | Joel Schulz | 7 | 20 | 0 | 0 | 4 | 2 | 0 |
-| 8 | Nico Mailänder | 7 | 20 | 12 | 19 | 1 | 3 | 0 |
-| 28 | Robin gil lee Temming | 8 | 7 | 0 | 0 | 1 | 1 | 0 |
+| 51 | Mika Fredrik Dankert | 9 | 33 | 0 | 0 | 1 | 2 | 2 |
+| 25 | Mark-Erik Schneider | 9 | 33 | 0 | 0 | 0 | 1 | 0 |
+| 8 | Nico Mailänder | 8 | 24 | 14 | 21 | 1 | 5 | 0 |
+| 17 | Joel Schulz | 8 | 23 | 0 | 0 | 4 | 2 | 0 |
+| 3 | Lukas Mailaender | 9 | 23 | 4 | 6 | 0 | 1 | 0 |
+| 7 | Nils Sundermann | 9 | 22 | 0 | 0 | 2 | 3 | 1 |
+| 28 | Robin gil lee Temming | 9 | 7 | 0 | 0 | 1 | 1 | 0 |
+| 18 | Arne Halstenberg | 8 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 10 | David Nobbe | 3 | 4 | 3 | 5 | 0 | 0 | 0 |
-| 21 | Alexej Wiebe | 8 | 3 | 0 | 0 | 1 | 2 | 0 |
+| 21 | Alexej Wiebe | 9 | 3 | 0 | 0 | 1 | 2 | 0 |
 | 99 | Janis Leon Holdmann | 7 | 2 | 0 | 0 | 1 | 0 | 0 |
-| 5 | Jannes Westerheide | 5 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Christopher Fischer | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Joern Schlottmann | 8 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 18 | Arne Halstenberg | 7 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 6 | Tom Luca Hellwig | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Dennis Specht | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Daniel Habbe | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Jury Lütgen | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 23 | Dennis Moellering | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
-| - | Jonas Koester | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 32 | Sören Halstenberg | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Conner Brinkmeyer | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Joern Schlottmann | 9 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 5 | Jannes Westerheide | 6 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Christopher Fischer | 8 | 1 | 0 | 0 | 0 | 0 | 0 |
 | - | Fabian Schaaf | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | Josephine Mailaender | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Josephine Mailaender | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 23 | Dennis Moellering | 9 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Jonas Koester | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Tom-Niklas Koch | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| - | Dennis Specht | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Daniel Habbe | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | Jury Lütgen | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Beste Torschützen der anderen Mannschaften der Liga
 
-- TUS BROCKHAGEN: #24 Jan Mescher (29 Tore in 8 Spielen), #4 Till Bzdega (21 Tore in 8 Spielen), #9 Yannec Ergun (17 Tore in 7 Spielen), #22 Moritz Möllmann (17 Tore in 8 Spielen), #21 Jarne Max Mews (15 Tore in 8 Spielen)
-- TG HÖRSTE: #21 Julius Hagemann (57 Tore in 7 Spielen), #71 Silvan Tarner (35 Tore in 6 Spielen), #30 Silas Burstaedt (19 Tore in 4 Spielen), #34 Finn Moritz Niemann (16 Tore in 7 Spielen), #20 Timon Lepper (12 Tore in 5 Spielen)
-- TSV Hahlen 1945 e.V.: #8 Keanu Reimler (65 Tore in 8 Spielen), #7 Marten Kirchhoff (46 Tore in 9 Spielen), #16 Ruven Riechmann (43 Tore in 9 Spielen), #19 Luca Halstenberg (28 Tore in 8 Spielen), #10 Heinrich Maximilian Bredemeier (28 Tore in 6 Spielen)
-- TUS SPENGE E.V. II: #8 Philipp Holtmann (67 Tore in 9 Spielen), #27 Jannick Osha (53 Tore in 9 Spielen), #25 Goswin Poerschke (31 Tore in 9 Spielen), #77 Andrei Astefanii (30 Tore in 9 Spielen), #95 Marc Schindler (23 Tore in 9 Spielen)
-- TV ISSELHORST 1: #25 Alexander Wiese (55 Tore in 9 Spielen), #8 Moritz Lünstroth (51 Tore in 9 Spielen), #5 * * (38 Tore in 8 Spielen), #23 Jonathan Toelke (20 Tore in 8 Spielen), #22 Marlon Walhorn (19 Tore in 9 Spielen)
-- HSG Petershagen/Lahde: #4 Joel Damian Lange (46 Tore in 8 Spielen), #20 Niels Adriaan Fuchs (37 Tore in 8 Spielen), #3 Jonas Schaekel (28 Tore in 8 Spielen), #55 Marten Franke (27 Tore in 8 Spielen), #2 Fin Lasse Röbke (23 Tore in 5 Spielen)
-- TuS 97 Bielefeld/Jöllenbeck Herren 1: #13 Dominic Wehmeyer (36 Tore in 7 Spielen), #10 Adrian Boehnke (29 Tore in 7 Spielen), #21 Henning Fynn Koch (22 Tore in 7 Spielen), #24 Tim Lukas Ackermann (21 Tore in 8 Spielen), #7 Benny Gehring (18 Tore in 7 Spielen)
-- HANDBALL BAD SALZUFLEN: #2 Marvin Anzer (38 Tore in 8 Spielen), #10 Nick ter Duis (36 Tore in 6 Spielen), #44 Fynn Sträter (36 Tore in 8 Spielen), #21 Marc-Ole Pöppelmeier (27 Tore in 8 Spielen), #5 Tom Ostrop (27 Tore in 8 Spielen)
-- HSG Werther/Borgholzhausen: #24 Fynn Huxohl (39 Tore in 8 Spielen), #4 Louis Hartmann (38 Tore in 8 Spielen), #11 Jonas Leon Jürgensen (31 Tore in 8 Spielen), #77 Max Kleinepaehler (19 Tore in 8 Spielen), #32 Erik Sommer (18 Tore in 8 Spielen)
-- TuS 09 Möllbergen e.V.: #13 Nils Van Zuetphen (47 Tore in 7 Spielen), #2 William Schlaeger (44 Tore in 7 Spielen), #20 Edwin Lause (24 Tore in 7 Spielen), #34 Dustin Streitberger (20 Tore in 3 Spielen), #47 Kjell Watermann (19 Tore in 8 Spielen)
-- ASV SENDEN E.V.: #7 Luca Kuckhermann (47 Tore in 8 Spielen), #18 Jakob Janssen (40 Tore in 7 Spielen), #21 Matthias Hernzel (31 Tore in 8 Spielen), #30 Nick Rueddenklau (30 Tore in 8 Spielen), #19 Vincent Lukas (21 Tore in 8 Spielen)
-- LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III: #6 Aaron Schuette (43 Tore in 7 Spielen), #20 Hagen Viering (36 Tore in 6 Spielen), #24 Paul Scheibe (23 Tore in 5 Spielen), #31 Torben Meinking (22 Tore in 9 Spielen), #71 Michel Anton Schwarz (22 Tore in 9 Spielen)
+- HSG Petershagen/Lahde: #4 Joel Damian Lange (48 Tore in 9 Spielen), #20 Niels Adriaan Fuchs (37 Tore in 8 Spielen), #3 Jonas Schaekel (31 Tore in 9 Spielen), #55 Marten Franke (27 Tore in 9 Spielen), #2 Fin Lasse Röbke (26 Tore in 6 Spielen)
 - VFL HANDBALL MENNIGHÜFFEN E.V.: #2 Daniel Danowsky (47 Tore in 9 Spielen), #6 Marvin Vieregge (44 Tore in 8 Spielen), #11 Fynn Walter (40 Tore in 9 Spielen), #25 Mats Lennart Rinne (34 Tore in 8 Spielen), #43 Simon Harre (24 Tore in 9 Spielen)
+- TUS SPENGE E.V. II: #8 Philipp Holtmann (67 Tore in 9 Spielen), #27 Jannick Osha (53 Tore in 9 Spielen), #25 Goswin Poerschke (31 Tore in 9 Spielen), #77 Andrei Astefanii (30 Tore in 9 Spielen), #95 Marc Schindler (23 Tore in 9 Spielen)
+- HANDBALL BAD SALZUFLEN: #2 Marvin Anzer (38 Tore in 8 Spielen), #10 Nick ter Duis (36 Tore in 6 Spielen), #44 Fynn Sträter (36 Tore in 8 Spielen), #21 Marc-Ole Pöppelmeier (27 Tore in 8 Spielen), #5 Tom Ostrop (27 Tore in 8 Spielen)
+- LIT 1912 NORDHEMMERN-NETTELSTEDT-MINDENERWALD-HOLZHAUSEN II III: #6 Aaron Schuette (43 Tore in 7 Spielen), #20 Hagen Viering (36 Tore in 6 Spielen), #24 Paul Scheibe (23 Tore in 5 Spielen), #31 Torben Meinking (22 Tore in 9 Spielen), #71 Michel Anton Schwarz (22 Tore in 9 Spielen)
+- TSV Hahlen 1945 e.V.: #8 Keanu Reimler (65 Tore in 8 Spielen), #7 Marten Kirchhoff (46 Tore in 9 Spielen), #16 Ruven Riechmann (43 Tore in 9 Spielen), #19 Luca Halstenberg (28 Tore in 8 Spielen), #10 Heinrich Maximilian Bredemeier (28 Tore in 6 Spielen)
+- TV ISSELHORST 1: #25 Alexander Wiese (55 Tore in 9 Spielen), #8 Moritz Lünstroth (51 Tore in 9 Spielen), #5 * * (38 Tore in 8 Spielen), #23 Jonathan Toelke (20 Tore in 8 Spielen), #22 Marlon Walhorn (19 Tore in 9 Spielen)
+- HSG Werther/Borgholzhausen: #24 Fynn Huxohl (39 Tore in 8 Spielen), #4 Louis Hartmann (38 Tore in 8 Spielen), #11 Jonas Leon Jürgensen (31 Tore in 8 Spielen), #77 Max Kleinepaehler (19 Tore in 8 Spielen), #32 Erik Sommer (18 Tore in 8 Spielen)
+- ASV SENDEN E.V.: #7 Luca Kuckhermann (47 Tore in 8 Spielen), #18 Jakob Janssen (40 Tore in 7 Spielen), #21 Matthias Hernzel (31 Tore in 8 Spielen), #30 Nick Rueddenklau (30 Tore in 8 Spielen), #19 Vincent Lukas (21 Tore in 8 Spielen)
+- TUS BROCKHAGEN: #24 Jan Mescher (29 Tore in 8 Spielen), #4 Till Bzdega (21 Tore in 8 Spielen), #9 Yannec Ergun (17 Tore in 7 Spielen), #22 Moritz Möllmann (17 Tore in 8 Spielen), #21 Jarne Max Mews (15 Tore in 8 Spielen)
+- TuS 97 Bielefeld/Jöllenbeck Herren 1: #13 Dominic Wehmeyer (36 Tore in 7 Spielen), #10 Adrian Boehnke (29 Tore in 7 Spielen), #21 Henning Fynn Koch (22 Tore in 7 Spielen), #24 Tim Lukas Ackermann (21 Tore in 8 Spielen), #7 Benny Gehring (18 Tore in 7 Spielen)
+- TuS 09 Möllbergen e.V.: #13 Nils Van Zuetphen (47 Tore in 7 Spielen), #2 William Schlaeger (44 Tore in 7 Spielen), #20 Edwin Lause (24 Tore in 7 Spielen), #34 Dustin Streitberger (20 Tore in 3 Spielen), #47 Kjell Watermann (19 Tore in 8 Spielen)
+- TG HÖRSTE: #21 Julius Hagemann (57 Tore in 7 Spielen), #71 Silvan Tarner (35 Tore in 6 Spielen), #30 Silas Burstaedt (19 Tore in 4 Spielen), #34 Finn Moritz Niemann (16 Tore in 7 Spielen), #20 Timon Lepper (12 Tore in 5 Spielen)
